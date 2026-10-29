@@ -1,0 +1,1489 @@
+{
+ "sectionId": "lesson_09",
+ "title": "Lesson 9",
+ "subtitle": "Days, Weeks, and Years — next week, next month",
+ "pages": "183-197",
+ "objectives": [
+  "Say the days of the week and ask なんようび (what day of the week?)",
+  "Talk about weeks, months and years relative to now: senshuu / konshuu / raishuu, sengetsu / kongetsu / raigetsu, kyonen / kotoshi / rainen",
+  "Say a year as a full number plus ねん — never digit by digit",
+  "Give complete dates in the order year, then month, then day",
+  "Link a larger time span to a smaller one with の: raishuu no kinyoubi",
+  "Ask and answer なんねんうまれですか (In what year were you born?)",
+  "Read and write the hiragana ら り る れ ろ"
+ ],
+ "kanaFocus": [
+  "ら",
+  "り",
+  "る",
+  "れ",
+  "ろ"
+ ],
+ "vocab": [
+  {
+   "id": "lesson_09_v_nanyoubi",
+   "japanese": "なんようび",
+   "romaji": "nanyoubi",
+   "english": "what day of the week?",
+   "source": "lesson_09 p.183",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_nannen",
+   "japanese": "なんねん",
+   "romaji": "nannen",
+   "english": "what year?",
+   "source": "lesson_09 p.183",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_ima",
+   "japanese": "いま",
+   "romaji": "ima",
+   "english": "now",
+   "source": "lesson_09 p.183",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_ototoi",
+   "japanese": "おととい",
+   "romaji": "ototoi",
+   "english": "day before yesterday",
+   "source": "lesson_09 p.183",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_asatte",
+   "japanese": "あさって",
+   "romaji": "asatte",
+   "english": "day after tomorrow",
+   "source": "lesson_09 p.183",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_senshuu",
+   "japanese": "せんしゅう",
+   "romaji": "senshuu",
+   "english": "last week",
+   "source": "lesson_09 p.183",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_konshuu",
+   "japanese": "こんしゅう",
+   "romaji": "konshuu",
+   "english": "this week",
+   "source": "lesson_09 p.183",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_raishuu",
+   "japanese": "らいしゅう",
+   "romaji": "raishuu",
+   "english": "next week",
+   "source": "lesson_09 p.183",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_sengetsu",
+   "japanese": "せんげつ",
+   "romaji": "sengetsu",
+   "english": "last month",
+   "source": "lesson_09 p.183",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_kongetsu",
+   "japanese": "こんげつ",
+   "romaji": "kongetsu",
+   "english": "this month",
+   "source": "lesson_09 p.183",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_raigetsu",
+   "japanese": "らいげつ",
+   "romaji": "raigetsu",
+   "english": "next month",
+   "source": "lesson_09 p.183",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_kyonen",
+   "japanese": "きょねん",
+   "romaji": "kyonen",
+   "english": "last year",
+   "source": "lesson_09 p.184",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_kotoshi",
+   "japanese": "ことし",
+   "romaji": "kotoshi",
+   "english": "this year",
+   "source": "lesson_09 p.184",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_rainen",
+   "japanese": "らいねん",
+   "romaji": "rainen",
+   "english": "next year",
+   "source": "lesson_09 p.184",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_seinen_gappi",
+   "japanese": "せいねんがっぴ",
+   "romaji": "seinen gappi",
+   "english": "date of birth",
+   "source": "lesson_09 p.184",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_gantan",
+   "japanese": "がんたん",
+   "romaji": "gantan",
+   "english": "New Year's Day",
+   "source": "lesson_09 p.184",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_paatii",
+   "japanese": "パーティー",
+   "romaji": "paatii",
+   "english": "party (loan word)",
+   "source": "lesson_09 p.184",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_getsuyoubi",
+   "japanese": "げつようび",
+   "romaji": "getsuyoubi",
+   "english": "Monday",
+   "source": "lesson_09 p.184",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_kayoubi",
+   "japanese": "かようび",
+   "romaji": "kayoubi",
+   "english": "Tuesday",
+   "source": "lesson_09 p.184",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_suiyoubi",
+   "japanese": "すいようび",
+   "romaji": "suiyoubi",
+   "english": "Wednesday",
+   "source": "lesson_09 p.184",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_mokuyoubi",
+   "japanese": "もくようび",
+   "romaji": "mokuyoubi",
+   "english": "Thursday",
+   "source": "lesson_09 p.184",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_kinyoubi",
+   "japanese": "きんようび",
+   "romaji": "kinyoubi",
+   "english": "Friday",
+   "source": "lesson_09 p.184",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_doyoubi",
+   "japanese": "どようび",
+   "romaji": "doyoubi",
+   "english": "Saturday",
+   "source": "lesson_09 p.184",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_nichiyoubi",
+   "japanese": "にちようび",
+   "romaji": "nichiyoubi",
+   "english": "Sunday",
+   "source": "lesson_09 p.184",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_hontou",
+   "japanese": "ほんとう？",
+   "romaji": "hontou?",
+   "english": "Really? Is that true?",
+   "source": "lesson_09 p.196",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_watashimo",
+   "japanese": "わたしも",
+   "romaji": "watashi mo",
+   "english": "Me too.",
+   "source": "lesson_09 p.196",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_neru",
+   "japanese": "ねる",
+   "romaji": "neru",
+   "english": "to sleep, go to bed",
+   "source": "lesson_09 p.190",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_ikura",
+   "japanese": "いくら",
+   "romaji": "ikura",
+   "english": "salted salmon eggs",
+   "source": "lesson_09 p.190",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_kusuri",
+   "japanese": "くすり",
+   "romaji": "kusuri",
+   "english": "medicine",
+   "source": "lesson_09 p.190",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_rousoku",
+   "japanese": "ろうそく",
+   "romaji": "rousoku",
+   "english": "candle",
+   "source": "lesson_09 p.190",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_karei",
+   "japanese": "かれい",
+   "romaji": "karei",
+   "english": "flounder",
+   "source": "lesson_09 p.190",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_kaminari",
+   "japanese": "かみなり",
+   "romaji": "kaminari",
+   "english": "thunder, lightning",
+   "source": "lesson_09 p.190",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_rika",
+   "japanese": "りか",
+   "romaji": "rika",
+   "english": "science",
+   "source": "lesson_09 p.190",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_yoru",
+   "japanese": "よる",
+   "romaji": "yoru",
+   "english": "night",
+   "source": "lesson_09 p.190",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_rei",
+   "japanese": "れい",
+   "romaji": "rei",
+   "english": "example",
+   "source": "lesson_09 p.191",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_maru",
+   "japanese": "まる",
+   "romaji": "maru",
+   "english": "circle",
+   "source": "lesson_09 p.191",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_koori",
+   "japanese": "こおり",
+   "romaji": "koori",
+   "english": "ice",
+   "source": "lesson_09 p.191",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_ahiru",
+   "japanese": "あひる",
+   "romaji": "ahiru",
+   "english": "duck",
+   "source": "lesson_09 p.191",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_kaeru",
+   "japanese": "かえる",
+   "romaji": "kaeru",
+   "english": "frog",
+   "source": "lesson_09 p.191",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_ringo",
+   "japanese": "りんご",
+   "romaji": "ringo",
+   "english": "apple",
+   "source": "lesson_09 p.191",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_benri",
+   "japanese": "べんり",
+   "romaji": "benri",
+   "english": "convenient",
+   "source": "lesson_09 p.191",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_hidari",
+   "japanese": "ひだり",
+   "romaji": "hidari",
+   "english": "left",
+   "source": "lesson_09 p.191",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_mizuiro",
+   "japanese": "みずいろ",
+   "romaji": "mizuiro",
+   "english": "light blue",
+   "source": "lesson_09 p.191",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_kiiro",
+   "japanese": "きいろ",
+   "romaji": "kiiro",
+   "english": "yellow",
+   "source": "lesson_09 p.191",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_saru",
+   "japanese": "さる",
+   "romaji": "saru",
+   "english": "monkey",
+   "source": "lesson_09 p.191",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_ranbou",
+   "japanese": "らんぼう",
+   "romaji": "ranbou",
+   "english": "violence",
+   "source": "lesson_09 p.196",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_konran",
+   "japanese": "こんらん",
+   "romaji": "konran",
+   "english": "confusion",
+   "source": "lesson_09 p.196",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_arashi",
+   "japanese": "あらし",
+   "romaji": "arashi",
+   "english": "a storm",
+   "source": "lesson_09 p.196",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_renraku",
+   "japanese": "れんらく",
+   "romaji": "renraku",
+   "english": "contact",
+   "source": "lesson_09 p.196",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_dorobou",
+   "japanese": "どろぼう",
+   "romaji": "dorobou",
+   "english": "a thief",
+   "source": "lesson_09 p.196",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_donguri",
+   "japanese": "どんぐり",
+   "romaji": "donguri",
+   "english": "acorn",
+   "source": "lesson_09 p.196",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_roujin",
+   "japanese": "ろうじん",
+   "romaji": "roujin",
+   "english": "old person",
+   "source": "lesson_09 p.196",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_reizouko",
+   "japanese": "れいぞうこ",
+   "romaji": "reizouko",
+   "english": "refrigerator",
+   "source": "lesson_09 p.196",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_rakugaki",
+   "japanese": "らくがき",
+   "romaji": "rakugaki",
+   "english": "graffiti",
+   "source": "lesson_09 p.196",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_ryuu",
+   "japanese": "りゅう",
+   "romaji": "ryuu",
+   "english": "a reason",
+   "source": "lesson_09 p.196",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_rouka",
+   "japanese": "ろうか",
+   "romaji": "rouka",
+   "english": "hallway",
+   "source": "lesson_09 p.196",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_kairo",
+   "japanese": "かいろ",
+   "romaji": "kairo",
+   "english": "heat pad",
+   "source": "lesson_09 p.196",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_wasuremono",
+   "japanese": "わすれもの",
+   "romaji": "wasuremono",
+   "english": "forgotten item",
+   "source": "lesson_09 p.196",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_mejirushi",
+   "japanese": "めじるし",
+   "romaji": "mejirushi",
+   "english": "landmark",
+   "source": "lesson_09 p.196",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_mezurashii",
+   "japanese": "めずらしい",
+   "romaji": "mezurashii",
+   "english": "rare (adj.)",
+   "source": "lesson_09 p.196",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_kuruma",
+   "japanese": "くるま",
+   "romaji": "kuruma",
+   "english": "car",
+   "source": "lesson_09 p.196",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_yama",
+   "japanese": "やま",
+   "romaji": "yama",
+   "english": "mountain",
+   "source": "lesson_09 p.197",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_ame",
+   "japanese": "あめ",
+   "romaji": "ame",
+   "english": "rain",
+   "source": "lesson_09 p.197",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_tsuki",
+   "japanese": "つき",
+   "romaji": "tsuki",
+   "english": "moon",
+   "source": "lesson_09 p.197",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_yuki",
+   "japanese": "ゆき",
+   "romaji": "yuki",
+   "english": "snow",
+   "source": "lesson_09 p.197",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_haru",
+   "japanese": "はる",
+   "romaji": "haru",
+   "english": "spring",
+   "source": "lesson_09 p.197",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_natsu",
+   "japanese": "なつ",
+   "romaji": "natsu",
+   "english": "summer",
+   "source": "lesson_09 p.197",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_aki",
+   "japanese": "あき",
+   "romaji": "aki",
+   "english": "autumn, fall",
+   "source": "lesson_09 p.197",
+   "verified": true
+  },
+  {
+   "id": "lesson_09_v_fuyu",
+   "japanese": "ふゆ",
+   "romaji": "fuyu",
+   "english": "winter",
+   "source": "lesson_09 p.197",
+   "verified": true
+  }
+ ],
+ "grammar": [
+  {
+   "id": "lesson_09_g_year",
+   "title": "Expressing the year with ねん",
+   "pattern": "[full number] + ねん",
+   "explanation": "ねん literally means 'year'. To say a year you simply say the number of the year and add ねん. In Japanese, years cannot be represented as they are in English: you cannot express 1998 as 'nineteen—ninety—eight'. The full number must be stated.",
+   "examples": [
+    {
+     "japanese": "にせんじゅうねん",
+     "romaji": "nisen juunen",
+     "english": "the year 2010"
+    },
+    {
+     "japanese": "せんきゅうひゃくはちじゅうねん",
+     "romaji": "senkyuu hyaku hachijuunen",
+     "english": "the year 1980"
+    },
+    {
+     "japanese": "せんはっぴゃくいちねん",
+     "romaji": "senhappyaku ichinen",
+     "english": "the year 1801"
+    },
+    {
+     "japanese": "にせんじゅうななねん",
+     "romaji": "nisen juunananen",
+     "english": "the year 2017"
+    }
+   ],
+   "mistakes": [
+    "Saying a year digit by digit as in English — Japanese needs the full number"
+   ],
+   "source": "lesson_09 p.185"
+  },
+  {
+   "id": "lesson_09_g_fulldate",
+   "title": "Saying complete dates including the year",
+   "pattern": "YEAR + MONTH + DAY OF MONTH",
+   "explanation": "Complete dates in Japanese always start with the year, then are followed by month and day of the month. Just remember the order is always from the largest time span to the smallest.",
+   "examples": [
+    {
+     "japanese": "にせんごねん ごがつ じゅういちにち",
+     "romaji": "nisengonen gogatsu juuichinichi",
+     "english": "May 11, 2005"
+    },
+    {
+     "japanese": "にせんじゅういちねん いちがつ はつか",
+     "romaji": "nisenjuuichinen ichigatsu hatsuka",
+     "english": "January 20, 2011"
+    },
+    {
+     "japanese": "せんきゅうひゃくきゅうじゅうきゅうねん しがつ いつか",
+     "romaji": "senkyuuhyakukyuujuukyuunen shigatsu itsuka",
+     "english": "April 5, 1999"
+    },
+    {
+     "japanese": "にせんじゅうごねん はちがつ さんじゅうにち",
+     "romaji": "nisenjuugonen hachigatsu sanjuunichi",
+     "english": "August 30, 2015"
+    }
+   ],
+   "mistakes": [
+    "Putting the day before the month — always go from the largest span to the smallest"
+   ],
+   "source": "lesson_09 p.185"
+  },
+  {
+   "id": "lesson_09_g_no",
+   "title": "Linking time spans with の (next Friday, last March)",
+   "pattern": "[larger time span] + の + [smaller time span]",
+   "explanation": "When saying things like 'Monday of last week' or 'May of next year', you must link the words together with の. In these examples の means 'of'. Just as in saying complete dates, the order is always from the largest time span to the smallest.",
+   "examples": [
+    {
+     "japanese": "らいしゅうのきんようび",
+     "romaji": "raishuu no kinyoubi",
+     "english": "Friday of next week"
+    },
+    {
+     "japanese": "こんしゅうのげつようび",
+     "romaji": "konshuu no getsuyoubi",
+     "english": "Monday of this week"
+    },
+    {
+     "japanese": "らいげつのじゅうごにち",
+     "romaji": "raigetsu no juugonichi",
+     "english": "the 15th of next month"
+    },
+    {
+     "japanese": "せんげつのついたち",
+     "romaji": "sengetsu no tsuitachi",
+     "english": "the 1st of last month"
+    },
+    {
+     "japanese": "ことしのさんがつ",
+     "romaji": "kotoshi no sangatsu",
+     "english": "March of this year"
+    },
+    {
+     "japanese": "きょねんのはちがつ",
+     "romaji": "kyonen no hachigatsu",
+     "english": "August of last year"
+    }
+   ],
+   "mistakes": [
+    "Leaving out の between the two time words"
+   ],
+   "source": "lesson_09 p.186"
+  },
+  {
+   "id": "lesson_09_g_hiragana",
+   "title": "Hiragana ら り る れ ろ",
+   "pattern": "ra = ら, ri = り, ru = る, re = れ, ro = ろ",
+   "explanation": "Make sure you learn the correct stroke order, since correct stroke order will mean neater characters when writing fast. Compare your writing with the various styles shown in the book.",
+   "examples": [
+    {
+     "japanese": "ねる",
+     "romaji": "neru",
+     "english": "to sleep, go to bed"
+    },
+    {
+     "japanese": "まる",
+     "romaji": "maru",
+     "english": "circle"
+    },
+    {
+     "japanese": "りんご",
+     "romaji": "ringo",
+     "english": "apple"
+    }
+   ],
+   "mistakes": [],
+   "source": "lesson_09 p.188"
+  },
+  {
+   "id": "lesson_09_g_newyear",
+   "title": "Culture Clip: Japan's New Year",
+   "pattern": "がんたん = New Year's Day (January 1st)",
+   "explanation": "In Japan, the New Year is the most important holiday period. It is as important in Japan as Christmas is in the United States. From January 1st until one week after, Japan almost comes to a stop. Most stores and companies are closed while everyone celebrates the New Year.",
+   "examples": [
+    {
+     "japanese": "がんたん",
+     "romaji": "gantan",
+     "english": "New Year's Day"
+    }
+   ],
+   "mistakes": [],
+   "source": "lesson_09 p.184"
+  }
+ ],
+ "exercises": [
+  {
+   "id": "lesson_09_e1",
+   "type": "match",
+   "prompt": "Match the days of the week:",
+   "pairs": [
+    {
+     "left": "げつようび",
+     "right": "Monday"
+    },
+    {
+     "left": "かようび",
+     "right": "Tuesday"
+    },
+    {
+     "left": "すいようび",
+     "right": "Wednesday"
+    },
+    {
+     "left": "もくようび",
+     "right": "Thursday"
+    },
+    {
+     "left": "にちようび",
+     "right": "Sunday"
+    }
+   ],
+   "explanation": "The teachers warn that some of the new words are similar, so spend extra time memorizing them.",
+   "source": "lesson_09 p.184",
+   "verified": true,
+   "skill": "vocab"
+  },
+  {
+   "id": "lesson_09_e2",
+   "type": "multiple_choice",
+   "prompt": "Which day of the week is きんようび?",
+   "choices": [
+    "Friday",
+    "Thursday",
+    "Monday",
+    "Saturday"
+   ],
+   "answerIndex": 0,
+   "explanation": "Kinyoubi = Friday (the 'kin' of money, kin'ei, is a useful hook).",
+   "source": "lesson_09 p.184",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_09_v_kinyoubi"
+  },
+  {
+   "id": "lesson_09_e3",
+   "type": "fill_blank",
+   "prompt": "Friday of next week: raishuu no ___ desu.",
+   "accepted": [
+    "kinyoubi"
+   ],
+   "explanation": "Raishuu no kinyoubi — の links next week to Friday.",
+   "source": "lesson_09 p.186",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_09_v_kinyoubi"
+  },
+  {
+   "id": "lesson_09_e4",
+   "type": "multiple_choice",
+   "prompt": "らいしゅう means...",
+   "choices": [
+    "last week",
+    "this week",
+    "next week",
+    "every week"
+   ],
+   "answerIndex": 2,
+   "explanation": "Rai- marks the future: raishuu = next week, raigetsu = next month, rainen = next year.",
+   "source": "lesson_09 p.183",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_09_v_raishuu"
+  },
+  {
+   "id": "lesson_09_e5",
+   "type": "fill_blank",
+   "prompt": "Last week is ___ in romaji.",
+   "accepted": [
+    "senshuu"
+   ],
+   "explanation": "Sen- marks the past: senshuu = last week, sengetsu = last month, kyonen = last year.",
+   "source": "lesson_09 p.183",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_09_v_senshuu"
+  },
+  {
+   "id": "lesson_09_e6",
+   "type": "match",
+   "prompt": "Match the weeks and months:",
+   "pairs": [
+    {
+     "left": "senshuu",
+     "right": "last week"
+    },
+    {
+     "left": "konshuu",
+     "right": "this week"
+    },
+    {
+     "left": "raishuu",
+     "right": "next week"
+    },
+    {
+     "left": "sengetsu",
+     "right": "last month"
+    },
+    {
+     "left": "kongetsu",
+     "right": "this month"
+    }
+   ],
+   "explanation": "Sen- = before, kon- = this, rai- = after. The same three prefixes work for weeks, months and years.",
+   "source": "lesson_09 p.183",
+   "verified": true,
+   "skill": "vocab"
+  },
+  {
+   "id": "lesson_09_e7",
+   "type": "multiple_choice",
+   "prompt": "おととい means...",
+   "choices": [
+    "day before yesterday",
+    "day after tomorrow",
+    "yesterday",
+    "today"
+   ],
+   "answerIndex": 0,
+   "explanation": "Ototoi = the day before yesterday; asatte = the day after tomorrow.",
+   "source": "lesson_09 p.183",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_09_v_ototoi"
+  },
+  {
+   "id": "lesson_09_e8",
+   "type": "multiple_choice",
+   "prompt": "あさって means...",
+   "choices": [
+    "day before yesterday",
+    "yesterday",
+    "today",
+    "day after tomorrow"
+   ],
+   "answerIndex": 3,
+   "explanation": "Asatte = the day after tomorrow — two days from now, not one.",
+   "source": "lesson_09 p.183",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_09_v_asatte"
+  },
+  {
+   "id": "lesson_09_e9",
+   "type": "fill_blank",
+   "prompt": "The party is the day after tomorrow: Paatii wa ___ desu.",
+   "accepted": [
+    "asatte"
+   ],
+   "explanation": "From the Q&A: Paatii wa asatte desu.",
+   "source": "lesson_09 p.186",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_09_v_asatte"
+  },
+  {
+   "id": "lesson_09_e10",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "ことしの さんがつ",
+   "choices": [
+    "March of this year",
+    "March of last year",
+    "March of next year",
+    "this month's March"
+   ],
+   "answerIndex": 0,
+   "explanation": "Kotoshi no sangatsu = March of this year.",
+   "source": "lesson_09 p.186",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_09_v_kotoshi"
+  },
+  {
+   "id": "lesson_09_e11",
+   "type": "multiple_choice",
+   "prompt": "To link 'next week' and 'Friday' in らいしゅうのきんようび, you use the particle...",
+   "choices": [
+    "の",
+    "は",
+    "か",
+    "も"
+   ],
+   "answerIndex": 0,
+   "explanation": "の links the larger time span to the smaller one and means 'of' here.",
+   "source": "lesson_09 p.186",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_09_e12",
+   "type": "fill_blank",
+   "prompt": "Monday of this week: konshuu no ___.",
+   "accepted": [
+    "getsuyoubi"
+   ],
+   "explanation": "Konshuu no getsuyoubi — from the grammar examples.",
+   "source": "lesson_09 p.186",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_09_v_getsuyoubi"
+  },
+  {
+   "id": "lesson_09_e13",
+   "type": "multiple_choice",
+   "prompt": "がんたん is...",
+   "choices": [
+    "New Year's Day",
+    "a birthday party",
+    "Christmas",
+    "Thanksgiving"
+   ],
+   "answerIndex": 0,
+   "explanation": "Gantan = New Year's Day, January 1st — Japan's most important holiday period.",
+   "source": "lesson_09 p.184",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_09_v_gantan"
+  },
+  {
+   "id": "lesson_09_e14",
+   "type": "multiple_choice",
+   "prompt": "きょねん means...",
+   "choices": [
+    "last year",
+    "this year",
+    "next year",
+    "every year"
+   ],
+   "answerIndex": 0,
+   "explanation": "Kyonen = last year. Note it is not 'sen-nen' — years use kyonen / kotoshi / rainen.",
+   "source": "lesson_09 p.184",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_09_v_kyonen"
+  },
+  {
+   "id": "lesson_09_e15",
+   "type": "fill_blank",
+   "prompt": "This year is ___ in romaji.",
+   "accepted": [
+    "kotoshi"
+   ],
+   "explanation": "Kotoshi = this year (konshuu is this WEEK — watch the difference).",
+   "source": "lesson_09 p.184",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_09_v_kotoshi"
+  },
+  {
+   "id": "lesson_09_e16",
+   "type": "multiple_choice",
+   "prompt": "To say a year in Japanese you...",
+   "choices": [
+    "say the full number and add ねん",
+    "say it digit by digit like English",
+    "add がつ to the number",
+    "add にち to the number"
+   ],
+   "answerIndex": 0,
+   "explanation": "The book is explicit: 1998 cannot be said 'nineteen—ninety—eight'; the full number must be stated.",
+   "source": "lesson_09 p.185",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_09_e17",
+   "type": "fill_blank",
+   "prompt": "The year 2010 is ___ in romaji.",
+   "accepted": [
+    "nisen juunen",
+    "nisenjuunen"
+   ],
+   "explanation": "Nisen juunen — from the grammar examples for expressing the year.",
+   "source": "lesson_09 p.185",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_09_e18",
+   "type": "multiple_choice",
+   "prompt": "A complete date in Japanese is said in the order...",
+   "choices": [
+    "year, then month, then day",
+    "month, then day, then year",
+    "day, then month, then year",
+    "any order is fine"
+   ],
+   "answerIndex": 0,
+   "explanation": "Always from the largest time span to the smallest: YEAR + MONTH + DAY OF MONTH.",
+   "source": "lesson_09 p.185",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_09_e19",
+   "type": "match",
+   "prompt": "Match the new hiragana with their romaji:",
+   "pairs": [
+    {
+     "left": "ら",
+     "right": "ra"
+    },
+    {
+     "left": "り",
+     "right": "ri"
+    },
+    {
+     "left": "る",
+     "right": "ru"
+    },
+    {
+     "left": "れ",
+     "right": "re"
+    },
+    {
+     "left": "ろ",
+     "right": "ro"
+    }
+   ],
+   "explanation": "The five new hiragana of Lesson 9. Learn the correct stroke order.",
+   "source": "lesson_09 p.188",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_09_e20",
+   "type": "multiple_choice",
+   "prompt": "Which hiragana is 'ru'?",
+   "choices": [
+    "る",
+    "ろ",
+    "ら",
+    "れ"
+   ],
+   "answerIndex": 0,
+   "explanation": "る = ru. It ends with a loop that does not close, unlike ろ.",
+   "source": "lesson_09 p.188",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_09_e21",
+   "type": "match",
+   "prompt": "Match the everyday hiragana words:",
+   "pairs": [
+    {
+     "left": "ねる",
+     "right": "to sleep, go to bed"
+    },
+    {
+     "left": "くすり",
+     "right": "medicine"
+    },
+    {
+     "left": "ろうそく",
+     "right": "candle"
+    },
+    {
+     "left": "かみなり",
+     "right": "thunder, lightning"
+    },
+    {
+     "left": "さる",
+     "right": "monkey"
+    }
+   ],
+   "explanation": "From the Everyday Hiragana Words and Words You Can Write lists.",
+   "source": "lesson_09 p.190",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_09_e22",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "あさっては がんたんです。",
+   "choices": [
+    "The day after tomorrow is New Year's Day.",
+    "Today is New Year's Day.",
+    "Tomorrow is New Year's Day.",
+    "Yesterday was New Year's Day."
+   ],
+   "answerIndex": 0,
+   "explanation": "Asatte wa gantan desu — sentence ② of the reading comprehension.",
+   "source": "lesson_09 p.187",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_09_v_gantan"
+  },
+  {
+   "id": "lesson_09_e23",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "ことしの がんたんは もくようびです。",
+   "choices": [
+    "This year's New Year's Day is Thursday.",
+    "This year's New Year's Day is Wednesday.",
+    "Last year's New Year's Day was Thursday.",
+    "Next year's New Year's Day is Friday."
+   ],
+   "answerIndex": 0,
+   "explanation": "Kotoshi no gantan wa mokuyoubi desu — sentence ③ of the reading comprehension.",
+   "source": "lesson_09 p.187",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_09_v_mokuyoubi"
+  },
+  {
+   "id": "lesson_09_e24",
+   "type": "multiple_choice",
+   "prompt": "きょねんの がんたんは すいようびでした。 means...",
+   "choices": [
+    "Last year's New Year's Day was Wednesday.",
+    "This year's New Year's Day is Wednesday.",
+    "Last year's New Year's Day is Thursday.",
+    "Next year's New Year's Day was Sunday."
+   ],
+   "answerIndex": 0,
+   "explanation": "Kyonen no gantan wa suiyoubi deshita — sentence ④, in the past tense.",
+   "source": "lesson_09 p.187",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_09_v_suiyoubi"
+  },
+  {
+   "id": "lesson_09_e25",
+   "type": "fill_blank",
+   "prompt": "In what year were you born? ___ umare desu ka.",
+   "accepted": [
+    "nannen",
+    "nan nen"
+   ],
+   "explanation": "Nannen umare desu ka — one of the lesson's two new phrases.",
+   "source": "lesson_09 p.184",
+   "verified": true,
+   "skill": "phrases",
+   "vocabId": "lesson_09_v_nannen"
+  },
+  {
+   "id": "lesson_09_e26",
+   "type": "multiple_choice",
+   "prompt": "In the short dialogue Youoko was born in 1973. Which reading is that year?",
+   "choices": [
+    "senkyuu hyaku nanajuusan nen",
+    "senkyuu hyaku nijuusan nen",
+    "nisen nanajuusan nen",
+    "senkyuu hyaku nanajuusan gatsu"
+   ],
+   "answerIndex": 0,
+   "explanation": "1973 = senkyuu hyaku nanajuusan nen. Note がつ is for months, not years.",
+   "source": "lesson_09 p.195",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_09_e27",
+   "type": "translation",
+   "direction": "en_to_ja",
+   "prompt": "Friday of next week (romaji)",
+   "accepted": [
+    "raishuu no kinyoubi",
+    "raishuu no kinyoubi desu"
+   ],
+   "explanation": "Raishuu no kinyoubi — larger span first, linked with の.",
+   "source": "lesson_09 p.186",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_09_v_raishuu"
+  },
+  {
+   "id": "lesson_09_e28",
+   "type": "multiple_choice",
+   "prompt": "ほんとう？ means...",
+   "choices": [
+    "Really? Is that true?",
+    "Congratulations.",
+    "Me too.",
+    "Thank you."
+   ],
+   "answerIndex": 0,
+   "explanation": "Hontou? is one of the new words and expressions in the dialogue.",
+   "source": "lesson_09 p.196",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_09_v_hontou"
+  },
+  {
+   "id": "lesson_09_e29",
+   "type": "multiple_choice",
+   "prompt": "わたしも です。 means...",
+   "choices": [
+    "I am too. / Me too.",
+    "I don't know.",
+    "It's me.",
+    "Not me."
+   ],
+   "answerIndex": 0,
+   "explanation": "Watashi mo desu — Takahiro was born in the same year as Youoko.",
+   "source": "lesson_09 p.196",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_09_v_watashimo"
+  },
+  {
+   "id": "lesson_09_e30",
+   "type": "multiple_choice",
+   "prompt": "The book's answer puts Thanksgiving in which month?",
+   "choices": [
+    "November",
+    "October",
+    "December",
+    "January"
+   ],
+   "answerIndex": 0,
+   "explanation": "From the Q&A: juuichigatsu — November (Thanksgiving is the 4th Thursday).",
+   "source": "lesson_09 p.186",
+   "verified": true,
+   "skill": "culture"
+  },
+  {
+   "id": "lesson_09_e31",
+   "type": "word_order",
+   "prompt": "Put in order: 'This week's Friday is my birthday.'",
+   "tokens": [
+    "こんしゅうの",
+    "きんようびは",
+    "わたしの",
+    "たんじょうび",
+    "です"
+   ],
+   "explanation": "Konshuu no kinyoubi wa watashi no tanjoubi desu — Youoko's line in the dialogue.",
+   "source": "lesson_09 p.195",
+   "verified": true,
+   "skill": "sentences"
+  },
+  {
+   "id": "lesson_09_e32",
+   "type": "fill_blank",
+   "prompt": "New Year's Day is ___ in romaji.",
+   "accepted": [
+    "gantan"
+   ],
+   "explanation": "Gantan = New Year's Day.",
+   "source": "lesson_09 p.184",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_09_v_gantan"
+  },
+  {
+   "id": "lesson_09_e33",
+   "type": "multiple_choice",
+   "prompt": "In Japan, the New Year period is as important as ___ is in the United States.",
+   "choices": [
+    "Christmas",
+    "the Fourth of July",
+    "Halloween",
+    "Easter"
+   ],
+   "answerIndex": 0,
+   "explanation": "Culture Clip: from January 1st until one week after, Japan almost comes to a stop.",
+   "source": "lesson_09 p.184",
+   "verified": true,
+   "skill": "culture"
+  },
+  {
+   "id": "lesson_09_e34",
+   "type": "match",
+   "prompt": "Match vocabulary group L (nature):",
+   "pairs": [
+    {
+     "left": "やま",
+     "right": "mountain"
+    },
+    {
+     "left": "あめ",
+     "right": "rain"
+    },
+    {
+     "left": "つき",
+     "right": "moon"
+    },
+    {
+     "left": "ゆき",
+     "right": "snow"
+    },
+    {
+     "left": "ふゆ",
+     "right": "winter"
+    }
+   ],
+   "explanation": "Vocabulary group L is introduced at the end of the lesson.",
+   "source": "lesson_09 p.197",
+   "verified": true,
+   "skill": "vocab"
+  },
+  {
+   "id": "lesson_09_e35",
+   "type": "multiple_choice",
+   "prompt": "Which word means 'science'?",
+   "choices": [
+    "りか",
+    "よる",
+    "れい",
+    "まる"
+   ],
+   "answerIndex": 0,
+   "explanation": "Rika = science, from the Words You Can Write list.",
+   "source": "lesson_09 p.190",
+   "verified": true,
+   "skill": "hiragana",
+   "vocabId": "lesson_09_v_rika"
+  },
+  {
+   "id": "lesson_09_e36",
+   "type": "fill_blank",
+   "prompt": "The 1st of last month: sengetsu no ___.",
+   "accepted": [
+    "tsuitachi"
+   ],
+   "explanation": "Sengetsu no tsuitachi — from the grammar examples (tsuitachi = the 1st, from Lesson 8).",
+   "source": "lesson_09 p.186",
+   "verified": true,
+   "skill": "grammar"
+  }
+ ],
+ "quiz": [
+  {
+   "id": "lesson_09_q1",
+   "type": "multiple_choice",
+   "prompt": "'なんようび ですか' means...",
+   "choices": [
+    "What day of the week is it?",
+    "What year is it?",
+    "What day of the month is it?",
+    "When is it?"
+   ],
+   "answerIndex": 0,
+   "explanation": "Nanyoubi desu ka = What day of the week is it?",
+   "source": "lesson_09 p.183",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_09_v_nanyoubi"
+  },
+  {
+   "id": "lesson_09_q2",
+   "type": "fill_blank",
+   "prompt": "Next week is ___ in romaji.",
+   "accepted": [
+    "raishuu"
+   ],
+   "explanation": "Raishuu = next week.",
+   "source": "lesson_09 p.183",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_09_v_raishuu"
+  },
+  {
+   "id": "lesson_09_q3",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "こんしゅうの げつようび です。",
+   "choices": [
+    "It's Monday of this week.",
+    "It's Monday of next week.",
+    "It's Friday of this week.",
+    "It's Monday of last week."
+   ],
+   "answerIndex": 0,
+   "explanation": "Konshuu no getsuyoubi desu — from the grammar examples.",
+   "source": "lesson_09 p.186",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_09_v_konshuu"
+  },
+  {
+   "id": "lesson_09_q4",
+   "type": "multiple_choice",
+   "prompt": "Which particle links 'May of next year' (らいねんの ごがつ)?",
+   "choices": [
+    "の",
+    "は",
+    "が",
+    "を"
+   ],
+   "answerIndex": 0,
+   "explanation": "の links the larger time span to the smaller one.",
+   "source": "lesson_09 p.186",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_09_q5",
+   "type": "match",
+   "prompt": "Match hiragana to romaji:",
+   "pairs": [
+    {
+     "left": "ら",
+     "right": "ra"
+    },
+    {
+     "left": "り",
+     "right": "ri"
+    },
+    {
+     "left": "る",
+     "right": "ru"
+    }
+   ],
+   "explanation": "Three of the five new hiragana of Lesson 9.",
+   "source": "lesson_09 p.188",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_09_q6",
+   "type": "multiple_choice",
+   "prompt": "A complete date in Japanese starts with...",
+   "choices": [
+    "the year",
+    "the day of the month",
+    "the month",
+    "the day of the week"
+   ],
+   "answerIndex": 0,
+   "explanation": "YEAR + MONTH + DAY OF MONTH — largest span to smallest.",
+   "source": "lesson_09 p.185",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_09_q7",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "きょねんの がんたんは すいようびでした。",
+   "choices": [
+    "Last year's New Year's Day was Wednesday.",
+    "This year's New Year's Day is Wednesday.",
+    "Last year's New Year's Day is Thursday.",
+    "Last month's New Year was Wednesday."
+   ],
+   "answerIndex": 0,
+   "explanation": "Kyonen no gantan wa suiyoubi deshita — deshita makes it past.",
+   "source": "lesson_09 p.187",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_09_v_kyonen"
+  }
+ ],
+ "summary": "Days of the week are げつようび (Monday) through にちようび (Sunday), and なんようびですか asks which one. Weeks, months and years share three prefixes: sen- (before — senshuu, sengetsu), kon- (this — konshuu, kongetsu) and rai- (after — raishuu, raigetsu), while years use kyonen / kotoshi / rainen. A year is the full number plus ねん (nisen juunen = 2010), never digit by digit. Complete dates go from the largest span to the smallest — YEAR + MONTH + DAY (nisengonen gogatsu juuichinichi = May 11, 2005) — and when you attach a smaller time span to a larger one you link them with の: raishuu no kinyoubi. New hiragana: ら り る れ ろ."
+}

@@ -1,0 +1,31 @@
+JapaneseFromZero.com 236
+
+Verb types
+
+Each verb in this lesson has been labeled as regular or irregular. The majority of
+Japanese verbs are regular verbs. We call them “regular” because there are so many
+of them and they all follow the exact same conjugation pattern.
+
+Generally, irregular verbs do not follow any logical rule. The patterns of irregular verbs
+must be memorized. Luckily there are only a small amount of irregular verbs.
+
+Making the conversion
+
+To make the polite versions of regular verbs, the final hiragana of the dictionary form
+needs to be changed into the い form.
+
+Step 1: Convert the last hiragana into the い form.
+
+わかる→わかり
+かえる→かえり
+いく→いき
+
+Look back at the hiragana chart at the beginning of this lesson. See the る?
+Move straight up the column to the い. The first step of conjugating regular verbs into
+their polite forms is to switch their final hiragana into the い form.
+
+Remember that this pattern will NOT work for irregular verbs such as くる (to come),
+but only for regular verbs.
+
+In "Japanese From Zero!" Book 2 you will learn how to use the hiragana chart to make
+more verb conjugations.

@@ -1,0 +1,25 @@
+{
+  "pdf_page": 233,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img1433__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0233",
+    "page_0234",
+    "page_0235",
+    "page_0236",
+    "page_0237"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 1028,
+  "lines": 56,
+  "usage": {
+    "input_tokens": 1495,
+    "output_tokens": 328,
+    "total_tokens": 1823
+  },
+  "raw_batch_response": "===PAGE page_0233===\nJapanese From Zero! – Lesson 12 – Japanese Verbs 233\n\nLesson\n12\nLevel 1\nJapanese Verbs\nPolite verb conjugation\n\nWelcome to Japanese verbs. This is where Japanese becomes really fun! We will start out\nslowly with just four verbs and four forms. Learn them well and you should have no problem\ngrasping the verb forms that follow.\n\n12 About This Lesson このレッスンについて\n\nBefore The Lesson\n\n1. Be able to write and read all ひらがな.\n2. Review vocabulary group O, P and Q.\n\nLesson Goals\n\n1. Learn how to conjugate verbs into the polite forms.\n2. Learn how to use the particle に.\n\nFrom The Teachers\n\n1. The dictionary form of a verb is the most important form. Put effort into memorizing them\nand all other verb forms that come up in other lessons.\n\n12 New Words あたらしい ことば\n\nProgressive\nなにご\nなにじん\nrosanzerusu\nrasu begasu\nshikago\nkariforunia\nkanada\nkankoku\n\nKana\nなにご\nなにじん\nロサンゼルス\nラスベガス\nシカゴ\nカリフォルニア\nカナダ\nかんこく\n\nKanji\n何語\n何人\nロサンゼルス\nラスベガス\nシカゴ\nカリフォルニア\nカナダ\n韓国\n\nEnglish\nwhat language?\nwhat nationality?\nLos Angeles\nLas Vegas\nChicago\nCalifornia\nCanada\nKorea",
+  "extracted_text": "Japanese From Zero! – Lesson 12 – Japanese Verbs 233\n\nLesson\n12\nLevel 1\nJapanese Verbs\nPolite verb conjugation\n\nWelcome to Japanese verbs. This is where Japanese becomes really fun! We will start out\nslowly with just four verbs and four forms. Learn them well and you should have no problem\ngrasping the verb forms that follow.\n\n12 About This Lesson このレッスンについて\n\nBefore The Lesson\n\n1. Be able to write and read all ひらがな.\n2. Review vocabulary group O, P and Q.\n\nLesson Goals\n\n1. Learn how to conjugate verbs into the polite forms.\n2. Learn how to use the particle に.\n\nFrom The Teachers\n\n1. The dictionary form of a verb is the most important form. Put effort into memorizing them\nand all other verb forms that come up in other lessons.\n\n12 New Words あたらしい ことば\n\nProgressive\nなにご\nなにじん\nrosanzerusu\nrasu begasu\nshikago\nkariforunia\nkanada\nkankoku\n\nKana\nなにご\nなにじん\nロサンゼルス\nラスベガス\nシカゴ\nカリフォルニア\nカナダ\nかんこく\n\nKanji\n何語\n何人\nロサンゼルス\nラスベガス\nシカゴ\nカリフォルニア\nカナダ\n韓国\n\nEnglish\nwhat language?\nwhat nationality?\nLos Angeles\nLas Vegas\nChicago\nCalifornia\nCanada\nKorea"
+}

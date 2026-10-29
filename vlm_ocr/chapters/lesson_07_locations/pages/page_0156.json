@@ -1,0 +1,25 @@
+{
+  "pdf_page": 156,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img961__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0156",
+    "page_0157",
+    "page_0158",
+    "page_0159",
+    "page_0160"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 179,
+  "lines": 23,
+  "usage": {
+    "input_tokens": 5838,
+    "output_tokens": 790,
+    "total_tokens": 6628
+  },
+  "raw_batch_response": "===PAGE page_0156===\nJapaneseFromZero.com  156\n\nむし\n(insect)\n\nかみ\n(paper; hair)\n\nだめ\n(no good)\n\nみせ\n(store)\n\nあたま\n(head)\n\nまじめ\n(serious)\n\nさしみ\n(sashimi)\n\nむすこ\n(son)\n\nむすめ\n(daughter)\n\nものさし\n(ruler)\n\nみじかい\n(short)\n\n===PAGE page_0157===\nJapanese From Zero! – Lesson 7 – Hiragana まみむめも  157\n\nま Hiragana Matching ひらがな マッチング\n\nConnect the dots between each hiragana and the correct ro-maji.\n\nに •                      • mu\nむ •                      • mi\nも •                      • nu\nぬ •                      • ni\nみ •                      • o\nま •                      • mo\nお •                      • me\nめ •                      • ma\n\n===PAGE page_0158===\nJapaneseFromZero.com  158\n\n7 Lesson Activities\n\nSentence creation\nCreate a sentence about the pictures using でも. Pay attention to the use of the particles は and が.\n\nExample\n\nlike→                          BUT  dislike→\n\nex. Chikin が すきです。でも、さかなはき ra いです。\n\nlike→                          BUT  don't like→\n\n1. \n\nwant→                          BUT  don't want→\n\n2. \n\n===PAGE page_0159===\nJapanese From Zero! – Lesson 7 – Lesson Activities  159\n\n←are delicious BUT                          ←are not\n\n3.\n\nWhat would you say?\nAnswer the following questions as if they were being asked to you directly. Use the hiragana that you have learned when writing your answers.\n\n1. おいしい resutoran は どこですか。\n\n2. あなたの いえは、どこですか。\n\n3. にほん n の < ru まが ほしいですか。\n\n4. みど ri の rin ごが すきですか。\n\n5. あなたの terebi は あた ra しいですか。\n\n6. あなたの じて nsha は、なにい ro ですか。\n\n7. つめたいみずが ほしいですか。\n\n===PAGE page_0160===\nJapaneseFromZero.com  160\n\nShort dialogue 1\nMr. Tanaka is driving Mike (Maiku) home and asking which house is Mike's house.\n\nたなかさ n: Maiku さ n のうちはい ①あそこですか。\n\nMaiku:        いいえ、ちがいます。②そこです。\n\nたなかさ n: えっ、どこですか。Wa か ri ません。\n③みど ri のうちですか。\n\nMaiku:        いいえ、③みど ri のうちほ、ともだちのうちです。\n④きい ro いうちが wa たしのです。\n\nたなかさ n: ああ、wa か ri ました。\n\nNew words and expressions in the dialogue\n\nProgressive       Kana              Kanji             English\nうち              うち              家                 house\nえっ              えっ              えっ              Eh?\nああ、wa か ri ました。 あああ、わかりました。 あああ、分かりました。 Oh, I see / I got it.\n\nShort dialogue 1 activities\n1. Practice reading the dialogue in pairs.\n2. Substitute the words numbered ①～④ using the words below and try the conversation again.\n\nA) ① There                 B) ① There\n   ② Here                     ② Over there\n   ③ Brown                    ③ White\n   ④ Blue                     ④ Gray",
+  "extracted_text": "JapaneseFromZero.com  156\n\nむし\n(insect)\n\nかみ\n(paper; hair)\n\nだめ\n(no good)\n\nみせ\n(store)\n\nあたま\n(head)\n\nまじめ\n(serious)\n\nさしみ\n(sashimi)\n\nむすこ\n(son)\n\nむすめ\n(daughter)\n\nものさし\n(ruler)\n\nみじかい\n(short)"
+}

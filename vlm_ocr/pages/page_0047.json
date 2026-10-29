@@ -1,0 +1,22 @@
+{
+  "pdf_page": 47,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img293__x2.jpg",
+  "model": "gemini-3.8-flash",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0047",
+    "page_0048"
+  ],
+  "batch_size": 2,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 730,
+  "lines": 26,
+  "usage": {
+    "input_tokens": 2577,
+    "output_tokens": 463,
+    "total_tokens": 12175
+  },
+  "raw_batch_response": "===PAGE page_0047===\nJapanese From Zero! – Lesson 1 – Lesson Activities 47\n\n❑ Japanese translation\nTranslate the following conversation into English.\n\n1.\nTanaka san: Nan desu ka. Mo う fu desu ka.\nKobayashi san: Mo う い chido い tte kudasa い.\nTanaka san: Mo う fu desu ka.\nKobayashi san: いいえ、taoru desu.\nTanaka san:\nKobayashi san:\nTanaka san:\nKobayashi san:\n\n❑ English translation\nTranslate the following conversation into Japanese.\n\n1.\nKouichi: Are you Masumi?\nYasuko: No, I am Yasuko. Are you Yuusuke?\nKouichi: No, I am Kouichi.\nKouichi:\nMasumi:\nKouichi:\n\n❑ What would you say?\nWhat would you say in the following situations? Write the answer in Japanese.\n\n1. When you want someone to repeat what they\nsaid:\n\n2. When you meet someone for the first time:\n\n===PAGE page_0048===\nJapaneseFromZero.com 48\n\n3. When you want someone to guess your age:\n\n4. When you ask someone if he is Mr. Nakamura:\n\n5. When you ask someone to speak slower:\n\n1 Drill ドリル\n\nTranslate the following sentences. If you know what they mean, congratulations! You’re\nalready learning Japanese! If you don’t know what they mean, we recommend that you\nreview the lesson up to this point before continuing.\n\n1. Nan desu ka.          5. Makura desu ka.\n2. Wakarimasu ka.        6. いいえ、neko desu.\n3. Ha い, wakarimasu.    7. Wakarimasen.\n4. い nu desu ka.        8. Hajimemashite.\n\n1 Sentence Building ぶんのつくり\n\nIn each lesson we will build on a previous sentence. Watch it grow and transform each time\nnew concepts are introduced.\n\nNan desu ka.\nWhat is it?",
+  "extracted_text": "Japanese From Zero! – Lesson 1 – Lesson Activities 47\n\n❑ Japanese translation\nTranslate the following conversation into English.\n\n1.\nTanaka san: Nan desu ka. Mo う fu desu ka.\nKobayashi san: Mo う い chido い tte kudasa い.\nTanaka san: Mo う fu desu ka.\nKobayashi san: いいえ、taoru desu.\nTanaka san:\nKobayashi san:\nTanaka san:\nKobayashi san:\n\n❑ English translation\nTranslate the following conversation into Japanese.\n\n1.\nKouichi: Are you Masumi?\nYasuko: No, I am Yasuko. Are you Yuusuke?\nKouichi: No, I am Kouichi.\nKouichi:\nMasumi:\nKouichi:\n\n❑ What would you say?\nWhat would you say in the following situations? Write the answer in Japanese.\n\n1. When you want someone to repeat what they\nsaid:\n\n2. When you meet someone for the first time:"
+}

@@ -1,0 +1,23 @@
+{
+  "pdf_page": 44,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img275__x2.jpg",
+  "model": "gemini-3.8-flash",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0044",
+    "page_0045",
+    "page_0046"
+  ],
+  "batch_size": 3,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 222,
+  "lines": 22,
+  "usage": {
+    "input_tokens": 3664,
+    "output_tokens": 359,
+    "total_tokens": 4023
+  },
+  "raw_batch_response": "===PAGE page_0044===\nJapaneseFromZero.com    44\n\nあい\n(love)\n\nえい\n(a ray fish)\n\nいいえ\n(no)\n\nおおい\n(many)\n\nあう\n(to meet)\n\nうえ\n(up)\n\nいう\n(to say)\n\nいえ\n(house)\n\nあお\n(blue)\n\nあ    Everyday Hiragana Words にちじょうの ことば\n\nあ kachan    い nu    う shi\nbaby    dog    cow\n\n===PAGE page_0045===\nJapanese From Zero! – Lesson 1 – Hiragana あいうえお    45\n\nka え ru    お koru    う chu う\nfrog    to get mad    space\n\nあ    Hiragana Matching ひらがな マッチング\n\nConnect the dots between each hiragana and the correct ro-maji.\n\nお •    • a\n\nう •    • o\n\nえ •    • u\n\nい •    • e\n\nあ •    • i\n\n===PAGE page_0046===\nJapaneseFromZero.com    46\n\n1    Lesson Activities\n\n❏ Question and answer\nAnswer the following questions by looking at the pictures. You can check your answers in\nthe answer key for this lesson.\n\n1. Nan desu ka?\nAnswer: ____________________\n\n2. Taoru desu ka?\nAnswer: ____________________\n\n3. Nan desu ka?\nAnswer: ____________________\n\n4. Hana desu ka?\nAnswer: ____________________\n\n5. Tanaka san desu ka?\nAnswer: ____________________\n\n6. Nan desu ka?\nAnswer: ____________________",
+  "extracted_text": "JapaneseFromZero.com    44\n\nあい\n(love)\n\nえい\n(a ray fish)\n\nいいえ\n(no)\n\nおおい\n(many)\n\nあう\n(to meet)\n\nうえ\n(up)\n\nいう\n(to say)\n\nいえ\n(house)\n\nあお\n(blue)\n\nあ    Everyday Hiragana Words にちじょうの ことば\n\nあ kachan    い nu    う shi\nbaby    dog    cow"
+}

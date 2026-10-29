@@ -1,0 +1,25 @@
+{
+  "pdf_page": 203,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img1249__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0203",
+    "page_0204",
+    "page_0205",
+    "page_0206",
+    "page_0207"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 896,
+  "lines": 28,
+  "usage": {
+    "input_tokens": 5838,
+    "output_tokens": 1279,
+    "total_tokens": 7117
+  },
+  "raw_batch_response": "===PAGE page_0203===\nJapanese From Zero! – Lesson 10 – Asking for Things 203\n\n4. Conversation in a pizza restaurant\nA: Pizza を おねがいします。Ko-ra も おねがいします。\nB: はい、わかりました。\n\nA: Would you please give me some pizza? A cola also, please.\nB: Okay.\n\n10 Q&A しつもん と こたえ E→J\n\n1. Conversation at a friend’s house\nA: Would you please give me some chopsticks?\nB: What?\nA: Chopsticks, please.\n\nA: おはしを おねがいします。\nB: なんですか。\nA: おはしを ください。\n\n2. Conversation in a pizza restaurant\nA: Excuse me. I want a pizza. How much are they?\nB: Pizzas are 1200 yen.\nA: They sure are cheap.\n\nA: すみません。Piza が ほしいです。いくらですか。\nB: Piza は せんに hyaくえんです。\nA: やすいですね。\n\n3. Conversation in a restaurant\nA: Excuse me. What is good (delicious) today?\nB: The beef soup is good today. But the chicken soup is also good.\nA: Well then, give me the beef soup, please.\n\nA: すみません。Kyoうは なにが おいしいですか。\nB: Kyoうは bi-fu su-puが おいしいです。でも、chikin su-puも おいしいです。\nA: Jaあ、bi-fu su-puを ください。\n\n===PAGE page_0204===\nJapaneseFromZero.com 204\n\n4. Conversation in a restaurant\nA: Some miso soup, please.\nB: Ok, please wait a few minutes.\nB: (5 minutes later) Here you go.\nA: Some cold water also, please.\n\nA: みそしるを おねがいします。\nB: はい、shoう shoう おまち ください。\nB: (5 minutes later) はい、どうぞ。\nA: おひやも おねがいします。\n\n10 Reading Comprehension どっかい\n\nRead the conversations below. If you don't understand them, review this lesson's grammar.\n\nThe following conversation takes place in a restaurant in Japan.\nA customer enters a restaurant...\nWaitress: いらっ sha いませ！\nCustomer: menyu-をおねがいします。\n5 minutes later...\nCustomer: すみません。\nWaitress: はい。\nCustomer: supagetti-を ください。\nWaitress: おのみものは なにが いいですか。\nCustomer: みずを ください。\nWaitress: はい、shoう shoう おまち ください。\n10 minutes later...\nWaitress: はい、どうぞ\nCustomer: ありがとう。お cha と ko-ra を ください。\nWaitress: はい、shoう shoう おまち ください。\n40 minutes later...\nCustomer: いくらですか\nWaitress: にせん ご hyaく に juう いちえんです。\nCustomer: はい。\nWaitress: おつりは よん hyaく なな juう kyuうえんです。\nありがとう ございました。\n\n===PAGE page_0205===\nJapanese From Zero! – Lesson 10 – Compound Hiragana 205\n\nCompound Hiragana\n\nThe final hiragana are easy! There are only 33 official hiragana left to learn - but don't let that number scare you. They are all made up of the hiragana that you already know. Just by looking at them you should already have an idea of the sound that they represent.\n\nExamples\nき (ki) + や (ya) = きゃ (kya)\nし (shi) + ゆ (yu) = しゅ (shu)\nち (chi) + よ (yo) = ちょ (cho)\n\nきゃ Writing Points かくポイント\n\nThe correct way to write compound hiragana\nWhen writing compound hiragana, make sure that the second character is visibly smaller than the first character.\n\nro-maji\nmya\nryo\nchu\nkya\npya\n\ncorrect\nみゃ\nりょ\nちゅ\nきゃ\nぴゃ\n\nincorrect\nみゃ\nりょ\nちゅ\nきゃ\nぴゃ\n\n===PAGE page_0206===\nJapaneseFromZero.com 206\n\nCompound Hiragana\nThe following are the compound hiragana. They are created using the hiragana you already know so you should have no problem learning these.\n\nきゃ\nkya\nきゅ\nkyu\nきよ\nkyo\n\nぎゃ\ngya\nぎゅ\ngyu\nぎょ\ngyo\n\nしゃ\nsha\nしゅ\nshu\nしょ\nsho\n\nじゃ\nja\nじゅ\nju\nじょ\njo\n\nちゃ\ncha\nちゅ\nchu\nちょ\ncho\n\nにゃ\nnya\nにゅ\nnyu\nにょ\nnyo\n\nひゃ\nhya\nひゅ\nhyu\nひょ\nhyo\n\nびゃ\nbya\nびゅ\nbyu\nびょ\nbyo\n\nぴゃ\npya\nぴゅ\npyu\nぴょ\npyo\n\nみゃ\nmya\nみゅ\nmyu\nみょ\nmyo\n\nりゃ\nrya\nりゅ\nryu\nりょ\nryo\n\nきゃ Writing Practice れんしゅう\n\nTo practice correct stroke order, first trace the light gray characters, then write each character six times for practice.\n\nKYA\nKYU\nKYO\n\n===PAGE page_0207===\nJapanese From Zero! – Lesson 10 – Compound Hiragana 207\n\nGYA\nGYU\nGYO\n\nSHA\nSHU\nSHO\n\nJA\nJU\nJO\n\nCHA\nCHU\nCHO",
+  "extracted_text": "Japanese From Zero! – Lesson 10 – Asking for Things 203\n\n4. Conversation in a pizza restaurant\nA: Pizza を おねがいします。Ko-ra も おねがいします。\nB: はい、わかりました。\n\nA: Would you please give me some pizza? A cola also, please.\nB: Okay.\n\n10 Q&A しつもん と こたえ E→J\n\n1. Conversation at a friend’s house\nA: Would you please give me some chopsticks?\nB: What?\nA: Chopsticks, please.\n\nA: おはしを おねがいします。\nB: なんですか。\nA: おはしを ください。\n\n2. Conversation in a pizza restaurant\nA: Excuse me. I want a pizza. How much are they?\nB: Pizzas are 1200 yen.\nA: They sure are cheap.\n\nA: すみません。Piza が ほしいです。いくらですか。\nB: Piza は せんに hyaくえんです。\nA: やすいですね。\n\n3. Conversation in a restaurant\nA: Excuse me. What is good (delicious) today?\nB: The beef soup is good today. But the chicken soup is also good.\nA: Well then, give me the beef soup, please.\n\nA: すみません。Kyoうは なにが おいしいですか。\nB: Kyoうは bi-fu su-puが おいしいです。でも、chikin su-puも おいしいです。\nA: Jaあ、bi-fu su-puを ください。"
+}

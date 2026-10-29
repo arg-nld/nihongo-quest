@@ -1,0 +1,1211 @@
+{
+ "sectionId": "lesson_12",
+ "title": "Lesson 12",
+ "subtitle": "Japanese Verbs — Polite verb conjugation and the particle ni",
+ "pages": "233-251",
+ "objectives": [
+  "Learn how to conjugate verbs into the polite forms: ~masu, ~masen, ~mashita, ~masen deshita",
+  "Conjugate the four lesson verbs: iku, kuru, kaeru, wakaru",
+  "Use the location particle ni (and e) to say where you are going",
+  "Use the time particle ni for 'in', 'on', 'at' — and know when NOT to use it",
+  "Build languages and nationalities with ~go and ~jin",
+  "Ask and answer: Doko ni ikimasu ka / Itsu kimasu ka / Nani go ga hanasemasu ka"
+ ],
+ "kanaFocus": [],
+ "vocab": [
+  {
+   "id": "lesson_12_v_nanigo",
+   "japanese": "なにご",
+   "romaji": "nani go",
+   "english": "what language?",
+   "source": "lesson_12 p.233",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_nanijin",
+   "japanese": "なにじん",
+   "romaji": "nani jin",
+   "english": "what nationality?",
+   "source": "lesson_12 p.233",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_rosanzerusu",
+   "japanese": "ロサンゼルス",
+   "romaji": "rosanzerusu",
+   "english": "Los Angeles",
+   "source": "lesson_12 p.233",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_rasubegasu",
+   "japanese": "ラスベガス",
+   "romaji": "rasu begasu",
+   "english": "Las Vegas",
+   "source": "lesson_12 p.233",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_shikago",
+   "japanese": "シカゴ",
+   "romaji": "shikago",
+   "english": "Chicago",
+   "source": "lesson_12 p.233",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_kariforunia",
+   "japanese": "カリフォルニア",
+   "romaji": "kariforunia",
+   "english": "California",
+   "source": "lesson_12 p.233",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_kanada",
+   "japanese": "カナダ",
+   "romaji": "kanada",
+   "english": "Canada",
+   "source": "lesson_12 p.233",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_kankoku",
+   "japanese": "かんこく",
+   "romaji": "kankoku",
+   "english": "Korea",
+   "source": "lesson_12 p.233",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_chuugoku",
+   "japanese": "ちゅうごく",
+   "romaji": "chuugoku",
+   "english": "China",
+   "source": "lesson_12 p.234",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_ginkou",
+   "japanese": "ぎんこう",
+   "romaji": "ginkou",
+   "english": "bank",
+   "source": "lesson_12 p.234",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_fuku",
+   "japanese": "ふく",
+   "romaji": "fuku",
+   "english": "clothing, clothes",
+   "source": "lesson_12 p.234",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_shi",
+   "japanese": "～し",
+   "romaji": "~shi",
+   "english": "~ City",
+   "source": "lesson_12 p.234",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_shuu",
+   "japanese": "～しゅう",
+   "romaji": "~shuu",
+   "english": "~ State",
+   "source": "lesson_12 p.234",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_ken",
+   "japanese": "～けん",
+   "romaji": "~ken",
+   "english": "~ Prefecture",
+   "source": "lesson_12 p.234",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_go",
+   "japanese": "～ご",
+   "romaji": "~go",
+   "english": "~ language",
+   "source": "lesson_12 p.234",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_jin",
+   "japanese": "～じん",
+   "romaji": "~jin",
+   "english": "~ nationality",
+   "source": "lesson_12 p.234",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_iku",
+   "japanese": "いく",
+   "romaji": "iku (ikimasu)",
+   "english": "to go (regular verb)",
+   "source": "lesson_12 p.235",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_kuru",
+   "japanese": "くる",
+   "romaji": "kuru (kimasu)",
+   "english": "to come (irregular verb)",
+   "source": "lesson_12 p.235",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_kaeru",
+   "japanese": "かえる",
+   "romaji": "kaeru (kaerimasu)",
+   "english": "to return, go back, go home, come back, come home (regular verb)",
+   "source": "lesson_12 p.235",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_wakaru",
+   "japanese": "わかる",
+   "romaji": "wakaru (wakarimasu)",
+   "english": "to understand, know (regular verb)",
+   "source": "lesson_12 p.235",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_hanasemasu",
+   "japanese": "はなせます",
+   "romaji": "hanasemasu",
+   "english": "can speak",
+   "source": "lesson_12 p.234",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_ohisashiburi",
+   "japanese": "おひさしぶりです",
+   "romaji": "ohisashiburi desu",
+   "english": "It has been a long time.",
+   "source": "lesson_12 p.234",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_asatte",
+   "japanese": "あさって",
+   "romaji": "asatte",
+   "english": "the day after tomorrow",
+   "source": "lesson_12 p.242",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_ototoi",
+   "japanese": "おととい",
+   "romaji": "ototoi",
+   "english": "the day before yesterday",
+   "source": "lesson_12 p.244",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_imakara",
+   "japanese": "いまから",
+   "romaji": "ima kara",
+   "english": "from now / from now on",
+   "source": "lesson_12 p.249",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_nanno",
+   "japanese": "なんの",
+   "romaji": "nan no",
+   "english": "What? Which? What kind of?",
+   "source": "lesson_12 p.249",
+   "verified": true
+  },
+  {
+   "id": "lesson_12_v_atsui",
+   "japanese": "きょうは あついですね",
+   "romaji": "kyou wa atsui desu ne",
+   "english": "Today sure is hot.",
+   "source": "lesson_12 p.249",
+   "verified": true
+  }
+ ],
+ "grammar": [
+  {
+   "id": "lesson_12_g_polite_vs_informal",
+   "title": "Polite versus informal speaking",
+   "pattern": "use polite verb forms with strangers and people of higher status",
+   "explanation": "It is common to use polite language with people you don't know or who have higher social status than yourself (a stranger on the street, your boss). With family, friends, or people of lower or equal status, informal speech is more natural. Until your Japanese is more advanced, stick to polite Japanese to form good speaking habits.",
+   "examples": [
+    {
+     "japanese": "とうきょう に いきます。",
+     "romaji": "Toukyou ni ikimasu.",
+     "english": "I am going to Tokyo. (polite form)"
+    }
+   ],
+   "mistakes": [
+    "Using informal forms with strangers or your boss before your Japanese is advanced"
+   ],
+   "source": "lesson_12 p.234"
+  },
+  {
+   "id": "lesson_12_g_dictionary_form",
+   "title": "The dictionary form and verb types",
+   "pattern": "all verbs in the dictionary form end with a う form hiragana",
+   "explanation": "The dictionary form is the most basic form of the verb with no conjugation — it is the only version in the dictionary, and the most important form to memorize. Every Japanese verb in the dictionary form ends with a う form hiragana: いく ends with く, and くる, わかる and かえる all end in る. Verbs are labeled regular (they all follow the exact same conjugation pattern) or irregular (no logical rule — patterns must be memorized; luckily there are only a small number).",
+   "examples": [
+    {
+     "japanese": "いく",
+     "romaji": "iku",
+     "english": "to go — regular"
+    },
+    {
+     "japanese": "くる",
+     "romaji": "kuru",
+     "english": "to come — irregular"
+    },
+    {
+     "japanese": "かえる",
+     "romaji": "kaeru",
+     "english": "to return, go back, go home — regular"
+    },
+    {
+     "japanese": "わかる",
+     "romaji": "wakaru",
+     "english": "to understand, know — regular"
+    }
+   ],
+   "mistakes": [
+    "Assuming くる follows the regular conjugation pattern — it is irregular"
+   ],
+   "source": "lesson_12 p.234-236"
+  },
+  {
+   "id": "lesson_12_g_i_form",
+   "title": "Making the conversion: change the last hiragana into the い form",
+   "pattern": "regular verb dictionary form → final hiragana switched to い form",
+   "explanation": "To make the polite versions of regular verbs, first change the final hiragana of the dictionary form into the い form: move straight up the hiragana chart column (る→り, る→り, く→き). This pattern will NOT work for irregular verbs such as くる (to come) — only for regular verbs.",
+   "examples": [
+    {
+     "japanese": "わかる → わかり",
+     "romaji": "wakaru → wakari",
+     "english": "understand → (i form)"
+    },
+    {
+     "japanese": "かえる → かえり",
+     "romaji": "kaeru → kaeri",
+     "english": "return → (i form)"
+    },
+    {
+     "japanese": "いく → いき",
+     "romaji": "iku → iki",
+     "english": "go → (i form)"
+    }
+   ],
+   "mistakes": [
+    "Applying the い form conversion to the irregular verb くる"
+   ],
+   "source": "lesson_12 p.236"
+  },
+  {
+   "id": "lesson_12_g_polite_endings",
+   "title": "Polite verb endings",
+   "pattern": "i form + ~masu / ~masen / ~mashita / ~masen deshita",
+   "explanation": "After changing the dictionary form into the い form, add one of four endings: ~ます (will~, do~, am going to~), ~ません (won't~, don't~), ~ました (did~), ~ませんでした (didn't~). Example: わかり + ます = わかります (do understand); いき + ませんでした = いきませんでした (didn't go).",
+   "examples": [
+    {
+     "japanese": "わかります / わかりません / わかりました / わかりませんでした",
+     "romaji": "wakarimasu / wakarimasen / wakarimashita / wakarimasen deshita",
+     "english": "do understand / do not understand / understood / didn't understand"
+    },
+    {
+     "japanese": "いきます / いきません / いきました / いきませんでした",
+     "romaji": "ikimasu / ikimasen / ikimashita / ikimasen deshita",
+     "english": "will go / won't go / went / didn't go"
+    },
+    {
+     "japanese": "かえります / かえりません / かえりました / かえりませんでした",
+     "romaji": "kaerimasu / kaerimasen / kaerimashita / kaerimasen deshita",
+     "english": "will return / will not return / returned / didn't return"
+    }
+   ],
+   "mistakes": [
+    "Using ~ました for the negative past — the past negative is ~ませんでした"
+   ],
+   "source": "lesson_12 p.237"
+  },
+  {
+   "id": "lesson_12_g_kuru",
+   "title": "Conjugating the irregular verb くる",
+   "pattern": "くる → き + ます / ません / ました / ませんでした",
+   "explanation": "くる (to come) is the only irregular verb in this lesson. Irregular verbs don't follow the chart — their patterns must be memorized. くる becomes きます (will come, do come), きません (won't come, don't come), きました (came), きませんでした (didn't come).",
+   "examples": [
+    {
+     "japanese": "あした、きますか。",
+     "romaji": "Ashita, kimasu ka.",
+     "english": "Will you come (over) tomorrow?"
+    },
+    {
+     "japanese": "いいえ、いきません。",
+     "romaji": "Iie, ikimasen.",
+     "english": "No, I won't go."
+    }
+   ],
+   "mistakes": [
+    "Saying くります or くりません — くる drops to き, it never becomes きり"
+   ],
+   "source": "lesson_12 p.238"
+  },
+  {
+   "id": "lesson_12_g_location_ni",
+   "title": "Location particles に and へ",
+   "pattern": "[location] + に / へ + verb",
+   "explanation": "に and へ (written へ but pronounced え) are location and destination particles placed after locations; both can mean 'to'. に is used when going to an exact location ('I am going to France'); へ is used when going in a general direction ('I am going to the south'). In modern Japan most people freely mix them. From this point on the book uses に as the standard location and destination marker — the key point is that locations require a location marker.",
+   "examples": [
+    {
+     "japanese": "とうきょう に",
+     "romaji": "Toukyou ni",
+     "english": "to Tokyo"
+    },
+    {
+     "japanese": "がっこう に",
+     "romaji": "gakkou ni",
+     "english": "to school"
+    },
+    {
+     "japanese": "ぎんこう に",
+     "romaji": "ginkou ni",
+     "english": "to the bank"
+    },
+    {
+     "japanese": "にほん に",
+     "romaji": "Nihon ni",
+     "english": "to Japan"
+    }
+   ],
+   "mistakes": [
+    "Forgetting the location marker after a place: say とうきょう に いきます, not just とうきょう いきます"
+   ],
+   "source": "lesson_12 p.238"
+  },
+  {
+   "id": "lesson_12_g_time_ni",
+   "title": "Time particle に",
+   "pattern": "[time] + に (in / on / at)",
+   "explanation": "に also marks time in a sentence, meaning 'in', 'on', or 'at': いちがつ に (in January), かようび に (on Tuesday), ろくじ に (at six o'clock).",
+   "examples": [
+    {
+     "japanese": "いちがつ に い ます。",
+     "romaji": "Ichigatsu ni ikimasu.",
+     "english": "I am going in January."
+    },
+    {
+     "japanese": "かようび に い まし た。",
+     "romaji": "Kayoubi ni ikimashita.",
+     "english": "I went on Tuesday."
+    }
+   ],
+   "mistakes": [
+    "Adding に to relative time words like きょう or あした"
+   ],
+   "source": "lesson_12 p.239"
+  },
+  {
+   "id": "lesson_12_g_no_ni_relative_time",
+   "title": "No に with きょう、あした、らいしゅう etc.",
+   "pattern": "relative time words take NO particle",
+   "explanation": "Words like きょう (today), あした (tomorrow), らいしゅう (next week), きのう (yesterday), きょねん (last year), こんしゅう (this week) are not 'specific times' like Monday or January. Adding に would be as strange as saying 'I am going ON tomorrow'. Easy rule: 'If you don't use IN, ON, or AT in English, then don't use に in Japanese.'",
+   "examples": [
+    {
+     "japanese": "らいしゅう い ます。",
+     "romaji": "Raishuu ikimasu.",
+     "english": "I am going next week. (no に)"
+    },
+    {
+     "japanese": "きのう い まし た。",
+     "romaji": "Kinou ikimashita.",
+     "english": "I went yesterday. (no に)"
+    },
+    {
+     "japanese": "きょねん い ませ ん でし た。",
+     "romaji": "Kyonen ikimasen deshita.",
+     "english": "I didn't go last year."
+    },
+    {
+     "japanese": "こんしゅう い ませ ん。",
+     "romaji": "Konshuu ikimasen.",
+     "english": "I am not going this week."
+    }
+   ],
+   "mistakes": [
+    "Saying あした に いきます — drop the に with words like tomorrow, today, next week"
+   ],
+   "source": "lesson_12 p.239"
+  },
+  {
+   "id": "lesson_12_g_sentence_structure",
+   "title": "Sentence structure using verbs",
+   "pattern": "[time] [location] に [verb] (+ か for questions)",
+   "explanation": "Verbs always come last in Japanese sentences. Just like か is added to です to make a question, you can add か after the conjugated verb to make a question: どこ に い ます か。(Where are you going?) / いえ に かえり まし た か。(Did you return home?)",
+   "examples": [
+    {
+     "japanese": "どこ に い ます か。",
+     "romaji": "Doko ni ikimasu ka.",
+     "english": "Where are you going (to)?"
+    },
+    {
+     "japanese": "にほん に い ます。",
+     "romaji": "Nihon ni ikimasu.",
+     "english": "I am going to Japan."
+    },
+    {
+     "japanese": "いつ き ます か。",
+     "romaji": "Itsu kimasu ka.",
+     "english": "When are you coming?"
+    },
+    {
+     "japanese": "なん にち に い ます か。",
+     "romaji": "Nan nichi ni ikimasu ka.",
+     "english": "What day of the month are you going?"
+    }
+   ],
+   "mistakes": [
+    "Putting the verb anywhere other than the end of the sentence"
+   ],
+   "source": "lesson_12 p.240"
+  },
+  {
+   "id": "lesson_12_g_wakaru_ga",
+   "title": "Using the verb わかる with が",
+   "pattern": "[thing understood] + が + わかります",
+   "explanation": "When using わかる to say you understand something, you must use が to mark the thing that you understand: にほんご が わかり ます (I understand Japanese).",
+   "examples": [
+    {
+     "japanese": "にほんご が わかり ます。",
+     "romaji": "Nihongo ga wakarimasu.",
+     "english": "I understand Japanese."
+    },
+    {
+     "japanese": "にほんご が わかり ませ ん。",
+     "romaji": "Nihongo ga wakarimasen.",
+     "english": "I don't understand Japanese."
+    },
+    {
+     "japanese": "かれ は えいご が わかり ませ ん。",
+     "romaji": "Kare wa eigo ga wakarimasen.",
+     "english": "He doesn't understand English."
+    }
+   ],
+   "mistakes": [
+    "Using は or を instead of が to mark what you understand"
+   ],
+   "source": "lesson_12 p.241"
+  },
+  {
+   "id": "lesson_12_g_lang_nat",
+   "title": "Languages and nationalities with ～ご and ～じん",
+   "pattern": "[country] + ご = language / [country] + じん = nationality",
+   "explanation": "By adding ご (language) and じん (people) after a country name you create languages and nationalities: supein (Spain) → supein ご (Spanish language), roshia (Russia) → roshia じん (Russian person). Japan: にほん → にほんじん / にほんご; Korea: かんこく → かんこくじん / かんこくご; China: ちゅうごく → ちゅうごくじん / ちゅうごくご. Note: this works for many countries but not all — America (amerika) speaks えいご, the Philippines (firipin) speaks tagaragu ご, Mexico (mekishiko) speaks supein ご.",
+   "examples": [
+    {
+     "japanese": "Furansu ご が わかり ます か。",
+     "romaji": "Furansu go ga wakarimasu ka.",
+     "english": "Do you understand French?"
+    },
+    {
+     "japanese": "Jon さん は kanada じん です。",
+     "romaji": "Jon san wa kanada jin desu.",
+     "english": "Jon is Canadian."
+    },
+    {
+     "japanese": "ようこさん は supein ご が はなせ ます。",
+     "romaji": "Youko san wa supein go ga hanasemasu.",
+     "english": "Youko can speak Spanish."
+    }
+   ],
+   "mistakes": [
+    "Assuming every country's language name is [country] + ご — America uses えいご, not amerika ご"
+   ],
+   "source": "lesson_12 p.241"
+  }
+ ],
+ "exercises": [
+  {
+   "id": "lesson_12_e1",
+   "type": "match",
+   "prompt": "Match the four lesson verbs with their meanings:",
+   "pairs": [
+    {
+     "left": "iku",
+     "right": "to go"
+    },
+    {
+     "left": "kuru",
+     "right": "to come"
+    },
+    {
+     "left": "kaeru",
+     "right": "to return, go back, go home"
+    },
+    {
+     "left": "wakaru",
+     "right": "to understand, know"
+    }
+   ],
+   "explanation": "The four verbs taught in Lesson 12.",
+   "source": "lesson_12 p.235",
+   "verified": true,
+   "skill": "vocab"
+  },
+  {
+   "id": "lesson_12_e2",
+   "type": "multiple_choice",
+   "prompt": "Which verb in this lesson is irregular?",
+   "choices": [
+    "iku (to go)",
+    "kaeru (to return)",
+    "kuru (to come)",
+    "wakaru (to understand)"
+   ],
+   "answerIndex": 2,
+   "explanation": "The book: the only verb in this lesson that isn't regular is くる (come).",
+   "source": "lesson_12 p.238",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_12_v_kuru"
+  },
+  {
+   "id": "lesson_12_e3",
+   "type": "multiple_choice",
+   "prompt": "In the dictionary form, every Japanese verb ends with...",
+   "choices": [
+    "an い form hiragana",
+    "a う form hiragana",
+    "a え form hiragana",
+    "the hiragana ru"
+   ],
+   "answerIndex": 1,
+   "explanation": "All verbs in the dictionary form end with う form hiragana — く and る are both う form.",
+   "source": "lesson_12 p.235",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_12_e4",
+   "type": "multiple_choice",
+   "prompt": "What is the dictionary form of a verb?",
+   "choices": [
+    "The most basic form, with no conjugation — the only version in the dictionary",
+    "The polite present form",
+    "The past tense form",
+    "The most formal form used in writing"
+   ],
+   "answerIndex": 0,
+   "explanation": "The dictionary form is the most basic form without any conjugation — and the most important form to memorize.",
+   "source": "lesson_12 p.234",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_12_e5",
+   "type": "fill_blank",
+   "prompt": "Step 1 of the polite conversion: わかる → わか___ (change the last hiragana to the い form).",
+   "accepted": [
+    "ri",
+    "り"
+   ],
+   "explanation": "る moves straight up the column to り: wakaru → wakari.",
+   "source": "lesson_12 p.236",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_12_v_wakaru"
+  },
+  {
+   "id": "lesson_12_e6",
+   "type": "multiple_choice",
+   "prompt": "The い form conversion pattern works for...",
+   "choices": [
+    "all verbs, including くる",
+    "only regular verbs",
+    "only irregular verbs",
+    "only verbs ending in る"
+   ],
+   "answerIndex": 1,
+   "explanation": "The pattern will NOT work for irregular verbs such as くる — only for regular verbs.",
+   "source": "lesson_12 p.236",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_12_e7",
+   "type": "match",
+   "prompt": "Match the polite endings with their meanings:",
+   "pairs": [
+    {
+     "left": "~masu",
+     "right": "will~, do~, am going to~"
+    },
+    {
+     "left": "~masen",
+     "right": "won't~, don't~"
+    },
+    {
+     "left": "~mashita",
+     "right": "did~"
+    },
+    {
+     "left": "~masen deshita",
+     "right": "didn't~"
+    }
+   ],
+   "explanation": "The four polite verb endings.",
+   "source": "lesson_12 p.237",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_12_e8",
+   "type": "fill_blank",
+   "prompt": "I went: いき___ (past positive polite ending).",
+   "accepted": [
+    "mashita",
+    "ました"
+   ],
+   "explanation": "いき + ました = いきました (went).",
+   "source": "lesson_12 p.237",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_12_v_iku"
+  },
+  {
+   "id": "lesson_12_e9",
+   "type": "fill_blank",
+   "prompt": "Didn't go: いき___ (past negative polite ending).",
+   "accepted": [
+    "masen deshita",
+    "ませんでした"
+   ],
+   "explanation": "いき + ませんでした = いきませんでした (didn't go).",
+   "source": "lesson_12 p.237",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_12_v_iku"
+  },
+  {
+   "id": "lesson_12_e10",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "ぎんこう に いきました",
+   "choices": [
+    "I went to the bank.",
+    "I will go to the bank.",
+    "I didn't go to the bank.",
+    "I went to school."
+   ],
+   "answerIndex": 0,
+   "explanation": "Ginkou ni ikimashita = I went to the bank.",
+   "source": "lesson_12 p.238",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_12_v_ginkou"
+  },
+  {
+   "id": "lesson_12_e11",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "おおさか に いませ ん",
+   "choices": [
+    "I am not going to Osaka.",
+    "I am going to Osaka.",
+    "I went to Osaka.",
+    "I didn't go to Osaka."
+   ],
+   "answerIndex": 0,
+   "explanation": "Oosaka ni ikimasen = I am not going to Osaka (example sentence 4, p.239).",
+   "source": "lesson_12 p.239",
+   "verified": true,
+   "skill": "sentences"
+  },
+  {
+   "id": "lesson_12_e12",
+   "type": "fill_blank",
+   "prompt": "I didn't go to school: がっこう に いませ___ (polite past negative).",
+   "accepted": [
+    "n deshita",
+    "んでした",
+    "masen deshita"
+   ],
+   "explanation": "がっこう に いませ ん でし た = I didn't go to school.",
+   "source": "lesson_12 p.239",
+   "verified": true,
+   "skill": "sentences"
+  },
+  {
+   "id": "lesson_12_e13",
+   "type": "multiple_choice",
+   "prompt": "Which particle is used when going to an EXACT location, like France?",
+   "choices": [
+    "へ (e)",
+    "に (ni)",
+    "が (ga)",
+    "を (wo)"
+   ],
+   "answerIndex": 1,
+   "explanation": "に is used when going to an exact location; へ is used when going in a general direction.",
+   "source": "lesson_12 p.238",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_12_e14",
+   "type": "multiple_choice",
+   "prompt": "The particle へ is written with 'he' but pronounced...",
+   "choices": [
+    "he",
+    "ha",
+    "e",
+    "we"
+   ],
+   "answerIndex": 2,
+   "explanation": "Although written as へ, it is pronounced as え.",
+   "source": "lesson_12 p.238",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_12_e15",
+   "type": "fill_blank",
+   "prompt": "I am going to school: がっこう ___ いきます (location particle).",
+   "accepted": [
+    "ni",
+    "に"
+   ],
+   "explanation": "Locations require a location marker — the book uses に as the standard one.",
+   "source": "lesson_12 p.238",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_12_e16",
+   "type": "multiple_choice",
+   "prompt": "What does いちがつ に mean?",
+   "choices": [
+    "at one o'clock",
+    "in January",
+    "on Monday",
+    "one day"
+   ],
+   "answerIndex": 1,
+   "explanation": "いちがつ に = in January — に with time means 'in', 'on', or 'at'.",
+   "source": "lesson_12 p.239",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_12_e17",
+   "type": "multiple_choice",
+   "prompt": "Why is it 'らいしゅう い ます' and NOT 'らいしゅう に い ます'?",
+   "choices": [
+    "らいしゅう is not a specific time like Monday or January — no に needed",
+    "らいしゅう already contains に",
+    "に can only be used once per sentence",
+    "It is a typo in the book"
+   ],
+   "answerIndex": 0,
+   "explanation": "Rule: if you don't use IN, ON, or AT in English, don't use に in Japanese.",
+   "source": "lesson_12 p.239",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_12_e18",
+   "type": "multiple_choice",
+   "prompt": "Which is correct for 'I didn't go last year'?",
+   "choices": [
+    "きょねん に い ませ ん でし た。",
+    "きょねん い ませ ん でし た。",
+    "きょねん い まし た。",
+    "きょねん に い まし た。"
+   ],
+   "answerIndex": 1,
+   "explanation": "きょねん (last year) takes no に, and the past negative is いませ ん でし た.",
+   "source": "lesson_12 p.239",
+   "verified": true,
+   "skill": "sentences"
+  },
+  {
+   "id": "lesson_12_e19",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "らいしゅう い ます",
+   "choices": [
+    "I am going next week.",
+    "I went last week.",
+    "I am going this week.",
+    "I am not going next week."
+   ],
+   "answerIndex": 0,
+   "explanation": "Raishuu ikimasu = I am going next week (no に after raishuu).",
+   "source": "lesson_12 p.239",
+   "verified": true,
+   "skill": "sentences"
+  },
+  {
+   "id": "lesson_12_e20",
+   "type": "word_order",
+   "prompt": "Order the words: I am going to Tokyo.",
+   "tokens": [
+    "とうきょう",
+    "に",
+    "い ます"
+   ],
+   "explanation": "[location] + に + verb — verbs always come last: とうきょう に い ます。",
+   "source": "lesson_12 p.240",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_12_v_iku"
+  },
+  {
+   "id": "lesson_12_e21",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "どこ に い ます か",
+   "choices": [
+    "Where are you going (to)?",
+    "When are you going?",
+    "Are you going to Japan?",
+    "Where did you go?"
+   ],
+   "answerIndex": 0,
+   "explanation": "Doko ni ikimasu ka = Where are you going (to)?",
+   "source": "lesson_12 p.240",
+   "verified": true,
+   "skill": "sentences"
+  },
+  {
+   "id": "lesson_12_e22",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "いつ き ます か",
+   "choices": [
+    "When are you coming?",
+    "Where are you coming from?",
+    "When are you going?",
+    "What time is it?"
+   ],
+   "answerIndex": 0,
+   "explanation": "Itsu kimasu ka = When are you coming?",
+   "source": "lesson_12 p.240",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_12_v_kuru"
+  },
+  {
+   "id": "lesson_12_e23",
+   "type": "word_order",
+   "prompt": "Order the words: Did you return home?",
+   "tokens": [
+    "いえ",
+    "に",
+    "かえり まし た",
+    "か"
+   ],
+   "explanation": "いえ に かえり まし た か。 — か comes after the conjugated verb to make a question.",
+   "source": "lesson_12 p.240",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_12_v_kaeru"
+  },
+  {
+   "id": "lesson_12_e24",
+   "type": "fill_blank",
+   "prompt": "No, I didn't go. But I will go tomorrow: いいえ、いませ___。でも、あした い ます。",
+   "accepted": [
+    "んでした",
+    "n deshita",
+    "ませんでした"
+   ],
+   "explanation": "From the Q&A: いいえ、い ませ ん でし た。でも、あした い ます。",
+   "source": "lesson_12 p.240",
+   "verified": true,
+   "skill": "sentences"
+  },
+  {
+   "id": "lesson_12_e25",
+   "type": "multiple_choice",
+   "prompt": "Which particle marks the thing you understand with わかる?",
+   "choices": [
+    "は",
+    "を",
+    "が",
+    "に"
+   ],
+   "answerIndex": 2,
+   "explanation": "When using わかる, you must use が to mark the thing you understand: にほんご が わかり ます。",
+   "source": "lesson_12 p.241",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_12_v_wakaru"
+  },
+  {
+   "id": "lesson_12_e26",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "にほんご が わかり ませ ん",
+   "choices": [
+    "I don't understand Japanese.",
+    "I understand Japanese.",
+    "He doesn't understand English.",
+    "I can't speak Japanese."
+   ],
+   "answerIndex": 0,
+   "explanation": "Nihongo ga wakarimasen = I don't understand Japanese.",
+   "source": "lesson_12 p.241",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_12_v_wakaru"
+  },
+  {
+   "id": "lesson_12_e27",
+   "type": "multiple_choice",
+   "prompt": "Spain is 'supein' in Japanese. How do you say 'Spanish language'?",
+   "choices": [
+    "supein じん",
+    "supein ご",
+    "supein けん",
+    "supein し"
+   ],
+   "answerIndex": 1,
+   "explanation": "Add ご (language) after a country name: supein ご = Spanish language; supein じん would be a Spanish person.",
+   "source": "lesson_12 p.241",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_12_v_go"
+  },
+  {
+   "id": "lesson_12_e28",
+   "type": "match",
+   "prompt": "Match the country with its language:",
+   "pairs": [
+    {
+     "left": "にほん (Japan)",
+     "right": "にほんご"
+    },
+    {
+     "left": "かんこく (Korea)",
+     "right": "かんこくご"
+    },
+    {
+     "left": "ちゅうごく (China)",
+     "right": "ちゅうごくご"
+    },
+    {
+     "left": "amerika (America)",
+     "right": "えいご"
+    }
+   ],
+   "explanation": "Note the exception: America's language is えいご, not 'amerika ご'.",
+   "source": "lesson_12 p.241",
+   "verified": true,
+   "skill": "vocab"
+  },
+  {
+   "id": "lesson_12_e29",
+   "type": "fill_blank",
+   "prompt": "Jon is Canadian: Jon さん は kanada ___ です。",
+   "accepted": [
+    "じん",
+    "jin"
+   ],
+   "explanation": "Add じん (people/nationality) after a country: kanada じん です。",
+   "source": "lesson_12 p.241",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_12_v_jin"
+  },
+  {
+   "id": "lesson_12_e30",
+   "type": "multiple_choice",
+   "prompt": "You meet an old friend you haven't seen for years. What do you say?",
+   "choices": [
+    "こんにちは。",
+    "おひさしぶりです。",
+    "どこに いきますか。",
+    "なにじんですか。"
+   ],
+   "answerIndex": 1,
+   "explanation": "おひさしぶりです = It has been a long time.",
+   "source": "lesson_12 p.234",
+   "verified": true,
+   "skill": "phrases",
+   "vocabId": "lesson_12_v_ohisashiburi"
+  },
+  {
+   "id": "lesson_12_e31",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "なにご が はなせますか",
+   "choices": [
+    "What languages can you speak?",
+    "What nationality are you?",
+    "Do you understand Japanese?",
+    "What language is this?"
+   ],
+   "answerIndex": 0,
+   "explanation": "New phrase: なにご が はなせますか = What languages can you speak?",
+   "source": "lesson_12 p.234",
+   "verified": true,
+   "skill": "phrases",
+   "vocabId": "lesson_12_v_hanasemasu"
+  },
+  {
+   "id": "lesson_12_e32",
+   "type": "fill_blank",
+   "prompt": "I will return tomorrow: あした かえり___。",
+   "accepted": [
+    "masu",
+    "ます"
+   ],
+   "explanation": "From the Q&A: あした かえり ます。(I will return tomorrow — no に after あした.)",
+   "source": "lesson_12 p.242",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_12_v_kaeru"
+  },
+  {
+   "id": "lesson_12_e33",
+   "type": "word_order",
+   "prompt": "Order the words: I don't understand Japanese.",
+   "tokens": [
+    "にほんご",
+    "が",
+    "わり ませ ん"
+   ],
+   "explanation": "にほんご が わかり ませ ん。 — が marks the thing understood; the verb comes last.",
+   "source": "lesson_12 p.241",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_12_v_wakaru"
+  },
+  {
+   "id": "lesson_12_e34",
+   "type": "multiple_choice",
+   "prompt": "In the short dialogue, Mr. Tanaka says 'きょうは あついですね'. What does he mean?",
+   "choices": [
+    "Where are you going?",
+    "Today sure is hot.",
+    "It has been a long time.",
+    "From now on I will study."
+   ],
+   "answerIndex": 1,
+   "explanation": "New expression from the dialogue: きょうは あついですね = Today sure is hot.",
+   "source": "lesson_12 p.249",
+   "verified": true,
+   "skill": "phrases",
+   "vocabId": "lesson_12_v_atsui"
+  }
+ ],
+ "quiz": [
+  {
+   "id": "lesson_12_q1",
+   "type": "multiple_choice",
+   "prompt": "In a Japanese sentence, the verb always comes...",
+   "choices": [
+    "first",
+    "last",
+    "after the question word",
+    "right after the location"
+   ],
+   "answerIndex": 1,
+   "explanation": "Verbs always come last in Japanese sentences.",
+   "source": "lesson_12 p.240",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_12_q2",
+   "type": "multiple_choice",
+   "prompt": "What does きました mean?",
+   "choices": [
+    "will come, do come",
+    "came",
+    "didn't come",
+    "won't come"
+   ],
+   "answerIndex": 1,
+   "explanation": "The irregular verb くる: き + ました = きました (came).",
+   "source": "lesson_12 p.238",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_12_v_kuru"
+  },
+  {
+   "id": "lesson_12_q3",
+   "type": "fill_blank",
+   "prompt": "Won't come, don't come: き___ (polite present negative of くる).",
+   "accepted": [
+    "masen",
+    "ません"
+   ],
+   "explanation": "くる conjugates irregularly: き ませ ん = won't come, don't come.",
+   "source": "lesson_12 p.238",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_12_v_kuru"
+  },
+  {
+   "id": "lesson_12_q4",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "がっこう に いませ ん でし た",
+   "choices": [
+    "I didn't go to school.",
+    "I am not going to school.",
+    "I went to school.",
+    "I will go to school."
+   ],
+   "answerIndex": 0,
+   "explanation": "Example sentence 3: がっこう に い ませ ん でし た = I didn't go to school.",
+   "source": "lesson_12 p.239",
+   "verified": true,
+   "skill": "sentences"
+  },
+  {
+   "id": "lesson_12_q5",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "なにじんですか",
+   "choices": [
+    "What nationality are you?",
+    "What language do you speak?",
+    "Where are you from?",
+    "What is your name?"
+   ],
+   "answerIndex": 0,
+   "explanation": "なに じん です か = What nationality are you? (I am Mexican: Mekishiko じん です。)",
+   "source": "lesson_12 p.242",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_12_v_nanijin"
+  },
+  {
+   "id": "lesson_12_q6",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "すいようびに かえりました",
+   "choices": [
+    "I came back on Wednesday.",
+    "I will return on Sunday.",
+    "I didn't return.",
+    "I went to Korea."
+   ],
+   "answerIndex": 0,
+   "explanation": "From the Q&A: すいようび に かえり まし た = I came back on Wednesday.",
+   "source": "lesson_12 p.242",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_12_v_kaeru"
+  }
+ ],
+ "summary": "Four verbs (いく, くる, かえる, わかる) meet four polite endings: change the last hiragana of the dictionary form to the い form (regular verbs only — くる is irregular and must be memorized), then add ~masu (will/do), ~masen (won't/don't), ~mashita (did) or ~masen deshita (didn't). Locations and destinations take に (へ is also possible, pronounced え); specific times take に for 'in/on/at', but relative words like きょう、あした、らいしゅう take no に — if you don't use IN, ON or AT in English, don't use に in Japanese. Verbs always end the sentence, and か after the verb makes a question. Mark what you understand with が (にほんご が わかります), and build languages with ～ご and nationalities with ～じん."
+}

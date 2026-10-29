@@ -1,0 +1,25 @@
+{
+  "pdf_page": 155,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img955__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0151",
+    "page_0152",
+    "page_0153",
+    "page_0154",
+    "page_0155"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 345,
+  "lines": 21,
+  "usage": {
+    "input_tokens": 5838,
+    "output_tokens": 1301,
+    "total_tokens": 7139
+  },
+  "raw_batch_response": "===PAGE page_0151===\nJapanese From Zero! – Lesson 7 – Locations\n151\n\n3. Is it over there?\nYes, it’s here.\nNo, it’s there.\nNo, it’s not over there.\n\nあそこ ですか。\nはい、ここ です。\nいいえ、そこ です。\nいいえ、あそこ ja ない です。\n\n4. Where is the dog?\nThe dog is over there.\nThe dog is outside.\nThe dog isn’t inside.\n\nいぬ は どこ ですか。\nいぬ は あそこ です。\nいぬ は そと です。\nいぬ は なか ja ない です。\n\n7 Q&A しつもん と こたえ J→E\n\n1. いい ですか\nはい、いい です。\nいいえ、yo く ない です。\n\nIs it good?\nYes, it’s good.\nNo, it’s not good.\n\n2. どこ が いい ですか。\nここ が いい です。\nそこ が いい です。\n\nWhat place is good?\nThis place is good.\nThat place is good.\n\n3. おいしい resutoran は どこ ですか。\nご men なさい、わか rima せ n.\nおいしい resutoran は あそこ です。\nあそこ が いい です。\n\nWhere is a good (-tasting) restaurant?\nI’m sorry, I don’t know.\nA good restaurant is over there.\nThat place over there is good.\n\n4. にほ n の < ruma が ほしい ですか。\nはい、にほ n の < ruma が だいすき です。\nいいえ、ほしい くない です。\n\nDo you want a Japanese car?\nYes, I really like Japanese cars.\nNo, I don’t want one.\n\n7 Mini Conversation ミニかいわ J→E\n\n1. Conversation between friends.\nA: おなか が すいてい ma す。\nB: Piza が ほしい ですか。\nA: いいえ、すし が ほしい です。\n\nA: I’m hungry!\nB: Do you want pizza?\nA: No, I want sushi.\n\n===PAGE page_0152===\nJapaneseFromZero.com 152\n\n2. Conversation at school between friends.\nA: たなかせ n せい が すき ですか。\nB: だいすき です。あなたは？\nA: すき ja ない です。\nB: Ja あ、だ re が すき ですか。\nA: こば ya し せ n せい が すき です。\n\nA: Do you like Mrs. Tanaka?\nB: I love her! What about you?\nA: I don’t like (her).\nB: Well then, who do you like?\nA: I like Mr. Kobayashi.\n\n3. Conversation between friends.\nA: あなたの < ruma は おおきい ですか。\nB: いいえ、ちいさい です。で mo、おとうさ n の < ruma は おおきい です。\nA: なにい ro ですか。\nB: し ro です。\n\nA: Is your car big?\nB: No, it’s small. But my father’s car is big.\nA: What color is it?\nB: It’s white.\n\n===PAGE page_0153===\nJapanese From Zero! – Lesson 7 – Hiragana まみむめも\n153\n\nHiragana まみむめも\n\nま New Hiragana あたらしい ひらがな\n\nMake sure you learn the correct stroke order since correct stroke order will mean neater characters when writing quickly.\n\nMA\nMI\nMU\nME\nMO\n\nま\nみ\nむ\nめ\nも\n\nま Various Styles スタイル\n\nLook at the various possible styles for the hiragana in this lesson. Write each symbol as neatly as you can, then compare it to the different versions below.\n\nま\nみ\nむ\nめ\nも\nま\nみ\nむ\nめ\nも\nま\nみ\nむ\nめ\nも\nま\nみ\nむ\nめ\nも\nま\nみ\nむ\nめ\nも\n\n===PAGE page_0154===\nJapaneseFromZero.com 154\n\nま Writing Practice れんしゅう\n\nTo practice correct stroke order, first trace the light gray characters, then write each character six times for practice.\n\nma\nmi\nmu\nme\nmo\n\nま\nみ\nむ\nめ\nも\n\nま\nみ\nむ\nめ\nも\n\nま Word Practice ことばの れんしゅう\n\nFill in the appropriate hiragana in the blanks for each word.\n\n1. ____ri (forest)\nmo\n\n2. ____ ____じ (maple leaf)\nmo mi\n\n3. ____ri (impossible)\nmu\n\n4. ____だつ (to stand out)\nme\n\n5. ____ru (to see, to watch)\nmi\n\n6. ____がね (eye glasses)\nme\n\n7. たべ ____の (food)\nmo\n\n8. ____ ____ru (to protect)\nma mo\n\n9. の ____ ____の (a drink)\nmi mo\n\n10. ____しあつい (humid)\nmu\n\n11. ____ほう (magic)\nma\n\n12. ____ ____ず (earthworm)\nmi mi\n\n===PAGE page_0155===\nJapanese From Zero! – Lesson 7 – Hiragana まみむめも\n155\n\nま Everyday Hiragana Words にちじょうの ことば\n\nyoむ\nto read\n\nのみもの\na drink\n\nしつもん\nquestion\n\nなみだ\ntears\n\nうま\nhorse\n\nあめ\ncandy\n\nま Words You Can Write かける ことば\n\nWrite the following words using the hiragana that you just learned. This is a great way to increase your Japanese vocabulary.\n\nまど\n(window)\n\nもも\n(peach)",
+  "extracted_text": "Japanese From Zero! – Lesson 7 – Hiragana まみむめも\n155\n\nま Everyday Hiragana Words にちじょうの ことば\n\nyoむ\nto read\n\nのみもの\na drink\n\nしつもん\nquestion\n\nなみだ\ntears\n\nうま\nhorse\n\nあめ\ncandy\n\nま Words You Can Write かける ことば\n\nWrite the following words using the hiragana that you just learned. This is a great way to increase your Japanese vocabulary.\n\nまど\n(window)\n\nもも\n(peach)"
+}

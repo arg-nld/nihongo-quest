@@ -1,0 +1,40 @@
+JapaneseFromZero.com 256
+
+Example Q&A
+1. なんじから いきますか。 From what time will you go?
+ごじから いきます。 I will go from five o’clock.
+
+2. しごとは なんじから ですか。 From what time is your work?
+しちじはんから です。 It’s from 7:30.
+
+3. どこから きましたか。 Where did you come from?
+あおもりけんから きました。 I came from Aomori Prefecture.
+みやざきしから きました。 I came from Miyazaki City.
+
+4. いつにほんから かえりますか。 When will you return from Japan?
+あした かえります。 I will return tomorrow.
+
+5. なつは きょうからですか。 Is summer from today?
+(Does summer start today?)
+いいえ、あさってからです。 No, it is from the day after tomorrow.
+
+Using the particle まで
+まで means “until”, “up until”, or “as far as”. It comes after a time or location to say “until this
+time” or “until this location”. When まで is used with location, the location is the final
+destination. It can also mean “up until to” or just “to”. Remember that まで and に are
+different. In most cases, に can be thought of as a single destination marker and まで can
+be thought of as a final destination marker.
+
+ま で with time
+Examples
+1. なんじ まで until what time?
+2. いつ まで until when?
+3. さんじ まで until three o’clock
+4. いちがつ まで until January
+5. きょう まで until today
+
+ま で with location
+Examples
+1. とうきょう まで until Tokyo
+2. どこ まで until where
+3. しごと まで until work

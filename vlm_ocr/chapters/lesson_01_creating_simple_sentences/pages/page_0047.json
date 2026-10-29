@@ -1,0 +1,21 @@
+{
+  "pdf_page": 47,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img293__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0047"
+  ],
+  "batch_size": 1,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 744,
+  "lines": 25,
+  "usage": {
+    "input_tokens": 1490,
+    "output_tokens": 242,
+    "total_tokens": 1732
+  },
+  "raw_batch_response": "===PAGE page_0047===\nJapanese From Zero! – Lesson 1 – Lesson Activities 47\n\n❏ Japanese translation\nTranslate the following conversation into English.\n\n1.\nTanaka san: Nan desu ka. Mo う fu desu ka.\nKobayashi san: Mo う い chidoい tte kudasaiい.\nTanaka san: Mo う fu desu ka.\nKobayashi san: いいえ, taoru desu.\nTanaka san: \n\nKobayashi san: \n\nTanaka san: \n\nKobayashi san: \n\n❏ English translation\nTranslate the following conversation into Japanese.\n\n1.\nKouichi: Are you Masumi?\nYasuko: No, I am Yasuko. Are you Yuusuke?\nKouichi: No, I am Kouichi.\nKouichi: \n\nMasumi: \n\nKouichi: \n\n❏ What would you say?\nWhat would you say in the following situations? Write the answer in Japanese.\n\n1. When you want someone to repeat what they said:\n\n\n\n2. When you meet someone for the first time:",
+  "extracted_text": "Japanese From Zero! – Lesson 1 – Lesson Activities 47\n\n❏ Japanese translation\nTranslate the following conversation into English.\n\n1.\nTanaka san: Nan desu ka. Mo う fu desu ka.\nKobayashi san: Mo う い chidoい tte kudasaiい.\nTanaka san: Mo う fu desu ka.\nKobayashi san: いいえ, taoru desu.\nTanaka san: \n\nKobayashi san: \n\nTanaka san: \n\nKobayashi san: \n\n❏ English translation\nTranslate the following conversation into Japanese.\n\n1.\nKouichi: Are you Masumi?\nYasuko: No, I am Yasuko. Are you Yuusuke?\nKouichi: No, I am Kouichi.\nKouichi: \n\nMasumi: \n\nKouichi: \n\n❏ What would you say?\nWhat would you say in the following situations? Write the answer in Japanese.\n\n1. When you want someone to repeat what they said:\n\n\n\n2. When you meet someone for the first time:"
+}

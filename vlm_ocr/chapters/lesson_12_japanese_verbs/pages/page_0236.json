@@ -1,0 +1,25 @@
+{
+  "pdf_page": 236,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img1451__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0233",
+    "page_0234",
+    "page_0235",
+    "page_0236",
+    "page_0237"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 1116,
+  "lines": 21,
+  "usage": {
+    "input_tokens": 1495,
+    "output_tokens": 276,
+    "total_tokens": 1771
+  },
+  "raw_batch_response": "===PAGE page_0236===\nJapaneseFromZero.com 236\n\nVerb types\n\nEach verb in this lesson has been labeled as regular or irregular. The majority of\nJapanese verbs are regular verbs. We call them “regular” because there are so many\nof them and they all follow the exact same conjugation pattern.\n\nGenerally, irregular verbs do not follow any logical rule. The patterns of irregular verbs\nmust be memorized. Luckily there are only a small amount of irregular verbs.\n\nMaking the conversion\n\nTo make the polite versions of regular verbs, the final hiragana of the dictionary form\nneeds to be changed into the い form.\n\nStep 1: Convert the last hiragana into the い form.\n\nわかる→わかり\nかえる→かえり\nいく→いき\n\nLook back at the hiragana chart at the beginning of this lesson. See the る?\nMove straight up the column to the い. The first step of conjugating regular verbs into\ntheir polite forms is to switch their final hiragana into the い form.\n\nRemember that this pattern will NOT work for irregular verbs such as くる (to come),\nbut only for regular verbs.\n\nIn \"Japanese From Zero!\" Book 2 you will learn how to use the hiragana chart to make\nmore verb conjugations.",
+  "extracted_text": "JapaneseFromZero.com 236\n\nVerb types\n\nEach verb in this lesson has been labeled as regular or irregular. The majority of\nJapanese verbs are regular verbs. We call them “regular” because there are so many\nof them and they all follow the exact same conjugation pattern.\n\nGenerally, irregular verbs do not follow any logical rule. The patterns of irregular verbs\nmust be memorized. Luckily there are only a small amount of irregular verbs.\n\nMaking the conversion\n\nTo make the polite versions of regular verbs, the final hiragana of the dictionary form\nneeds to be changed into the い form.\n\nStep 1: Convert the last hiragana into the い form.\n\nわかる→わかり\nかえる→かえり\nいく→いき\n\nLook back at the hiragana chart at the beginning of this lesson. See the る?\nMove straight up the column to the い. The first step of conjugating regular verbs into\ntheir polite forms is to switch their final hiragana into the い form.\n\nRemember that this pattern will NOT work for irregular verbs such as くる (to come),\nbut only for regular verbs.\n\nIn \"Japanese From Zero!\" Book 2 you will learn how to use the hiragana chart to make\nmore verb conjugations."
+}

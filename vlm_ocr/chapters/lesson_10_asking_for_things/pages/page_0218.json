@@ -1,0 +1,21 @@
+{
+  "pdf_page": 218,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img1341__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0218"
+  ],
+  "batch_size": 1,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 347,
+  "lines": 58,
+  "usage": {
+    "input_tokens": 1490,
+    "output_tokens": 166,
+    "total_tokens": 1656
+  },
+  "raw_batch_response": "===PAGE page_0218===\nJapaneseFromZero.com 218\n\nVocabulary Groups\n\nM direction words\n\nProgressive\nみぎ\nひだり\nうえ\nした\nきた\nひがし\nみなみ\nにし\n\nKanji\n右\n左\n上\n下\n北\n東\n南\n西\n\nEnglish\nright\nleft\nup\ndown\nnorth\neast\nsouth\nwest\n\nN things around the house II\n\nProgressive\nかさ\nいえ\nでんわ\nかぎ\nいす\nごみばこ\ntoire\n\nKanji\n傘\n家\n電話\n鍵\n椅子\nごみ箱\nトイレ\n\nEnglish\numbrella\nhouse\ntelephone\nkey\nchair\ntrash can\ntoilet\n\nごみばこ\n\nかぎ\n\nいえ",
+  "extracted_text": "JapaneseFromZero.com 218\n\nVocabulary Groups\n\nM direction words\n\nProgressive\nみぎ\nひだり\nうえ\nした\nきた\nひがし\nみなみ\nにし\n\nKanji\n右\n左\n上\n下\n北\n東\n南\n西\n\nEnglish\nright\nleft\nup\ndown\nnorth\neast\nsouth\nwest\n\nN things around the house II\n\nProgressive\nかさ\nいえ\nでんわ\nかぎ\nいす\nごみばこ\ntoire\n\nKanji\n傘\n家\n電話\n鍵\n椅子\nごみ箱\nトイレ\n\nEnglish\numbrella\nhouse\ntelephone\nkey\nchair\ntrash can\ntoilet\n\nごみばこ\n\nかぎ\n\nいえ"
+}

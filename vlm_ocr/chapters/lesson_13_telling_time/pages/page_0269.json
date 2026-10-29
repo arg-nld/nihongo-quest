@@ -1,0 +1,23 @@
+{
+  "pdf_page": 269,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img1653__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0267",
+    "page_0268",
+    "page_0269"
+  ],
+  "batch_size": 3,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 191,
+  "lines": 11,
+  "usage": {
+    "input_tokens": 3664,
+    "output_tokens": 523,
+    "total_tokens": 4187
+  },
+  "raw_batch_response": "===PAGE page_0267===\nJapanese From Zero! – Lesson 13 – Lesson Activities 267\n\n□ Short dialogue\nMr. Hashimoto is talking to Mr. Watanabe about his plans for the weekend.\n\nわたなべさん： はしもとさん、あしたも はじから しごとですか。\n\nはしもとさん： いいえ、あしたは やすみです。\n\nわたなべさん： いいですね。あしたは どこに いきますか。\n\nはしもとさん： あしたは おおさかに いきます。\n\nわたなべさん： ひこうきですか。\n\nはしもとさん： はい。くじの ひこうきです。くうこうに\nはじに いきます。\n\nわたなべさん： そうですか。いつ かえりますか。\n\nはしもとさん： らいしゅうの かようびに とうきょうに かえります。\n\n\n□ Short dialogue activities\n1. Practice reading the dialogue in pairs.\n2. Talk about your weekend plans.\n- Use the new verbs: 〜 に いきます / きます / かえります\n\n===PAGE page_0268===\nJapaneseFromZero.com 268\n\n13 Drill ドリル\n\nTranslate the following sentences. If you're not sure what they mean, we recommended that\nyou review the lesson up to this point before continuing.\n\n1. なんじに いきますか。\n2. でんしゃは なんじですか。\n3. がっこうは いちじから はじまで です。\n4. あなたの しごとは なんじから ですか。\n5. ごぜん ろくじに くうこうに いきます。\n\n13 Sentence Building ぶんのつくり\n\nIn each lesson we will build on a previous sentence. Watch it transform each time new\nconcepts are introduced.\n\nあした、ごごさんじに にほんに いきます。\nTomorrow I am going to Japan at 3 p.m.\n\nCompare how the sentence has changed from the prior lesson:\n\nLesson 12: あした、ごごさんじに にほんに いきます。\nTomorrow I am going to Japan.\n\n===PAGE page_0269===\nJapanese From Zero! – APPENDICES 269\n\nAPPENDICES\n\nEveryday Phrases\n\nLast Names\n\nGirls' Given Names\n\nBoys' Given Names\n\nAnswer Key\n\nEnglish Glossary\n\nRo-moji Glossary\n\nKana Glossary\n\nJapan Map",
+  "extracted_text": "Japanese From Zero! – APPENDICES 269\n\nAPPENDICES\n\nEveryday Phrases\n\nLast Names\n\nGirls' Given Names\n\nBoys' Given Names\n\nAnswer Key\n\nEnglish Glossary\n\nRo-moji Glossary\n\nKana Glossary\n\nJapan Map"
+}

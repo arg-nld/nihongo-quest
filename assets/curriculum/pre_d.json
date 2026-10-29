@@ -1,0 +1,809 @@
+{
+ "sectionId": "pre_d",
+ "title": "Pre-Lesson D",
+ "subtitle": "Coming and Going",
+ "pages": "29-33",
+ "objectives": [
+  "Use the daily greetings: ohayou gozaimasu, konnichiwa, konbanwa, oyasuminasai, arigatou gozaimasu",
+  "Exchange leaving/returning phrases: itte kimasu / itterasshai, tadaima / okaerinasai",
+  "Pronounce 'masu' naturally as 'mas' (silent final u)"
+ ],
+ "kanaFocus": [],
+ "vocab": [
+  {
+   "id": "pre_d_v_ohayou",
+   "japanese": "おはようございます",
+   "romaji": "ohayou gozaimasu",
+   "english": "Good morning (ohayou = casual)",
+   "source": "pre_d p.29",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_konnichiwa",
+   "japanese": "こんにちは",
+   "romaji": "konnichiwa",
+   "english": "Good afternoon",
+   "source": "pre_d p.29",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_konbanwa",
+   "japanese": "こんばんは",
+   "romaji": "konbanwa",
+   "english": "Good evening (only when first meeting in the evening)",
+   "source": "pre_d p.29",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_oyasumi",
+   "japanese": "おやすみなさい",
+   "romaji": "oyasuminasai / oyasumi",
+   "english": "Good night",
+   "source": "pre_d p.29",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_arigatou",
+   "japanese": "ありがとうございます",
+   "romaji": "arigatou gozaimasu / arigatou",
+   "english": "Thank you",
+   "source": "pre_d p.29",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_ittekimasu",
+   "japanese": "いってきます",
+   "romaji": "itte kimasu",
+   "english": "I'll go and come back / I'll be back",
+   "source": "pre_d p.30",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_itterasshai",
+   "japanese": "いってらっしゃい",
+   "romaji": "itterasshai",
+   "english": "Have a good day / Take care (reply to itte kimasu)",
+   "source": "pre_d p.30",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_tadaima",
+   "japanese": "ただいま",
+   "romaji": "tadaima",
+   "english": "I'm home / I'm back",
+   "source": "pre_d p.30",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_okaerinasai",
+   "japanese": "おかえりなさい",
+   "romaji": "okaerinasai",
+   "english": "Welcome back home (reply to tadaima)",
+   "source": "pre_d p.30",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_kuchi",
+   "japanese": "くち",
+   "romaji": "kuchi",
+   "english": "mouth (vocabulary group A: body)",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_me",
+   "japanese": "め",
+   "romaji": "me",
+   "english": "eye (body)",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_mimi",
+   "japanese": "みみ",
+   "romaji": "mimi",
+   "english": "ear (body)",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_hana",
+   "japanese": "はな",
+   "romaji": "hana",
+   "english": "nose (body)",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_kao",
+   "japanese": "かお",
+   "romaji": "kao",
+   "english": "face (body)",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_te",
+   "japanese": "て",
+   "romaji": "te",
+   "english": "hand (body)",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_ashi",
+   "japanese": "あし",
+   "romaji": "ashi",
+   "english": "foot; leg (body)",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_yubi",
+   "japanese": "ゆび",
+   "romaji": "yubi",
+   "english": "finger (body)",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_atama",
+   "japanese": "あたま",
+   "romaji": "atama",
+   "english": "head (body)",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_ha",
+   "japanese": "は",
+   "romaji": "ha",
+   "english": "tooth, teeth (body)",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_makura",
+   "japanese": "まくら",
+   "romaji": "makura",
+   "english": "pillow (vocabulary group B: bed and bath)",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_beddo",
+   "japanese": "ベッド",
+   "romaji": "beddo",
+   "english": "bed",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_futon",
+   "japanese": "ふとん",
+   "romaji": "futon",
+   "english": "futon",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_moufu",
+   "japanese": "もうふ",
+   "romaji": "moufu",
+   "english": "blanket",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_taoru",
+   "japanese": "タオル",
+   "romaji": "taoru",
+   "english": "towel",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_ofuro",
+   "japanese": "おふろ",
+   "romaji": "ofuro",
+   "english": "bath",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_sekken",
+   "japanese": "せっけん",
+   "romaji": "sekken",
+   "english": "soap",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_haburashi",
+   "japanese": "ハブラシ",
+   "romaji": "haburashi",
+   "english": "toothbrush",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_kagami",
+   "japanese": "かがみ",
+   "romaji": "kagami",
+   "english": "mirror",
+   "source": "pre_d p.32",
+   "verified": true
+  },
+  {
+   "id": "pre_d_v_mado",
+   "japanese": "まど",
+   "romaji": "mado",
+   "english": "window",
+   "source": "pre_d p.32",
+   "verified": true
+  }
+ ],
+ "grammar": [
+  {
+   "id": "pre_d_g_daily",
+   "title": "Daily greetings",
+   "pattern": "ohayou gozaimasu / konnichiwa / konbanwa / oyasuminasai / arigatou gozaimasu",
+   "explanation": "Short versions (ohayou, oyasumi, arigatou) are for friends, family and casual relationships. Konbanwa is only used when you first meet someone in the evening - not at the end of an evening.",
+   "examples": [
+    {
+     "japanese": "こんにちは",
+     "romaji": "konnichiwa",
+     "english": "Good afternoon - hold the double n"
+    }
+   ],
+   "mistakes": [
+    "Using konbanwa to say goodbye at night - that is oyasuminasai"
+   ],
+   "source": "pre_d p.29"
+  },
+  {
+   "id": "pre_d_g_leave",
+   "title": "Leaving and returning home",
+   "pattern": "itte kimasu → itterasshai; tadaima → okaerinasai",
+   "explanation": "These paired phrases are said daily by millions of Japanese: you say itte kimasu when leaving, they answer itterasshai. You say tadaima when arriving home, they answer okaerinasai.",
+   "examples": [
+    {
+     "japanese": "いってきます！",
+     "romaji": "itte kimasu!",
+     "english": "I'm off (I'll go and come back)!"
+    },
+    {
+     "japanese": "いってらっしゃい！",
+     "romaji": "itterasshai!",
+     "english": "Take care!"
+    },
+    {
+     "japanese": "ただいま！",
+     "romaji": "tadaima!",
+     "english": "I'm home!"
+    },
+    {
+     "japanese": "おかえりなさい！",
+     "romaji": "okaerinasai!",
+     "english": "Welcome back!"
+    }
+   ],
+   "mistakes": [
+    "Answering tadaima with itterasshai - the pairs are fixed"
+   ],
+   "source": "pre_d p.30"
+  },
+  {
+   "id": "pre_d_g_masu",
+   "title": "The silent 'u' in masu",
+   "pattern": "...masu → pronounced 'mas'",
+   "explanation": "In everyday spoken Japanese the final u of -masu words is silent: gozaimasu sounds like 'gozaimas', kimasu like 'kimass'. This makes you sound natural.",
+   "examples": [
+    {
+     "japanese": "いってきます",
+     "romaji": "itte kimas(u)",
+     "english": "said like 'itte kimass'"
+    }
+   ],
+   "mistakes": [
+    "Pronouncing a full 'masu' with a strong final 'oo' sound"
+   ],
+   "source": "pre_d p.31"
+  },
+  {
+   "id": "pre_d_g_progressive",
+   "title": "Progressive, Kana and Kanji versions",
+   "pattern": "Progressive → Kana → Kanji",
+   "explanation": "The book introduces each word three ways: Progressive (romaji that slowly becomes kana as you learn), Kana (hiragana/katakana as normally written), and Kanji (when the word normally uses kanji).",
+   "examples": [
+    {
+     "japanese": "せっけん",
+     "romaji": "sekken",
+     "english": "soap - kana version; kanji is 石けん"
+    }
+   ],
+   "mistakes": [],
+   "source": "pre_d p.32"
+  }
+ ],
+ "exercises": [
+  {
+   "id": "pre_d_e1",
+   "type": "match",
+   "prompt": "Match greeting to time/occasion:",
+   "pairs": [
+    {
+     "left": "morning",
+     "right": "ohayou gozaimasu"
+    },
+    {
+     "left": "afternoon",
+     "right": "konnichiwa"
+    },
+    {
+     "left": "evening (meeting)",
+     "right": "konbanwa"
+    },
+    {
+     "left": "going to bed",
+     "right": "oyasuminasai"
+    }
+   ],
+   "explanation": "The four daily greetings.",
+   "source": "pre_d p.29",
+   "verified": true,
+   "skill": "greetings"
+  },
+  {
+   "id": "pre_d_e2",
+   "type": "multiple_choice",
+   "prompt": "Which phrase can NOT be used at the end of an evening?",
+   "choices": [
+    "oyasuminasai",
+    "konbanwa",
+    "arigatou",
+    "konnichiwa"
+   ],
+   "answerIndex": 1,
+   "explanation": "Konbanwa is only for when you first meet someone in the evening.",
+   "source": "pre_d p.29",
+   "verified": true,
+   "skill": "greetings"
+  },
+  {
+   "id": "pre_d_e3",
+   "type": "multiple_choice",
+   "prompt": "Jiro leaves for school. What does his mother say?",
+   "choices": [
+    "tadaima",
+    "okaerinasai",
+    "itterasshai",
+    "itte kimasu"
+   ],
+   "answerIndex": 2,
+   "explanation": "The reply to itte kimasu is itterasshai.",
+   "source": "pre_d p.30",
+   "verified": true,
+   "skill": "leave_return"
+  },
+  {
+   "id": "pre_d_e4",
+   "type": "multiple_choice",
+   "prompt": "Kenji arrives home and says 'Tadaima.' His father replies...",
+   "choices": [
+    "itterasshai",
+    "okaerinasai",
+    "itte kimasu",
+    "ohayou"
+   ],
+   "answerIndex": 1,
+   "explanation": "The reply to tadaima is okaerinasai.",
+   "source": "pre_d p.30",
+   "verified": true,
+   "skill": "leave_return"
+  },
+  {
+   "id": "pre_d_e5",
+   "type": "fill_blank",
+   "prompt": "When you leave home you say: itte ___ (complete the phrase).",
+   "accepted": [
+    "kimasu"
+   ],
+   "explanation": "itte kimasu = 'I'll go and come back'.",
+   "source": "pre_d p.30",
+   "verified": true,
+   "skill": "leave_return",
+   "vocabId": "pre_d_v_ittekimasu"
+  },
+  {
+   "id": "pre_d_e6",
+   "type": "fill_blank",
+   "prompt": "Welcome back home = ___ (roomaji).",
+   "accepted": [
+    "okaerinasai",
+    "okaeri nasai"
+   ],
+   "explanation": "okaerinasai is the response to tadaima.",
+   "source": "pre_d p.30",
+   "verified": true,
+   "skill": "leave_return",
+   "vocabId": "pre_d_v_okaerinasai"
+  },
+  {
+   "id": "pre_d_e7",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "ただいま",
+   "choices": [
+    "I'm home",
+    "Good night",
+    "See you later",
+    "Good morning"
+   ],
+   "answerIndex": 0,
+   "explanation": "tadaima = I'm home / I'm back.",
+   "source": "pre_d p.30",
+   "verified": true,
+   "skill": "leave_return",
+   "vocabId": "pre_d_v_tadaima"
+  },
+  {
+   "id": "pre_d_e8",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "いってらっしゃい",
+   "choices": [
+    "Take care / See you (to someone leaving)",
+    "I'm back",
+    "Welcome home",
+    "Thank you"
+   ],
+   "answerIndex": 0,
+   "explanation": "itterasshai is said to someone who is leaving and will return.",
+   "source": "pre_d p.30",
+   "verified": true,
+   "skill": "leave_return",
+   "vocabId": "pre_d_v_itterasshai"
+  },
+  {
+   "id": "pre_d_e9",
+   "type": "multiple_choice",
+   "prompt": "Which versions are casual (friends/family only)?",
+   "choices": [
+    "ohayou, oyasumi, arigatou",
+    "ohayou gozaimasu, oyasuminasai",
+    "konnichiwa, konbanwa",
+    "tadaima, okaerinasai"
+   ],
+   "answerIndex": 0,
+   "explanation": "The short versions are casual.",
+   "source": "pre_d p.29",
+   "verified": true,
+   "skill": "greetings"
+  },
+  {
+   "id": "pre_d_e10",
+   "type": "multiple_choice",
+   "prompt": "To sound natural, 'gozaimasu' is pronounced...",
+   "choices": [
+    "gozaimasoo",
+    "gozaimas",
+    "gozai masu (full)",
+    "gozaim"
+   ],
+   "answerIndex": 1,
+   "explanation": "The final u of -masu words is silent in everyday speech.",
+   "source": "pre_d p.31",
+   "verified": true,
+   "skill": "pronunciation"
+  },
+  {
+   "id": "pre_d_e11",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "みみ",
+   "choices": [
+    "ear",
+    "eye",
+    "nose",
+    "mouth"
+   ],
+   "answerIndex": 0,
+   "explanation": "mimi = ear (body vocabulary group).",
+   "source": "pre_d p.32",
+   "verified": true,
+   "skill": "vocab_body",
+   "vocabId": "pre_d_v_mimi"
+  },
+  {
+   "id": "pre_d_e12",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "くち",
+   "choices": [
+    "mouth",
+    "eye",
+    "hand",
+    "face"
+   ],
+   "answerIndex": 0,
+   "explanation": "kuchi = mouth.",
+   "source": "pre_d p.32",
+   "verified": true,
+   "skill": "vocab_body",
+   "vocabId": "pre_d_v_kuchi"
+  },
+  {
+   "id": "pre_d_e13",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "あたま",
+   "choices": [
+    "head",
+    "finger",
+    "tooth",
+    "leg"
+   ],
+   "answerIndex": 0,
+   "explanation": "atama = head.",
+   "source": "pre_d p.32",
+   "verified": true,
+   "skill": "vocab_body",
+   "vocabId": "pre_d_v_atama"
+  },
+  {
+   "id": "pre_d_e14",
+   "type": "match",
+   "prompt": "Match body words:",
+   "pairs": [
+    {
+     "left": "め",
+     "right": "eye"
+    },
+    {
+     "left": "はな",
+     "right": "nose"
+    },
+    {
+     "left": "て",
+     "right": "hand"
+    },
+    {
+     "left": "あし",
+     "right": "foot; leg"
+    }
+   ],
+   "explanation": "Body group A.",
+   "source": "pre_d p.32",
+   "verified": true,
+   "skill": "vocab_body"
+  },
+  {
+   "id": "pre_d_e15",
+   "type": "match",
+   "prompt": "Match bed-and-bath words:",
+   "pairs": [
+    {
+     "left": "まくら",
+     "right": "pillow"
+    },
+    {
+     "left": "もうふ",
+     "right": "blanket"
+    },
+    {
+     "left": "タオル",
+     "right": "towel"
+    },
+    {
+     "left": "せっけん",
+     "right": "soap"
+    }
+   ],
+   "explanation": "Bed and bath group B.",
+   "source": "pre_d p.32-33",
+   "verified": true,
+   "skill": "vocab_bedbath"
+  },
+  {
+   "id": "pre_d_e16",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "かがみ",
+   "choices": [
+    "mirror",
+    "window",
+    "toothbrush",
+    "bath"
+   ],
+   "answerIndex": 0,
+   "explanation": "kagami = mirror.",
+   "source": "pre_d p.32",
+   "verified": true,
+   "skill": "vocab_bedbath",
+   "vocabId": "pre_d_v_kagami"
+  },
+  {
+   "id": "pre_d_e17",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "まど",
+   "choices": [
+    "window",
+    "mirror",
+    "floor",
+    "door"
+   ],
+   "answerIndex": 0,
+   "explanation": "mado = window.",
+   "source": "pre_d p.32",
+   "verified": true,
+   "skill": "vocab_bedbath",
+   "vocabId": "pre_d_v_mado"
+  },
+  {
+   "id": "pre_d_e18",
+   "type": "multiple_choice",
+   "prompt": "What does 'ashi' mean?",
+   "choices": [
+    "arm",
+    "foot; leg",
+    "hand",
+    "head"
+   ],
+   "answerIndex": 1,
+   "explanation": "ashi covers both foot and leg.",
+   "source": "pre_d p.32",
+   "verified": true,
+   "skill": "vocab_body",
+   "vocabId": "pre_d_v_ashi"
+  },
+  {
+   "id": "pre_d_e19",
+   "type": "word_order",
+   "prompt": "Order the leave-home exchange (first speaker's line):",
+   "tokens": [
+    "itte",
+    "kimasu"
+   ],
+   "explanation": "itte kimasu - said when leaving.",
+   "source": "pre_d p.30",
+   "verified": true,
+   "skill": "leave_return"
+  },
+  {
+   "id": "pre_d_e20",
+   "type": "fill_blank",
+   "prompt": "Thank you (formal, full version): ___ (roomaji).",
+   "accepted": [
+    "arigatou gozaimasu",
+    "arigatoo gozaimasu"
+   ],
+   "explanation": "arigatou gozaimasu; the short arigatou is casual.",
+   "source": "pre_d p.29",
+   "verified": true,
+   "skill": "greetings",
+   "vocabId": "pre_d_v_arigatou"
+  },
+  {
+   "id": "pre_d_e21",
+   "type": "multiple_choice",
+   "prompt": "You are leaving a friend's house and will return soon. You say...",
+   "choices": [
+    "tadaima",
+    "itte kimasu",
+    "okaerinasai",
+    "itterasshai"
+   ],
+   "answerIndex": 1,
+   "explanation": "itte kimasu works for leaving any place you plan to return to.",
+   "source": "pre_d p.30",
+   "verified": true,
+   "skill": "leave_return"
+  },
+  {
+   "id": "pre_d_e22",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "おふろ",
+   "choices": [
+    "bath",
+    "bed",
+    "shower",
+    "soap"
+   ],
+   "answerIndex": 0,
+   "explanation": "ofuro = bath.",
+   "source": "pre_d p.32",
+   "verified": true,
+   "skill": "vocab_bedbath",
+   "vocabId": "pre_d_v_ofuro"
+  }
+ ],
+ "quiz": [
+  {
+   "id": "pre_d_q1",
+   "type": "multiple_choice",
+   "prompt": "Correct pair exchange when someone comes home:",
+   "choices": [
+    "tadaima → itterasshai",
+    "tadaima → okaerinasai",
+    "itte kimasu → okaerinasai",
+    "konnichiwa → konbanwa"
+   ],
+   "answerIndex": 1,
+   "explanation": "tadaima / okaerinasai is the return-home pair.",
+   "source": "pre_d p.30",
+   "verified": true,
+   "skill": "leave_return"
+  },
+  {
+   "id": "pre_d_q2",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "おはようございます",
+   "choices": [
+    "Good morning",
+    "Good evening",
+    "Good night",
+    "Thank you"
+   ],
+   "answerIndex": 0,
+   "explanation": "ohayou gozaimasu = good morning.",
+   "source": "pre_d p.29",
+   "verified": true,
+   "skill": "greetings"
+  },
+  {
+   "id": "pre_d_q3",
+   "type": "multiple_choice",
+   "prompt": "Which is TRUE about 'itte kimasu'?",
+   "choices": [
+    "Only said at your own home",
+    "Also said when leaving any place you plan to return to",
+    "Only said by children",
+    "The reply to tadaima"
+   ],
+   "answerIndex": 1,
+   "explanation": "It works for leaving any place you will return to.",
+   "source": "pre_d p.30",
+   "verified": true,
+   "skill": "leave_return"
+  },
+  {
+   "id": "pre_d_q4",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "ゆび",
+   "choices": [
+    "finger",
+    "tooth",
+    "face",
+    "ear"
+   ],
+   "answerIndex": 0,
+   "explanation": "yubi = finger.",
+   "source": "pre_d p.32",
+   "verified": true,
+   "skill": "vocab_body",
+   "vocabId": "pre_d_v_yubi"
+  },
+  {
+   "id": "pre_d_q5",
+   "type": "multiple_choice",
+   "prompt": "Silent-u practice: 'arigatou gozaimasu' naturally sounds like...",
+   "choices": [
+    "arigatou gozaimas",
+    "arigatoo gozaimasuu",
+    "arigato gozai",
+    "arigat"
+   ],
+   "answerIndex": 0,
+   "explanation": "Final u of masu is dropped in natural speech.",
+   "source": "pre_d p.31",
+   "verified": true,
+   "skill": "pronunciation"
+  }
+ ],
+ "summary": "Daily greetings (short versions are casual). Leaving home: itte kimasu / itterasshai. Coming home: tadaima / okaerinasai. Say 'masu' as 'mas'. Vocabulary groups A (body) and B (bed & bath) begin here and recur in later lessons."
+}

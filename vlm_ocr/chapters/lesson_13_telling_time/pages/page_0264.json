@@ -1,0 +1,25 @@
+{
+  "pdf_page": 264,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img1622__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0262",
+    "page_0263",
+    "page_0264",
+    "page_0265",
+    "page_0266"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 362,
+  "lines": 19,
+  "usage": {
+    "input_tokens": 5838,
+    "output_tokens": 984,
+    "total_tokens": 6822
+  },
+  "raw_batch_response": "===PAGE page_0262===\nJapaneseFromZero.com 262\n\n2. なんじに しごと / がっこうに いきますか。\n\n3. なんようびに しごと / がっこうに いきますか。\n\n4. なんじに いえに かえりますか。\n\n5. いま、なんじですか。\n\n6. にほんごの じゅぎょうは なんじから なんじまでですか。\n\n7. あなたの にほんごの せんせいは だれですか。\n\n8. ふゆは なんがつから なんがつまでですか。(December to February)\n\n9. なつは なんがつから なんがつまでですか。(June to September)\n\n\n□ Reading comprehension questions\nAnswer the following questions about the reading comprehension in this lesson. Write all\nthe answers in hiragana (except for the katakana words).\n\n1. ここは どこですか。\n\n===PAGE page_0263===\nJapanese From Zero! - Lesson 13 - Lesson Activities 263\n\n2. だれが にほんごの がっこうに じゅうじに きましたか。\n\n3. きょうの じゅぎょうは いつですか。\n\n4. Samu さんのおしごとは なんじから なんじまでですか。\n\n5. Samu さんは いえに なんじに かえりましたか。\n\n6. Jon さんのお arubaito は なんじから なんじまでですか。\n\n7. Jon さんは なんじに にほんごの がっこうに きましたか。\n\n8. Jon さんは にじはんに どこに いきますか。\n\n===PAGE page_0264===\nJapaneseFromZero.com 264\n\n□ Japanese translation\nTranslate the following conversations into English.\n\n1.\nAさん: いつから しごとですか。\nBさん: にがつ ようかからです。\nAさん: しごとは なんじから なんじまでですか。\nBさん: ごぜん はちじから ごご よじまでです。\n\n2.\nAさん: いま なんじですか。\nBさん: よじ にじゅっぷんです。\nAさん: よじはん に いえに かえります。\nBさん: いえは どこですか。\nAさん: あそこです。\n\n3.\nAさん: あしたから にほんに かえります。\nBさん: いつまでですか。\nAさん: はちがつ じゅうごにちまでです。\nBさん: そうですか。いいですね。\n\n===PAGE page_0265===\nJapanese From Zero! - Lesson 13 - Lesson Activities 265\n\n□ English translation\nTranslate the following conversations into Japanese.\n\n1.\nMr. A: When did you come here?\nMs. B: I came at nine.\nMr. A: Where is your friend?\nMs. B: My friend didn't come.\nMr. A: Where is your friend now?\nMs. B: He is at home now.\n\n2.\nMrs. A: What time is your airplane?\nMr. B: It's 10:30 a.m.\nMrs. A: What time are you going to the airport?\nMr. B: I'll go at 9:00.\nMrs. A: Got it.\n\n===PAGE page_0266===\nJapaneseFromZero.com 266\n\n3.\nMr. A: From what time is your part time job?\nMr. B: It's from 1:00 p.m.\nMr. A: Do you like your part time job?\nMr. B: No, I don't like it.\n\n□ Particle drill\nFill in the blanks with appropriate particles.\n\n1. わたし ________ しごと ________ はちじ ________ ごじ ________ です。\n\n2. せんげつ ________ じゅうごにち ________ もくようびでした。\n\n3. なんじ ________ いえ ________ かえります ________ ?\n\n4. やまださん ________ くるま ________ しろ ________ gure- です。\n\n5. いぬ ________ すきです。でも、ねこ ________ きらいです。\n\n6. あたらしい じてんしゃ ________ ほしいです。\n\n7. どれ ________ たなかさん ________ ほんです ________ ?\n\n8. かようび ________ とうきょう ________ いきます。\n\n9. Hanba-ga- ________ poteto ________ おねがいします。\n\nKo-ra ________ (also) おねがいします。",
+  "extracted_text": "JapaneseFromZero.com 264\n\n□ Japanese translation\nTranslate the following conversations into English.\n\n1.\nAさん: いつから しごとですか。\nBさん: にがつ ようかからです。\nAさん: しごとは なんじから なんじまでですか。\nBさん: ごぜん はちじから ごご よじまでです。\n\n2.\nAさん: いま なんじですか。\nBさん: よじ にじゅっぷんです。\nAさん: よじはん に いえに かえります。\nBさん: いえは どこですか。\nAさん: あそこです。\n\n3.\nAさん: あしたから にほんに かえります。\nBさん: いつまでですか。\nAさん: はちがつ じゅうごにちまでです。\nBさん: そうですか。いいですね。"
+}

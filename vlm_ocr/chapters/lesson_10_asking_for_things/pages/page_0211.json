@@ -1,0 +1,25 @@
+{
+  "pdf_page": 211,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img1298__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0208",
+    "page_0209",
+    "page_0210",
+    "page_0211",
+    "page_0212"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 273,
+  "lines": 31,
+  "usage": {
+    "input_tokens": 5838,
+    "output_tokens": 664,
+    "total_tokens": 6502
+  },
+  "raw_batch_response": "===PAGE page_0208===\nJapaneseFromZero.com 208\n\nNYA にゃ\nNYU にゅ\nNYO にょ\n\nHYA ひゃ\nHYU ひゅ\nHYO ひょ\n\nBYA びゃ\nBYU びゅ\nBYO びょ\n\nPYA ぴゃ\nPYU ぴゅ\nPYO ぴょ\n\n===PAGE page_0209===\nJapanese From Zero! - Lesson 10 - Compound Hiragana 209\n\nMYA みゃ\nMYU みゅ\nMYO みょ\n\nRYA りゃ\nRYU りゅ\nRYO りょ\n\n===PAGE page_0210===\nJapaneseFromZero.com 210\n\nきゃ Word Practice ことばの れんしゅう\n\nFill in the appropriate hiragana in the blanks for each word.\n\n1. とうちゃく (arrival)\n2. さんびゃく (three hundred)\n3. としょかん (library)\n4. ぎゅうにゅう (cow's milk)\n5. さんみゃく (mountain range)\n6. しょうばい (business, commerce)\n7. じゅうたん (carpet)\n8. でんぴょう (sales slip, voucher)\n9. きょうだい (siblings)\n10. きょうりゅう (dinosaur)\n11. りゅうがく (study abroad)\n12. ぎゅうどん (beef bowl)\n\nきゃ Words You Can Write かける ことば\n\nWrite the following words using the hiragana compounds that you've learned in this lesson.\nThis is a great way to increase your Japanese vocabulary.\n\nちょう\n(butterfly)\nち ょ う\n\nきゅう\n(nine)\nき ゅ う\n\nびょうき\n(sick)\nび ょ う き\n\n===PAGE page_0211===\nJapanese From Zero! - Lesson 10 - Compound Hiragana 211\n\nじゅう\n(ten)\nじ ゅ う\n\nりゅう\n(dragon)\nり ゅ う\n\nぎゃく\n(reverse)\nぎ ゃ く\n\nみょうじ\n(last name)\nみ ょ う じ\n\nしゅうり\n(repair)\nし ゅ う り\n\nきょく\n(a song)\nき ょ く\n\nきょうと\n(Kyoto)\nき ょ う と\n\nりょこう\n(travel)\nり ょ こ う\n\nかいしゃ\n(company)\nか い し ゃ\n\nでんしゃ\n(train)\nで ん し ゃ\n\n===PAGE page_0212===\nJapaneseFromZero.com 212\n\nきんぎょ\n(gold fish)\nき ん ぎ ょ\n\nちゃわん\n(bowl)\nちゃ わ ん\n\nきゃ Everyday Hiragana Words にちじょうの ことば\n\nちきゅうぎ\nglobe\n\nしゅう\nstate\n\nおちゃ\ntea\n\nべんきょう\nstudy\n\nちゅうしゃ\nshot\n\nしゅうり\nrepair",
+  "extracted_text": "Japanese From Zero! - Lesson 10 - Compound Hiragana 211\n\nじゅう\n(ten)\nじ ゅ う\n\nりゅう\n(dragon)\nり ゅ う\n\nぎゃく\n(reverse)\nぎ ゃ く\n\nみょうじ\n(last name)\nみ ょ う じ\n\nしゅうり\n(repair)\nし ゅ う り\n\nきょく\n(a song)\nき ょ く\n\nきょうと\n(Kyoto)\nき ょ う と\n\nりょこう\n(travel)\nり ょ こ う\n\nかいしゃ\n(company)\nか い し ゃ\n\nでんしゃ\n(train)\nで ん し ゃ"
+}

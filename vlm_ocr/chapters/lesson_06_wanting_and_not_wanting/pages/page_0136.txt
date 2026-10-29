@@ -1,0 +1,24 @@
+JapaneseFromZero.com 136
+
+pa ぱ ぱ
+pi ぴ ぴ
+pu ぷ ぷ
+pe ぺ ぺ
+po ぽ ぽ
+
+は Special Usage とくべつな つかいかた
+
+□ The topic marker は (wa)
+A topic marker in Japanese identifies the subject of a sentence. The topic marker "wa" is written using the は (ha) character and can never be written using the わ (wa) character. In all other situations, は (ha) is always read as “ha.”
+
+Example Sentences
+1. あなたは (wa) だ re ですか。 Who are you?
+2. Banana は (wa) きい ro です。 Bananas are yellow.
+
+□ The direction marker へ (e)
+The direction marker "e" is written using the へ (he) character and can never be written using the え (e) character. In all other situations, へ (he) is always read as “he.”
+NOTE: This grammar point is covered in Lesson 12.
+
+Example Sentences
+1. がっこうへ (e) いき ma す。 I am going towards (to) school.
+2. とう kyo うへ (e) いき ma す。 I am going towards (to) Tokyo.

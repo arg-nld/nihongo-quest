@@ -1,0 +1,24 @@
+{
+  "pdf_page": 248,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img1524__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0248",
+    "page_0249",
+    "page_0250",
+    "page_0251"
+  ],
+  "batch_size": 4,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 313,
+  "lines": 10,
+  "usage": {
+    "input_tokens": 4751,
+    "output_tokens": 786,
+    "total_tokens": 5537
+  },
+  "raw_batch_response": "===PAGE page_0248===\nJapaneseFromZero.com 248\n\n❑ Reading comprehension questions\nAnswer the following questions about the reading comprehension in this lesson.\n\n1. まりさんは きのう どこに かえりましたか。\n\n2. まりさんの ともだちの なまえは なんですか。\n\n3. きょうは なんがつ なんにち ですか。\n\n4. まりさんは くがつに どこに いきましたか。\n\n5. まりさんは らいねん どこに いきますか。\n\n6. ここは どこですか。\n\n7. まりさんは はちがつに どこに いきましたか。\n\n===PAGE page_0249===\nJapanese From Zero! – Lesson 12 – Lesson Activities 249\n\n❑ Short dialogue\nMr. Tanaka sees Ms. Smith (Sumisu) on the street and they start a conversation.\n\nSumisu さん: たなかさん、こんにちは。\n\nたなかさん: Sumisu さん、こんにちは。きょうは あついですね。\n\nSumisu さん: はい、あついですね。\n\nたなかさん: どこに いきますか。\n\nSumisu さん: いまから ①がっこうに いきますか。\n\nたなかさん: ②なんの がっこう ですか。\n\nSumisu さん: ③にほんごがっこう です。\n\nたなかさん: そうですか。わたしは いまから ④しごとに いきます。\n\nNew words and expressions in the dialogue\nProgressive Kanji+ English\nいまから 今から from now / from now on\nなんの？ 何の？ What? Which? What kind of?\nきょうは あついですね。 今日は暑いですね。 Today sure is hot.\n\n❑ Short dialogue activities\nPractice reading the above dialogue in pairs.\nSubstitute ①–④ with the following words and try\nthe conversation again.\n\nA) ① Movies (えいが)\n② What movie is it?\n③ Any movie\n④ I'm going to the bank\n\n===PAGE page_0250===\nJapaneseFromZero.com 250\n\nB) ① Party\n② What (kind of) party is it?\n③ school party\n④ I'm going home\n\nC) ① McDonald's\n② Where is it?\n③ It's over there\n④ I'm going to school\n\n❑ Japanese translation\nTranslate the following conversation into Japanese.\n\n1.\n\nRyouhei: I am going to China.\n\nNobuko: I went last year. When are you going?\n\nRyouhei: On the 20th of next month.\n\nNobuko: When will you return?\n\nRyouhei: Maybe on the 30th.\n\nNobuko: That's nice.\n\nRyouhei:\n\nNobuko:\n\nRyouhei:\n\nNobuko:\n\nRyouhei:\n\nNobuko:\n\n===PAGE page_0251===\nJapanese From Zero! – Lesson 12 – Lesson Activities 251\n\n12 Drill ドリル\n\nTranslate the following sentences. If you're not sure what they mean, we recommended that\nyou review the lesson up to this point before continuing.\n\n1. どこに いきますか。\n2. いつ かえりますか。\n3. きんようびに いきました。\n4. にほんごが わかりませんか。\n5. なんがつに いきますか。\n\n12 Sentence Building ぶんのつくり\n\nIn this lesson we are starting a new sentence to build on. Watch it grow and transform as new\nconcepts are introduced.\n\nあした にほんにと いきます。\nTomorrow, I am going to Japan.",
+  "extracted_text": "JapaneseFromZero.com 248\n\n❑ Reading comprehension questions\nAnswer the following questions about the reading comprehension in this lesson.\n\n1. まりさんは きのう どこに かえりましたか。\n\n2. まりさんの ともだちの なまえは なんですか。\n\n3. きょうは なんがつ なんにち ですか。\n\n4. まりさんは くがつに どこに いきましたか。\n\n5. まりさんは らいねん どこに いきますか。\n\n6. ここは どこですか。\n\n7. まりさんは はちがつに どこに いきましたか。"
+}

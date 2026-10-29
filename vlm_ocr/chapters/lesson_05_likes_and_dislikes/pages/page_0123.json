@@ -1,0 +1,23 @@
+{
+  "pdf_page": 123,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img759__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0123",
+    "page_0124",
+    "page_0125"
+  ],
+  "batch_size": 3,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 799,
+  "lines": 21,
+  "usage": {
+    "input_tokens": 3664,
+    "output_tokens": 864,
+    "total_tokens": 4528
+  },
+  "raw_batch_response": "===PAGE page_0123===\nJapanese From Zero! – Lesson 5 – Lesson Activities 123\n\n□ Short dialogue\nMs. Mori and Ms. Nishida are talking about movies.\n\nMori さん:    にしださ n wa えいがが すきですか。\n\nにしださん:    Ha い、だいすきです。\n\nMori さん:    Wa たし mo です。\nHa い yu う wa だ re が すきですか。\n\nにしださん:    Harison Fo-do が すきです。\n\nMori さん:    そうですか。\nWa たし wa Buraddo Pitto が すきです。\n\nにしださん:    Wa たし mo Buraddo Pitto mo すきです。\n\n\nNew words and expressions in the dialogue\n\nProgressive    Kana    Kanji    English\nえいが    えいが    映画    movie\nはい yu う    はいゆう    俳優    actor\nHarison Fo-do    ハリソン・フォード    ハリソン・フォード    Harrison Ford (actor)\nBuraddo Pitto    ブラッド・ピット    ブラッド・ピット    Brad Pitt (actor)\n\n\n□ Short dialogue activities\n1. Practice reading the dialogue in pairs.\n2. Talk about your most/least favorite movie(s).\n3. Talk about your most/least favorite actor(s).\n\n===PAGE page_0124===\nJapaneseFromZero.com 124\n\nMore words you can write\nYou should practice writing these words a minimum of five times each. Not only will you be practicing the new hiragana, but you will also learn new words.\n\nぬぐ    to undress    かね    steel\nにっき    diary    にく    meat\nねじ    a screw    ねぎ    green onion\nねあげ    a rise in price    なつかしい    dear, longed for\n\n\n5 Drill ドリル\n\nTranslate the following sentences. If you're not sure what they mean, we recommend that you review the lesson up to this point before continuing.\n\n1. なにが すきですか。\n2. しごとが だいすきです。\n3. さかな to yaさいが すき ja ない です。\n4. Wa たし のく ruma wa muraさき ja ない です。\n5. あなたの と mo だちのく ruma wa あお ja ない ですか。\n\n\n5 Sentence Building ぶんのつくり\n\nIn each lesson we will build on a previous sentence. Watch it grow and transform each time new concepts are introduced.\n\nあなたのおかあさ n wa なにい ro のく ruma が すきですか。\nWhat color car does your mother like?\n\nあか    し ro\n\n===PAGE page_0125===\nJapanese From Zero! – Lesson 5 – Lesson Activities 125\n\nCompare how the sentence has changed from the prior lessons:\n\nLesson 2:    こ re wa な n ですか。\nWhat is this?\n\nLesson 3:    こ re wa あなたのおかあさ n のく ruma ですか。\nIs this your mother's car?\n\nLesson 4:    あなたのおかあさ n のく ruma wa し ro い ですか。\nIs your mother's car white?\n\n\nVocabulary Groups\n\nG sports and entertainment\n\nProgressive    Kana    Kanji    English\nbasuketto booru    バスケットボール    バスケットボール    basketball\ngyanburu    ギャンブル    ギャンブル    gambling\nsakka-    サッカー    サッカー    soccer\n\n\nH fruit\n\nProgressive    Kana    Kanji    English\nいちご    いちご    苺    strawberry\nmi か n / orenji    みかん / オレンジ    みかん / オレンジ    orange\nrin ご    りんご    りんご    apple\nbanana    バナナ    バナナ    banana\nすいか    すいか    西瓜    watermelon\nremon    レモン    レモン    lemon\nmomo    もも    桃    peach\nbu どう    ぶどう    ぶどう    grapes",
+  "extracted_text": "Japanese From Zero! – Lesson 5 – Lesson Activities 123\n\n□ Short dialogue\nMs. Mori and Ms. Nishida are talking about movies.\n\nMori さん:    にしださ n wa えいがが すきですか。\n\nにしださん:    Ha い、だいすきです。\n\nMori さん:    Wa たし mo です。\nHa い yu う wa だ re が すきですか。\n\nにしださん:    Harison Fo-do が すきです。\n\nMori さん:    そうですか。\nWa たし wa Buraddo Pitto が すきです。\n\nにしださん:    Wa たし mo Buraddo Pitto mo すきです。\n\n\nNew words and expressions in the dialogue\n\nProgressive    Kana    Kanji    English\nえいが    えいが    映画    movie\nはい yu う    はいゆう    俳優    actor\nHarison Fo-do    ハリソン・フォード    ハリソン・フォード    Harrison Ford (actor)\nBuraddo Pitto    ブラッド・ピット    ブラッド・ピット    Brad Pitt (actor)\n\n\n□ Short dialogue activities\n1. Practice reading the dialogue in pairs.\n2. Talk about your most/least favorite movie(s).\n3. Talk about your most/least favorite actor(s)."
+}

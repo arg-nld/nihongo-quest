@@ -1,0 +1,25 @@
+{
+  "pdf_page": 137,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img845__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0136",
+    "page_0137",
+    "page_0138",
+    "page_0139",
+    "page_0140"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 714,
+  "lines": 35,
+  "usage": {
+    "input_tokens": 5838,
+    "output_tokens": 960,
+    "total_tokens": 6798
+  },
+  "raw_batch_response": "===PAGE page_0136===\nJapaneseFromZero.com 136\n\npa ぱ ぱ\npi ぴ ぴ\npu ぷ ぷ\npe ぺ ぺ\npo ぽ ぽ\n\nは Special Usage とくべつな つかいかた\n\n□ The topic marker は (wa)\nA topic marker in Japanese identifies the subject of a sentence. The topic marker \"wa\" is written using the は (ha) character and can never be written using the わ (wa) character. In all other situations, は (ha) is always read as “ha.”\n\nExample Sentences\n1. あなたは (wa) だ re ですか。 Who are you?\n2. Banana は (wa) きい ro です。 Bananas are yellow.\n\n□ The direction marker へ (e)\nThe direction marker \"e\" is written using the へ (he) character and can never be written using the え (e) character. In all other situations, へ (he) is always read as “he.”\nNOTE: This grammar point is covered in Lesson 12.\n\nExample Sentences\n1. がっこうへ (e) いき ma す。 I am going towards (to) school.\n2. とう kyo うへ (e) いき ma す。 I am going towards (to) Tokyo.\n\n===PAGE page_0137===\nJapanese From Zero! – Lesson 6 – Hiragana はひふへほ 137\n\nは Word Practice ことばの れんしゅう\n\nFill in the appropriate hiragana in the blanks for each word.\n\n1. _ru (spring)\n   ha\n\n2. _ruご_n (lunch)\n   hi   ha\n\n3. _yu (winter)\n   fu\n\n4. _い wa (peace)\n   he\n\n5. え_n (picture book)\n   ho\n\n6. がn_ru (to do your best)\n   ba\n\n7. な_ (fireworks)\n   ha bi\n\n8. か mi_く ro (paper bag)\n   bu\n\n9. と me_re (love at first sight)\n   hi bo\n\n10. <ra_ru (to compare)\n    be\n\n11. _な (electric spark)\n    hi ba\n\n12. えn_つ (pencil)\n    pi\n\nは Words You Can Write かける ことば\n\nWrite the following words using the hiragana that you just learned. This is a great way to increase your Japanese vocabulary.\n\nはし\n(chopsticks)\n\nへそ\n(belly button)\n\nはと\n(pigeon; dove)\n\n===PAGE page_0138===\nJapanese From Zero.com 138\n\nぶた\n(pig)\n\nひと\n(people)\n\nしっぽ\n(tail)\n\nとうふ\n(tofu)\n\nはっぱ\n(leaf)\n\nほっぺ\n(cheeks)\n\nぼうし\n(hat)\n\nきっぷ\n(ticket)\n\nはなび\n(fireworks)\n\nは Everyday Hiragana Words にちじょうの ことば\n\nひ sho\nsecretary\n\nふくroう\nowl\n\nおばけ\nモンスター\n\n===PAGE page_0139===\nJapanese From Zero! – Lesson 6 – Hiragana はひふへほ 139\n\nほうたい\nbandage\n\nはし ru\nto run\n\nてっっぽう\npistol, gun\n\nは Hiragana Matching ひらがな マッチング\n\nConnect the dots between each hiragana and the correct ro-maji.\n\nふ • • pi\nぺ • • pe\nぜ • • bo\nぼ • • gi\nは • • fu\nた • • ze\nぴ • • ta\nぎ • • ha\n\n===PAGE page_0140===\nJapaneseFromZero.com 140\n\n6 Lesson Activities\n\n□ Question and answer 1\nPick one of the pictures and say ~ が ほしいです / ほしくないです.\n\nど re が ほしいですか / ほしくないですか。\n\nju-su\n\nmiず\n\nko-ra\n\nど re が ほしいですか / ほしくないですか。\n\nう ma\n\nねこ\n\nいぬ\n\n□ Question and answer 2\nAnswer the following questions as if they were being asked to you directly. Use the hiragana that you have learned when writing your answers.\n\n1. なにい ro の <ruma が すきですか。",
+  "extracted_text": "Japanese From Zero! – Lesson 6 – Hiragana はひふへほ 137\n\nは Word Practice ことばの れんしゅう\n\nFill in the appropriate hiragana in the blanks for each word.\n\n1. _ru (spring)\n   ha\n\n2. _ruご_n (lunch)\n   hi   ha\n\n3. _yu (winter)\n   fu\n\n4. _い wa (peace)\n   he\n\n5. え_n (picture book)\n   ho\n\n6. がn_ru (to do your best)\n   ba\n\n7. な_ (fireworks)\n   ha bi\n\n8. か mi_く ro (paper bag)\n   bu\n\n9. と me_re (love at first sight)\n   hi bo\n\n10. <ra_ru (to compare)\n    be\n\n11. _な (electric spark)\n    hi ba\n\n12. えn_つ (pencil)\n    pi\n\nは Words You Can Write かける ことば\n\nWrite the following words using the hiragana that you just learned. This is a great way to increase your Japanese vocabulary.\n\nはし\n(chopsticks)\n\nへそ\n(belly button)\n\nはと\n(pigeon; dove)"
+}

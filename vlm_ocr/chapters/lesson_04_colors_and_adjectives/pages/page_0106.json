@@ -1,0 +1,24 @@
+{
+  "pdf_page": 106,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img655__x2.jpg",
+  "model": "gemini-3.8-flash",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0104",
+    "page_0105",
+    "page_0106",
+    "page_0107"
+  ],
+  "batch_size": 4,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 998,
+  "lines": 27,
+  "usage": {
+    "input_tokens": 4751,
+    "output_tokens": 1068,
+    "total_tokens": 8621
+  },
+  "raw_batch_response": "===PAGE page_0104===\nJapaneseFromZero.com 104\n\n❑ Japanese translation\nTranslate the following conversations into English. Then, in the space after the number\nwrite where you think the conversation is taking place and if it is polite, informal or mixed.\n\n1.\nたかださn: くruma wa nani いro ですか。\nかどたさn: Waたしno くruma ですか。\nたかださn: Haい。\nかどたさn: Muraさきです。あnaたno くruma wa... ?\nたかださn: Waたしno くruma wa ぎn いro と きn いro です。\nたかださn:\nかどたさn:\nたかださn:\nかどたさn:\nたかださn:\n\n❑ Reading comprehension questions\nAnswer the following questions about the reading comprehension in this lesson.\n\n1. Junこさn no くruma wa nani いro ですか。\n\n2. だre no くruma が Honda ですか。\n\n3. だre no くruma が muraさき ですか。\n\n4. Junこさn wa nanさい ですか。\n\n5. だre が ごjuう niさい ですか。\n\n===PAGE page_0105===\nJapanese From Zero! – Lesson 4 – Lesson Activities 105\n\n❑ Short dialogue\nMr. Tanaka and Mr. Kobayashi are talking about their cars.\n\nこbayaしさn: たnaかさn no くruma wa nan ですか。\n\nたnaかさn: Waたしno ①くruma wa ②Nissan です。\nあnaたno wa?\n\nこbayaしさn: Waたしno ①くruma wa ③Mitsubishi です。\nいro wa ④あかです。\n\nたnaかさn: そうですか。\nWaたしno ①くruma wa ⑤しro です。\n\n❑ Short dialogue activity\nPractice reading the above dialogue in pairs.\nSubstitute ①~⑥ using the words below and try the conversation again.\n\n1. ① Dog\n② (your choice)\n③ (your choice)\n④ Brown\n⑤ Black and white\n\n2. ① Cat\n② (your choice)\n③ (your choice)\n④ Gray\n⑤ Brown and white\n\n3. ① Cell Phone (けいたいでnwa)\n② (your choice)\n③ (your choice)\n④ Red\n⑤ Blue\n\n===PAGE page_0106===\nJapaneseFromZero.com 106\n\n❑ More words you can write\nYou should practice writing these words a minimum of five times each. Not only will you be\npracticing the new hiragana, but you will also learn new words.\n\nえきたい liquid, fluid ちえ wisdom\nちいき region ていあつ low pressure\nこうあつ high pressure げっこう moonlight\n\n4 Drill ドリル\n\nTranslate the following sentences. If you don’t know what they mean, we recommend that you\nreview the lesson up to this point before continuing.\n\n1. すmimaせn.\n2. Nihonごで nan ですか。\n3. Nani いro ですか。\n4. Waたしno くruma wa あかと くro です。\n5. たnaかさn no くruma wa あおい Toyota です。\n\n4 Sentence Building ぶんのつくり\n\nIn each lesson we will build on a previous sentence. Watch it grow and transform each time\nnew concepts are introduced.\n\nあnaたno おかあさn no くruma wa しro い ですか。\nIs your mother’s car white?\n\nCompare how the sentence has changed from the prior lessons:\n\nLesson 1: Nan ですか。\nWhat is it?\n\nLesson 2: こre wa nan ですか。\nWhat is this?\n\nLesson 3: こre wa あnaたno おかあさn no くruma ですか。\nIs this your mother’s car?\n\n===PAGE page_0107===\nJapanese From Zero! – Vocabulary Group F 107\n\nVocabulary Groups\n\nF things around the house\n\nProgressive Kana Kanji English\nkoppu コップ コップ cup; glass\nsupu-n スプーン スプーン spoon\nfo-ku フォーク フォーク fork\n(お) さra (お) さら (お) 皿 plate\n(お) chawan (お) ちゃわん (お) 茶わん bowl\n(お) haし (お) はし (お) 箸 chopsticks\nreいぞうこ れいぞうこ 冷蔵庫 refrigerator\nとけい とけい 時計 clock\nterebi テレビ テレビ television\nzubon ズボン ズボン pants\nくつ くつ 靴 shoe\nしnbun しんぶん 新聞 newspaper\n\nコップ\nスプーンと\nフォーク\nズボン",
+  "extracted_text": "JapaneseFromZero.com 106\n\n❑ More words you can write\nYou should practice writing these words a minimum of five times each. Not only will you be\npracticing the new hiragana, but you will also learn new words.\n\nえきたい liquid, fluid ちえ wisdom\nちいき region ていあつ low pressure\nこうあつ high pressure げっこう moonlight\n\n4 Drill ドリル\n\nTranslate the following sentences. If you don’t know what they mean, we recommend that you\nreview the lesson up to this point before continuing.\n\n1. すmimaせn.\n2. Nihonごで nan ですか。\n3. Nani いro ですか。\n4. Waたしno くruma wa あかと くro です。\n5. たnaかさn no くruma wa あおい Toyota です。\n\n4 Sentence Building ぶんのつくり\n\nIn each lesson we will build on a previous sentence. Watch it grow and transform each time\nnew concepts are introduced.\n\nあnaたno おかあさn no くruma wa しro い ですか。\nIs your mother’s car white?\n\nCompare how the sentence has changed from the prior lessons:\n\nLesson 1: Nan ですか。\nWhat is it?\n\nLesson 2: こre wa nan ですか。\nWhat is this?\n\nLesson 3: こre wa あnaたno おかあさn no くruma ですか。\nIs this your mother’s car?"
+}

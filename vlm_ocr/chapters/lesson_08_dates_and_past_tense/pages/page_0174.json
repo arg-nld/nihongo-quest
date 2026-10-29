@@ -1,0 +1,25 @@
+{
+  "pdf_page": 174,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img1071__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0174",
+    "page_0175",
+    "page_0176",
+    "page_0177",
+    "page_0178"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 850,
+  "lines": 32,
+  "usage": {
+    "input_tokens": 5838,
+    "output_tokens": 896,
+    "total_tokens": 6734
+  },
+  "raw_batch_response": "===PAGE page_0174===\nJapaneseFromZero.com 174\n\n7. こ _ _ _ (tonight, this evening)\n      n  ya\n\n8. _ す reru (to forget)\n   wa\n\n9. えいが _ み ru (to watch a movie)\n           wo\n\n10. き _ _ ぞく (metal)\n        n\n\n11. か _ た _ (easy)\n       n    n\n\n12. すし _ _ たべ ru (to eat sushi)\n         wo\n\n\nや Special Usage とくべつな つかいかた\n\n❏ The particle を (wo)\nThe hiragana を is only used as a particle (object marker). It is never used for any other\npurpose. Even though \"wo\" is normally pronounced \"o\", お can never replace を as a\nparticle.\n\n Example Sentences\n 1. てがみを (wo) かきます。                I will write a letter.\n 2. えんぴつを (wo) ください。              Give me a pencil please.\n\n\nや Words You Can Write かける ことば\n\nWrite the following words using the hiragana that you just learned. This is a great way to\nincrease your Japanese vocabulary.\n\nわに\n(alligator)\n\nやね\n(roof)\n\nゆび\n(finger)\n\nゆうべ\n(last night)\n\n===PAGE page_0175===\nJapanese From Zero! — Lesson 8 — Hiragana やゆよわをん 175\n\nわかめ\n(seaweed)\n\nこんや\n(tonight)\n\nかんたん\n(easy)\n\nうわさ\n(rumor)\n\nゆびわ\n(ring)\n\nや Everyday Hiragana Words にちじょうの ことば\n\nたいよう\nthe sun\n\nうわぎ\njacket\n\nゆかた\nlight kimono\n\nゆみや\nbow and arrow\n\nかわかす\nto dry\n\nじてん sha\nbicycle\n\n===PAGE page_0176===\nJapaneseFromZero.com 176\n\nや Hiragana Matching ひらがな マッチング\n\nConnect the dots between each hiragana and the correct ro-maji.\n\nは •                               • yu\n\nよ •                               • to\n\nゆ •                               • n\n\nわ •                               • wo (o)\n\nと •                               • ha\n\nや •                               • wa\n\nを •                               • yo\n\nん •                               • ya\n\n===PAGE page_0177===\nJapanese From Zero! — Lesson 8 — Lesson Activities 177\n\n8 Lesson Activities\n\n❏ Questions\nAnswer the following questions as if they were being asked to you directly. Use the\nhiragana that you have learned when writing your answers.\n\n1. おとうさんのたん jo うびは いつですか。\n\n\n2. Kurisumasu は、なんがつなんにちですか。\n\n\n3. なんがつが すきですか。\n\n\n4. Kyo うは、なんがつなんにちですか。\n\n\n5. きのうは、なんがつなんにちでしたか。\n\n\n6. こどものひは しちがつよっか ですか。\n\n\n❏ Dates\nWrite the following dates in Japanese.\n\n1. あなたの おかあさんの たん jo うび\n\n\n2. けんぽう きねんび\n\n===PAGE page_0178===\nJapaneseFromZero.com 178\n\n3. March 15\n\n\n4. ぶんかのひ\n\n\n5. こどものひ\n\n\n6. April 20\n\n\n❏ Japanese translation\nTranslate the following conversations into English. Then, in the space after the number\nwrite where you think the conversation is taking place and if it is polite, informal or mixed.\n\n1.\nいまいさん: たん jo うびは いつですか。\nやまださん: さんがつに ju うさんちにちです。あなたのは？\nいまいさん: わたしの たん jo うびは あしたです。\nやまださん: おめでとう！ なんさいですか。\nいまいさん: さん ju う はっさいです。\nいまいさん:\n\nやまださん:\n\nいまいさん:\n\nやまださん:\n\nいまいさん:",
+  "extracted_text": "JapaneseFromZero.com 174\n\n7. こ _ _ _ (tonight, this evening)\n      n  ya\n\n8. _ す reru (to forget)\n   wa\n\n9. えいが _ み ru (to watch a movie)\n           wo\n\n10. き _ _ ぞく (metal)\n        n\n\n11. か _ た _ (easy)\n       n    n\n\n12. すし _ _ たべ ru (to eat sushi)\n         wo\n\n\nや Special Usage とくべつな つかいかた\n\n❏ The particle を (wo)\nThe hiragana を is only used as a particle (object marker). It is never used for any other\npurpose. Even though \"wo\" is normally pronounced \"o\", お can never replace を as a\nparticle.\n\n Example Sentences\n 1. てがみを (wo) かきます。                I will write a letter.\n 2. えんぴつを (wo) ください。              Give me a pencil please.\n\n\nや Words You Can Write かける ことば\n\nWrite the following words using the hiragana that you just learned. This is a great way to\nincrease your Japanese vocabulary.\n\nわに\n(alligator)\n\nやね\n(roof)\n\nゆび\n(finger)\n\nゆうべ\n(last night)"
+}

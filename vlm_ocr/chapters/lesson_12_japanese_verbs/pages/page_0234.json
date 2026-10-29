@@ -1,0 +1,25 @@
+{
+  "pdf_page": 234,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img1439__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0233",
+    "page_0234",
+    "page_0235",
+    "page_0236",
+    "page_0237"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 1755,
+  "lines": 77,
+  "usage": {
+    "input_tokens": 1141,
+    "output_tokens": 37,
+    "total_tokens": 1178
+  },
+  "raw_batch_response": "JapaneseFromZero.com 234\n\nちゅうごく\nぎんこう\nふく\n~し\n~しゅう\n~けん\n~ご\n~じん\n\nちゅうごく\nぎんこう\nふく\n~し\n~しゅう\n~けん\n~ご\n~じん\n\n中国\n銀行\n服\n~市\n~州\n~県\n~語\n~人\n\nChina\nbank\nclothing, clothes\n~ City\n~ State\n~ Prefecture\n~ language\n~ nationality\n~しゅう\n~けん\n~ご\n~じん\n~しゅう\n~けん\n~ご\n~じん\n~州\n~県\n~語\n~人\n~ State\n~ Prefecture\n~ language\n~ nationality\n12 New Phrases あたらしい かいわ\n1. おひさしぶりです。\n2. なにごが はなせますか。\n3. ________が はなせます。\nIt has been a long time.\nWhat languages can you speak?\nI can speak _____________.\n12 Grammar ぶんぽう\n3. ____________ が はなせます。 I can speak ____________.\n12 Grammar ぶんぽう\nPolite versus informal speaking\nIn Japanese, it is common to use polite language with people you don't know, or who have\nhigher social status than yourself. For example, when speaking to a stranger on the street\nor to your boss, you should use polite verb forms.\nHowever, if you are talking to your family, friends, or people that are of lower or equal\nstatus than you, speaking informally will be more natural. Until your Japanese level\nbecomes more advanced, we suggest that you stick to polite Japanese in order to form\ngood speaking habits.\nConjugating verbs into the polite form\nstatus than you, speaking informally will be more natural. Until your Japanese level\nbecomes more advanced, we suggest that you stick to polite Japanese in order to form\ngood speaking habits.\n☐ Conjugating verbs into the polite form\n- The dictionary form (also known as the plain or non-past form) is the dictionary entry form for the verb.\nThe \"dictionary form\" of a verb is the only version that is in the dictionary. It is the most\nbasic form of the verb without any conjugation. From this form of the verb, you can\nconjugate the verbs into many other forms using simple patterns. Let's look at the four\nverbs we will learn in this lesson:",
+  "extracted_text": "JapaneseFromZero.com 234\n\nちゅうごく\nぎんこう\nふく\n~し\n~しゅう\n~けん\n~ご\n~じん\n\nちゅうごく\nぎんこう\nふく\n~し\n~しゅう\n~けん\n~ご\n~じん\n\n中国\n銀行\n服\n~市\n~州\n~県\n~語\n~人\n\nChina\nbank\nclothing, clothes\n~ City\n~ State\n~ Prefecture\n~ language\n~ nationality\n~しゅう\n~けん\n~ご\n~じん\n~しゅう\n~けん\n~ご\n~じん\n~州\n~県\n~語\n~人\n~ State\n~ Prefecture\n~ language\n~ nationality\n12 New Phrases あたらしい かいわ\n1. おひさしぶりです。\n2. なにごが はなせますか。\n3. ________が はなせます。\nIt has been a long time.\nWhat languages can you speak?\nI can speak _____________.\n12 Grammar ぶんぽう\n3. ____________ が はなせます。 I can speak ____________.\n12 Grammar ぶんぽう\nPolite versus informal speaking\nIn Japanese, it is common to use polite language with people you don't know, or who have\nhigher social status than yourself. For example, when speaking to a stranger on the street\nor to your boss, you should use polite verb forms.\nHowever, if you are talking to your family, friends, or people that are of lower or equal\nstatus than you, speaking informally will be more natural. Until your Japanese level\nbecomes more advanced, we suggest that you stick to polite Japanese in order to form\ngood speaking habits.\nConjugating verbs into the polite form\nstatus than you, speaking informally will be more natural. Until your Japanese level\nbecomes more advanced, we suggest that you stick to polite Japanese in order to form\ngood speaking habits.\n☐ Conjugating verbs into the polite form\n- The dictionary form (also known as the plain or non-past form) is the dictionary entry form for the verb.\nThe \"dictionary form\" of a verb is the only version that is in the dictionary. It is the most\nbasic form of the verb without any conjugation. From this form of the verb, you can\nconjugate the verbs into many other forms using simple patterns. Let's look at the four\nverbs we will learn in this lesson:"
+}

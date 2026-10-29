@@ -1,0 +1,1000 @@
+{
+ "sectionId": "lesson_05",
+ "title": "Lesson 5",
+ "subtitle": "Likes and Dislikes — Making nouns negative",
+ "pages": "108-125",
+ "objectives": [
+  "Say you like or dislike something with the particle ga and suki / kirai",
+  "Strengthen feelings with daisuki (really like) and daikirai (really hate)",
+  "Make things negative with janai (plus desu to be polite)",
+  "Turn a color or adjective into the 'one' pronoun with no, and ask dore ga suki desu ka",
+  "Use jaa to say 'Well then...' before a follow-up question",
+  "Know why kirai sounds harsh — prefer suki janai in everyday conversation",
+  "Read and write the hiragana na ni nu ne no"
+ ],
+ "kanaFocus": [
+  "な",
+  "に",
+  "ぬ",
+  "ね",
+  "の"
+ ],
+ "vocab": [
+  {
+   "id": "lesson_05_v_suki",
+   "japanese": "すき",
+   "romaji": "suki",
+   "english": "like",
+   "source": "lesson_05 p.108",
+   "verified": true
+  },
+  {
+   "id": "lesson_05_v_kirai",
+   "japanese": "きらい",
+   "romaji": "kirai",
+   "english": "dislike, hate",
+   "source": "lesson_05 p.108",
+   "verified": true
+  },
+  {
+   "id": "lesson_05_v_daisuki",
+   "japanese": "だいすき",
+   "romaji": "daisuki",
+   "english": "really like, like a lot",
+   "source": "lesson_05 p.108",
+   "verified": true
+  },
+  {
+   "id": "lesson_05_v_daikirai",
+   "japanese": "だいきらい",
+   "romaji": "daikirai",
+   "english": "really dislike, really hate",
+   "source": "lesson_05 p.108",
+   "verified": true
+  },
+  {
+   "id": "lesson_05_v_satoko",
+   "japanese": "さとこ",
+   "romaji": "Satoko",
+   "english": "a girl's first name",
+   "source": "lesson_05 p.108",
+   "verified": true
+  },
+  {
+   "id": "lesson_05_v_yoshio",
+   "japanese": "よしお",
+   "romaji": "Yoshio",
+   "english": "a boy's first name",
+   "source": "lesson_05 p.108",
+   "verified": true
+  },
+  {
+   "id": "lesson_05_v_kaimono",
+   "japanese": "かいもの",
+   "romaji": "kaimono",
+   "english": "shopping",
+   "source": "lesson_05 p.108",
+   "verified": true
+  },
+  {
+   "id": "lesson_05_v_kankou",
+   "japanese": "かんこう",
+   "romaji": "kankou",
+   "english": "sightseeing",
+   "source": "lesson_05 p.108",
+   "verified": true
+  },
+  {
+   "id": "lesson_05_v_ryokou",
+   "japanese": "りょこう",
+   "romaji": "ryokou",
+   "english": "travel",
+   "source": "lesson_05 p.108",
+   "verified": true
+  },
+  {
+   "id": "lesson_05_v_shukudai",
+   "japanese": "しゅくだい",
+   "romaji": "shukudai",
+   "english": "homework",
+   "source": "lesson_05 p.108",
+   "verified": true
+  },
+  {
+   "id": "lesson_05_v_shigoto",
+   "japanese": "しごと",
+   "romaji": "shigoto",
+   "english": "work",
+   "source": "lesson_05 p.109",
+   "verified": true
+  },
+  {
+   "id": "lesson_05_v_sakana",
+   "japanese": "さかな",
+   "romaji": "sakana",
+   "english": "fish",
+   "source": "lesson_05 p.109",
+   "verified": true
+  },
+  {
+   "id": "lesson_05_v_chikin",
+   "japanese": "チキン",
+   "romaji": "chikin",
+   "english": "chicken (loan word)",
+   "source": "lesson_05 p.109",
+   "verified": true
+  },
+  {
+   "id": "lesson_05_v_nihongo",
+   "japanese": "にほんご",
+   "romaji": "nihongo",
+   "english": "Japanese language",
+   "source": "lesson_05 p.109",
+   "verified": true
+  },
+  {
+   "id": "lesson_05_v_jaa",
+   "japanese": "じゃあ",
+   "romaji": "jaa",
+   "english": "well then...",
+   "source": "lesson_05 p.109",
+   "verified": true
+  },
+  {
+   "id": "lesson_05_v_oishii",
+   "japanese": "おいしい",
+   "romaji": "oishii",
+   "english": "tastes good, delicious",
+   "source": "lesson_05 p.109",
+   "verified": true
+  },
+  {
+   "id": "lesson_05_v_oishikunai",
+   "japanese": "おいしくない",
+   "romaji": "oishikunai",
+   "english": "doesn't taste good",
+   "source": "lesson_05 p.109",
+   "verified": true
+  },
+  {
+   "id": "lesson_05_v_eiga",
+   "japanese": "えいが",
+   "romaji": "eiga",
+   "english": "movie",
+   "source": "lesson_05 p.123",
+   "verified": true
+  },
+  {
+   "id": "lesson_05_v_haiyuu",
+   "japanese": "はいゆう",
+   "romaji": "haiyuu",
+   "english": "actor",
+   "source": "lesson_05 p.123",
+   "verified": true
+  }
+ ],
+ "grammar": [
+  {
+   "id": "lesson_05_g_ga_suki",
+   "title": "The particle ga with suki and kirai",
+   "pattern": "[noun] ga suki desu / [noun] ga kirai desu",
+   "explanation": "To say you like or dislike something with suki (like) and kirai (dislike), the subject particle ga is used after the thing that is liked or disliked. Daisuki (really like) and daikirai (really hate) add intensity in the same pattern.",
+   "examples": [
+    {
+     "japanese": "わたしは いちごが すきです。",
+     "romaji": "Watashi wa ichigo ga suki desu.",
+     "english": "I like strawberries."
+    },
+    {
+     "japanese": "わたしは すいかが きらいです。",
+     "romaji": "Watashi wa suika ga kirai desu.",
+     "english": "I dislike watermelons."
+    },
+    {
+     "japanese": "わたしは チキンが だいすきです。",
+     "romaji": "Watashi wa chikin ga daisuki desu.",
+     "english": "I really like chicken."
+    },
+    {
+     "japanese": "わたしは れたすが だいきらいです。",
+     "romaji": "Watashi wa retasu ga daikirai desu.",
+     "english": "I hate lettuce."
+    }
+   ],
+   "mistakes": [
+    "Using wa after the liked or disliked thing instead of ga"
+   ],
+   "source": "lesson_05 p.109"
+  },
+  {
+   "id": "lesson_05_g_janai",
+   "title": "Using janai to make things negative",
+   "pattern": "[word] janai desu — It's not a [word]",
+   "explanation": "Janai means 'not' or 'don't' depending on context. It is the informal version of ja arimasen / dewa arimasen / dewa nai, and the informal version is most commonly used in everyday conversation. Janai on its own is informal, but can be made polite by adding desu. It must always follow the word it is modifying.",
+   "examples": [
+    {
+     "japanese": "あか janai です。",
+     "romaji": "Aka janai desu.",
+     "english": "It's not red."
+    },
+    {
+     "japanese": "わたし janai です。",
+     "romaji": "Watashi janai desu.",
+     "english": "It's not me."
+    },
+    {
+     "japanese": "それ janai です。",
+     "romaji": "Sore janai desu.",
+     "english": "It's not that one."
+    },
+    {
+     "japanese": "すき janai です。",
+     "romaji": "Suki janai desu.",
+     "english": "I don't like it."
+    },
+    {
+     "japanese": "きらい janai です。",
+     "romaji": "Kirai janai desu.",
+     "english": "I don't dislike it."
+    }
+   ],
+   "mistakes": [
+    "Putting janai before the word it negates — it always comes after"
+   ],
+   "source": "lesson_05 p.110"
+  },
+  {
+   "id": "lesson_05_g_one_pronoun",
+   "title": "The 'one' pronoun",
+   "pattern": "[color noun or adjective] + no",
+   "explanation": "When the particle no comes after the noun version of a color or after an adjective, it transforms the word into the 'one' pronoun. Use dore in questions ('which one?') and docchi for choosing between two items.",
+   "examples": [
+    {
+     "japanese": "あかの",
+     "romaji": "aka no",
+     "english": "(a / the) red one"
+    },
+    {
+     "japanese": "おいしいの",
+     "romaji": "oishii no",
+     "english": "(a / the) good tasting one"
+    },
+    {
+     "japanese": "どれが すきですか。",
+     "romaji": "Dore ga suki desu ka.",
+     "english": "Which one do you like?"
+    },
+    {
+     "japanese": "あかのが すきです。",
+     "romaji": "Aka no ga suki desu.",
+     "english": "I like the red one."
+    },
+    {
+     "japanese": "どっちが すきですか。",
+     "romaji": "Docchi ga suki desu ka.",
+     "english": "Which one do you like? (two items)"
+    }
+   ],
+   "mistakes": [
+    "Dropping no when answering — 'I like the red one' needs aka no ga suki desu"
+   ],
+   "source": "lesson_05 p.110, 112"
+  },
+  {
+   "id": "lesson_05_g_jaa",
+   "title": "Using jaa to say 'Well then...'",
+   "pattern": "Jaa, [follow-up question]",
+   "explanation": "Jaa is a very well used word in Japanese. It is said at the beginning of a sentence, normally when asking a follow-up question.",
+   "examples": [
+    {
+     "japanese": "ねこが すきですか。",
+     "romaji": "Neko ga suki desu ka.",
+     "english": "Do you like cats?"
+    },
+    {
+     "japanese": "じゃあ、いぬが すきですか。",
+     "romaji": "Jaa, inu ga suki desu ka.",
+     "english": "Well then, do you like dogs?"
+    },
+    {
+     "japanese": "じゃあ、どれですか。",
+     "romaji": "Jaa, dore desu ka.",
+     "english": "Well then, which one is it?"
+    }
+   ],
+   "mistakes": [
+    "Using jaa in the middle of a sentence — it starts the follow-up sentence"
+   ],
+   "source": "lesson_05 p.111"
+  },
+  {
+   "id": "lesson_05_g_kirai_harsh",
+   "title": "Speaking Naturally: kirai versus suki janai",
+   "pattern": "prefer [noun] ga suki janai desu over [noun] ga kirai desu",
+   "explanation": "Be careful when using kirai and daikirai: in Japanese culture these words sound a bit harsh. If you don't like something, use suki janai instead of kirai in everyday conversations.",
+   "examples": [
+    {
+     "japanese": "すき janai です。",
+     "romaji": "Suki janai desu.",
+     "english": "I don't like it. (softer than kirai)"
+    }
+   ],
+   "mistakes": [
+    "Saying daikirai casually about something you merely don't like"
+   ],
+   "source": "lesson_05 p.111"
+  },
+  {
+   "id": "lesson_05_g_hiragana",
+   "title": "Hiragana な に ぬ ね の",
+   "pattern": "na = な, ni = に, nu = ぬ, ne = ね, no = の",
+   "explanation": "The next five hiragana. Learn the correct stroke order — correct stroke order means neater characters when writing fast. Watch for the loop in ぬ (nu) and ね (ne), and note that ね (ne) adds a horizontal tail that ぬ (nu) does not have.",
+   "examples": [
+    {
+     "japanese": "ねこ",
+     "romaji": "neko",
+     "english": "cat — after this lesson ね replaces the roman ne"
+    },
+    {
+     "japanese": "いぬ",
+     "romaji": "inu",
+     "english": "dog — ぬ replaces the roman nu"
+    }
+   ],
+   "mistakes": [
+    "Confusing ぬ (nu) and ね (ne) — both loop, but only ね ends with a trailing tail"
+   ],
+   "source": "lesson_05 p.114-115"
+  }
+ ],
+ "exercises": [
+  {
+   "id": "lesson_05_e1",
+   "type": "match",
+   "prompt": "Match the feeling words with their meaning:",
+   "pairs": [
+    {
+     "left": "suki",
+     "right": "like"
+    },
+    {
+     "left": "kirai",
+     "right": "dislike, hate"
+    },
+    {
+     "left": "daisuki",
+     "right": "really like, like a lot"
+    },
+    {
+     "left": "daikirai",
+     "right": "really dislike, really hate"
+    }
+   ],
+   "explanation": "Core Lesson 5 words from the New Words list.",
+   "source": "lesson_05 p.108",
+   "verified": true,
+   "skill": "vocab"
+  },
+  {
+   "id": "lesson_05_e2",
+   "type": "multiple_choice",
+   "prompt": "Which particle goes after the thing you like or dislike?",
+   "choices": [
+    "wa",
+    "ga",
+    "no",
+    "ka"
+   ],
+   "answerIndex": 1,
+   "explanation": "The subject particle ga is used after the thing liked or disliked: Sakana ga suki desu.",
+   "source": "lesson_05 p.109",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_05_e3",
+   "type": "fill_blank",
+   "prompt": "I like fish: Sakana ___ suki desu.",
+   "accepted": [
+    "ga"
+   ],
+   "explanation": "[noun] + ga + suki desu is the pattern for likes.",
+   "source": "lesson_05 p.109",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_05_v_sakana"
+  },
+  {
+   "id": "lesson_05_e4",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "わたしは うさぎが すきです",
+   "choices": [
+    "I like rabbits.",
+    "I dislike rabbits.",
+    "I really like rabbits.",
+    "I hate rabbits."
+   ],
+   "answerIndex": 0,
+   "explanation": "Watashi wa usagi ga suki desu = I like rabbits.",
+   "source": "lesson_05 p.109",
+   "verified": true,
+   "skill": "sentences"
+  },
+  {
+   "id": "lesson_05_e5",
+   "type": "multiple_choice",
+   "prompt": "Watashi wa chikin ga daisuki desu means...",
+   "choices": [
+    "I dislike chicken.",
+    "I really like chicken.",
+    "I don't like chicken.",
+    "I really hate chicken."
+   ],
+   "answerIndex": 1,
+   "explanation": "Daisuki = really like / like a lot.",
+   "source": "lesson_05 p.109",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_05_v_daisuki"
+  },
+  {
+   "id": "lesson_05_e6",
+   "type": "fill_blank",
+   "prompt": "It's not red: Aka ___ desu.",
+   "accepted": [
+    "janai"
+   ],
+   "explanation": "[word] + janai (desu) makes it negative: Aka janai desu.",
+   "source": "lesson_05 p.110",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_05_e7",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "すき janai です",
+   "choices": [
+    "I don't like it.",
+    "I don't dislike it.",
+    "I like it.",
+    "I hate it."
+   ],
+   "answerIndex": 0,
+   "explanation": "Suki janai desu = I don't like it.",
+   "source": "lesson_05 p.110",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_05_v_suki"
+  },
+  {
+   "id": "lesson_05_e8",
+   "type": "word_order",
+   "prompt": "Build 'It's not me.' from these parts:",
+   "tokens": [
+    "Watashi",
+    "janai",
+    "desu."
+   ],
+   "explanation": "Watashi janai desu — janai must follow the word it modifies.",
+   "source": "lesson_05 p.110",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_05_e9",
+   "type": "multiple_choice",
+   "prompt": "What does aka no mean?",
+   "choices": [
+    "the red color",
+    "the red one",
+    "not red",
+    "the reddest"
+   ],
+   "answerIndex": 1,
+   "explanation": "No after a color (or adjective) makes the 'one' pronoun: aka no = the red one.",
+   "source": "lesson_05 p.110",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_05_e10",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "どれが すきですか",
+   "choices": [
+    "Which one do you like?",
+    "What do you dislike?",
+    "Do you like it?",
+    "Where do you like?"
+   ],
+   "answerIndex": 0,
+   "explanation": "Dore ga suki desu ka = Which one do you like?",
+   "source": "lesson_05 p.110",
+   "verified": true,
+   "skill": "sentences"
+  },
+  {
+   "id": "lesson_05_e11",
+   "type": "fill_blank",
+   "prompt": "I like the red one: Aka ___ ga suki desu.",
+   "accepted": [
+    "no"
+   ],
+   "explanation": "Aka no = the red one; then add ga before suki desu.",
+   "source": "lesson_05 p.110",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_05_e12",
+   "type": "multiple_choice",
+   "prompt": "Jaa is used...",
+   "choices": [
+    "at the end of a sentence",
+    "at the beginning of a sentence, normally before a follow-up question",
+    "only in writing",
+    "after the particle ga"
+   ],
+   "answerIndex": 1,
+   "explanation": "Jaa starts a sentence, normally when asking a follow-up question: Jaa, dore desu ka.",
+   "source": "lesson_05 p.111",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_05_v_jaa"
+  },
+  {
+   "id": "lesson_05_e13",
+   "type": "multiple_choice",
+   "prompt": "You mildly dislike shopping. What does the book suggest saying in everyday conversation?",
+   "choices": [
+    "Kaimono ga daikirai desu.",
+    "Kaimono ga suki janai desu.",
+    "Kaimono ga daisuki desu.",
+    "Kaimono ga oishii desu."
+   ],
+   "answerIndex": 1,
+   "explanation": "Kirai sounds harsh in Japanese culture, so use suki janai instead.",
+   "source": "lesson_05 p.111",
+   "verified": true,
+   "skill": "culture",
+   "vocabId": "lesson_05_v_kaimono"
+  },
+  {
+   "id": "lesson_05_e14",
+   "type": "match",
+   "prompt": "Match the Q&A sentences with their English:",
+   "pairs": [
+    {
+     "left": "Nani ga suki desu ka.",
+     "right": "What do you like?"
+    },
+    {
+     "left": "Shukudai ga kirai desu.",
+     "right": "I dislike homework."
+    },
+    {
+     "left": "Nihongo ga suki desu.",
+     "right": "I like Japanese (language)."
+    },
+    {
+     "left": "Ryokou ga suki desu.",
+     "right": "I like travel."
+    }
+   ],
+   "explanation": "Sentences from the lesson's Q&A section.",
+   "source": "lesson_05 p.112",
+   "verified": true,
+   "skill": "sentences"
+  },
+  {
+   "id": "lesson_05_e15",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "しゅくだいが きらいです",
+   "choices": [
+    "I dislike homework.",
+    "I like homework.",
+    "Homework is delicious.",
+    "I forgot my homework."
+   ],
+   "answerIndex": 0,
+   "explanation": "Shukudai ga kirai desu = I dislike homework.",
+   "source": "lesson_05 p.112",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_05_v_shukudai"
+  },
+  {
+   "id": "lesson_05_e16",
+   "type": "multiple_choice",
+   "prompt": "Which question asks 'Which one do you like?' when choosing between TWO items?",
+   "choices": [
+    "Dore ga suki desu ka.",
+    "Docchi ga suki desu ka.",
+    "Nani ga suki desu ka.",
+    "Dare ga suki desu ka."
+   ],
+   "answerIndex": 1,
+   "explanation": "The Q&A section uses docchi for the two-item version: Docchi ga suki desu ka.",
+   "source": "lesson_05 p.112",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_05_e17",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "チキンが だいすきです",
+   "choices": [
+    "I really like chicken.",
+    "I really hate chicken.",
+    "Chicken tastes bad.",
+    "I don't like chicken."
+   ],
+   "answerIndex": 0,
+   "explanation": "Chikin ga daisuki desu = I really like chicken.",
+   "source": "lesson_05 p.109",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_05_v_chikin"
+  },
+  {
+   "id": "lesson_05_e18",
+   "type": "multiple_choice",
+   "prompt": "What does oishikunai mean?",
+   "choices": [
+    "tastes good",
+    "doesn't taste good",
+    "very delicious",
+    "want to eat"
+   ],
+   "answerIndex": 1,
+   "explanation": "Oishikunai is the negative of oishii: doesn't taste good.",
+   "source": "lesson_05 p.109",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_05_v_oishikunai"
+  },
+  {
+   "id": "lesson_05_e19",
+   "type": "fill_blank",
+   "prompt": "No, it doesn't taste good: Iie, oishi___ desu.",
+   "accepted": [
+    "kunai"
+   ],
+   "explanation": "Oishikunai desu = it doesn't taste good (from the fish Q&A).",
+   "source": "lesson_05 p.112",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_05_v_oishikunai"
+  },
+  {
+   "id": "lesson_05_e20",
+   "type": "match",
+   "prompt": "Match the dialogue and topic words:",
+   "pairs": [
+    {
+     "left": "eiga",
+     "right": "movie"
+    },
+    {
+     "left": "haiyuu",
+     "right": "actor"
+    },
+    {
+     "left": "shigoto",
+     "right": "work"
+    },
+    {
+     "left": "kankou",
+     "right": "sightseeing"
+    }
+   ],
+   "explanation": "New words from the short dialogue and the New Words list.",
+   "source": "lesson_05 p.108-109, 123",
+   "verified": true,
+   "skill": "vocab"
+  },
+  {
+   "id": "lesson_05_e21",
+   "type": "multiple_choice",
+   "prompt": "Nishida-san is asked 'Eiga ga suki desu ka?' She loves them. What does she answer?",
+   "choices": [
+    "Iie, kirai desu.",
+    "Hai, daisuki desu.",
+    "Hai, kirai janai desu.",
+    "Jaa, daisuki desu."
+   ],
+   "answerIndex": 1,
+   "explanation": "In the dialogue she answers: Hai, daisuki desu.",
+   "source": "lesson_05 p.123",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_05_v_eiga"
+  },
+  {
+   "id": "lesson_05_e22",
+   "type": "multiple_choice",
+   "prompt": "Reading: Satoko-san no kare no namae wa Tanaka Yoshio desu. Who is Satoko's boyfriend?",
+   "choices": [
+    "Yoshio",
+    "Satoko",
+    "Tanaka Kobayashi",
+    "not given"
+   ],
+   "answerIndex": 0,
+   "explanation": "Reading line 1: her boyfriend's name is Tanaka Yoshio.",
+   "source": "lesson_05 p.113",
+   "verified": true,
+   "skill": "reading",
+   "vocabId": "lesson_05_v_yoshio"
+  },
+  {
+   "id": "lesson_05_e23",
+   "type": "multiple_choice",
+   "prompt": "Reading: Dare ga kaimono ga suki desu ka? (Satoko daisuki / Yoshio suki janai)",
+   "choices": [
+    "Yoshio",
+    "Satoko",
+    "both",
+    "neither"
+   ],
+   "answerIndex": 1,
+   "explanation": "Reading lines 4-5: Satoko-san wa kaimono ga daisuki desu; Yoshio-san wa suki janai desu.",
+   "source": "lesson_05 p.113",
+   "verified": true,
+   "skill": "reading",
+   "vocabId": "lesson_05_v_kaimono"
+  },
+  {
+   "id": "lesson_05_e24",
+   "type": "word_order",
+   "prompt": "Build 'I really like travel.' from these parts:",
+   "tokens": [
+    "Watashi",
+    "wa",
+    "ryokou",
+    "ga",
+    "daisuki",
+    "desu."
+   ],
+   "explanation": "Watashi wa ryokou ga daisuki desu — ga comes after the thing liked.",
+   "source": "lesson_05 p.108-109",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_05_v_ryokou"
+  },
+  {
+   "id": "lesson_05_e25",
+   "type": "multiple_choice",
+   "prompt": "Which hiragana is nu?",
+   "choices": [
+    "ね",
+    "ぬ",
+    "に",
+    "の"
+   ],
+   "answerIndex": 1,
+   "explanation": "ぬ = nu (from the New Hiragana list).",
+   "source": "lesson_05 p.114",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_05_e26",
+   "type": "match",
+   "prompt": "Match the new hiragana with its romaji:",
+   "pairs": [
+    {
+     "left": "な",
+     "right": "na"
+    },
+    {
+     "left": "に",
+     "right": "ni"
+    },
+    {
+     "left": "ね",
+     "right": "ne"
+    },
+    {
+     "left": "の",
+     "right": "no"
+    }
+   ],
+   "explanation": "Four of the five new hiragana (ぬ = nu is covered separately).",
+   "source": "lesson_05 p.114",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_05_e27",
+   "type": "fill_blank",
+   "prompt": "Summer, written with the new hiragana: ___ (roomaji).",
+   "accepted": [
+    "natsu"
+   ],
+   "explanation": "Word Practice: ____tsu (summer) = natsu.",
+   "source": "lesson_05 p.115",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_05_e28",
+   "type": "match",
+   "prompt": "Match words you can now write with the new hiragana:",
+   "pairs": [
+    {
+     "left": "なに",
+     "right": "what"
+    },
+    {
+     "left": "なつ",
+     "right": "summer"
+    },
+    {
+     "left": "にし",
+     "right": "west"
+    },
+    {
+     "left": "ねつ",
+     "right": "fever"
+    },
+    {
+     "left": "のど",
+     "right": "throat"
+    }
+   ],
+   "explanation": "From the Words You Can Write list.",
+   "source": "lesson_05 p.116-117",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_05_e29",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "なにが すきですか",
+   "choices": [
+    "What do you like?",
+    "Which one do you like?",
+    "Do you like it?",
+    "What color do you like?"
+   ],
+   "answerIndex": 0,
+   "explanation": "Drill 1: Nani ga suki desu ka = What do you like?",
+   "source": "lesson_05 p.124",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_05_v_suki"
+  },
+  {
+   "id": "lesson_05_e30",
+   "type": "multiple_choice",
+   "prompt": "Drill: Anata no tomodachi no kuruma wa ao janai desu ka means...",
+   "choices": [
+    "Your friend's car is not blue.",
+    "Isn't your friend's car blue?",
+    "Your friend's car is blue.",
+    "Is your friend's car blue?"
+   ],
+   "answerIndex": 1,
+   "explanation": "Drill 5: ao janai desu ka is the negative question 'Isn't it blue?'",
+   "source": "lesson_05 p.124",
+   "verified": true,
+   "skill": "sentences"
+  }
+ ],
+ "quiz": [
+  {
+   "id": "lesson_05_q1",
+   "type": "multiple_choice",
+   "prompt": "To say you like something, which pattern is correct?",
+   "choices": [
+    "[noun] wa suki desu",
+    "[noun] ga suki desu",
+    "suki [noun] desu",
+    "[noun] suki ga desu"
+   ],
+   "answerIndex": 1,
+   "explanation": "The particle ga follows the thing liked: Sakana ga suki desu.",
+   "source": "lesson_05 p.109",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_05_q2",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "さかなが すきですか",
+   "choices": [
+    "Do you like fish?",
+    "I like fish.",
+    "Do you dislike fish?",
+    "Is it a fish?"
+   ],
+   "answerIndex": 0,
+   "explanation": "Sakana ga suki desu ka = Do you like fish?",
+   "source": "lesson_05 p.112",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_05_v_sakana"
+  },
+  {
+   "id": "lesson_05_q3",
+   "type": "fill_blank",
+   "prompt": "No, I don't like it: Iie, suki ___ desu.",
+   "accepted": [
+    "janai"
+   ],
+   "explanation": "Suki janai desu = I don't like it; janai follows the word it negates.",
+   "source": "lesson_05 p.110",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_05_v_suki"
+  },
+  {
+   "id": "lesson_05_q4",
+   "type": "multiple_choice",
+   "prompt": "Dore ga suki desu ka means...",
+   "choices": [
+    "What do you like?",
+    "Which one do you like?",
+    "Who likes it?",
+    "Do you like which color?"
+   ],
+   "answerIndex": 1,
+   "explanation": "Dore = which one; the 'one' pronoun section pairs it with suki desu ka.",
+   "source": "lesson_05 p.110",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_05_q5",
+   "type": "match",
+   "prompt": "Match the Lesson 5 words with their meaning:",
+   "pairs": [
+    {
+     "left": "jaa",
+     "right": "well then..."
+    },
+    {
+     "left": "daisuki",
+     "right": "really like"
+    },
+    {
+     "left": "oishii",
+     "right": "tastes good, delicious"
+    },
+    {
+     "left": "nihongo",
+     "right": "Japanese language"
+    }
+   ],
+   "explanation": "Core vocabulary of this lesson.",
+   "source": "lesson_05 p.108-109",
+   "verified": true,
+   "skill": "vocab"
+  },
+  {
+   "id": "lesson_05_q6",
+   "type": "multiple_choice",
+   "prompt": "Why does the book recommend suki janai instead of kirai in everyday conversation?",
+   "choices": [
+    "Kirai is only used in writing",
+    "Kirai and daikirai sound a bit harsh in Japanese culture",
+    "Kirai is grammatically incorrect",
+    "Kirai only applies to food"
+   ],
+   "answerIndex": 1,
+   "explanation": "Speaking Naturally: kirai and daikirai sound a bit harsh in Japanese culture.",
+   "source": "lesson_05 p.111",
+   "verified": true,
+   "skill": "culture",
+   "vocabId": "lesson_05_v_kirai"
+  }
+ ],
+ "summary": "Likes and dislikes use the particle ga: [noun] ga suki / kirai desu, with daisuki and daikirai for extra intensity. Janai ('not') follows the word it negates — add desu to be polite (Aka janai desu). No after a color or adjective makes the 'one' pronoun (aka no = the red one), asked with dore (or docchi for two items). Jaa starts a follow-up question ('Well then...'), and in daily conversation prefer suki janai over the harsh kirai. New hiragana: な に ぬ ね の."
+}

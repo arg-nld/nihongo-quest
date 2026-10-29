@@ -1,0 +1,24 @@
+JapaneseFromZero.com
+222
+
+Long / Cylindrical Objects なんぼん
+
+The なんぼん counter is used to count objects that are long and cylindrical in shape,
+such as bottles of cola, pens, legs and flowers (due to the stem). It is also used to
+count some items that might not seem to be long or cylindrical, such as video
+cassettes, teeth, and numbers of flights. Don't be surprised to hear this counter in
+a variety of situations.
+
+Thin / Flat Objects なんまい
+
+The なんまい counter is used to count objects that are thin and flat, such as paper,
+tickets, plates, and compact discs. It cannot be used to count books, magazines, etc.
+These use the published materials counter さつ.
+
+11 New Words あたらしい ことば
+
+| Progressive | Kana | Kanji | English |
+| :--- | :--- | :--- | :--- |
+| いくつ | いくつ | いくつ | How many things? |
+| なんこ | なんこ | 何個 | How many round objects? |
+| なんぼん | なんぼん | 何本 | How many cylindrical objects? |

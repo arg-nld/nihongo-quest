@@ -1,0 +1,1131 @@
+{
+ "sectionId": "lesson_06",
+ "title": "Lesson 6",
+ "subtitle": "Wanting and Not Wanting — Conjugating adjectives",
+ "pages": "126-145",
+ "objectives": [
+  "Say you want something with [thing] ga hoshii desu",
+  "Say you don't want something by dropping い and adding ku nai: hoshiku nai desu",
+  "Conjugate i-adjectives (and color adjectives) into the negative form with ku nai",
+  "Keep ja nai for nouns and ku nai for i-adjectives — never mix them up",
+  "Use no to string modifiers together: watashi no tomodachi no Akiko san",
+  "Count money: hyaku en, sen doru",
+  "Read hiragana は ひ ふ へ ほ with dakuten and handakuten, and spot the special topic-marker reading wa"
+ ],
+ "kanaFocus": [
+  "は",
+  "ひ",
+  "ふ",
+  "へ",
+  "ほ",
+  "ば",
+  "び",
+  "ぶ",
+  "べ",
+  "ぼ",
+  "ぱ",
+  "ぴ",
+  "ぷ",
+  "ぺ",
+  "ぽ"
+ ],
+ "vocab": [
+  {
+   "id": "lesson_06_v_hoshii",
+   "japanese": "ほしい",
+   "romaji": "hoshii",
+   "english": "want",
+   "source": "lesson_06 p.126",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_doru",
+   "japanese": "ドル",
+   "romaji": "doru",
+   "english": "dollars",
+   "source": "lesson_06 p.126",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_en",
+   "japanese": "えん",
+   "romaji": "en",
+   "english": "yen",
+   "source": "lesson_06 p.126",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_inta-netto",
+   "japanese": "インターネット",
+   "romaji": "inta-netto",
+   "english": "internet",
+   "source": "lesson_06 p.126",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_okane",
+   "japanese": "おかね",
+   "romaji": "okane",
+   "english": "money",
+   "source": "lesson_06 p.126",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_mochiron",
+   "japanese": "もちろん",
+   "romaji": "mochiron",
+   "english": "of course",
+   "source": "lesson_06 p.126",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_koora",
+   "japanese": "コーラ",
+   "romaji": "koora",
+   "english": "cola",
+   "source": "lesson_06 p.126",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_mizu",
+   "japanese": "みず",
+   "romaji": "mizu",
+   "english": "water",
+   "source": "lesson_06 p.126",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_nomimono",
+   "japanese": "のみもの",
+   "romaji": "nomimono",
+   "english": "a drink, drinks",
+   "source": "lesson_06 p.126",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_kekkou",
+   "japanese": "けっこうです",
+   "romaji": "kekkou desu",
+   "english": "I'm fine. (No thanks)",
+   "source": "lesson_06 p.127",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_atarashii",
+   "japanese": "あたらしい",
+   "romaji": "atarashii",
+   "english": "new",
+   "source": "lesson_06 p.127",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_furui",
+   "japanese": "ふるい",
+   "romaji": "furui",
+   "english": "old",
+   "source": "lesson_06 p.127",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_atsui",
+   "japanese": "あつい",
+   "romaji": "atsui",
+   "english": "hot",
+   "source": "lesson_06 p.127",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_samui",
+   "japanese": "さむい",
+   "romaji": "samui",
+   "english": "cold",
+   "source": "lesson_06 p.127",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_tsumetai",
+   "japanese": "つめたい",
+   "romaji": "tsumetai",
+   "english": "cold to the touch",
+   "source": "lesson_06 p.128",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_nurui",
+   "japanese": "ぬるい",
+   "romaji": "nurui",
+   "english": "warm, lukewarm",
+   "source": "lesson_06 p.128",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_konpyuutaa",
+   "japanese": "コンピューター",
+   "romaji": "konpyuutaa",
+   "english": "computer",
+   "source": "lesson_06 p.130",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_shinbun",
+   "japanese": "しんぶん",
+   "romaji": "shinbun",
+   "english": "newspaper",
+   "source": "lesson_06 p.131",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_kanojo",
+   "japanese": "かのじょ",
+   "romaji": "kanojo",
+   "english": "girlfriend; she",
+   "source": "lesson_06 p.130",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_kuruma",
+   "japanese": "くるま",
+   "romaji": "kuruma",
+   "english": "car",
+   "source": "lesson_06 p.130",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_hikouki",
+   "japanese": "ひこうき",
+   "romaji": "hikouki",
+   "english": "airplane",
+   "source": "lesson_06 p.145",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_densha",
+   "japanese": "でんしゃ",
+   "romaji": "densha",
+   "english": "train",
+   "source": "lesson_06 p.145",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_basu",
+   "japanese": "バス",
+   "romaji": "basu",
+   "english": "bus",
+   "source": "lesson_06 p.145",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_fune",
+   "japanese": "ふね",
+   "romaji": "fune",
+   "english": "ship; boat",
+   "source": "lesson_06 p.145",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_jitensha",
+   "japanese": "じてんしゃ",
+   "romaji": "jitensha",
+   "english": "bicycle",
+   "source": "lesson_06 p.145",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_shinkansen",
+   "japanese": "しんかんせん",
+   "romaji": "shinkansen",
+   "english": "bullet train",
+   "source": "lesson_06 p.145",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_douzo",
+   "japanese": "どうぞ",
+   "romaji": "douzo",
+   "english": "Please come in / (Hai) douzo: Here you are (when serving or giving something)",
+   "source": "lesson_06 p.143",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_ojama_shimasu",
+   "japanese": "おじゃまします",
+   "romaji": "ojama shimasu",
+   "english": "I will come in (literally, 'I will bother you,' when entering someone's house)",
+   "source": "lesson_06 p.143",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_sou_desu_ne",
+   "japanese": "そうですね",
+   "romaji": "sou desu ne",
+   "english": "Let's see...",
+   "source": "lesson_06 p.143",
+   "verified": true
+  },
+  {
+   "id": "lesson_06_v_chotto_matte",
+   "japanese": "ちょっとまってください",
+   "romaji": "chotto matte kudasai",
+   "english": "Please wait a moment",
+   "source": "lesson_06 p.143",
+   "verified": true
+  }
+ ],
+ "grammar": [
+  {
+   "id": "lesson_06_g_adjective_negative",
+   "title": "Making i-adjectives negative",
+   "pattern": "(i-adjective) minus い, add くない",
+   "explanation": "Ja nai (from the prior lesson) is used with nouns, but it cannot be used with i-adjectives. All true adjectives end with an い. To make an i-adjective negative, drop the last い then add ku nai.",
+   "examples": [
+    {
+     "japanese": "あたらしい → あたらしくない",
+     "romaji": "atarashii → atarashiku nai",
+     "english": "new → not new"
+    },
+    {
+     "japanese": "おいしい → おいしくない",
+     "romaji": "oishii → oishiku nai",
+     "english": "delicious → not delicious"
+    },
+    {
+     "japanese": "あつい → あつくない",
+     "romaji": "atsui → atsuku nai",
+     "english": "hot → not hot"
+    },
+    {
+     "japanese": "つめたい → つめたくない",
+     "romaji": "tsumetai → tsumetaku nai",
+     "english": "cold to the touch → not cold to the touch"
+    }
+   ],
+   "mistakes": [
+    "Using ja nai with i-adjectives — ja nai is used with nouns and ku nai with i-adjectives",
+    "Forgetting to drop the final い before adding ku nai"
+   ],
+   "source": "lesson_06 p.128"
+  },
+  {
+   "id": "lesson_06_g_colors_negative",
+   "title": "The colors as negative adjectives",
+   "pattern": "[color] minus い, add くない",
+   "explanation": "The same rule applies to the adjective forms of colors: drop the final い and add ku nai.",
+   "examples": [
+    {
+     "japanese": "あかい → あかくない",
+     "romaji": "akai → akaku nai",
+     "english": "red → not red"
+    },
+    {
+     "japanese": "あおい → あおくない",
+     "romaji": "aoi → aoku nai",
+     "english": "blue → not blue"
+    },
+    {
+     "japanese": "ちゃいろい → ちゃいろくない",
+     "romaji": "chairoi → chairoku nai",
+     "english": "brown → not brown"
+    },
+    {
+     "japanese": "きいろい → きいろくない",
+     "romaji": "kiiroi → kiiroku nai",
+     "english": "yellow → not yellow"
+    }
+   ],
+   "mistakes": [
+    "Treating colors like nouns and adding ja nai instead of ku nai"
+   ],
+   "source": "lesson_06 p.128"
+  },
+  {
+   "id": "lesson_06_g_hoshii",
+   "title": "Wanting and not wanting",
+   "pattern": "[thing] ga hoshii desu / [thing] ga hoshiku nai desu",
+   "explanation": "The particle ga is used with hoshii (want) in the same way it is used with suki and kirai. Ga marks the thing that you want or don't want. To change 'want' into 'don't want,' drop the い then add ku nai.",
+   "examples": [
+    {
+     "japanese": "あたらしいテレビがほしいです。",
+     "romaji": "Atarashii terebi ga hoshii desu.",
+     "english": "I want a new television."
+    },
+    {
+     "japanese": "つめたいのみものがほしいです。",
+     "romaji": "Tsumetai nomimono ga hoshii desu.",
+     "english": "I want a cold drink."
+    },
+    {
+     "japanese": "ふるいくるまがほしくないです。",
+     "romaji": "Furui kuruma ga hoshiku nai desu.",
+     "english": "I don't want an old car."
+    }
+   ],
+   "mistakes": [
+    "Using a particle other than ga to mark the thing you want"
+   ],
+   "source": "lesson_06 p.129"
+  },
+  {
+   "id": "lesson_06_g_no",
+   "title": "Tricky uses of the particle no",
+   "pattern": "[noun A] no [noun B] no [name]",
+   "explanation": "No shows possession, and it can also turn any noun into an adjective (modifier) for the word after it. In a string of no's, keep in mind the key function: no makes the word before it modify what comes after. Watashi no tomodachi no Akiko san simply means 'my friend Akiko' — watashi no tomodachi just modifies Akiko san.",
+   "examples": [
+    {
+     "japanese": "わたしのともだちのあきこさんは にじゅうさいです。",
+     "romaji": "Watashi no tomodachi no Akiko san wa nijuusai desu.",
+     "english": "My friend Akiko is 25 years old."
+    }
+   ],
+   "mistakes": [
+    "Reading every no as possession when it may just be marking a modifier"
+   ],
+   "source": "lesson_06 p.129"
+  },
+  {
+   "id": "lesson_06_g_money",
+   "title": "Numbers and money",
+   "pattern": "[number] + en / doru",
+   "explanation": "To say amounts like 100 yen or 100 dollars, just add en or doru after the number. The particle no is not required.",
+   "examples": [
+    {
+     "japanese": "ひゃくえん",
+     "romaji": "hyaku en",
+     "english": "100 yen"
+    },
+    {
+     "japanese": "せんドル",
+     "romaji": "sen doru",
+     "english": "1000 dollars"
+    },
+    {
+     "japanese": "いちまんドル",
+     "romaji": "ichiman doru",
+     "english": "10,000 dollars"
+    }
+   ],
+   "mistakes": [
+    "Adding a particle between the number and en/doru"
+   ],
+   "source": "lesson_06 p.130"
+  },
+  {
+   "id": "lesson_06_g_kun_chan",
+   "title": "Culture Clip: kun and chan",
+   "pattern": "[name] + kun / chan",
+   "explanation": "Kun or chan added to the end of last or first names show affection, but are not limited to just that. Chan is mostly used after girls' names and kun after boys' names. Chan is used quite often after children's names regardless of sex, and it is not unusual for a higher-up in a company to refer to female staff members with kun after their names. Chan and kun should never be used when addressing people above you in social status — if you hear someone using them, you can assume the speaker is equal or higher in status.",
+   "examples": [
+    {
+     "japanese": "くん",
+     "romaji": "kun",
+     "english": "affectionate suffix, mostly after boys' names"
+    },
+    {
+     "japanese": "ちゃん",
+     "romaji": "chan",
+     "english": "affectionate suffix, mostly after girls' and children's names"
+    }
+   ],
+   "mistakes": [
+    "Using kun or chan when addressing someone above you in social status"
+   ],
+   "source": "lesson_06 p.127"
+  },
+  {
+   "id": "lesson_06_g_hiragana_ha",
+   "title": "Hiragana は ひ ふ へ ほ (+ dakuten and handakuten)",
+   "pattern": "ha hi fu he ho; + dakuten → ba bi bu be bo; + handakuten (maru) → pa pi pu pe po",
+   "explanation": "The ha row of hiragana. The pa pi pu pe po characters are made by adding a small circle where dakuten normally goes; the circle is written clockwise and is always the last stroke. Most Japanese people call it maru ('circle'); its official name is handakuten. This book represents ふ as FU instead of HU because the pronunciation is closer to FU (voiced softer than the English F). There is an easy way to write ふ: connect the first and second stroke into what looks like a number '3.'",
+   "examples": [
+    {
+     "japanese": "は → ば",
+     "romaji": "ha → ba",
+     "english": "adding dakuten"
+    },
+    {
+     "japanese": "ひ → ぴ",
+     "romaji": "hi → pi",
+     "english": "adding handakuten (maru)"
+    }
+   ],
+   "mistakes": [
+    "Writing ふ as HU in romaji for this course",
+    "Adding the handakuten circle before the base strokes — it is always the last stroke"
+   ],
+   "source": "lesson_06 p.132-134"
+  },
+  {
+   "id": "lesson_06_g_wa_marker",
+   "title": "Special usage: topic marker は (wa)",
+   "pattern": "[topic] wa",
+   "explanation": "The topic marker 'wa' is written using the は (ha) character and can never be written using わ (wa). In all other situations, は is always read as 'ha.' Similarly, the direction marker 'e' is written with へ (he), never え (e) — that grammar point is covered in Lesson 12.",
+   "examples": [
+    {
+     "japanese": "あなたはだれですか。",
+     "romaji": "Anata wa dare desu ka.",
+     "english": "Who are you?"
+    },
+    {
+     "japanese": "バナナはきいろです。",
+     "romaji": "Banana wa kiiro desu.",
+     "english": "Bananas are yellow."
+    },
+    {
+     "japanese": "がっこうへいきます。",
+     "romaji": "Gakkou e ikimasu.",
+     "english": "I am going towards (to) school."
+    }
+   ],
+   "mistakes": [
+    "Writing the topic marker as わ instead of は"
+   ],
+   "source": "lesson_06 p.136"
+  }
+ ],
+ "exercises": [
+  {
+   "id": "lesson_06_e1",
+   "type": "match",
+   "prompt": "Match the new words with their meanings:",
+   "pairs": [
+    {
+     "left": "hoshii",
+     "right": "want"
+    },
+    {
+     "left": "okane",
+     "right": "money"
+    },
+    {
+     "left": "mizu",
+     "right": "water"
+    },
+    {
+     "left": "nomimono",
+     "right": "a drink, drinks"
+    },
+    {
+     "left": "koora",
+     "right": "cola"
+    },
+    {
+     "left": "mochiron",
+     "right": "of course"
+    }
+   ],
+   "explanation": "Core Lesson 6 words from the New Words list.",
+   "source": "lesson_06 p.126",
+   "verified": true,
+   "skill": "vocab"
+  },
+  {
+   "id": "lesson_06_e2",
+   "type": "multiple_choice",
+   "prompt": "Which particle marks the thing that you want?",
+   "choices": [
+    "wa",
+    "ga",
+    "no",
+    "ka"
+   ],
+   "answerIndex": 1,
+   "explanation": "Ga is used with hoshii in the same way it is used with suki and kirai.",
+   "source": "lesson_06 p.129",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_06_v_hoshii"
+  },
+  {
+   "id": "lesson_06_e3",
+   "type": "fill_blank",
+   "prompt": "I want money: ___ ga hoshii desu.",
+   "accepted": [
+    "okane"
+   ],
+   "explanation": "Okane ga hoshii desu = I want money; ga marks the thing wanted.",
+   "source": "lesson_06 p.126,129",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_06_v_okane"
+  },
+  {
+   "id": "lesson_06_e4",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "みずがほしいです",
+   "choices": [
+    "I want water.",
+    "I want a drink.",
+    "I want cola.",
+    "I don't want water."
+   ],
+   "answerIndex": 0,
+   "explanation": "Mizu ga hoshii desu = I want water.",
+   "source": "lesson_06 p.129",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_06_v_mizu"
+  },
+  {
+   "id": "lesson_06_e5",
+   "type": "multiple_choice",
+   "prompt": "How do you make an i-adjective negative?",
+   "choices": [
+    "Add ja nai to the whole word",
+    "Drop the last い then add ku nai",
+    "Add de nai",
+    "Add arimasen without changing the word"
+   ],
+   "answerIndex": 1,
+   "explanation": "All true adjectives end with い: drop the last い then add ku nai.",
+   "source": "lesson_06 p.128",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_06_e6",
+   "type": "fill_blank",
+   "prompt": "It is not hot: atsui minus い plus ___ (roomaji).",
+   "accepted": [
+    "ku nai",
+    "kunai"
+   ],
+   "explanation": "Atsui → atsuku nai = not hot.",
+   "source": "lesson_06 p.128",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_06_v_atsui"
+  },
+  {
+   "id": "lesson_06_e7",
+   "type": "match",
+   "prompt": "Match the new adjectives with their meanings:",
+   "pairs": [
+    {
+     "left": "atarashii",
+     "right": "new"
+    },
+    {
+     "left": "furui",
+     "right": "old"
+    },
+    {
+     "left": "atsui",
+     "right": "hot"
+    },
+    {
+     "left": "samui",
+     "right": "cold"
+    },
+    {
+     "left": "tsumetai",
+     "right": "cold to the touch"
+    },
+    {
+     "left": "nurui",
+     "right": "warm, lukewarm"
+    }
+   ],
+   "explanation": "The New Adjectives list — all of them are i-adjectives.",
+   "source": "lesson_06 p.127-128",
+   "verified": true,
+   "skill": "vocab"
+  },
+  {
+   "id": "lesson_06_e8",
+   "type": "multiple_choice",
+   "prompt": "You are holding a glass of iced tea and describe it. Which word fits 'cold to the touch'?",
+   "choices": [
+    "samui",
+    "tsumetai",
+    "atsui",
+    "nurui"
+   ],
+   "answerIndex": 1,
+   "explanation": "Tsumetai = cold to the touch; samui is cold (weather/atmosphere).",
+   "source": "lesson_06 p.128",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_06_v_tsumetai"
+  },
+  {
+   "id": "lesson_06_e9",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "つめたいのみものがほしいです",
+   "choices": [
+    "I want a cold drink.",
+    "I want a hot drink.",
+    "I want a warm drink.",
+    "I don't want a cold drink."
+   ],
+   "answerIndex": 0,
+   "explanation": "Tsumetai nomimono ga hoshii desu = I want a cold drink.",
+   "source": "lesson_06 p.129",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_06_v_tsumetai"
+  },
+  {
+   "id": "lesson_06_e10",
+   "type": "word_order",
+   "prompt": "Arrange the words: I want a new car.",
+   "tokens": [
+    "atarashii",
+    "kuruma",
+    "ga",
+    "hoshii",
+    "desu"
+   ],
+   "explanation": "Atarashii kuruma ga hoshii desu — ga marks the thing you want.",
+   "source": "lesson_06 p.130",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_06_v_kuruma"
+  },
+  {
+   "id": "lesson_06_e11",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "ふるいくるまがほしくないです",
+   "choices": [
+    "I don't want an old car.",
+    "I don't want a new car.",
+    "I want an old car.",
+    "I don't like old cars."
+   ],
+   "answerIndex": 0,
+   "explanation": "Furui kuruma ga hoshiku nai desu = I don't want an old car.",
+   "source": "lesson_06 p.129",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_06_v_kuruma"
+  },
+  {
+   "id": "lesson_06_e12",
+   "type": "multiple_choice",
+   "prompt": "After whose names is chan MOSTLY used?",
+   "choices": [
+    "boys' names",
+    "girls' names",
+    "elders' names",
+    "your own name"
+   ],
+   "answerIndex": 1,
+   "explanation": "Chan is mostly used after girls' names and kun after boys' names; chan is also used often after children's names regardless of sex.",
+   "source": "lesson_06 p.127",
+   "verified": true,
+   "skill": "culture"
+  },
+  {
+   "id": "lesson_06_e13",
+   "type": "multiple_choice",
+   "prompt": "With whom should you NEVER use kun or chan?",
+   "choices": [
+    "your little brother",
+    "a classmate",
+    "people above you in social status",
+    "children"
+   ],
+   "answerIndex": 2,
+   "explanation": "Chan and kun should never be used when addressing people above you in social status.",
+   "source": "lesson_06 p.127",
+   "verified": true,
+   "skill": "culture"
+  },
+  {
+   "id": "lesson_06_e14",
+   "type": "fill_blank",
+   "prompt": "I'm fine. (No thanks): ___ desu. (roomaji)",
+   "accepted": [
+    "kekkou"
+   ],
+   "explanation": "Kekkou desu = I'm fine (No thanks) — the lesson's new phrase.",
+   "source": "lesson_06 p.127",
+   "verified": true,
+   "skill": "phrases",
+   "vocabId": "lesson_06_v_kekkou"
+  },
+  {
+   "id": "lesson_06_e15",
+   "type": "multiple_choice",
+   "prompt": "How do you say '100 yen'?",
+   "choices": [
+    "hyaku no en",
+    "hyaku en",
+    "en hyaku",
+    "hyaku en desu ka"
+   ],
+   "answerIndex": 1,
+   "explanation": "Just add en after the number: hyaku en. The particle no is not required.",
+   "source": "lesson_06 p.130",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_06_v_en"
+  },
+  {
+   "id": "lesson_06_e16",
+   "type": "fill_blank",
+   "prompt": "1000 dollars: ___ doru. (roomaji)",
+   "accepted": [
+    "sen"
+   ],
+   "explanation": "Sen doru = 1000 dollars; add doru after the number.",
+   "source": "lesson_06 p.130",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_06_v_doru"
+  },
+  {
+   "id": "lesson_06_e17",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "なにがほしいですか",
+   "choices": [
+    "What do you want?",
+    "Which one do you want?",
+    "What do you like?",
+    "Do you want it?"
+   ],
+   "answerIndex": 0,
+   "explanation": "Nani ga hoshii desu ka = What do you want?",
+   "source": "lesson_06 p.130",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_06_v_hoshii"
+  },
+  {
+   "id": "lesson_06_e18",
+   "type": "multiple_choice",
+   "prompt": "'Dore ga hoshii desu ka' means...",
+   "choices": [
+    "What do you want?",
+    "Which one do you want?",
+    "Who wants it?",
+    "How much is it?"
+   ],
+   "answerIndex": 1,
+   "explanation": "Dore ga hoshii desu ka = Which one do you want? (from the Q&A section)",
+   "source": "lesson_06 p.130",
+   "verified": true,
+   "skill": "sentences"
+  },
+  {
+   "id": "lesson_06_e19",
+   "type": "fill_blank",
+   "prompt": "Is your car new? No, it's not new: Iie, atarashiku ___ desu.",
+   "accepted": [
+    "nai"
+   ],
+   "explanation": "Iie, atarashiku nai desu = No, it's not new — atarashii minus い plus ku nai.",
+   "source": "lesson_06 p.130",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_06_v_atarashii"
+  },
+  {
+   "id": "lesson_06_e20",
+   "type": "multiple_choice",
+   "prompt": "'Watashi no tomodachi no Akiko san wa nijuusai desu' means...",
+   "choices": [
+    "My friend Akiko is 25 years old.",
+    "Akiko's friend is 25 years old.",
+    "My friend Akiko likes the color blue.",
+    "Akiko is my 25-year-old sister."
+   ],
+   "answerIndex": 0,
+   "explanation": "The no's build a modifier chain: watashi no tomodachi modifies Akiko san — 'my friend Akiko.'",
+   "source": "lesson_06 p.129",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_06_e21",
+   "type": "multiple_choice",
+   "prompt": "Why isn't ふ written as HU in this book?",
+   "choices": [
+    "Because HU is a typo",
+    "The pronunciation of ふ is closer to FU (voiced softer than English F)",
+    "Japanese has no H sound",
+    "HU is only used for long vowels"
+   ],
+   "answerIndex": 1,
+   "explanation": "Japanese people sometimes write HU in romaji, but the pronunciation is closer to FU.",
+   "source": "lesson_06 p.134",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_06_e22",
+   "type": "match",
+   "prompt": "Match the hiragana with its romaji:",
+   "pairs": [
+    {
+     "left": "は",
+     "right": "ha"
+    },
+    {
+     "left": "ひ",
+     "right": "hi"
+    },
+    {
+     "left": "ふ",
+     "right": "fu"
+    },
+    {
+     "left": "へ",
+     "right": "he"
+    },
+    {
+     "left": "ほ",
+     "right": "ho"
+    }
+   ],
+   "explanation": "The five new hiragana of Lesson 6.",
+   "source": "lesson_06 p.132",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_06_e23",
+   "type": "multiple_choice",
+   "prompt": "What is the official name of the small circle on ぱ ぴ ぷ ぺ ぽ?",
+   "choices": [
+    "dakuten",
+    "handakuten",
+    "maru only",
+    "ten ten"
+   ],
+   "answerIndex": 1,
+   "explanation": "The official name is handakuten; most Japanese people simply call it maru ('circle').",
+   "source": "lesson_06 p.134",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_06_e24",
+   "type": "multiple_choice",
+   "prompt": "Which character MUST be used to write the topic marker 'wa'?",
+   "choices": [
+    "わ",
+    "は",
+    "ほ",
+    "へ"
+   ],
+   "answerIndex": 1,
+   "explanation": "The topic marker wa is written with は (ha) and can never be written with わ (wa).",
+   "source": "lesson_06 p.136",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_06_e25",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "あなたはだれですか",
+   "choices": [
+    "Who are you?",
+    "Where are you?",
+    "What is your name?",
+    "How old are you?"
+   ],
+   "answerIndex": 0,
+   "explanation": "Anata wa dare desu ka = Who are you? — は here is the topic marker wa.",
+   "source": "lesson_06 p.136",
+   "verified": true,
+   "skill": "sentences"
+  },
+  {
+   "id": "lesson_06_e26",
+   "type": "multiple_choice",
+   "prompt": "Adding dakuten to は gives...",
+   "choices": [
+    "ぱ (pa)",
+    "ば (ba)",
+    "は (ha)",
+    "ぼ (bo)"
+   ],
+   "answerIndex": 1,
+   "explanation": "Dakuten turns the ha row into ba bi bu be bo; the circle (handakuten) makes pa pi pu pe po.",
+   "source": "lesson_06 p.132",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_06_e27",
+   "type": "fill_blank",
+   "prompt": "The easy way to write ふ: connect the first and second stroke into what looks like the number ___.",
+   "accepted": [
+    "3",
+    "three"
+   ],
+   "explanation": "Connect the first and second strokes into a '3' shape.",
+   "source": "lesson_06 p.134",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_06_e28",
+   "type": "word_order",
+   "prompt": "Arrange the words: What do you want?",
+   "tokens": [
+    "nani",
+    "ga",
+    "hoshii",
+    "desu",
+    "ka"
+   ],
+   "explanation": "Nani ga hoshii desu ka = What do you want?",
+   "source": "lesson_06 p.130",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_06_v_hoshii"
+  },
+  {
+   "id": "lesson_06_e29",
+   "type": "match",
+   "prompt": "Match the expressions from the short dialogue:",
+   "pairs": [
+    {
+     "left": "Douzo.",
+     "right": "Please come in."
+    },
+    {
+     "left": "Ojama shimasu.",
+     "right": "I will come in."
+    },
+    {
+     "left": "Sou desu ne...",
+     "right": "Let's see..."
+    },
+    {
+     "left": "Chotto matte kudasai.",
+     "right": "Please wait a moment."
+    }
+   ],
+   "explanation": "New words and expressions from the dialogue between Mr. Yoshida and Karen.",
+   "source": "lesson_06 p.143",
+   "verified": true,
+   "skill": "phrases"
+  },
+  {
+   "id": "lesson_06_e30",
+   "type": "multiple_choice",
+   "prompt": "'Akaku nai ringo wa suki ja nai desu' means...",
+   "choices": [
+    "I don't like apples that are not red.",
+    "I don't like red apples.",
+    "I like apples that are not red.",
+    "I don't want a red apple."
+   ],
+   "answerIndex": 0,
+   "explanation": "Akaku nai = not red (akai minus い plus ku nai); suki ja nai desu = don't like.",
+   "source": "lesson_06 p.144",
+   "verified": true,
+   "skill": "sentences"
+  }
+ ],
+ "quiz": [
+  {
+   "id": "lesson_06_q1",
+   "type": "multiple_choice",
+   "prompt": "Ku nai is used with ___, and ja nai with ___.",
+   "choices": [
+    "i-adjectives / nouns",
+    "nouns / i-adjectives",
+    "verbs / adjectives",
+    "nouns / nouns"
+   ],
+   "answerIndex": 0,
+   "explanation": "The teacher's note: ja nai is used with nouns and ku nai is used with i-adjectives.",
+   "source": "lesson_06 p.126",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_06_q2",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "おかねがほしいです",
+   "choices": [
+    "I want money.",
+    "I want water.",
+    "I have money.",
+    "I don't want money."
+   ],
+   "answerIndex": 0,
+   "explanation": "Okane ga hoshii desu = I want money.",
+   "source": "lesson_06 p.126,129",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_06_v_okane"
+  },
+  {
+   "id": "lesson_06_q3",
+   "type": "fill_blank",
+   "prompt": "I don't want water: Mizu ga hoshi ___ desu. (roomaji)",
+   "accepted": [
+    "ku nai",
+    "kunai"
+   ],
+   "explanation": "Drop the い of hoshii and add ku nai: hoshiku nai desu = don't want.",
+   "source": "lesson_06 p.129",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_06_v_mizu"
+  },
+  {
+   "id": "lesson_06_q4",
+   "type": "multiple_choice",
+   "prompt": "Which sentence correctly says 'I want a new television'?",
+   "choices": [
+    "Atarashii terebi ga hoshii desu.",
+    "Atarashii terebi wa hoshii desu ka.",
+    "Atarashiku terebi ga hoshii desu.",
+    "Terebi atarashii ga hoshii desu."
+   ],
+   "answerIndex": 0,
+   "explanation": "[thing] ga hoshii desu with the i-adjective before the noun: Atarashii terebi ga hoshii desu.",
+   "source": "lesson_06 p.129",
+   "verified": true,
+   "skill": "sentences"
+  },
+  {
+   "id": "lesson_06_q5",
+   "type": "match",
+   "prompt": "Match the hiragana with dakuten to its romaji:",
+   "pairs": [
+    {
+     "left": "ば",
+     "right": "ba"
+    },
+    {
+     "left": "び",
+     "right": "bi"
+    },
+    {
+     "left": "ぶ",
+     "right": "bu"
+    }
+   ],
+   "explanation": "Dakuten turns ha hi fu he ho into ba bi bu be bo.",
+   "source": "lesson_06 p.132",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_06_q6",
+   "type": "translation",
+   "direction": "en_to_ja",
+   "prompt": "I want a cola. (roomaji)",
+   "accepted": [
+    "koora ga hoshii desu"
+   ],
+   "explanation": "Koora ga hoshii desu = I want a cola.",
+   "source": "lesson_06 p.130",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_06_v_koora"
+  }
+ ],
+ "summary": "Ga marks the thing you want: [thing] ga hoshii desu. To not want, drop the い of hoshii and add ku nai. The same rule negatives every i-adjective (atsui → atsuku nai) and the colors (akai → akaku nai) — ja nai stays with nouns. Numbers + en/doru need no particle (hyaku en, sen doru). New hiragana: は ひ ふ へ ほ, with dakuten (ば row) and handakuten/maru (ぱ row); the topic marker wa is written は, never わ."
+}

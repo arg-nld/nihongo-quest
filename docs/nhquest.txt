@@ -1,0 +1,528 @@
+# Project: Nihongo Quest — Personal Japanese Learning RPG
+
+## Your role
+
+Act as a senior Flutter/Dart developer, UI/UX designer, Japanese language learning curriculum designer, and educational game developer.
+
+Build a functional, polished Japanese-learning application called **Nihongo Quest**. It is a personal-use project for one learner, not a commercial product.
+
+The main textbook is **Japanese From Zero! 1 by George Trombley and Yukari Takenaka**.
+
+The app should combine a structured textbook-based curriculum with engaging game mechanics inspired by language-learning games such as Duolingo and RPG progression systems.
+
+Do not merely describe the application or generate a mockup. Inspect the project, implement the application, run available checks, and fix issues where possible.
+
+## 1. First inspect the environment
+
+Before making changes:
+
+1. Inspect the current working directory and determine whether a Flutter project already exists.
+2. Inspect `pubspec.yaml`, the Dart SDK constraints, the existing source files, and the current app structure.
+3. Check whether Flutter and Dart are installed and available.
+4. Inspect the textbook PDF at `docs/Japanese_From_Zero_1.pdf`.
+5. Determine whether its text, table of contents, lesson headings, vocabulary, and grammar explanations can be extracted reliably.
+6. Create a concise implementation plan and curriculum inventory before building the main features.
+
+If the directory already contains a working project, preserve its existing functionality and modify it rather than unnecessarily recreating everything.
+
+Do not delete or overwrite unrelated files.
+
+If the PDF is missing or unreadable, explain the specific issue and provide the extraction steps needed. Do not fabricate lesson titles, chapter numbers, grammar topics, or vocabulary and claim they came from the textbook.
+
+## 2. Curriculum requirements
+
+The textbook must determine the order of the main curriculum.
+
+Do not replace its sequence with a generic JLPT course or an invented Japanese course.
+
+First, create `docs/curriculum_inventory.md` containing the verified textbook structure, with:
+
+- Actual lesson or chapter numbers and titles, when available.
+- Vocabulary introduced by each lesson.
+- Grammar concepts introduced by each lesson.
+- Hiragana or other writing-system material introduced by each lesson.
+- Example dialogue themes and relevant cultural notes.
+- PDF page references where available.
+- Any uncertain or unreadable content clearly marked for manual verification.
+
+Distinguish information extracted from the textbook from supplementary explanations or original exercises you create.
+
+Do not silently fill missing textbook information using guesses.
+
+### Curriculum design
+
+Build the course in the same order as the textbook.
+
+Each lesson should include the following applicable sections:
+
+1. Pronunciation and reading warm-up.
+2. New vocabulary with meanings, readings, and example usage.
+3. Grammar explanations written in simple English.
+4. Guided examples with explanations.
+5. Flashcards and active-recall exercises.
+6. Multiple-choice questions.
+7. Japanese-to-English translation.
+8. English-to-Japanese translation.
+9. Sentence-building and word-order exercises.
+10. Listening exercises, when audio is available.
+11. Hiragana recognition, reading, and writing practice where relevant.
+12. Review questions from previous lessons.
+13. A final lesson challenge.
+14. A concise lesson summary and list of mistakes to review.
+
+Not every lesson must use every exercise type, but the learning material should determine which activities are appropriate.
+
+### Avoid sparse lessons
+
+Do not create lessons containing only three or four questions.
+
+Aim for approximately 20–30 practice items per lesson when the verified source material supports that volume. Include multiple exercise formats, meaningful explanations, and repeated practice.
+
+These are learning targets, not permission to invent textbook content or pad lessons with repetitive questions.
+
+For a very small lesson, supplement it with additional original practice using only verified material from the lesson and previously learned concepts.
+
+Do not introduce future grammar prematurely without clearly labeling it as optional supplementary material.
+
+### Pronunciation and kana
+
+Give pronunciation and hiragana practice special attention because the learner is starting from a beginner level.
+
+Include:
+
+- Japanese kana, romaji, and English meanings where appropriate.
+- Kana recognition and sound identification.
+- Similar-sounding syllable discrimination.
+- Short pronunciation notes and examples.
+- Audio playback for words and sentences when audio assets exist.
+- Kana tracing or stroke-order demonstrations if feasible.
+- A setting to reduce or hide romaji as the learner progresses.
+
+Follow the textbook's gradual introduction of hiragana rather than requiring memorization of all kana before the main course begins.
+
+## 3. Learning activity engine
+
+Create a reusable exercise system instead of hardcoding every question into separate Flutter screens.
+
+Support these exercise types where applicable:
+
+- Multiple choice.
+- Flashcards.
+- Japanese-to-English translation.
+- English-to-Japanese translation.
+- Word and sentence ordering.
+- Fill in the blank.
+- Matching Japanese words with meanings.
+- Kana recognition.
+- Listening comprehension.
+- Sentence correction.
+- Review quizzes.
+- Chapter checkpoint challenges.
+
+Every answer should receive appropriate feedback.
+
+For incorrect answers, show the correct answer, a brief explanation, and why the selected answer was incorrect when that can be determined.
+
+Allow the learner to retry without unnecessarily restarting the entire lesson.
+
+Create reusable Dart models for lessons, vocabulary, grammar notes, exercises, answers, lesson progress, and review scheduling.
+
+Store lesson content separately from UI code using structured JSON or another simple maintainable format.
+
+Use stable IDs for lessons, vocabulary items, and questions.
+
+Validate exercise content so malformed questions do not crash the app.
+
+## 4. RPG and gamification
+
+The application should feel like a small Japanese-learning RPG.
+
+Implement:
+
+- A Japanese-inspired world map.
+- Progressive lesson and location unlocks.
+- XP and player levels.
+- Coins earned through learning activities.
+- Daily quests.
+- Achievement badges.
+- Lesson completion rewards.
+- Chapter checkpoint or boss challenges.
+- A player profile and progress dashboard.
+- A simple cosmetic shop with unlockable items.
+- Progress indicators and satisfying feedback animations.
+
+Use a reward system that encourages actual learning.
+
+Completing a lesson may grant XP, but vocabulary mastery should depend on correct recall across multiple review sessions rather than merely opening a lesson.
+
+Do not add payment systems, ads, subscriptions, multiplayer, leaderboards, or social features.
+
+Avoid punitive mechanics. No energy system that prevents studying, and no harsh streak-loss penalties.
+
+## 5. Spaced repetition and progress
+
+Implement a lightweight review scheduler that tracks each vocabulary item and relevant question.
+
+Store:
+
+- Number of attempts.
+- Correct and incorrect answers.
+- Accuracy.
+- Last review time.
+- Next review time.
+- Consecutive successful recalls.
+- A simple mastery status.
+
+Prioritize weak and overdue items.
+
+Use a simple, documented spaced-repetition algorithm appropriate for a personal learning app. It does not need to be a complex machine-learning system.
+
+Provide a dedicated Review Today screen and a mixed review mode that combines previously learned material.
+
+Do not mark a word as mastered after one correct answer.
+
+## 6. Technical requirements
+
+Use:
+
+- Flutter and Dart.
+- Material 3.
+- Riverpod for state management, unless the existing project already uses another suitable approach.
+- SQLite with Drift for persistent local progress if appropriate for the existing project.
+- A local-first architecture.
+- A reusable lesson and exercise engine.
+- A lightweight routing solution if multiple screens require it.
+
+Keep the application functional without an account or internet connection for its core learning activities.
+
+Do not introduce a backend, database server, authentication service, or cloud synchronization for the initial version.
+
+Use local assets for bundled lesson content and audio.
+
+If audio assets are not available, implement an audio abstraction and a clear fallback instead of pretending that audio works. Document how pronunciation audio can be added later.
+
+Keep dependencies reasonable and check package compatibility with the project's existing Flutter and Dart SDK versions.
+
+Never place API keys, credentials, or other secrets in the source code.
+
+## 7. User interface
+
+Create a polished, mobile-first interface suitable for Android.
+
+Visual direction:
+
+- Cozy Japanese adventure atmosphere.
+- Japanese-inspired colors and illustrations.
+- Clear typography that supports kana and kanji.
+- Rounded cards and readable lesson layouts.
+- Smooth but restrained animations.
+- Visible XP, coins, mastery, and lesson progression.
+- Accessible color contrast and appropriately sized touch targets.
+
+Create these primary screens:
+
+1. Home dashboard.
+2. World map and curriculum.
+3. Lesson introduction.
+4. Interactive lesson player.
+5. Exercise and answer-feedback screens.
+6. Lesson results.
+7. Review Today.
+8. Vocabulary collection.
+9. Player profile and statistics.
+10. Achievements and cosmetic shop.
+11. Settings.
+
+The home screen should clearly display the next recommended lesson, due reviews, recent progress, and daily quests.
+
+Use meaningful Japanese-learning content in the interface rather than generic placeholder text.
+
+Do not make every screen look like a static dashboard. The lesson player should be interactive and focused on learning.
+
+## 8. Local persistence
+
+All important progress must survive application restarts.
+
+Persist:
+
+- Completed lessons.
+- Unlocked lessons and areas.
+- XP, levels, and coins.
+- Vocabulary mastery and review schedules.
+- Exercise history.
+- Achievement progress.
+- Settings and display preferences.
+
+Use migrations or another safe schema-management approach if the database structure changes.
+
+Handle empty databases, first launch, interrupted lessons, and invalid or missing content gracefully.
+
+## 9. Testing and quality
+
+Create tests for important learning logic.
+
+At minimum, test:
+
+- Exercise answer validation.
+- XP and coin calculations.
+- Lesson unlock requirements.
+- Progress persistence.
+- Mastery updates.
+- Spaced-repetition scheduling.
+- Invalid exercise data.
+
+After implementation:
+
+1. Run `flutter pub get`.
+2. Run `dart format`.
+3. Run `flutter analyze`.
+4. Run available automated tests.
+5. Fix errors introduced by your changes.
+6. Report any checks that could not run and why.
+
+Do not claim a check passed unless it actually ran successfully.
+
+## 10. Documentation
+
+Create a README.md that explains:
+
+- What the app does.
+- Prerequisites.
+- How to run it in VS Code.
+- How to run it on an Android emulator or connected device.
+- The project structure.
+- How curriculum data is organized.
+- How to add new lessons and exercises.
+- How progress and spaced repetition work.
+- Known limitations and future improvements.
+
+Keep `docs/curriculum_inventory.md` synchronized with the verified textbook structure.
+
+Do not include the full textbook or large verbatim passages in the source code or documentation. Create original exercises and concise study notes grounded in the user's copy of the book.
+
+## 11. Implementation workflow
+
+Work incrementally.
+
+First inspect the project and the textbook. Then create the curriculum inventory and implementation plan.
+
+After that, implement a playable vertical slice with:
+
+- A working home screen.
+- A verified first lesson, if its source material can be extracted.
+- Enough practice items to make that lesson useful.
+- At least three different exercise types.
+- Answer explanations.
+- XP and rewards.
+- Persistent local progress.
+- A simple review mechanism.
+
+Once the vertical slice works, expand the same architecture to the remaining verified lessons.
+
+If the textbook cannot be extracted, build the reusable app infrastructure first, but clearly label any temporary sample content as unverified and do not present it as the textbook's actual curriculum.
+
+Do not stop after generating a plan or a few example Dart files. Continue implementing and testing until the vertical slice works or a genuine blocker prevents further progress.
+
+At the end, summarize the files created or modified, the features implemented, the tests actually run, any remaining issues, and the exact commands needed to launch the app.
+
+Prioritize correctness, maintainability, useful learning content, and a working application over unnecessary complexity.
+
+## 12. Supplemental JLPT N5 Workbook Integration
+
+In addition to `Japanese From Zero! 1`, integrate the supplied JLPT N5 practice materials located in `docs/N5-practice-book/`.
+
+The workbook is a secondary curriculum and assessment resource. The textbook remains the primary source for the order in which concepts are taught.
+
+The goal is to help the learner both understand Japanese and gradually prepare for the JLPT N5 exam.
+
+### A. Inspect all workbook resources
+
+The supplied archive contains these resources:
+
+- `N5V-notes.pdf`: vocabulary and written-language practice material.
+- `N5G-notes.pdf`: grammar practice material.
+- `N5R-notes.pdf`: reading practice material.
+- `N5L-notes.pdf`: listening practice material.
+- `N5answer.pdf`: answer key.
+- `N5script.pdf`: listening scripts.
+- `N5sheet.pdf`: exam answer sheet.
+- `N5-listening-mp3s.zip`: listening audio files.
+
+First, extract the archive into a dedicated directory and inventory every file.
+
+Inspect the PDFs and audio archive. Determine which files contain actual questions, instructions, passages, answer choices, answers, scripts, and audio recordings.
+
+Do not assume that filenames fully describe their contents. Some PDFs may be scanned images, and their text may require OCR or page-image inspection.
+
+Create `docs/jlpt_n5_inventory.md` documenting:
+
+- Every source file.
+- Its purpose and section.
+- Available question numbers and page references.
+- Whether its contents were successfully extracted.
+- Whether an answer key exists.
+- Whether audio or a corresponding listening script exists.
+- Any ambiguous, missing, or unreadable material.
+
+Preserve the original question numbering and section organization whenever possible.
+
+Do not silently omit questions that could not be extracted. Record them for later manual processing.
+
+### B. Build a unified curriculum
+
+Create a unified curriculum that combines both learning resources.
+
+The learning order must follow the verified sequence of `Japanese From Zero! 1`.
+
+For each textbook lesson:
+
+1. Identify the vocabulary, grammar, and reading skills actually introduced.
+2. Identify supplemental workbook questions that assess those skills and that the learner has the prerequisites to answer.
+3. Add those questions to the appropriate lesson practice or checkpoint.
+4. Add questions that test several previously learned concepts to mixed reviews.
+5. Reserve questions requiring substantially more advanced material for later practice or a dedicated JLPT N5 preparation section.
+
+Possible placements include:
+
+- Vocabulary exercises in vocabulary lessons and flashcard reviews.
+- Grammar questions after the relevant grammar concepts have been taught.
+- Reading comprehension after the learner has learned enough vocabulary and grammar to understand the passage.
+- Listening comprehension after the learner has studied the relevant language, with optional audio-only challenges.
+- Mixed-section tests at the end of a unit or chapter.
+- Full-length or timed practice sessions in a dedicated JLPT N5 practice area.
+
+These are placement rules, not claims about which topics appear in particular textbook chapters.
+
+Do not force every workbook question into a textbook lesson. If a question cannot be mapped confidently, place it in an appropriately labeled independent practice section until its prerequisites are established.
+
+### C. Preserve source questions and answer-key integrity
+
+For personal offline use, make the supplied practice questions available within the app where technically feasible.
+
+Preserve the original Japanese wording, answer choices, question instructions, passages, and question numbering when they can be extracted reliably.
+
+Do not paraphrase or change a source question in a way that alters what it tests.
+
+Create original supplementary explanations, hints, translations, and practice questions separately from the source content.
+
+Use `N5answer.pdf` as the answer-key reference. Match answers to their correct sections and question numbers, and validate every mapping before importing it.
+
+Do not guess an answer when the answer key is unclear or unavailable. Mark the question as unverified and allow manual correction.
+
+Store source metadata with each imported question, including:
+
+- A stable internal question ID.
+- Source filename.
+- Source section.
+- Original question number.
+- PDF page number, when available.
+- Correct answer and verification status.
+- Relevant skills or topics, if known.
+- Required prerequisite lessons.
+- Question type.
+- Whether an explanation has been verified or newly authored.
+
+Keep source content and answer-key data separate from Flutter UI code.
+
+### D. Listening integration
+
+Extract `N5-listening-mp3s.zip` into a dedicated audio assets directory.
+
+Inventory the available audio filenames and determine which recordings correspond to the listening questions and scripts in `N5L-notes.pdf` and `N5script.pdf`.
+
+Use the actual source mapping whenever it can be verified. Do not assume that similarly numbered files correspond unless the numbering or contents confirm it.
+
+Implement:
+
+- Play and replay controls.
+- Optional replay limits for self-imposed exam simulations.
+- A normal practice mode with unrestricted replay.
+- Listening questions with answer choices.
+- Script reveal after answering, where appropriate.
+- A review mode that allows the learner to replay difficult recordings.
+- A clear fallback when an audio file is missing or cannot be played.
+
+Do not automatically reveal a listening script before the learner answers in exam simulation mode.
+
+### E. Vocabulary, grammar, and reading integration
+
+For vocabulary questions, support character recognition, reading, meaning, and relevant usage when the source question tests those skills.
+
+For grammar questions, explain why the correct option fits the sentence and, when possible, why the other choices do not.
+
+For reading questions, preserve the passage and its associated questions as a connected unit. Do not separate a question from the passage required to answer it.
+
+Provide optional vocabulary assistance or translations in learning mode, but keep the original Japanese passage available without assistance in exam simulation mode.
+
+Do not assume that every vocabulary or grammar item belongs to the same JLPT level merely because it appears in a supplied practice resource. Record uncertain classifications rather than inventing them.
+
+### F. Two separate practice modes
+
+Implement both of these modes.
+
+**Learning mode**
+
+- Questions can be grouped by skill and prerequisite.
+- The learner can request hints.
+- Answers receive immediate feedback.
+- Explanations appear after incorrect answers.
+- Listening audio can be replayed.
+- Related lessons and vocabulary can be reviewed.
+- Errors can be scheduled for spaced repetition.
+
+**JLPT N5 exam practice mode**
+
+- Questions follow the verified source section structure.
+- Preserve the source's question order where appropriate.
+- Support a timed session when the necessary timing information is available or the learner chooses a custom timer.
+- Hide hints and explanations until the learner finishes or submits the relevant section.
+- Provide a final score and section-level results.
+- Identify weak areas and recommend lessons or practice questions afterward.
+
+Clearly distinguish an imported practice set from an official, complete, or representative JLPT exam. Do not claim that a set is a complete mock exam unless its coverage and structure have been verified.
+
+### G. Unified review and mastery
+
+All workbook answers must contribute to the learner's progress system.
+
+Track performance separately by:
+
+- Vocabulary.
+- Grammar.
+- Reading.
+- Listening.
+- Kana and character recognition, where applicable.
+
+When the learner answers incorrectly:
+
+1. Record the error.
+2. Identify the associated skill if it can be determined reliably.
+3. Recommend the relevant textbook lesson or supplementary explanation.
+4. Schedule a review using the spaced-repetition system.
+5. Present the question again later when appropriate.
+
+Do not allow repeated correct guesses to automatically mark an entire grammar topic or skill as mastered.
+
+Use both lesson completion and demonstrated recall to determine progression.
+
+### H. Data validation and testing
+
+Before integrating the workbook into the live curriculum:
+
+- Verify that each imported question has the correct answer choices.
+- Check answer-key mappings against original question numbers.
+- Confirm that reading passages remain associated with their questions.
+- Verify listening audio and script associations.
+- Check for duplicate imports.
+- Flag missing answers, incomplete OCR, and uncertain classifications.
+- Ensure that all source-derived questions remain traceable to their original locations.
+
+Create automated tests for question loading, answer validation, source metadata, section scoring, and review scheduling.
+
+The workbook is a supplemental learning and assessment resource, not a replacement for the textbook.
+
+Keep both sources available offline. Do not add cloud services or external AI API dependencies just to load or answer the workbook questions.
+
+Because this is a personal-use application, prioritize faithful local integration, accurate answer keys, clear explanations, and a useful learning experience over commercial distribution features.
+
+

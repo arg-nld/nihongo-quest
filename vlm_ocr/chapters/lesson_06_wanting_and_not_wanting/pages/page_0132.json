@@ -1,0 +1,25 @@
+{
+  "pdf_page": 132,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img814__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0131",
+    "page_0132",
+    "page_0133",
+    "page_0134",
+    "page_0135"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 268,
+  "lines": 10,
+  "usage": {
+    "input_tokens": 5838,
+    "output_tokens": 945,
+    "total_tokens": 6783
+  },
+  "raw_batch_response": "===PAGE page_0131===\nJapanese From Zero! – Lesson 6 – Wanting and Not Wanting 131\n\n3. Is your drink cold?\nNo, it's not cold.\nNo, it's warm.\n\n4. Do you want a newspaper?\nYes, I want the Asahi Newspaper.\n\nあなた の の mimo の wa つ me たい です か。\nいいえ、つ me たく ない です。\nいいえ、ぬ ru い です。\n\nし nbun が ho しい です か。\nHa い、あさ hi し nbun が ho しい です。\n\n6 Reading Comprehension どっかい\n\nRead the sentences below. Use the information to answer the reading comprehension questions later in this lesson.\n\n① Bo く の な ma え wa ma つ mo と です。\n② Inta-netto が すき です。\n③ Konpyu-ta-が ho しい です。\n④ Bo く の と mo だち の たし ro く n wa konpyu-ta-が ho しくない です。\n⑤ たし ro く n wa あかい く ruma が ho しい です。\n⑥ Bo く wa あかい く ruma wa すき ja ない です。\n⑦ し ro い く ruma が すき です。\n\n===PAGE page_0132===\nJapaneseFromZero.com 132\n\nHiragana はひふへほ\n\nは New Hiragana あたらしい ひらがな\n\nMake sure you learn the correct stroke order since correct stroke order will mean neater characters when writing quickly.\n\nHA HI FU HE HO\nは ひ ふ へ ほ\n\nBA BI BU BE BO\nば び ぶ べ ぼ\n\nPA PI PU PE PO\nぱ ぴ ぷ ぺ ぽ\n\n===PAGE page_0133===\nJapanese From Zero! – Lesson 6 – Hiragana はひふへほ 133\n\nは Various Styles スタイル\n\nLook at the various possible styles for the hiragana in this lesson. Write each symbol as neatly as you can, then compare it to the different versions below.\n\nは ひ ふ へ ほ\nは ひ ふ へ ほ\nは ひ ふ へ ほ\nは ひ ふ へ ほ\nは ひ ふ へ ほ\n\nば び ぶ べ ぼ\nば び ぶ べ ぼ\nば び ぶ べ ぼ\nば び ぶ べ ぼ\nば び ぶ べ ぼ\n\nぱ ぴ ぷ ぺ ぽ\nぱ ぴ ぷ ぺ ぽ\nぱ ぴ ぷ ぺ ぽ\nぱ ぴ ぷ ぺ ぽ\nぱ ぴ ぷ ぺ ぽ\n\n===PAGE page_0134===\nJapaneseFromZero.com 134\n\nは Writing Points かくポイント\n\nWhat is that circle?\nThe pa pi pu pe po hiragana are made by adding a circle in the area where dakuten normally would go. The circle should be written clockwise and is always the last stroke. Most Japanese people refer to this as simply maru, which means \"circle.\" The official name for it is handakuten.\n\nは → ぱ\nHA PA\n\nひ → ぴ\nHI PI\n\nWhy isn't ふ written as HU?\nJapanese From Zero! represents ふ as FU instead of HU in ro-maji. Japanese people will sometimes represent ふ as HU in ro-maji, however, the pronunciation of ふ is closer to FU. The F sound in ふ should be voiced softer than the F sound in an English word.\n\nThe easy way to write ふ (fu)\nふ tends to be difficult to write, but there is an easy way: connect the first and second stroke into what looks like a number \"3.\"\n\nふ\nThe 3 Version\n\nふ ふ ふ\nActual Font Versions\n\n===PAGE page_0135===\nJapanese From Zero! – Lesson 6 – Hiragana はひふへほ 135\n\nは Writing Practice れんしゅう\n\nTo practice correct stroke order, first trace the light gray characters, then write each character six times for practice.\n\nha は は\nhi ひ ひ\nfu ふ ふ\nhe へ へ\nho ほ ほ\n\nba ば ば\nbi び び\nbu ぶ ぶ\nbe べ べ\nbo ぼ ぼ",
+  "extracted_text": "JapaneseFromZero.com 132\n\nHiragana はひふへほ\n\nは New Hiragana あたらしい ひらがな\n\nMake sure you learn the correct stroke order since correct stroke order will mean neater characters when writing quickly.\n\nHA HI FU HE HO\nは ひ ふ へ ほ\n\nBA BI BU BE BO\nば び ぶ べ ぼ\n\nPA PI PU PE PO\nぱ ぴ ぷ ぺ ぽ"
+}

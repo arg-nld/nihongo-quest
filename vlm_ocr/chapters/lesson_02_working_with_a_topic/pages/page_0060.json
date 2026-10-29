@@ -1,0 +1,25 @@
+{
+  "pdf_page": 60,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img373__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0059",
+    "page_0060",
+    "page_0061",
+    "page_0062",
+    "page_0063"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 209,
+  "lines": 22,
+  "usage": {
+    "input_tokens": 5838,
+    "output_tokens": 714,
+    "total_tokens": 6552
+  },
+  "raw_batch_response": "===PAGE page_0059===\nJapanese From Zero! – Lesson 2 – Hiragana かきくけこ 59\n\nか Word Practice ことばの れんしゅう\n\nFill in the appropriate hiragana in the blanks for each word.\n\n1. _いro (yellow)\n   ki\n\n2. _ki_ku (to listen)\n\n3. _minari (lightning)\n   ka\n\n4. _う_n (air force)\n   ku  gu\n\n5. _ko_ke (moss)\n\n6. い_ku (to go)\n\n7. _mushi (caterpillar)\n   ke\n\n8. _う_う (airport)\n   ku  ko\n\n9. _n_ro (silver color)\n   gi\n\n10. _n’ni_ (muscle)\n    ki   ku\n\n11. _go_go (afternoon)\n\n12. _おri (ice)\n    ko\n\nか Words You Can Write かける ことば\n\nWrite the following words using the hiragana that you just learned. This is a great way to\nincrease your Japanese vocabulary.\n\nき\n(tree)\n\nかく\n(to write)\n\nいか\n(squid)\n\nかぎ\n(key)\n\n===PAGE page_0060===\nJapaneseFromZero.com 60\n\nかお\n(face)\n\nかい\n(shell)\n\nあか\n(red)\n\nごご\n(afternoon)\n\nがいこく\n(foreign country)\n\nおおきい\n(big)\n\nくうこう\n(airport)\n\nか Everyday Hiragana Words にちじょうの ことば\n\ntsuき\nthe moon\n\nけいtaい denwa\ncell phone\n\nかぎ\nkey\n\n===PAGE page_0061===\nJapanese From Zero! – Lesson 2 – Hiragana かきくけこ 61\n\nchoきnbaこ\nsafe, piggy\nbank\n\nかく\nto write\n\nsuいか\nwatermelon\n\nか Hiragana Matching ひらがな マッチング\n\nConnect the dots between each hiragana and the correct ro–maji.\n\nき •\nい •\nく •\nか •\nえ •\nご •\nけ •\n• i\n• go\n• ka\n• ki\n• ku\n• ke\n• e\n\n===PAGE page_0062===\nJapanese From Zero! – Lesson 2 – Lesson Activities 62\n\n2 Lesson Activities\n\n☐ Question and answer 1\n\nAnswer the following questions in Japanese by looking at the pictures.\n\n1. こre wa nan desu か?\n\nAnswer: ______________________________\n\n2. こre wa nan desu か?\n\nAnswer: ______________________________\n\n3. こre wa かがmi desu か?\n\nAnswer: ______________________________\n\n4. こre wa yasaい desu か?\n\nAnswer: ______________________________\n\n===PAGE page_0063===\nJapanese From Zero! – Lesson 2 – Lesson Activities 63\n\n☐ Question and answer 2\nCircle the correct item and answer with こre desu or こcchi desu.\n\n1. Hon wa dore desu か?\n\n2. Yasaい wa dore desu か?\n\n3. Furu–tsu wa docchi desu か?",
+  "extracted_text": "JapaneseFromZero.com 60\n\nかお\n(face)\n\nかい\n(shell)\n\nあか\n(red)\n\nごご\n(afternoon)\n\nがいこく\n(foreign country)\n\nおおきい\n(big)\n\nくうこう\n(airport)\n\nか Everyday Hiragana Words にちじょうの ことば\n\ntsuき\nthe moon\n\nけいtaい denwa\ncell phone\n\nかぎ\nkey"
+}

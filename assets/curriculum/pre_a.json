@@ -1,0 +1,653 @@
+{
+ "sectionId": "pre_a",
+ "title": "Pre-Lesson A",
+ "subtitle": "Pronunciation Guide & The Basics",
+ "pages": "13-16",
+ "objectives": [
+  "Know the three Japanese writing systems and what each is used for",
+  "Say the five Japanese vowels with the right sounds",
+  "Hear and produce long vs. short vowels and double consonants"
+ ],
+ "kanaFocus": [],
+ "vocab": [
+  {
+   "id": "pre_a_v_akai",
+   "japanese": "あかい",
+   "romaji": "akai",
+   "english": "red",
+   "source": "pre_a p.14",
+   "verified": true
+  },
+  {
+   "id": "pre_a_v_inochi",
+   "japanese": "いのち",
+   "romaji": "inochi",
+   "english": "life",
+   "source": "pre_a p.14",
+   "verified": true
+  },
+  {
+   "id": "pre_a_v_uma",
+   "japanese": "うま",
+   "romaji": "uma",
+   "english": "horse",
+   "source": "pre_a p.14",
+   "verified": true
+  },
+  {
+   "id": "pre_a_v_ebi",
+   "japanese": "えび",
+   "romaji": "ebi",
+   "english": "shrimp",
+   "source": "pre_a p.14",
+   "verified": true
+  },
+  {
+   "id": "pre_a_v_otoko",
+   "japanese": "おとこ",
+   "romaji": "otoko",
+   "english": "man",
+   "source": "pre_a p.14",
+   "verified": true
+  },
+  {
+   "id": "pre_a_v_neko",
+   "japanese": "ねこ",
+   "romaji": "neko",
+   "english": "cat",
+   "source": "pre_a p.14",
+   "verified": true
+  },
+  {
+   "id": "pre_a_v_okaasan",
+   "japanese": "おかあさん",
+   "romaji": "okaasan",
+   "english": "mother",
+   "source": "pre_a p.15",
+   "verified": true
+  },
+  {
+   "id": "pre_a_v_ojiisan",
+   "japanese": "おじいさん",
+   "romaji": "ojiisan",
+   "english": "grandfather",
+   "source": "pre_a p.15",
+   "verified": true
+  },
+  {
+   "id": "pre_a_v_oneesan",
+   "japanese": "おねえさん",
+   "romaji": "oneesan",
+   "english": "older sister",
+   "source": "pre_a p.15",
+   "verified": true
+  },
+  {
+   "id": "pre_a_v_otousan",
+   "japanese": "おとうさん",
+   "romaji": "otousan",
+   "english": "father",
+   "source": "pre_a p.15",
+   "verified": true
+  },
+  {
+   "id": "pre_a_v_obaasan",
+   "japanese": "おばあさん",
+   "romaji": "obaasan",
+   "english": "grandmother",
+   "source": "pre_a p.15",
+   "verified": true
+  },
+  {
+   "id": "pre_a_v_obasan",
+   "japanese": "おばさん",
+   "romaji": "obasan",
+   "english": "aunt",
+   "source": "pre_a p.15",
+   "verified": true
+  },
+  {
+   "id": "pre_a_v_ojisan",
+   "japanese": "おじさん",
+   "romaji": "ojisan",
+   "english": "uncle",
+   "source": "pre_a p.15",
+   "verified": true
+  },
+  {
+   "id": "pre_a_v_ie",
+   "japanese": "いえ",
+   "romaji": "ie",
+   "english": "house",
+   "source": "pre_a p.15",
+   "verified": true
+  },
+  {
+   "id": "pre_a_v_iie",
+   "japanese": "いいえ",
+   "romaji": "iie",
+   "english": "no",
+   "source": "pre_a p.15",
+   "verified": true
+  }
+ ],
+ "grammar": [
+  {
+   "id": "pre_a_g_systems",
+   "title": "The three writing systems",
+   "pattern": "hiragana + katakana + kanji (+ roomaji)",
+   "explanation": "Hiragana and katakana are phonetic characters - each represents a sound. Kanji are Chinese characters with meaning. Hiragana and kanji together form most Japanese words; katakana is mostly for words of foreign origin. Roman letters (roomaji) are used in media too.",
+   "examples": [
+    {
+     "japanese": "ひらがな",
+     "romaji": "hiragana",
+     "english": "phonetic script for Japanese words"
+    },
+    {
+     "japanese": "カタカナ",
+     "romaji": "katakana",
+     "english": "phonetic script for foreign words"
+    }
+   ],
+   "mistakes": [
+    "Reading romaji TO as English 'too' - in Japanese it is 'toh'"
+   ],
+   "source": "pre_a p.13"
+  },
+  {
+   "id": "pre_a_g_vowels",
+   "title": "The five vowels",
+   "pattern": "a = 'ah' (father), i = 'ee' (see), u = 'oo' (zoo), e = 'eh' (men), o = 'oh' (boat)",
+   "explanation": "Japanese has only about a hundred sounds, all built on these five short vowels. Keep them short and simple with no glide.",
+   "examples": [
+    {
+     "japanese": "あかい",
+     "romaji": "akai",
+     "english": "red - a as in father"
+    },
+    {
+     "japanese": "いのち",
+     "romaji": "inochi",
+     "english": "life - i as in see"
+    }
+   ],
+   "mistakes": [
+    "Gliding vowels like English 'o' in 'boat' - Japanese o is a pure 'oh'"
+   ],
+   "source": "pre_a p.14"
+  },
+  {
+   "id": "pre_a_g_long",
+   "title": "Long vowels change meaning",
+   "pattern": "ie (house) vs iie (no); obasan (aunt) vs obaasan (grandmother)",
+   "explanation": "Lengthening one syllable can change a word's meaning. This book writes long vowels by repeating the vowel (aa, ii, uu, ei/ee, ou), matching how hiragana actually writes them.",
+   "examples": [
+    {
+     "japanese": "いえ",
+     "romaji": "ie",
+     "english": "house"
+    },
+    {
+     "japanese": "いいえ",
+     "romaji": "iie",
+     "english": "no"
+    }
+   ],
+   "mistakes": [
+    "Saying obasan (aunt) when you mean obaasan (grandmother)"
+   ],
+   "source": "pre_a p.15"
+  },
+  {
+   "id": "pre_a_g_double",
+   "title": "Double consonants are stressed",
+   "pattern": "roku (six) vs rokku (rock); mata (again) vs matta (waited)",
+   "explanation": "Double consonants like kk, pp, tt and cch must be stressed (a tiny pause before the sound) or the meaning changes.",
+   "examples": [
+    {
+     "japanese": "ろく",
+     "romaji": "roku",
+     "english": "six"
+    },
+    {
+     "japanese": "ロック",
+     "romaji": "rokku",
+     "english": "rock (music)"
+    }
+   ],
+   "mistakes": [
+    "Saying mata (again) instead of matta (waited)"
+   ],
+   "source": "pre_a p.16"
+  }
+ ],
+ "exercises": [
+  {
+   "id": "pre_a_e1",
+   "type": "multiple_choice",
+   "prompt": "Which writing system is mostly used for words of foreign origin?",
+   "choices": [
+    "Hiragana",
+    "Katakana",
+    "Kanji",
+    "Romaji"
+   ],
+   "answerIndex": 1,
+   "explanation": "Katakana represents words that were not originally Japanese.",
+   "source": "pre_a p.13",
+   "verified": true,
+   "skill": "writing_systems"
+  },
+  {
+   "id": "pre_a_e2",
+   "type": "multiple_choice",
+   "prompt": "What kind of characters are kanji?",
+   "choices": [
+    "Phonetic characters derived from hiragana",
+    "Chinese characters with meaning",
+    "Roman letters",
+    "Punctuation marks"
+   ],
+   "answerIndex": 1,
+   "explanation": "Kanji are Chinese characters, each with a specific (often multiple) meaning(s).",
+   "source": "pre_a p.13",
+   "verified": true,
+   "skill": "writing_systems"
+  },
+  {
+   "id": "pre_a_e3",
+   "type": "match",
+   "prompt": "Match each roman letter with its Japanese vowel sound:",
+   "pairs": [
+    {
+     "left": "a",
+     "right": "ah as in father"
+    },
+    {
+     "left": "i",
+     "right": "ee as in see"
+    },
+    {
+     "left": "u",
+     "right": "oo as in zoo"
+    },
+    {
+     "left": "e",
+     "right": "eh as in men"
+    },
+    {
+     "left": "o",
+     "right": "oh as in boat"
+    }
+   ],
+   "explanation": "These five sounds are the base of every Japanese sound.",
+   "source": "pre_a p.14",
+   "verified": true,
+   "skill": "pronunciation"
+  },
+  {
+   "id": "pre_a_e4",
+   "type": "multiple_choice",
+   "prompt": "How is 'i' pronounced in Japanese?",
+   "choices": [
+    "eye",
+    "ee as in see",
+    "ih as in it",
+    "ee-ay"
+   ],
+   "answerIndex": 1,
+   "explanation": "Japanese i is always 'ee'.",
+   "source": "pre_a p.14",
+   "verified": true,
+   "skill": "pronunciation"
+  },
+  {
+   "id": "pre_a_e5",
+   "type": "multiple_choice",
+   "prompt": "Which word means 'cat'?",
+   "choices": [
+    "uma",
+    "ebi",
+    "neko",
+    "otoko"
+   ],
+   "answerIndex": 2,
+   "explanation": "neko = cat (an example sound word from p.14).",
+   "source": "pre_a p.14",
+   "verified": true,
+   "skill": "pronunciation",
+   "vocabId": "pre_a_v_neko"
+  },
+  {
+   "id": "pre_a_e6",
+   "type": "multiple_choice",
+   "prompt": "ie and iie mean...",
+   "choices": [
+    "the same thing",
+    "house and no",
+    "no and house",
+    "aunt and grandmother"
+   ],
+   "answerIndex": 1,
+   "explanation": "ie = house, iie = no. The lengthened i changes the meaning.",
+   "source": "pre_a p.15",
+   "verified": true,
+   "skill": "long_short"
+  },
+  {
+   "id": "pre_a_e7",
+   "type": "multiple_choice",
+   "prompt": "obasan means aunt. What does obaasan mean?",
+   "choices": [
+    "uncle",
+    "older sister",
+    "grandmother",
+    "mother"
+   ],
+   "answerIndex": 2,
+   "explanation": "The longer 'baa' makes it grandmother; obasan is aunt.",
+   "source": "pre_a p.15",
+   "verified": true,
+   "skill": "long_short",
+   "vocabId": "pre_a_v_obaasan"
+  },
+  {
+   "id": "pre_a_e8",
+   "type": "multiple_choice",
+   "prompt": "Which pair shows a double consonant changing meaning?",
+   "choices": [
+    "ie / iie",
+    "obasan / obaasan",
+    "mata / matta",
+    "akai / inochi"
+   ],
+   "answerIndex": 2,
+   "explanation": "mata = again, matta = waited. Double consonants are stressed.",
+   "source": "pre_a p.16",
+   "verified": true,
+   "skill": "double_consonants"
+  },
+  {
+   "id": "pre_a_e9",
+   "type": "multiple_choice",
+   "prompt": "How does this book write long vowels?",
+   "choices": [
+    "With a line over the vowel",
+    "By repeating the vowel (e.g. ou, ii)",
+    "With a dash after every word",
+    "It ignores them"
+   ],
+   "answerIndex": 1,
+   "explanation": "The book repeats the vowel, matching how hiragana writes lengthened sounds.",
+   "source": "pre_a p.15",
+   "verified": true,
+   "skill": "long_short"
+  },
+  {
+   "id": "pre_a_e10",
+   "type": "multiple_choice",
+   "prompt": "'Okaasan' (mother) contains which long vowel?",
+   "choices": [
+    "aa",
+    "ii",
+    "uu",
+    "ou"
+   ],
+   "answerIndex": 0,
+   "explanation": "okaasan has the long 'aa'.",
+   "source": "pre_a p.15",
+   "verified": true,
+   "skill": "long_short",
+   "vocabId": "pre_a_v_okaasan"
+  },
+  {
+   "id": "pre_a_e11",
+   "type": "fill_blank",
+   "prompt": "Ojiisan means ___.",
+   "accepted": [
+    "grandfather"
+   ],
+   "explanation": "ojiisan = grandfather (long ii).",
+   "source": "pre_a p.15",
+   "verified": true,
+   "skill": "long_short",
+   "vocabId": "pre_a_v_ojiisan"
+  },
+  {
+   "id": "pre_a_e12",
+   "type": "fill_blank",
+   "prompt": "The Japanese word for 'red' is ___. (roomaji)",
+   "accepted": [
+    "akai"
+   ],
+   "explanation": "akai = red.",
+   "source": "pre_a p.14",
+   "verified": true,
+   "skill": "pronunciation",
+   "vocabId": "pre_a_v_akai"
+  },
+  {
+   "id": "pre_a_e13",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "いのち",
+   "choices": [
+    "life",
+    "horse",
+    "shrimp",
+    "man"
+   ],
+   "answerIndex": 0,
+   "explanation": "inochi = life.",
+   "source": "pre_a p.14",
+   "verified": true,
+   "skill": "pronunciation",
+   "vocabId": "pre_a_v_inochi"
+  },
+  {
+   "id": "pre_a_e14",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "えび",
+   "choices": [
+    "shrimp",
+    "horse",
+    "cat",
+    "man"
+   ],
+   "answerIndex": 0,
+   "explanation": "ebi = shrimp.",
+   "source": "pre_a p.14",
+   "verified": true,
+   "skill": "pronunciation",
+   "vocabId": "pre_a_v_ebi"
+  },
+  {
+   "id": "pre_a_e15",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "おとこ",
+   "choices": [
+    "man",
+    "horse",
+    "red",
+    "life"
+   ],
+   "answerIndex": 0,
+   "explanation": "otoko = man.",
+   "source": "pre_a p.14",
+   "verified": true,
+   "skill": "pronunciation",
+   "vocabId": "pre_a_v_otoko"
+  },
+  {
+   "id": "pre_a_e16",
+   "type": "multiple_choice",
+   "prompt": "Which is TRUE about hiragana and katakana?",
+   "choices": [
+    "Each character has a meaning like kanji",
+    "Each represents a sound and has no meaning by itself",
+    "They are only used in old texts",
+    "They are roman letters"
+   ],
+   "answerIndex": 1,
+   "explanation": "They are phonetic characters derived from kanji.",
+   "source": "pre_a p.13",
+   "verified": true,
+   "skill": "writing_systems"
+  },
+  {
+   "id": "pre_a_e17",
+   "type": "multiple_choice",
+   "prompt": "About how many sounds does Japanese have?",
+   "choices": [
+    "Over a thousand, like English",
+    "A little over a hundred",
+    "Exactly five",
+    "Only 46"
+   ],
+   "answerIndex": 1,
+   "explanation": "Japanese has around a hundred sounds, built on the five vowels.",
+   "source": "pre_a p.14",
+   "verified": true,
+   "skill": "pronunciation"
+  },
+  {
+   "id": "pre_a_e18",
+   "type": "multiple_choice",
+   "prompt": "Which word pair is distinguished by vowel LENGTH (not a double consonant)?",
+   "choices": [
+    "roku / rokku",
+    "uta / utta",
+    "ojisan / ojiisan",
+    "mata / matta"
+   ],
+   "answerIndex": 2,
+   "explanation": "ojisan = uncle, ojiisan = grandfather - a long ii difference.",
+   "source": "pre_a p.15",
+   "verified": true,
+   "skill": "long_short"
+  },
+  {
+   "id": "pre_a_e19",
+   "type": "fill_blank",
+   "prompt": "Ojisan means ___.",
+   "accepted": [
+    "uncle"
+   ],
+   "explanation": "ojisan = uncle (short i), vs ojiisan = grandfather.",
+   "source": "pre_a p.15",
+   "verified": true,
+   "skill": "long_short",
+   "vocabId": "pre_a_v_ojisan"
+  },
+  {
+   "id": "pre_a_e20",
+   "type": "multiple_choice",
+   "prompt": "In Japanese, romaji 'TO' sounds like...",
+   "choices": [
+    "English 'too' (number 2)",
+    "'toh'",
+    "'tuh'",
+    "silent"
+   ],
+   "answerIndex": 1,
+   "explanation": "Japanese vowels are pure; TO is read 'toh'.",
+   "source": "pre_a p.13",
+   "verified": true,
+   "skill": "pronunciation"
+  }
+ ],
+ "quiz": [
+  {
+   "id": "pre_a_q1",
+   "type": "multiple_choice",
+   "prompt": "Which system writes foreign words like 'computer'?",
+   "choices": [
+    "Hiragana",
+    "Katakana",
+    "Kanji",
+    "Romaji only"
+   ],
+   "answerIndex": 1,
+   "explanation": "Katakana is for words of foreign origin.",
+   "source": "pre_a p.13",
+   "verified": true,
+   "skill": "writing_systems"
+  },
+  {
+   "id": "pre_a_q2",
+   "type": "match",
+   "prompt": "Match vowel to sound:",
+   "pairs": [
+    {
+     "left": "u",
+     "right": "oo as in zoo"
+    },
+    {
+     "left": "e",
+     "right": "eh as in men"
+    },
+    {
+     "left": "o",
+     "right": "oh as in boat"
+    }
+   ],
+   "explanation": "u = oo, e = eh, o = oh.",
+   "source": "pre_a p.14",
+   "verified": true,
+   "skill": "pronunciation"
+  },
+  {
+   "id": "pre_a_q3",
+   "type": "multiple_choice",
+   "prompt": "obaasan means...",
+   "choices": [
+    "aunt",
+    "grandmother",
+    "older sister",
+    "mother"
+   ],
+   "answerIndex": 1,
+   "explanation": "Long baa = grandmother.",
+   "source": "pre_a p.15",
+   "verified": true,
+   "skill": "long_short"
+  },
+  {
+   "id": "pre_a_q4",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "いいえ",
+   "choices": [
+    "no",
+    "house",
+    "yes",
+    "cat"
+   ],
+   "answerIndex": 0,
+   "explanation": "iie = no.",
+   "source": "pre_a p.15",
+   "verified": true,
+   "skill": "long_short",
+   "vocabId": "pre_a_v_iie"
+  },
+  {
+   "id": "pre_a_q5",
+   "type": "multiple_choice",
+   "prompt": "Which needs a stressed double consonant?",
+   "choices": [
+    "saying 'rock (music)'",
+    "saying 'house'",
+    "saying 'red'",
+    "saying 'life'"
+   ],
+   "answerIndex": 0,
+   "explanation": "rokku (rock) has the double kk.",
+   "source": "pre_a p.16",
+   "verified": true,
+   "skill": "double_consonants"
+  }
+ ],
+ "summary": "Three writing systems (hiragana, katakana, kanji). Five pure vowels: a=ah, i=ee, u=oo, e=eh, o=oh. Long vowels (aa, ii, uu, ei, ou) and double consonants (kk, pp, tt, cch) change word meanings - listen carefully!"
+}

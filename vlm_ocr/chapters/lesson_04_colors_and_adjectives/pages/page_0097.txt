@@ -1,0 +1,43 @@
+Japanese From Zero! — Lesson 4 — Hiragana たちつてと 97
+
+た Writing Points かくポイント
+
+❑ The double consonants
+The double consonants (kk, pp, tt, cch) are stressed with a slight pause before the
+consonant. To represent them in hiragana, a small っ is used.* The small っ is always
+placed in front of the hiragana that needs to be doubled.
+
+Examples
+school gakkou がっこう
+magazine zasshi ざっし
+postage stamp kitte きって
+
+* Make sure to write the っ smaller than normal to avoid confusion with a normal つ.
+
+❑ The double consonant sound analysis
+If you look at the sound wave for a word that has a double consonant, you will see a pause
+or visible space before the consonant. Look at the two samples below:
+
+が
+ga
+
+(no sound)
+
+っこう
+kkou
+
+ざ
+za
+
+('s' is held)
+
+っし
+sshi
+
+❑ Which version of zu and ji should be used?
+There are two versions of zu and ji. The first set is in Lesson 3 and the second set is taught
+in this lesson. ず and じ from Lesson 3 are the most commonly used versions. づ and ぢ
+are used in only a few words, such as はなぢ (nosebleed) and つづく (to continue). As
+you learn more vocabulary, pay attention to the hiragana that's used when you see these
+sounds. If you're not sure about what version to use, try ず and じ and 90% of the time you
+will be correct.

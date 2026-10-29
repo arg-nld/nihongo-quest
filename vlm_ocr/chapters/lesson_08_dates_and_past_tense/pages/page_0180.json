@@ -1,0 +1,24 @@
+{
+  "pdf_page": 180,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img1108__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0179",
+    "page_0180",
+    "page_0181",
+    "page_0182"
+  ],
+  "batch_size": 4,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 873,
+  "lines": 23,
+  "usage": {
+    "input_tokens": 4751,
+    "output_tokens": 885,
+    "total_tokens": 5636
+  },
+  "raw_batch_response": "===PAGE page_0179===\nJapanese From Zero! — Lesson 8 — Lesson Activities 179\n\n❑ Reading comprehension questions\nAnswer the following questions about the reading comprehension in this lesson.\n\n1. ゆきこさんの たん jo うびは いつでしたか。\n\n2. ゆきこさんは なんさい ですか。\n\n3. ともだちの purezento は なにい ro の はし でしたか。\n\n4. おとうさんの purezento は なんでしたか。\n\n5. ゆきこさんは、にほんが き ra い ですか。\n\n\n❑ Short dialogue\nWhile talking with Mr. Hino, Mr. Honda realizes that he forgot his girlfriend's birthday.\n\nほんださん: Kyo うは、なんにちですか。\n\nひのさん: ここのかです。\n\nほんださん: えっ、なのか ja ないですか。\n\nひのさん: いいえ、あしたは、とおかです。\n\nほんださん: どうしよう…。きのうは、かの jo の たん jo うびでした。\n\nひのさん: ほんとうですか。\n\n\n===PAGE page_0180===\nJapaneseFromZero.com 180\n\nNew words and expressions in the dialogue\n\nProgressive Kana Kanji English\nどうしよう どうしよう どうしよう What shall I do?\nほんとうですか。 ほんとうですか。 本当ですか。 Really?\n\n\n❑ Short dialogue activities\n1. Practice reading the dialogue in pairs.\n2. Talk about the dates for today, yesterday, and tomorrow.\n\n\n❑ More words you can write\nYou should practice writing these words a minimum of five times each. Not only will you be\npracticing the new hiragana, but you will also learning new words.\n\nやね roof たんさん carbonation\nゆうえんち fun park ようちえん kindergarten\nおよめさん bride しわ wrinkles\nきんようび Friday しんかんせん bullet train\nいわ rock うわさ a rumor\nみずをのむ to drink water\n\n\n8 Drill ドリル\n\nTranslate the following sentences. If you don't know what they mean, then we recommend that\nyou review the lesson up to this point before continuing.\n\n1. Kyo うは なんにちですか。\n2. あなたの たん jo うびは なんがつですか。\n3. あしたは はつかですか。\n\n\n===PAGE page_0181===\nJapanese From Zero! — Lesson 8 — Lesson Activities 181\n\n8 Sentence Building ぶんのつくり\n\nIn each lesson we build on a previous sentence. Watch it grow and transform each time new\nconcepts are introduced.\n\nあなたの おかあさんの たん jo うびは いつですか。\nWhen is your mother's birthday?\n\nCompare how the sentence has changed from the prior lessons:\n\nLesson 5: あなたの おかあさんは なにい ro の く ru まが すきですか。\nWhat color car does your mother like?\n\nLesson 6: あなたの おかあさんは なにい ro の く ru まが ほしいですか。\nWhat color car does your mother want?\n\nLesson 7: あなたの おかあさんの く ru まは どこですか。\nWhere is your mother's car?\n\n\n===PAGE page_0182===\nJapaneseFromZero.com 182\n\nVocabulary Groups\n\nK food and drink\n\nProgressive Kana Kanji English\nたまご たまご 卵 egg\nごはん ごはん ご飯 boiled rice\nmiruku ミルク ミルク milk\nみず みず 水 water\nju-su ジュース ジュース juice\nくり くり 栗 chestnut\npan パン パン bread\nkeeki ケーキ ケーキ cake\naisu kuri-mu アイス・クリーム アイス・クリーム ice cream\nにんじん にんじん 人参 carrot\ntomato トマト トマト tomato\nだいこん だいこん 大根 radish\nたまねぎ たまねぎ 玉ねぎ onion\nこ sho う こしょう こしょう pepper\nしお しお 塩 salt\nえび えび 海老 shrimp\nにく にく 肉 meat\npoteto ポテト ポテト potato",
+  "extracted_text": "JapaneseFromZero.com 180\n\nNew words and expressions in the dialogue\n\nProgressive Kana Kanji English\nどうしよう どうしよう どうしよう What shall I do?\nほんとうですか。 ほんとうですか。 本当ですか。 Really?\n\n\n❑ Short dialogue activities\n1. Practice reading the dialogue in pairs.\n2. Talk about the dates for today, yesterday, and tomorrow.\n\n\n❑ More words you can write\nYou should practice writing these words a minimum of five times each. Not only will you be\npracticing the new hiragana, but you will also learning new words.\n\nやね roof たんさん carbonation\nゆうえんち fun park ようちえん kindergarten\nおよめさん bride しわ wrinkles\nきんようび Friday しんかんせん bullet train\nいわ rock うわさ a rumor\nみずをのむ to drink water\n\n\n8 Drill ドリル\n\nTranslate the following sentences. If you don't know what they mean, then we recommend that\nyou review the lesson up to this point before continuing.\n\n1. Kyo うは なんにちですか。\n2. あなたの たん jo うびは なんがつですか。\n3. あしたは はつかですか。"
+}

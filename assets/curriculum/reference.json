@@ -1,0 +1,1495 @@
+{
+ "sectionId": "reference",
+ "title": "Reference Library",
+ "subtitle": "Everyday phrases, glossaries, names, and Japan reference",
+ "pages": "270-333",
+ "objectives": [
+  "Browse useful phrases for greetings, introductions, communication, shopping, and meals",
+  "Look up selected vocabulary by kana, romaji, and English meaning",
+  "Browse sample Japanese surnames and their possible kanji meanings",
+  "Use the prefecture list as a quick place-name reference",
+  "This library is for browsing only: nothing is scored, unlocked, or scheduled for review"
+ ],
+ "kanaFocus": [],
+ "vocab": [
+  {
+   "id": "reference_v_ohayou_gozaimasu",
+   "japanese": "おはようございます",
+   "romaji": "ohayou gozaimasu",
+   "english": "Good morning (polite)",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_ohayou",
+   "japanese": "おはよう",
+   "romaji": "ohayou",
+   "english": "Good morning (casual)",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_konnichiwa",
+   "japanese": "こんにちは",
+   "romaji": "konnichiwa",
+   "english": "Good afternoon; hello",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_konbanwa",
+   "japanese": "こんばんは",
+   "romaji": "konbanwa",
+   "english": "Good evening",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_oyasuminasai",
+   "japanese": "おやすみなさい",
+   "romaji": "oyasuminasai",
+   "english": "Good night (polite)",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_sayounara",
+   "japanese": "さようなら",
+   "romaji": "sayounara",
+   "english": "Goodbye; farewell",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_arigatou",
+   "japanese": "ありがとう",
+   "romaji": "arigatou",
+   "english": "Thank you",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_doumo_arigatou",
+   "japanese": "どうもありがとう",
+   "romaji": "doumo arigatou",
+   "english": "Thank you very much",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_doumo_arigatou_gozaimasu",
+   "japanese": "どうもありがとうございます",
+   "romaji": "doumo arigatou gozaimasu",
+   "english": "Thank you very much (polite)",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_dou_itashimashite",
+   "japanese": "どういたしまして",
+   "romaji": "dou itashimashite",
+   "english": "You are welcome",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_ohisashiburi",
+   "japanese": "おひさしぶりです",
+   "romaji": "ohisashiburi desu",
+   "english": "Long time no see (standard)",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_shibaraku_deshita",
+   "japanese": "しばらくでした",
+   "romaji": "shibaraku deshita",
+   "english": "It has been a while",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_tanjoubi_omedetou",
+   "japanese": "たんじょうびおめでとう",
+   "romaji": "tanjoubi omedetou",
+   "english": "Happy birthday",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_akemashite_omedetou",
+   "japanese": "あけましておめでとう",
+   "romaji": "akemashite omedetou",
+   "english": "Happy New Year",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_jaa_ne",
+   "japanese": "じゃあね",
+   "romaji": "jaa ne",
+   "english": "See you; bye",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_jaa_mata",
+   "japanese": "じゃあまた",
+   "romaji": "jaa mata",
+   "english": "See you again",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_hajimemashite",
+   "japanese": "はじめまして",
+   "romaji": "hajimemashite",
+   "english": "Nice to meet you",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_onamae_wa_nan_desu_ka",
+   "japanese": "おなまえはなんですか",
+   "romaji": "onamae wa nan desu ka",
+   "english": "What is your name?",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_tanaka_to_moushimasu",
+   "japanese": "たなかともうします",
+   "romaji": "Tanaka to moushimasu",
+   "english": "I am Tanaka (polite introduction example)",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_tanaka_desu",
+   "japanese": "たなかです",
+   "romaji": "Tanaka desu",
+   "english": "I am Tanaka",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_yoroshiku_onegaishimasu",
+   "japanese": "よろしくおねがいします",
+   "romaji": "yoroshiku onegai shimasu",
+   "english": "A set phrase used when meeting or making a request",
+   "source": "reference p.270",
+   "verified": true
+  },
+  {
+   "id": "reference_v_doko_kara_kimashita_ka",
+   "japanese": "どこからきましたか",
+   "romaji": "doko kara kimashita ka",
+   "english": "Where did you come from?",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_doko_ni_sundeimasu_ka",
+   "japanese": "どこにすんでいますか",
+   "romaji": "doko ni sundeimasu ka",
+   "english": "Where do you live?",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_nansai_desu_ka",
+   "japanese": "なんさいですか",
+   "romaji": "nan-sai desu ka",
+   "english": "How old are you?",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_nansai_ni_miemasu_ka",
+   "japanese": "なんさいにみえますか",
+   "romaji": "nan-sai ni miemasu ka",
+   "english": "How old do I look?",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_nihongo_o_benkyou_shiteimasu",
+   "japanese": "にほんごをべんきょうしています",
+   "romaji": "nihongo o benkyou shiteimasu",
+   "english": "I am studying Japanese",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_wakarimasu_ka",
+   "japanese": "わかりますか",
+   "romaji": "wakarimasu ka",
+   "english": "Do you understand?",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_hai_wakarimasu",
+   "japanese": "はい、わかります",
+   "romaji": "hai, wakarimasu",
+   "english": "Yes, I understand",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_iie_wakarimasen",
+   "japanese": "いいえ、わかりません",
+   "romaji": "iie, wakarimasen",
+   "english": "No, I do not understand",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_nihongo_ga_hanasemasu_ka",
+   "japanese": "にほんごがはなせますか",
+   "romaji": "nihongo ga hanasemasu ka",
+   "english": "Can you speak Japanese?",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_eigo_ga_hanasemasu_ka",
+   "japanese": "えいごがはなせますか",
+   "romaji": "eigo ga hanasemasu ka",
+   "english": "Can you speak English?",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_sukoshi",
+   "japanese": "すこし",
+   "romaji": "sukoshi",
+   "english": "A little",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_zenzen",
+   "japanese": "ぜんぜん",
+   "romaji": "zenzen",
+   "english": "Not at all",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_mou_ichido_itte_kudasai",
+   "japanese": "もういちどいってください",
+   "romaji": "mou ichido itte kudasai",
+   "english": "Please say it once again",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_motto_yukkuri_itte_kudasai",
+   "japanese": "もっとゆっくりいってください",
+   "romaji": "motto yukkuri itte kudasai",
+   "english": "Please speak more slowly",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_chotto_matte_kudasai",
+   "japanese": "ちょっとまってください",
+   "romaji": "chotto matte kudasai",
+   "english": "Please wait a moment",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_douzo",
+   "japanese": "どうぞ",
+   "romaji": "douzo",
+   "english": "Go ahead; here you are; please",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_sumimasen",
+   "japanese": "すみません",
+   "romaji": "sumimasen",
+   "english": "Excuse me; sorry",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_gomen_nasai",
+   "japanese": "ごめんなさい",
+   "romaji": "gomen nasai",
+   "english": "I am sorry; please forgive me",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_nihongo_de_nan_desu_ka",
+   "japanese": "にほんごでなんですか",
+   "romaji": "nihongo de nan desu ka",
+   "english": "What is it in Japanese?",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_eigo_de_nan_desu_ka",
+   "japanese": "えいごでなんですか",
+   "romaji": "eigo de nan desu ka",
+   "english": "What is it in English?",
+   "source": "reference p.271",
+   "verified": true
+  },
+  {
+   "id": "reference_v_ikura_desu_ka",
+   "japanese": "いくらですか",
+   "romaji": "ikura desu ka",
+   "english": "How much is it?",
+   "source": "reference p.272",
+   "verified": true
+  },
+  {
+   "id": "reference_v_takai_desu",
+   "japanese": "たかいです",
+   "romaji": "takai desu",
+   "english": "It is expensive",
+   "source": "reference p.272",
+   "verified": true
+  },
+  {
+   "id": "reference_v_yasui_desu",
+   "japanese": "やすいです",
+   "romaji": "yasui desu",
+   "english": "It is cheap",
+   "source": "reference p.272",
+   "verified": true
+  },
+  {
+   "id": "reference_v_menyuu_o_kudasai",
+   "japanese": "メニューをください",
+   "romaji": "menyuu o kudasai",
+   "english": "A menu, please",
+   "source": "reference p.272",
+   "verified": true
+  },
+  {
+   "id": "reference_v_mizu_o_kudasai",
+   "japanese": "みずをください",
+   "romaji": "mizu o kudasai",
+   "english": "Water, please",
+   "source": "reference p.272",
+   "verified": true
+  },
+  {
+   "id": "reference_v_motto_kudasai",
+   "japanese": "もっとください",
+   "romaji": "motto kudasai",
+   "english": "More, please",
+   "source": "reference p.272",
+   "verified": true
+  },
+  {
+   "id": "reference_v_oishii_desu",
+   "japanese": "おいしいです",
+   "romaji": "oishii desu",
+   "english": "It is delicious",
+   "source": "reference p.272",
+   "verified": true
+  },
+  {
+   "id": "reference_v_onaka_ga_sukimashita",
+   "japanese": "おなかがすきました",
+   "romaji": "onaka ga sukimashita",
+   "english": "I am hungry",
+   "source": "reference p.272",
+   "verified": true
+  },
+  {
+   "id": "reference_v_nodo_ga_kawakimashita",
+   "japanese": "のどがかわきました",
+   "romaji": "nodo ga kawakimashita",
+   "english": "I am thirsty",
+   "source": "reference p.272",
+   "verified": true
+  },
+  {
+   "id": "reference_v_onaka_ga_ippai_desu",
+   "japanese": "おなかがいっぱいです",
+   "romaji": "onaka ga ippai desu",
+   "english": "I am full",
+   "source": "reference p.272",
+   "verified": true
+  },
+  {
+   "id": "reference_v_itadakimasu",
+   "japanese": "いただきます",
+   "romaji": "itadakimasu",
+   "english": "Said just before eating",
+   "source": "reference p.272",
+   "verified": true
+  },
+  {
+   "id": "reference_v_gochisousama_deshita",
+   "japanese": "ごちそうさまでした",
+   "romaji": "gochisou sama deshita",
+   "english": "Said after a meal",
+   "source": "reference p.272",
+   "verified": true
+  },
+  {
+   "id": "reference_v_ittekimasu",
+   "japanese": "いってきます",
+   "romaji": "ittekimasu",
+   "english": "I am going and will come back",
+   "source": "reference p.272",
+   "verified": true
+  },
+  {
+   "id": "reference_v_itterasshai",
+   "japanese": "いってらっしゃい",
+   "romaji": "itterasshai",
+   "english": "Go and be careful; said to someone leaving",
+   "source": "reference p.272",
+   "verified": true
+  },
+  {
+   "id": "reference_v_tadaima",
+   "japanese": "ただいま",
+   "romaji": "tadaima",
+   "english": "I am home",
+   "source": "reference p.272",
+   "verified": true
+  },
+  {
+   "id": "reference_v_okaerinasai",
+   "japanese": "おかえりなさい",
+   "romaji": "okaerinasai",
+   "english": "Welcome home",
+   "source": "reference p.272",
+   "verified": true
+  },
+  {
+   "id": "reference_v_ojama_shimasu",
+   "japanese": "おじゃまします",
+   "romaji": "ojama shimasu",
+   "english": "Said when entering someone's home",
+   "source": "reference p.272",
+   "verified": true
+  },
+  {
+   "id": "reference_v_ojama_shimashita",
+   "japanese": "おじゃましました",
+   "romaji": "ojama shimashita",
+   "english": "Said when leaving someone's home",
+   "source": "reference p.273",
+   "verified": true
+  },
+  {
+   "id": "reference_v_moshi_moshi",
+   "japanese": "もしもし",
+   "romaji": "moshi moshi",
+   "english": "Hello (on the phone)",
+   "source": "reference p.273",
+   "verified": true
+  },
+  {
+   "id": "reference_v_misete_kudasai",
+   "japanese": "みせてください",
+   "romaji": "misete kudasai",
+   "english": "Please show me",
+   "source": "reference p.273",
+   "verified": true
+  },
+  {
+   "id": "reference_v_annai_shite_kudasai",
+   "japanese": "あんないしてください",
+   "romaji": "annai shite kudasai",
+   "english": "Please guide me",
+   "source": "reference p.273",
+   "verified": true
+  },
+  {
+   "id": "reference_v_tabete_kudasai",
+   "japanese": "たべてください",
+   "romaji": "tabete kudasai",
+   "english": "Please eat it",
+   "source": "reference p.273",
+   "verified": true
+  },
+  {
+   "id": "reference_v_yonde_kudasai",
+   "japanese": "よんでください",
+   "romaji": "yonde kudasai",
+   "english": "Please read it",
+   "source": "reference p.273",
+   "verified": true
+  },
+  {
+   "id": "reference_v_kaite_kudasai",
+   "japanese": "かいてください",
+   "romaji": "kaite kudasai",
+   "english": "Please write it",
+   "source": "reference p.273",
+   "verified": true
+  },
+  {
+   "id": "reference_v_mite_kudasai",
+   "japanese": "みてください",
+   "romaji": "mite kudasai",
+   "english": "Please look at it",
+   "source": "reference p.273",
+   "verified": true
+  },
+  {
+   "id": "reference_v_kite_kudasai",
+   "japanese": "きてください",
+   "romaji": "kite kudasai",
+   "english": "Please come",
+   "source": "reference p.273",
+   "verified": true
+  },
+  {
+   "id": "reference_v_yamete_kudasai",
+   "japanese": "やめてください",
+   "romaji": "yamete kudasai",
+   "english": "Please stop it",
+   "source": "reference p.273",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_ika",
+   "japanese": "いか",
+   "romaji": "ika",
+   "english": "squid",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_iku",
+   "japanese": "いく",
+   "romaji": "iku",
+   "english": "to go",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_ikutsu",
+   "japanese": "いくつ",
+   "romaji": "ikutsu",
+   "english": "How many things?",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_isu",
+   "japanese": "いす",
+   "romaji": "isu",
+   "english": "chair",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_ichi",
+   "japanese": "いち",
+   "romaji": "ichi",
+   "english": "one",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_ichigatsu",
+   "japanese": "いちがつ",
+   "romaji": "ichigatsu",
+   "english": "January",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_ichiji",
+   "japanese": "いちじ",
+   "romaji": "ichiji",
+   "english": "one o'clock",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_itsu",
+   "japanese": "いつ",
+   "romaji": "itsu",
+   "english": "when?",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_ippun",
+   "japanese": "いっぷん",
+   "romaji": "ippun",
+   "english": "one minute",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_inu",
+   "japanese": "いぬ",
+   "romaji": "inu",
+   "english": "dog",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_ima",
+   "japanese": "いま",
+   "romaji": "ima",
+   "english": "now",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_imakara",
+   "japanese": "いまから",
+   "romaji": "ima kara",
+   "english": "from now; from now on",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_iro",
+   "japanese": "いろ",
+   "romaji": "iro",
+   "english": "color",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_iwa",
+   "japanese": "いわ",
+   "romaji": "iwa",
+   "english": "rock",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_ue",
+   "japanese": "うえ",
+   "romaji": "ue",
+   "english": "up; above",
+   "source": "reference p.320",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_usagi",
+   "japanese": "うさぎ",
+   "romaji": "usagi",
+   "english": "rabbit",
+   "source": "reference p.320",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_ushi",
+   "japanese": "うし",
+   "romaji": "ushi",
+   "english": "cow",
+   "source": "reference p.320",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_aoi",
+   "japanese": "あおい",
+   "romaji": "aoi",
+   "english": "blue (adjective)",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_akai",
+   "japanese": "あかい",
+   "romaji": "akai",
+   "english": "red (adjective)",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_asatte",
+   "japanese": "あさって",
+   "romaji": "asatte",
+   "english": "day after tomorrow",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_ashita",
+   "japanese": "あした",
+   "romaji": "ashita",
+   "english": "tomorrow",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_asoko",
+   "japanese": "あそこ",
+   "romaji": "asoko",
+   "english": "over there; that place over there",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_atama",
+   "japanese": "あたま",
+   "romaji": "atama",
+   "english": "head",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_atarashii",
+   "japanese": "あたらしい",
+   "romaji": "atarashii",
+   "english": "new",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_atsui",
+   "japanese": "あつい",
+   "romaji": "atsui",
+   "english": "hot",
+   "source": "reference p.319",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_banana",
+   "japanese": "バナナ",
+   "romaji": "banana",
+   "english": "banana",
+   "source": "reference p.300",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_basu",
+   "japanese": "バス",
+   "romaji": "basu",
+   "english": "bus",
+   "source": "reference p.300",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_biifu",
+   "japanese": "ビーフ",
+   "romaji": "biifu",
+   "english": "beef",
+   "source": "reference p.301",
+   "verified": true
+  },
+  {
+   "id": "reference_v_glossary_chawan",
+   "japanese": "ちゃわん",
+   "romaji": "chawan",
+   "english": "bowl",
+   "source": "reference p.320",
+   "verified": true
+  },
+  {
+   "id": "reference_v_surname_aoki",
+   "japanese": "あおき",
+   "romaji": "Aoki",
+   "english": "青木 — blue/green tree",
+   "source": "reference p.274",
+   "verified": true,
+   "kanji": "青木"
+  },
+  {
+   "id": "reference_v_surname_fujita",
+   "japanese": "ふじた",
+   "romaji": "Fujita",
+   "english": "藤田 — wisteria field",
+   "source": "reference p.274",
+   "verified": true,
+   "kanji": "藤田"
+  },
+  {
+   "id": "reference_v_surname_hayashi",
+   "japanese": "はやし",
+   "romaji": "Hayashi",
+   "english": "林 — woods",
+   "source": "reference p.274",
+   "verified": true,
+   "kanji": "林"
+  },
+  {
+   "id": "reference_v_surname_honda",
+   "japanese": "ほんだ",
+   "romaji": "Honda",
+   "english": "本田 — main rice paddy",
+   "source": "reference p.274",
+   "verified": true,
+   "kanji": "本田"
+  },
+  {
+   "id": "reference_v_surname_ikeda",
+   "japanese": "いけだ",
+   "romaji": "Ikeda",
+   "english": "池田 — pond rice paddy",
+   "source": "reference p.274",
+   "verified": true,
+   "kanji": "池田"
+  },
+  {
+   "id": "reference_v_surname_ishikawa",
+   "japanese": "いしかわ",
+   "romaji": "Ishikawa",
+   "english": "石川 — stone river",
+   "source": "reference p.274",
+   "verified": true,
+   "kanji": "石川"
+  },
+  {
+   "id": "reference_v_surname_kimura",
+   "japanese": "きむら",
+   "romaji": "Kimura",
+   "english": "木村 — tree village",
+   "source": "reference p.274",
+   "verified": true,
+   "kanji": "木村"
+  },
+  {
+   "id": "reference_v_surname_suzuki",
+   "japanese": "すずき",
+   "romaji": "Suzuki",
+   "english": "鈴木 — bell tree",
+   "source": "reference p.274",
+   "verified": true,
+   "kanji": "鈴木"
+  },
+  {
+   "id": "reference_v_surname_takahashi",
+   "japanese": "たかはし",
+   "romaji": "Takahashi",
+   "english": "高橋 — tall bridge",
+   "source": "reference p.274",
+   "verified": true,
+   "kanji": "高橋"
+  },
+  {
+   "id": "reference_v_surname_tanaka",
+   "japanese": "たなか",
+   "romaji": "Tanaka",
+   "english": "田中 — inner rice paddy",
+   "source": "reference p.275",
+   "verified": true,
+   "kanji": "田中"
+  },
+  {
+   "id": "reference_v_surname_watanabe",
+   "japanese": "わたなべ",
+   "romaji": "Watanabe",
+   "english": "渡辺 — neighborhood crossing",
+   "source": "reference p.275",
+   "verified": true,
+   "kanji": "渡辺"
+  },
+  {
+   "id": "reference_v_surname_yamada",
+   "japanese": "やまだ",
+   "romaji": "Yamada",
+   "english": "山田 — mountain rice paddy",
+   "source": "reference p.275",
+   "verified": true,
+   "kanji": "山田"
+  },
+  {
+   "id": "reference_v_surname_yamamoto",
+   "japanese": "やまもと",
+   "romaji": "Yamamoto",
+   "english": "山本 — main mountain",
+   "source": "reference p.275",
+   "verified": true,
+   "kanji": "山本"
+  },
+  {
+   "id": "reference_v_surname_yoshida",
+   "japanese": "よしだ",
+   "romaji": "Yoshida",
+   "english": "吉田 — good rice paddy",
+   "source": "reference p.275",
+   "verified": true,
+   "kanji": "吉田"
+  },
+  {
+   "id": "reference_v_prefecture_hokkaidou",
+   "japanese": "北海道",
+   "romaji": "Hokkaidou",
+   "english": "Hokkaido",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_aomori",
+   "japanese": "青森県",
+   "romaji": "Aomori ken",
+   "english": "Aomori Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_iwate",
+   "japanese": "岩手県",
+   "romaji": "Iwate ken",
+   "english": "Iwate Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_miyagi",
+   "japanese": "宮城県",
+   "romaji": "Miyagi ken",
+   "english": "Miyagi Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_akita",
+   "japanese": "秋田県",
+   "romaji": "Akita ken",
+   "english": "Akita Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_yamagata",
+   "japanese": "山形県",
+   "romaji": "Yamagata ken",
+   "english": "Yamagata Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_fukushima",
+   "japanese": "福島県",
+   "romaji": "Fukushima ken",
+   "english": "Fukushima Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_ibaraki",
+   "japanese": "茨城県",
+   "romaji": "Ibaraki ken",
+   "english": "Ibaraki Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_tochigi",
+   "japanese": "栃木県",
+   "romaji": "Tochigi ken",
+   "english": "Tochigi Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_gunma",
+   "japanese": "群馬県",
+   "romaji": "Gunma ken",
+   "english": "Gunma Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_saitama",
+   "japanese": "埼玉県",
+   "romaji": "Saitama ken",
+   "english": "Saitama Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_chiba",
+   "japanese": "千葉県",
+   "romaji": "Chiba ken",
+   "english": "Chiba Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_tokyo",
+   "japanese": "東京都",
+   "romaji": "Toukyou to",
+   "english": "Tokyo Metropolis",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_kanagawa",
+   "japanese": "神奈川県",
+   "romaji": "Kanagawa ken",
+   "english": "Kanagawa Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_yamanashi",
+   "japanese": "山梨県",
+   "romaji": "Yamanashi ken",
+   "english": "Yamanashi Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_niigata",
+   "japanese": "新潟県",
+   "romaji": "Niigata ken",
+   "english": "Niigata Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_nagano",
+   "japanese": "長野県",
+   "romaji": "Nagano ken",
+   "english": "Nagano Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_shizuoka",
+   "japanese": "静岡県",
+   "romaji": "Shizuoka ken",
+   "english": "Shizuoka Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_toyama",
+   "japanese": "富山県",
+   "romaji": "Toyama ken",
+   "english": "Toyama Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_ishikawa",
+   "japanese": "石川県",
+   "romaji": "Ishikawa ken",
+   "english": "Ishikawa Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_fukui",
+   "japanese": "福井県",
+   "romaji": "Fukui ken",
+   "english": "Fukui Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_gifu",
+   "japanese": "岐阜県",
+   "romaji": "Gifu ken",
+   "english": "Gifu Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_aichi",
+   "japanese": "愛知県",
+   "romaji": "Aichi ken",
+   "english": "Aichi Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_mie",
+   "japanese": "三重県",
+   "romaji": "Mie ken",
+   "english": "Mie Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_shiga",
+   "japanese": "滋賀県",
+   "romaji": "Shiga ken",
+   "english": "Shiga Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_kyouto",
+   "japanese": "京都府",
+   "romaji": "Kyouto fu",
+   "english": "Kyoto Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_oosaka",
+   "japanese": "大阪府",
+   "romaji": "Oosaka fu",
+   "english": "Osaka Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_hyougo",
+   "japanese": "兵庫県",
+   "romaji": "Hyougo ken",
+   "english": "Hyogo Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_nara",
+   "japanese": "奈良県",
+   "romaji": "Nara ken",
+   "english": "Nara Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_wakayama",
+   "japanese": "和歌山県",
+   "romaji": "Wakayama ken",
+   "english": "Wakayama Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_tottori",
+   "japanese": "鳥取県",
+   "romaji": "Tottori ken",
+   "english": "Tottori Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_shimane",
+   "japanese": "島根県",
+   "romaji": "Shimane ken",
+   "english": "Shimane Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_okayama",
+   "japanese": "岡山県",
+   "romaji": "Okayama ken",
+   "english": "Okayama Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_hiroshima",
+   "japanese": "広島県",
+   "romaji": "Hiroshima ken",
+   "english": "Hiroshima Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_yamaguchi",
+   "japanese": "山口県",
+   "romaji": "Yamaguchi ken",
+   "english": "Yamaguchi Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_kagawa",
+   "japanese": "香川県",
+   "romaji": "Kagawa ken",
+   "english": "Kagawa Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_tokushima",
+   "japanese": "徳島県",
+   "romaji": "Tokushima ken",
+   "english": "Tokushima Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_ehime",
+   "japanese": "愛媛県",
+   "romaji": "Ehime ken",
+   "english": "Ehime Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_kouchi",
+   "japanese": "高知県",
+   "romaji": "Kouchi ken",
+   "english": "Kochi Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_fukuoka",
+   "japanese": "福岡県",
+   "romaji": "Fukuoka ken",
+   "english": "Fukuoka Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_saga",
+   "japanese": "佐賀県",
+   "romaji": "Saga ken",
+   "english": "Saga Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_nagasaki",
+   "japanese": "長崎県",
+   "romaji": "Nagasaki ken",
+   "english": "Nagasaki Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_kumamoto",
+   "japanese": "熊本県",
+   "romaji": "Kumamoto ken",
+   "english": "Kumamoto Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_ooita",
+   "japanese": "大分県",
+   "romaji": "Ooita ken",
+   "english": "Oita Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_miyazaki",
+   "japanese": "宮崎県",
+   "romaji": "Miyazaki ken",
+   "english": "Miyazaki Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_kagoshima",
+   "japanese": "鹿児島県",
+   "romaji": "Kagoshima ken",
+   "english": "Kagoshima Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  },
+  {
+   "id": "reference_v_prefecture_okinawa",
+   "japanese": "沖縄県",
+   "romaji": "Okinawa ken",
+   "english": "Okinawa Prefecture",
+   "source": "reference p.331",
+   "verified": true
+  }
+ ],
+ "grammar": [
+  {
+   "id": "reference_g_phrasebook_guide",
+   "title": "Everyday phrasebook",
+   "pattern": "greetings · introductions · communication",
+   "explanation": "The back matter organizes useful fixed expressions into categories. Phrase translations are context-dependent; learn when a phrase is used as well as its literal meaning.",
+   "examples": [
+    {
+     "japanese": "はじめまして",
+     "romaji": "hajimemashite",
+     "english": "Nice to meet you."
+    },
+    {
+     "japanese": "よろしくおねがいします",
+     "romaji": "yoroshiku onegai shimasu",
+     "english": "A set phrase used when meeting or making a request."
+    }
+   ],
+   "source": "reference p.270-271"
+  },
+  {
+   "id": "reference_g_communication",
+   "title": "When you need help understanding",
+   "pattern": "[language] で なんですか",
+   "explanation": "Use the language name with で to ask how something is said. The phrase list also includes asking a speaker to repeat or slow down.",
+   "examples": [
+    {
+     "japanese": "にほんごでなんですか",
+     "romaji": "Nihongo de nan desu ka",
+     "english": "What is it in Japanese?"
+    },
+    {
+     "japanese": "もういちどいってください",
+     "romaji": "Mou ichido itte kudasai",
+     "english": "Please say it once again."
+    }
+   ],
+   "source": "reference p.271"
+  },
+  {
+   "id": "reference_g_food",
+   "title": "At a restaurant",
+   "pattern": "[item] をください",
+   "explanation": "These reference phrases are practical templates for ordering food and drinks. Replace the item with the thing you want.",
+   "examples": [
+    {
+     "japanese": "メニューをください",
+     "romaji": "Menyuu o kudasai",
+     "english": "A menu, please."
+    },
+    {
+     "japanese": "みずをください",
+     "romaji": "Mizu o kudasai",
+     "english": "Water, please."
+    },
+    {
+     "japanese": "ごちそうさまでした",
+     "romaji": "Gochisou sama deshita",
+     "english": "Said after a meal."
+    }
+   ],
+   "source": "reference p.272"
+  },
+  {
+   "id": "reference_g_home",
+   "title": "Entering and leaving home",
+   "pattern": "ittekimasu / tadaima",
+   "explanation": "The phrase list marks these as conventional expressions used when leaving home, responding to someone leaving, returning, and entering or leaving another person's home.",
+   "examples": [
+    {
+     "japanese": "いってきます",
+     "romaji": "Ittekimasu",
+     "english": "I am going and will come back."
+    },
+    {
+     "japanese": "いってらっしゃい",
+     "romaji": "Itterasshai",
+     "english": "Go and be careful."
+    },
+    {
+     "japanese": "ただいま",
+     "romaji": "Tadaima",
+     "english": "I am home."
+    },
+    {
+     "japanese": "おかえりなさい",
+     "romaji": "Okaerinasai",
+     "english": "Welcome home."
+    }
+   ],
+   "source": "reference p.272-273"
+  },
+  {
+   "id": "reference_g_requests",
+   "title": "Requests with ください",
+   "pattern": "[verb] てください",
+   "explanation": "The command/request page groups common requests such as asking someone to show, guide, eat, read, say, write, look, come, or stop. These short templates are listed for reference, not assessment.",
+   "examples": [
+    {
+     "japanese": "みてください",
+     "romaji": "Mite kudasai",
+     "english": "Please look."
+    },
+    {
+     "japanese": "かいてください",
+     "romaji": "Kaite kudasai",
+     "english": "Please write it."
+    }
+   ],
+   "source": "reference p.273"
+  },
+  {
+   "id": "reference_g_surnames",
+   "title": "Japanese surnames",
+   "pattern": "surname + possible kanji meaning",
+   "explanation": "The surname list provides example readings and possible meanings based on kanji. A surname can have multiple kanji spellings, so these meanings should be treated as the examples listed in the book, not universal definitions.",
+   "examples": [
+    {
+     "japanese": "たなか",
+     "romaji": "Tanaka",
+     "english": "The book lists 田中 and the possible meaning ‘inner rice paddy’."
+    },
+    {
+     "japanese": "すずき",
+     "romaji": "Suzuki",
+     "english": "The book lists 鈴木 and the possible meaning ‘bell tree’."
+    }
+   ],
+   "source": "reference p.274-275"
+  },
+  {
+   "id": "reference_g_given_names",
+   "title": "Given names",
+   "pattern": "reading + possible kanji spellings",
+   "explanation": "The book lists common girls' and boys' given names with examples of possible kanji. A single reading may have many possible kanji spellings; the reference list is illustrative rather than exhaustive.",
+   "examples": [
+    {
+     "japanese": "あい",
+     "romaji": "Ai",
+     "english": "Example given name; one listed kanji is 愛."
+    },
+    {
+     "japanese": "はるか",
+     "romaji": "Haruka",
+     "english": "A listed girls' given name."
+    }
+   ],
+   "source": "reference p.276-281"
+  },
+  {
+   "id": "reference_g_glossaries",
+   "title": "Three glossary views",
+   "pattern": "English ↔ romaji ↔ kana",
+   "explanation": "The book's reference pages include an English glossary, a romaji glossary, and a kana glossary. This in-app list is a curated starter set with page provenance, not a transcription of every glossary entry.",
+   "examples": [
+    {
+     "japanese": "いま",
+     "romaji": "ima",
+     "english": "now"
+    },
+    {
+     "japanese": "いくつ",
+     "romaji": "ikutsu",
+     "english": "How many things?"
+    },
+    {
+     "japanese": "あさって",
+     "romaji": "asatte",
+     "english": "day after tomorrow"
+    }
+   ],
+   "source": "reference p.299-330"
+  },
+  {
+   "id": "reference_g_prefectures",
+   "title": "Japan: regions and prefectures",
+   "pattern": "place name + regional suffix",
+   "explanation": "The map/reference section lists Japanese prefectures and their region. Prefecture suffixes are printed with the place names: 県 (ken), 都 (to), and 府 (fu). The entries below preserve the name and reading shown in the book.",
+   "examples": [
+    {
+     "japanese": "北海道",
+     "romaji": "Hokkaidou",
+     "english": "Hokkaido."
+    },
+    {
+     "japanese": "東京都",
+     "romaji": "Toukyou to",
+     "english": "Tokyo Metropolis."
+    },
+    {
+     "japanese": "京都府",
+     "romaji": "Kyouto fu",
+     "english": "Kyoto Prefecture."
+    }
+   ],
+   "source": "reference p.331"
+  }
+ ],
+ "exercises": [],
+ "quiz": [],
+ "summary": "Browse the back matter without entering the lesson path. This curated Reference Library includes useful phrases from pp. 270–273, selected surnames and name notes from pp. 274–281, a starter selection from the English/romaji/kana glossaries on pp. 299–330, and all 47 prefecture names listed on p. 331. It is intentionally read-only: the Reference Library has no exercises, quiz, lesson score, unlock requirement, or spaced-repetition scheduling."
+}

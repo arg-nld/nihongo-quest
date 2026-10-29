@@ -1,0 +1,25 @@
+{
+  "pdf_page": 145,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img894__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0141",
+    "page_0142",
+    "page_0143",
+    "page_0144",
+    "page_0145"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 338,
+  "lines": 46,
+  "usage": {
+    "input_tokens": 5838,
+    "output_tokens": 1255,
+    "total_tokens": 7093
+  },
+  "raw_batch_response": "===PAGE page_0141===\nJapanese From Zero! – Lesson 6 – Lesson Activities 141\n\n2. にほnの ざっしが ほしいですか。\n\n3. つmeたい ko-raが ほしいですか。\n\n4. あなたの terebiは、あたraしいですか。\n\n□ Question and answer 3\nUsing ________ が ほしいです, make a conversation for the following pictures:\n\nWhat are Ichiro and Yumiko saying in this picture?\n\nIchiro:__________________________________________________\n\nYumiko:_________________________________________________\n\nWhat are the nurse and the patient saying\nin this picture?\n\nNurse: __________________________________________________\n\nPatient: ________________________________________________\n\n===PAGE page_0142===\nJapaneseFromZero.com 142\n\n□ English translation\nTranslate the following conversation into Japanese.\n\n1.\nGeorgeさん: What is your name?\nYuかriさん: It is Yukari. What is yours?\nGeorgeさん: My name is George. I am 34 years old. How old are you?\nYuかriさん: I am 26 years old.\nGeorgeさん:\nYuかriさん:\nGeorgeさん:\nYuかriさん:\n\n□ Reading comprehension questions\nAnswer the following questions about the reading comprehension in this lesson.\n\n1. Maつmoとくnは、なにが すきですか。\n\n2. Maつmoとくnの とmoだちの なmaえは、なnですか。\n\n3. たしroくnは、なにが ほしいですか。\n\n4. Maつmoとくnは、あかいくrumaが すきですか。\n\n5. Maつmoとくnは、なにいroのくrumaが すきですか。\n\n===PAGE page_0143===\nJapanese From Zero! – Lesson 6 – Lesson Activities 143\n\n□ Short dialogue\nMr. Yoshida is welcoming Karen to his house.\n\nYoしださn: Karenさん、どうぞ。\nKaren: はい、おjamaしmaす。\nYoしださn: のmimoのは なにが ほしいですか。\nKaren: そうですね…。Ko-raが ほしいです。\nYoしださn: Choっとmaってください。\n　　　　 はい、どうぞ。(serving a bottle of cola)\nKaren: あriがとうございmaす。\n\nNew words and expressions in the dialogue\n\nProgressive\nどうぞ。\nおjamaしmaす。\n(literally, “I will bother you,” when entering someone’s house)\n\nそうですね…\nChoっとmaってください。\n(はい) どうぞ。\n(when serving/giving something to someone)\n\nKanji\nどうぞ。\nお邪魔します。\n\nそうですね…\nちょっと待って下さい。\n(はい) どうぞ。\n\nEnglish\nPlease come in.\nI will come in.\n\nLet’s see…\nPlease wait a moment.\nHere you are.\n\n□ Short dialogue activities\nPractice reading the dialogue in pairs.\nSuppose someone is visiting your house. Ask him/her what he/she wants to have for a drink.\n\norenji ju-su?\n\nmiず?\n\nrinご ju-su?\n\n===PAGE page_0144===\nJapaneseFromZero.com 144\n\n□ More words you can write\nYou should practice writing these words a minimum of five times each. Not only will you be\npracticing the new hiragana, but you will also learn new words.\n\nしばふ\nはこぶ\nすなば\nばくはつ\nてっぽう\n\ngrass\nto move an item\nsand box\nexplosion\ngun\n\nふうふ\nへいたい\nこうべ\nぴかぴか\n\nmarried couple\nsoldier\nKobe (city)\nshiny\n\n6 Drill ドリル\n\nTranslate the following sentences. If you don’t know what they mean, then we recommend that\nyou review the lesson up to this point before continuing.\n\n1. なにが ほしいですか。\n2. つmeたい miずが ほしいです。\n3. あかくない rinご wa すきjaない です。\n\n6 Sentence Building ぶんのつくり\n\nIn each lesson we will build on a previous sentence. Watch it grow and transform each time\nnew concepts are introduced.\n\nあなたのおかあさnは なにいroのくrumaが ほしいですか。\nWhat color car does your mother want?\n\nCompare how the sentence has changed from the prior lessons:\n\nLesson 3: こreは あなたのおかあさnのくrumaですか。\nIs this your mother’s car?\n\nLesson 4: あなたのおかあさnのくrumaは しroい ですか。\nIs your mother’s car white?\n\nLesson 5: あなたのおかあさnは なにいroのくrumaが すき ですか。\nWhat color car does your mother like?\n\n===PAGE page_0145===\nJapanese From Zero! – Vocabulary Group I 145\n\n□ Transportation\n\nProgressive\nくruma\nひこうき\nでnsha\nbasu\nふね\nさnrinsha\nshoうぼう sha\nじてnsha\nしnかnせn\npatoka-\n\nKana\nくるま\nひこうき\nでんしゃ\nバス\nふね\nさんりんしゃ\nしょうぼうしゃ\nじてんしゃ\nしんかんせん\nパトカー\n\nKanji\n車\n飛行機\n電車\nバス\n船\n三輪車\n消防車\n自転車\n新幹線\nパトカー\n\nEnglish\ncar\nairplane\ntrain\nbus\nship; boat\ntricycle\nfire truck\nbicycle\nbullet train\npatrol car",
+  "extracted_text": "Japanese From Zero! – Vocabulary Group I 145\n\n□ Transportation\n\nProgressive\nくruma\nひこうき\nでnsha\nbasu\nふね\nさnrinsha\nshoうぼう sha\nじてnsha\nしnかnせn\npatoka-\n\nKana\nくるま\nひこうき\nでんしゃ\nバス\nふね\nさんりんしゃ\nしょうぼうしゃ\nじてんしゃ\nしんかんせん\nパトカー\n\nKanji\n車\n飛行機\n電車\nバス\n船\n三輪車\n消防車\n自転車\n新幹線\nパトカー\n\nEnglish\ncar\nairplane\ntrain\nbus\nship; boat\ntricycle\nfire truck\nbicycle\nbullet train\npatrol car"
+}

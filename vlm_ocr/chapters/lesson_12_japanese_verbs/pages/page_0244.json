@@ -1,0 +1,25 @@
+{
+  "pdf_page": 244,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img1500__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0243",
+    "page_0244",
+    "page_0245",
+    "page_0246",
+    "page_0247"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 924,
+  "lines": 36,
+  "usage": {
+    "input_tokens": 5838,
+    "output_tokens": 1312,
+    "total_tokens": 7150
+  },
+  "raw_batch_response": "===PAGE page_0243===\nJapanese From Zero! – Lesson 12 – Japanese Verbs\n243\n12\nQ&A しつもん と こたえ J→E\n1. ふるたさんは ちゅうごくごが わかりますか？\nDoes Mr. Furuta understand Chinese？\nいいえ。でも、かんこくごが わかります。\nNo. But he understands Korean.\n2. なにごが はなせますか。\nWhat languages do you speak？\nSupein ごと えいごが はなせます。\nI can speak Spanish and English.\nちゅうごくごど かんこくごど にほんごが はなせます。\nI can speak Chinese and Korean and Japanese.\n\n12\nMini Conversations ミニ かいわ J→E\n1. Conversation between friends\nA: どこに いきますか。\nB: おじいさんの いえに いきます。\nA: おじいさんの いえは どこですか。\nB: Rasu begasu です。\nA: Where are you going?\nB: I am going to my grandfather's house.\nA: Where is your grandfather's house?\nB: Las Vegas.\n\n2. Conversation on the phone between friends\nA: いつ amerika に かえりますか。\nB: すいようびに かえります。\nA: あなたの おかあさんも かえりますか。\nB: はい、おかあさんも かえります。\nA: When will you come back to America?\nB: I'll return on Wednesday.\nA: Will your mother also come back?\nB: Yes, my mother will also return.\n\n===PAGE page_0244===\nJapaneseFromZero.com\n244\n3. Conversation between friends who haven't met in a while\nA: おひさしぶりです。\nB: いつ かえりましたか。\nA: おととい かえりました。\nA: It's been a long time.\nB: When did you return?\nA: I came back the day before yesterday.\n\n4. Conversation between friends\nA: だれが pa-ti-に きますか。\nB: よしこさんと けいこさんが きます。\nA: よしこさんと けいこさんは だれですか。\nB: わたしの ともだちです。\nA: Who is coming to the party?\nB: Yoshiko and Keiko are coming.\nA: Who are Yoshiko and Keiko?\nB: They're my friends.\n\n5. Conversation between two co-workers\nA: いつ amerika に いきましたか。\nB: Amerika に いきませんでした。\nA: じゃ、どこに いきましたか。\nB: かんこくに いきました。\nA: When did you go to America?\nB: I didn't go to America.\nA: Well then, where did you go?\nB: I went to Korea.\n\n6. Conversation at work\nA: なにごが はなせますか。\nB: ちゅうごくごど えいごど にほんごが はなせます。\nA: すごいですね。なにじんですか。\nB: にほじんです。\nA: What languages can you speak?\nB: I can speak Chinese, English, and Japanese.\nA: That's amazing. What nationality are you?\nB: I'm Japanese.\n\n===PAGE page_0245===\nJapanese From Zero! – Lesson 12 – Japanese Verbs\n245\n12\nReading Comprehension どっかい\nRead the sentences below. Use the information to answer the reading comprehension\nquestions later in this lesson.\n① ここは amerika の shikago し です。\n② まりさんは じゅうがつみっかに にほんに いきました。\n③ きのう shikago しに かえりました。\n④ まりさんと ともだちの よしこさんは あした pa-ti-に いきます。\n⑤ まりさんの ふくは しろです。\n⑥ よしこさんのわ orenji です。\n⑦ あしたは harowi-n (Halloween) です。\n⑧ まりさんは pa-ti-が だいすき です。\n⑨ くがつに よしこさんのおとうさんの たんじょうび pa-ti-に いきました。\n⑩ らいねんの しちがつとおかに かんこくに いきます。\n\n===PAGE page_0246===\nJapaneseFromZero.com\n246\n12\nLesson Activities\n□ Grammar drill\nFill in the blanks with appropriate verb forms.\nDictionary\nForm\nPolite Forms\nPresent / Future\nPast\npositive\nnegative\npositive\nnegative\nいく\nいきます\nくる\nきません\nかえる\nかえりました\nわかる\nわかりませんでした\n\n□ Substitution drill\nReplace the underlined word with the words provided.\nEx. あした kanada に いきます。\n→ Japan\nあした にほんに いきます。\n1. きょう ぎんこうに いきません。\n→ school\n→ McDonald's\n→ friend's house\n2. たなかさんは、おととい とうきょうに かえりました。\n→ yesterday\n→ last Friday\n→ 5th of last month\n\n===PAGE page_0247===\nJapanese From Zero! – Lesson 12 – Lesson Activities\n247\n3. やまもとさんは、にほんに かえりませんでした。\n→ America\n→ Los Angeles\n→ Chicago\n4. やまださんは、さんが月に ここに きます。\n→ 2nd of next month\n→ next Saturday\n→ May of next year\n5. おかあさんの いえに いきます。\n→ won't go\n→ went\n→ didn't go\n6. たむらさんの おとうさんは、にほんごが わかります。\n→ English\n→ computer\n→ hiragana and katakana",
+  "extracted_text": "JapaneseFromZero.com\n244\n3. Conversation between friends who haven't met in a while\nA: おひさしぶりです。\nB: いつ かえりましたか。\nA: おととい かえりました。\nA: It's been a long time.\nB: When did you return?\nA: I came back the day before yesterday.\n\n4. Conversation between friends\nA: だれが pa-ti-に きますか。\nB: よしこさんと けいこさんが きます。\nA: よしこさんと けいこさんは だれですか。\nB: わたしの ともだちです。\nA: Who is coming to the party?\nB: Yoshiko and Keiko are coming.\nA: Who are Yoshiko and Keiko?\nB: They're my friends.\n\n5. Conversation between two co-workers\nA: いつ amerika に いきましたか。\nB: Amerika に いきませんでした。\nA: じゃ、どこに いきましたか。\nB: かんこくに いきました。\nA: When did you go to America?\nB: I didn't go to America.\nA: Well then, where did you go?\nB: I went to Korea.\n\n6. Conversation at work\nA: なにごが はなせますか。\nB: ちゅうごくごど えいごど にほんごが はなせます。\nA: すごいですね。なにじんですか。\nB: にほじんです。\nA: What languages can you speak?\nB: I can speak Chinese, English, and Japanese.\nA: That's amazing. What nationality are you?\nB: I'm Japanese."
+}

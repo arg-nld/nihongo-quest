@@ -1,0 +1,25 @@
+{
+  "pdf_page": 113,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img698__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0113",
+    "page_0114",
+    "page_0115",
+    "page_0116",
+    "page_0117"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 687,
+  "lines": 24,
+  "usage": {
+    "input_tokens": 5838,
+    "output_tokens": 987,
+    "total_tokens": 6825
+  },
+  "raw_batch_response": "===PAGE page_0113===\nJapanese From Zero! – Lesson 5 – Likes and Dislikes 113\n\n4. Miずが すきですか。\n   Haい そうです。\n   いいえ、すき janaい です。\n\n   Do you like water?\n   Yes, I do.\n   No, I don't like it.\n\n5. Naniが きraい ですか。\n   Chaいroい bananaが だいきraい です。\n   かいmonoが きraい です。\n\n   What do you dislike?\n   I really hate brown bananas.\n   I hate shopping.\n\n5 Reading Comprehension どっかい\n\nRead the sentences below. Use the information to answer the reading comprehension\nquestions later in this lesson.\n\n① さとこさn no かre no namaえ wa たnaか yoしお です。\n② さとこさn wa 25 さい です。\n③ Yoしおさn wa 27 さい です。\n④ さとこさn wa かいmono が だいすきです。\n⑤ Yoしおさn wa かいmono が すき janaい です。\n⑥ Yoしおさn wa しごとが すきです。\n⑦ さとこさn wa しごとが きraい です。\n⑧ さとこさn と yoしおさn wa ryoこうが だいすきです。\n\n===PAGE page_0114===\nJapaneseFromZero.com 114\nHiragana なにぬねの\n\nな New Hiragana あたらしい ひらがな\n\nMake sure you learn the correct stroke order since correct stroke order will mean neater\ncharacters when writing fast.\n\nNA\nな\nNI\nに\nNU\nぬ\nNE\nね\nNO\nの\n\nな Various Styles スタイル\n\nLook at the various possible styles for the hiragana in this lesson. Write each symbol as neatly\nas you can, then compare to the different versions below.\n\nな\nに\nぬ\nね\nの\n\nな\nに\nぬ\nね\nの\n\nな\nに\nぬ\nね\nの\n\nな\nに\nぬ\nね\nの\n\nな\nに\nぬ\nね\nの\n\n===PAGE page_0115===\nJapanese From Zero! – Lesson 5 – Hiragana なにぬねの 115\n\nな Writing Practice れんしゅう\n\nTo practice correct stroke order, first trace the light gray characters, then write each character\nsix times for practice.\n\nna\nな\nな\n\nni\nに\nに\n\nnu\nぬ\nぬ\n\nne\nね\nね\n\nno\nの\nの\n\nな Word Practice ことばの れんしゅう\n\nFill in the appropriate hiragana in the blanks for each word.\n\n1. ____つ (summer)\n   na\n\n2. ____hon (Japan)\n   ni\n\n3. ____こ (cat)\n   ne\n\n4. yo____か (middle of the night)\n   na\n\n5. ____mu (to drink)\n   no\n\n6. ____ru (to sleep, to go to bed)\n   ne\n\n7. ____ ____いくrumi (stubborn)\n   na ni\n\n8. ____いくrumi (stuffed animal)\n   nu\n\n===PAGE page_0116===\nJapaneseFromZero.com 116\n\n9. ____がい (bitter tasting)\n   ni\n\n10. お____えさn (older sister)\n    ne\n\n11. ____く (to take off clothes)\n    nu\n\n12. ____ru (to ride)\n    no\n\nな Everyday Hiragana Words にちじょうの ことば\n\nいぬ\ndog\n\nながい\nlong\n\nにwaとri\nchicken\n\nのru\nto ride\n\nぬru\nto paint\n\nねこ\ncat\n\nな Words You Can Write かける ことば\n\nWrite the following words using the hiragana that you just learned. This is a great way\nto increase your Japanese vocabulary.\n\nなに\n(what)\n\nねこ\n(cat)\n\n===PAGE page_0117===\nJapanese From Zero! – Lesson 5 – Hiragana なにぬねの 117\n\nなな\n(seven)\n\nにし\n(west)\n\nなつ\n(summer)\n\nあなた\n(you)\n\nねつ\n(fever)\n\nいぬ\n(dog)\n\nのど\n(throat)\n\nかに\n(crab)\n\nにっき\n(diary)\n\nにく\n(meat)\n\nにじ\n(rainbow)",
+  "extracted_text": "Japanese From Zero! – Lesson 5 – Likes and Dislikes 113\n\n4. Miずが すきですか。\n   Haい そうです。\n   いいえ、すき janaい です。\n\n   Do you like water?\n   Yes, I do.\n   No, I don't like it.\n\n5. Naniが きraい ですか。\n   Chaいroい bananaが だいきraい です。\n   かいmonoが きraい です。\n\n   What do you dislike?\n   I really hate brown bananas.\n   I hate shopping.\n\n5 Reading Comprehension どっかい\n\nRead the sentences below. Use the information to answer the reading comprehension\nquestions later in this lesson.\n\n① さとこさn no かre no namaえ wa たnaか yoしお です。\n② さとこさn wa 25 さい です。\n③ Yoしおさn wa 27 さい です。\n④ さとこさn wa かいmono が だいすきです。\n⑤ Yoしおさn wa かいmono が すき janaい です。\n⑥ Yoしおさn wa しごとが すきです。\n⑦ さとこさn wa しごとが きraい です。\n⑧ さとこさn と yoしおさn wa ryoこうが だいすきです。"
+}

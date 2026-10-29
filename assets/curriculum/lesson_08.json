@@ -1,0 +1,1559 @@
+{
+ "sectionId": "lesson_08",
+ "title": "Lesson 8",
+ "subtitle": "Dates and Past Tense — the calendar",
+ "pages": "164-182",
+ "objectives": [
+  "Ask when, what day of the month, and what month: itsu / nannichi / nangatsu",
+  "Say the months and the days of the month, including the tricky 14th, 20th and 24th",
+  "Say full dates: month first, then day of the month",
+  "Use deshita, the past tense of desu, to talk about yesterday and last week",
+  "Use the particle wo as the object marker — and never replace it with o",
+  "Read and write the last basic hiragana: や ゆ よ わ を ん"
+ ],
+ "kanaFocus": [
+  "や",
+  "ゆ",
+  "よ",
+  "わ",
+  "を",
+  "ん"
+ ],
+ "vocab": [
+  {
+   "id": "lesson_08_v_omedetou",
+   "japanese": "おめでとう",
+   "romaji": "omedetou",
+   "english": "Congratulations.",
+   "source": "lesson_08 p.164",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_akemashite_omedetou",
+   "japanese": "あけまして おめでとう",
+   "romaji": "akemashite omedetou",
+   "english": "Happy New Year.",
+   "source": "lesson_08 p.164",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_tanjoubi_omedetou",
+   "japanese": "たんじょうび おめでとう",
+   "romaji": "tanjoubi omedetou",
+   "english": "Happy Birthday.",
+   "source": "lesson_08 p.164",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_itsu",
+   "japanese": "いつ",
+   "romaji": "itsu",
+   "english": "when?",
+   "source": "lesson_08 p.165",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_nannichi",
+   "japanese": "なんにち",
+   "romaji": "nannichi",
+   "english": "what day of the month?",
+   "source": "lesson_08 p.165",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_nangatsu",
+   "japanese": "なんがつ",
+   "romaji": "nangatsu",
+   "english": "what month?",
+   "source": "lesson_08 p.165",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_kyou",
+   "japanese": "きょう",
+   "romaji": "kyou",
+   "english": "today",
+   "source": "lesson_08 p.165",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_ashita",
+   "japanese": "あした",
+   "romaji": "ashita",
+   "english": "tomorrow",
+   "source": "lesson_08 p.165",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_kinou",
+   "japanese": "きのう",
+   "romaji": "kinou",
+   "english": "yesterday",
+   "source": "lesson_08 p.165",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_tanjoubi",
+   "japanese": "たんじょうび",
+   "romaji": "tanjoubi",
+   "english": "birthday",
+   "source": "lesson_08 p.165",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_kurisumasu",
+   "japanese": "クリスマス",
+   "romaji": "kurisumasu",
+   "english": "Christmas (loan word)",
+   "source": "lesson_08 p.165",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_dokuritsukinenbi",
+   "japanese": "どくりつきねんび",
+   "romaji": "dokuritsu kinenbi",
+   "english": "Independence Day",
+   "source": "lesson_08 p.165",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_purezento",
+   "japanese": "プレゼント",
+   "romaji": "purezento",
+   "english": "present, gift (loan word)",
+   "source": "lesson_08 p.165",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_gouruden_wiiku",
+   "japanese": "ゴールデンウィーク",
+   "romaji": "gouruden wiiku",
+   "english": "Golden Week (loan word)",
+   "source": "lesson_08 p.165",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_kenpoukinenbi",
+   "japanese": "けんぽうきねんび",
+   "romaji": "kenpou kinenbi",
+   "english": "Constitution Day",
+   "source": "lesson_08 p.165",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_kodomono_hi",
+   "japanese": "こどものひ",
+   "romaji": "kodomo no hi",
+   "english": "Children's Day",
+   "source": "lesson_08 p.165",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_bunkano_hi",
+   "japanese": "ぶんかのひ",
+   "romaji": "bunka no hi",
+   "english": "Culture Day",
+   "source": "lesson_08 p.165",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_taiikuno_hi",
+   "japanese": "たいいくのひ",
+   "romaji": "taiiku no hi",
+   "english": "Sports Day",
+   "source": "lesson_08 p.165",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_tsuitachi",
+   "japanese": "ついたち",
+   "romaji": "tsuitachi",
+   "english": "1st (of the month)",
+   "source": "lesson_08 p.166",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_futsuka",
+   "japanese": "ふつか",
+   "romaji": "futsuka",
+   "english": "2nd (of the month)",
+   "source": "lesson_08 p.166",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_mikka",
+   "japanese": "みっか",
+   "romaji": "mikka",
+   "english": "3rd (of the month)",
+   "source": "lesson_08 p.166",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_yokka",
+   "japanese": "よっか",
+   "romaji": "yokka",
+   "english": "4th (of the month)",
+   "source": "lesson_08 p.166",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_itsuka",
+   "japanese": "いつか",
+   "romaji": "itsuka",
+   "english": "5th (of the month)",
+   "source": "lesson_08 p.166",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_muika",
+   "japanese": "むいか",
+   "romaji": "muika",
+   "english": "6th (of the month)",
+   "source": "lesson_08 p.166",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_nanoka",
+   "japanese": "なのか",
+   "romaji": "nanoka",
+   "english": "7th (of the month)",
+   "source": "lesson_08 p.166",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_youka",
+   "japanese": "ようか",
+   "romaji": "youka",
+   "english": "8th (of the month)",
+   "source": "lesson_08 p.166",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_kokonoka",
+   "japanese": "ここのか",
+   "romaji": "kokonoka",
+   "english": "9th (of the month)",
+   "source": "lesson_08 p.166",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_tooka",
+   "japanese": "とおか",
+   "romaji": "tooka",
+   "english": "10th (of the month)",
+   "source": "lesson_08 p.166",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_juuyokka",
+   "japanese": "じゅうよっか",
+   "romaji": "juuyokka",
+   "english": "14th (of the month)",
+   "source": "lesson_08 p.166",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_hatsuka",
+   "japanese": "はつか",
+   "romaji": "hatsuka",
+   "english": "20th (of the month)",
+   "source": "lesson_08 p.166",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_nijuuyokka",
+   "japanese": "にじゅうよっか",
+   "romaji": "nijuuyokka",
+   "english": "24th (of the month)",
+   "source": "lesson_08 p.166",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_ichigatsu",
+   "japanese": "いちがつ",
+   "romaji": "ichigatsu",
+   "english": "January",
+   "source": "lesson_08 p.167",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_nigatsu",
+   "japanese": "にがつ",
+   "romaji": "nigatsu",
+   "english": "February",
+   "source": "lesson_08 p.167",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_sangatsu",
+   "japanese": "さんがつ",
+   "romaji": "sangatsu",
+   "english": "March",
+   "source": "lesson_08 p.167",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_shigatsu",
+   "japanese": "しがつ",
+   "romaji": "shigatsu",
+   "english": "April",
+   "source": "lesson_08 p.167",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_gogatsu",
+   "japanese": "ごがつ",
+   "romaji": "gogatsu",
+   "english": "May",
+   "source": "lesson_08 p.167",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_rokugatsu",
+   "japanese": "ろくがつ",
+   "romaji": "rokugatsu",
+   "english": "June",
+   "source": "lesson_08 p.167",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_shichigatsu",
+   "japanese": "しちがつ",
+   "romaji": "shichigatsu",
+   "english": "July",
+   "source": "lesson_08 p.167",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_hachigatsu",
+   "japanese": "はちがつ",
+   "romaji": "hachigatsu",
+   "english": "August",
+   "source": "lesson_08 p.167",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_kugatsu",
+   "japanese": "くがつ",
+   "romaji": "kugatsu",
+   "english": "September",
+   "source": "lesson_08 p.167",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_juugatsu",
+   "japanese": "じゅうがつ",
+   "romaji": "juugatsu",
+   "english": "October",
+   "source": "lesson_08 p.167",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_juuichigatsu",
+   "japanese": "じゅういちがつ",
+   "romaji": "juuichigatsu",
+   "english": "November",
+   "source": "lesson_08 p.167",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_juunigatsu",
+   "japanese": "じゅうにがつ",
+   "romaji": "juunigatsu",
+   "english": "December",
+   "source": "lesson_08 p.167",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_deshita",
+   "japanese": "でした",
+   "romaji": "deshita",
+   "english": "was, were (past tense of desu)",
+   "source": "lesson_08 p.168",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_doushiyou",
+   "japanese": "どうしよう",
+   "romaji": "dou shiyou",
+   "english": "What shall I do?",
+   "source": "lesson_08 p.180",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_hontou_desuka",
+   "japanese": "ほんとうですか",
+   "romaji": "hontou desu ka",
+   "english": "Really?",
+   "source": "lesson_08 p.180",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_warau",
+   "japanese": "わらう",
+   "romaji": "warau",
+   "english": "to laugh",
+   "source": "lesson_08 p.173",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_warui",
+   "japanese": "わるい",
+   "romaji": "warui",
+   "english": "bad",
+   "source": "lesson_08 p.173",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_mizuonomu",
+   "japanese": "みずをのむ",
+   "romaji": "mizu wo nomu",
+   "english": "to drink water",
+   "source": "lesson_08 p.173",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_honwokau",
+   "japanese": "ほんをかう",
+   "romaji": "hon wo kau",
+   "english": "to buy a book",
+   "source": "lesson_08 p.173",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_wasureru",
+   "japanese": "わすれる",
+   "romaji": "wasureru",
+   "english": "to forget",
+   "source": "lesson_08 p.174",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_konya",
+   "japanese": "こんや",
+   "romaji": "konya",
+   "english": "tonight, this evening",
+   "source": "lesson_08 p.174",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_kinzoku",
+   "japanese": "きんぞく",
+   "romaji": "kinzoku",
+   "english": "metal",
+   "source": "lesson_08 p.174",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_eigawomiru",
+   "japanese": "えいがをみる",
+   "romaji": "eiga wo miru",
+   "english": "to watch a movie",
+   "source": "lesson_08 p.174",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_sushiwotaberu",
+   "japanese": "すしをたべる",
+   "romaji": "sushi wo taberu",
+   "english": "to eat sushi",
+   "source": "lesson_08 p.174",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_wani",
+   "japanese": "わに",
+   "romaji": "wani",
+   "english": "alligator",
+   "source": "lesson_08 p.174",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_yane",
+   "japanese": "やね",
+   "romaji": "yane",
+   "english": "roof",
+   "source": "lesson_08 p.174",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_yuube",
+   "japanese": "ゆうべ",
+   "romaji": "yuube",
+   "english": "last night",
+   "source": "lesson_08 p.174",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_wakame",
+   "japanese": "わかめ",
+   "romaji": "wakame",
+   "english": "seaweed",
+   "source": "lesson_08 p.175",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_kantan",
+   "japanese": "かんたん",
+   "romaji": "kantan",
+   "english": "easy",
+   "source": "lesson_08 p.175",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_uwasa",
+   "japanese": "うわさ",
+   "romaji": "uwasa",
+   "english": "rumor",
+   "source": "lesson_08 p.175",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_yubiwa",
+   "japanese": "ゆびわ",
+   "romaji": "yubiwa",
+   "english": "ring",
+   "source": "lesson_08 p.175",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_taiyou",
+   "japanese": "たいよう",
+   "romaji": "taiyou",
+   "english": "the sun",
+   "source": "lesson_08 p.175",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_uwagi",
+   "japanese": "うわぎ",
+   "romaji": "uwagi",
+   "english": "jacket",
+   "source": "lesson_08 p.175",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_yukata",
+   "japanese": "ゆかた",
+   "romaji": "yukata",
+   "english": "light kimono",
+   "source": "lesson_08 p.175",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_yumiya",
+   "japanese": "ゆみや",
+   "romaji": "yumiya",
+   "english": "bow and arrow",
+   "source": "lesson_08 p.175",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_kawakasu",
+   "japanese": "かわかす",
+   "romaji": "kawakasu",
+   "english": "to dry",
+   "source": "lesson_08 p.175",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_jitensha",
+   "japanese": "じてんしゃ",
+   "romaji": "jitensha",
+   "english": "bicycle",
+   "source": "lesson_08 p.175",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_shinkansen",
+   "japanese": "しんかんせん",
+   "romaji": "shinkansen",
+   "english": "bullet train",
+   "source": "lesson_08 p.180",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_tamago",
+   "japanese": "たまご",
+   "romaji": "tamago",
+   "english": "egg",
+   "source": "lesson_08 p.182",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_gohan",
+   "japanese": "ごはん",
+   "romaji": "gohan",
+   "english": "boiled rice",
+   "source": "lesson_08 p.182",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_juusu",
+   "japanese": "ジュース",
+   "romaji": "juusu",
+   "english": "juice (loan word)",
+   "source": "lesson_08 p.182",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_pan",
+   "japanese": "パン",
+   "romaji": "pan",
+   "english": "bread (loan word)",
+   "source": "lesson_08 p.182",
+   "verified": true
+  },
+  {
+   "id": "lesson_08_v_keeki",
+   "japanese": "ケーキ",
+   "romaji": "keeki",
+   "english": "cake (loan word)",
+   "source": "lesson_08 p.182",
+   "verified": true
+  }
+ ],
+ "grammar": [
+  {
+   "id": "lesson_08_g_deshita",
+   "title": "Making sentences in the past tense with deshita",
+   "pattern": "[sentence] + deshita / [sentence] + deshita ka",
+   "explanation": "Deshita is the past tense of desu. It is used exactly like desu except that it makes the sentence past tense: desu means 'is, am, are', while deshita means 'was, were'. Add ka to ask a question about the past.",
+   "examples": [
+    {
+     "japanese": "きのうは ついたち でしたか。",
+     "romaji": "Kinou wa tsuitachi deshita ka.",
+     "english": "Was yesterday the 1st?"
+    },
+    {
+     "japanese": "わたし でしたか。あなた でした。",
+     "romaji": "Watashi deshita ka. Anata deshita.",
+     "english": "Was it me? It was you."
+    },
+    {
+     "japanese": "くるまは あか でしたか。あかの くるま でした。",
+     "romaji": "Kuruma wa aka deshita ka. Aka no kuruma deshita.",
+     "english": "Was the car red? It was a red car."
+    }
+   ],
+   "mistakes": [
+    "Using desu for something that already happened — switch to deshita"
+   ],
+   "source": "lesson_08 p.168"
+  },
+  {
+   "id": "lesson_08_g_dates",
+   "title": "Saying dates with month and day of the month",
+   "pattern": "MONTH + DAY OF MONTH",
+   "explanation": "When saying full dates — for example 'December 10th' or 'the 20th of January' — you must always say the month first and then the day of the month.",
+   "examples": [
+    {
+     "japanese": "いちがつ いつか",
+     "romaji": "ichigatsu itsuka",
+     "english": "January 5th"
+    },
+    {
+     "japanese": "ごがつ ここのか",
+     "romaji": "gogatsu kokonoka",
+     "english": "May 9th"
+    },
+    {
+     "japanese": "じゅうにがつ にじゅうににち",
+     "romaji": "juunigatsu nijuuninichi",
+     "english": "the 22nd of December"
+    }
+   ],
+   "mistakes": [
+    "Saying the day of the month before the month"
+   ],
+   "source": "lesson_08 p.168"
+  },
+  {
+   "id": "lesson_08_g_questionwords",
+   "title": "Three new question words: itsu, nannichi, nangatsu",
+   "pattern": "itsu = when? / nannichi = what day of the month? / nangatsu = what month?",
+   "explanation": "This lesson adds three question words, and the teachers warn that many people get them mixed up, so concentrate on them. Itsu asks 'when?' in general; nannichi asks for the day of the month; nangatsu asks for the month.",
+   "examples": [
+    {
+     "japanese": "いつですか。",
+     "romaji": "Itsu desu ka.",
+     "english": "When is it?"
+    },
+    {
+     "japanese": "なんにち ですか。",
+     "romaji": "Nannichi desu ka.",
+     "english": "What day of the month is it?"
+    },
+    {
+     "japanese": "なんがつ ですか。",
+     "romaji": "Nangatsu desu ka.",
+     "english": "What month is it?"
+    }
+   ],
+   "mistakes": [
+    "Using nannichi when you mean to ask 'when?' in general — that question word is itsu"
+   ],
+   "source": "lesson_08 p.164, 169"
+  },
+  {
+   "id": "lesson_08_g_daysofmonth",
+   "title": "Days of the month: the tricky ones",
+   "pattern": "1st tsuitachi ... 10th tooka; 14th juuyokka; 20th hatsuka; 24th nijuuyokka",
+   "explanation": "The first ten days of the month have no internal pattern, so just memorize them — they are important because they set the pattern for other areas of counting. The 14th, 20th and 24th are highlighted in the book because they do not follow the pattern you might expect. Also watch yokka (4th) vs youka (8th): the 'yo' in yokka is short, while youka has an u after it that doubles the length — remember that 8 is double 4.",
+   "examples": [
+    {
+     "japanese": "ついたち",
+     "romaji": "tsuitachi",
+     "english": "the 1st"
+    },
+    {
+     "japanese": "はつか",
+     "romaji": "hatsuka",
+     "english": "the 20th"
+    },
+    {
+     "japanese": "よっか / ようか",
+     "romaji": "yokka / youka",
+     "english": "the 4th (short yo) / the 8th (long yo)"
+    }
+   ],
+   "mistakes": [
+    "Saying juuyon-nichi for the 14th instead of juuyokka",
+    "Saying nijuu-nichi for the 20th instead of hatsuka",
+    "Mixing up yokka (4th) and youka (8th)"
+   ],
+   "source": "lesson_08 p.166-167"
+  },
+  {
+   "id": "lesson_08_g_wo",
+   "title": "Special usage: the particle wo (を)",
+   "pattern": "[object] + wo + [verb]",
+   "explanation": "The hiragana wo is only used as a particle (the object marker). It is never used for any other purpose. Even though 'wo' is normally pronounced 'o', the hiragana o can never replace wo as a particle.",
+   "examples": [
+    {
+     "japanese": "てがみを かきます。",
+     "romaji": "Tegami wo kakimasu.",
+     "english": "I will write a letter."
+    },
+    {
+     "japanese": "えんぴつを ください。",
+     "romaji": "Enpitsu wo kudasai.",
+     "english": "Give me a pencil please."
+    }
+   ],
+   "mistakes": [
+    "Writing o (お) instead of wo (を) as the object particle"
+   ],
+   "source": "lesson_08 p.174"
+  },
+  {
+   "id": "lesson_08_g_hiragana",
+   "title": "Hiragana や ゆ よ わ を ん",
+   "pattern": "ya = や, yu = ゆ, yo = よ, wa = わ, wo (o) = を, n = ん",
+   "explanation": "This lesson completes the basic hiragana chart with ya, yu, yo, wa, wo and n. Learn the correct stroke order, then compare your writing with the various styles shown in the book. Remember that を works only as the particle.",
+   "examples": [
+    {
+     "japanese": "やね",
+     "romaji": "yane",
+     "english": "roof"
+    },
+    {
+     "japanese": "ゆびわ",
+     "romaji": "yubiwa",
+     "english": "ring"
+    }
+   ],
+   "mistakes": [
+    "Using お in place of the particle を"
+   ],
+   "source": "lesson_08 p.172"
+  },
+  {
+   "id": "lesson_08_g_holidays",
+   "title": "Culture Clip: Christmas and other holidays in Japan",
+   "pattern": "Constitution Day May 3 / Children's Day May 5 / Culture Day Nov 3 / Sports Day 2nd Monday of October",
+   "explanation": "The Japanese celebrate Christmas every year, just as many westerners do. In Japan it is a custom to eat a 'Christmas cake' on Christmas Eve with the entire family, and on Christmas day they eat chicken. Golden Week, a period of consecutive holidays, happens in the first week of May; many people return to their home towns to celebrate with family.",
+   "examples": [
+    {
+     "japanese": "クリスマス",
+     "romaji": "kurisumasu",
+     "english": "Christmas"
+    },
+    {
+     "japanese": "ゴールデンウィーク",
+     "romaji": "gouruden wiiku",
+     "english": "Golden Week (first week of May)"
+    }
+   ],
+   "mistakes": [],
+   "source": "lesson_08 p.165"
+  }
+ ],
+ "exercises": [
+  {
+   "id": "lesson_08_e1",
+   "type": "match",
+   "prompt": "Match the three new question words with their meanings:",
+   "pairs": [
+    {
+     "left": "itsu",
+     "right": "when?"
+    },
+    {
+     "left": "nannichi",
+     "right": "what day of the month?"
+    },
+    {
+     "left": "nangatsu",
+     "right": "what month?"
+    }
+   ],
+   "explanation": "The teachers warn these three get mixed up — learn to tell them apart.",
+   "source": "lesson_08 p.164-165",
+   "verified": true,
+   "skill": "vocab"
+  },
+  {
+   "id": "lesson_08_e2",
+   "type": "multiple_choice",
+   "prompt": "'Itsu desu ka' means...",
+   "choices": [
+    "What day of the month is it?",
+    "When is it?",
+    "What month is it?",
+    "Where is it?"
+   ],
+   "answerIndex": 1,
+   "explanation": "Itsu = when; Itsu desu ka = When is it?",
+   "source": "lesson_08 p.169",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_itsu"
+  },
+  {
+   "id": "lesson_08_e3",
+   "type": "fill_blank",
+   "prompt": "When is it? ___ desu ka.",
+   "accepted": [
+    "itsu"
+   ],
+   "explanation": "Itsu desu ka = When is it?",
+   "source": "lesson_08 p.169",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_itsu"
+  },
+  {
+   "id": "lesson_08_e4",
+   "type": "multiple_choice",
+   "prompt": "Deshita is the past tense of...",
+   "choices": [
+    "masu",
+    "desu",
+    "dewa",
+    "ka"
+   ],
+   "answerIndex": 1,
+   "explanation": "Deshita is used exactly like desu except it makes the sentence past tense.",
+   "source": "lesson_08 p.168",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_08_v_deshita"
+  },
+  {
+   "id": "lesson_08_e5",
+   "type": "fill_blank",
+   "prompt": "Was it me? Watashi ___ ka.",
+   "accepted": [
+    "deshita"
+   ],
+   "explanation": "From the book's Q&A: Watashi deshita ka. (Anata deshita. — It was you.)",
+   "source": "lesson_08 p.168",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_08_v_deshita"
+  },
+  {
+   "id": "lesson_08_e6",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "くるまは あか でしたか",
+   "choices": [
+    "Was the car red?",
+    "Is the car red?",
+    "Was the car blue?",
+    "Is the car new?"
+   ],
+   "answerIndex": 0,
+   "explanation": "Kuruma wa aka deshita ka = Was the car red?",
+   "source": "lesson_08 p.168",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_deshita"
+  },
+  {
+   "id": "lesson_08_e7",
+   "type": "word_order",
+   "prompt": "Put in order: 'Yesterday was the 14th.'",
+   "tokens": [
+    "きのう",
+    "は",
+    "じゅうよっか",
+    "でした"
+   ],
+   "explanation": "Kinou wa juuyokka deshita — from the E→J Q&A.",
+   "source": "lesson_08 p.170",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_juuyokka"
+  },
+  {
+   "id": "lesson_08_e8",
+   "type": "word_order",
+   "prompt": "Put in order: 'When is (your) birthday?'",
+   "tokens": [
+    "たんじょうび",
+    "は",
+    "いつ",
+    "です",
+    "か"
+   ],
+   "explanation": "Tanjoubi wa itsu desu ka.",
+   "source": "lesson_08 p.169",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_tanjoubi"
+  },
+  {
+   "id": "lesson_08_e9",
+   "type": "match",
+   "prompt": "Match the first five days of the month:",
+   "pairs": [
+    {
+     "left": "tsuitachi",
+     "right": "1st"
+    },
+    {
+     "left": "futsuka",
+     "right": "2nd"
+    },
+    {
+     "left": "mikka",
+     "right": "3rd"
+    },
+    {
+     "left": "yokka",
+     "right": "4th"
+    },
+    {
+     "left": "itsuka",
+     "right": "5th"
+    }
+   ],
+   "explanation": "The first ten days have no pattern — just memorize them.",
+   "source": "lesson_08 p.166",
+   "verified": true,
+   "skill": "vocab"
+  },
+  {
+   "id": "lesson_08_e10",
+   "type": "multiple_choice",
+   "prompt": "Which is the 20th of the month?",
+   "choices": [
+    "nijuu-nichi",
+    "hatsuka",
+    "juunichi",
+    "nijuu-yon-nichi"
+   ],
+   "answerIndex": 1,
+   "explanation": "The 20th is the irregular hatsuka — one of the three highlighted exceptions.",
+   "source": "lesson_08 p.166-167",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_08_v_hatsuka"
+  },
+  {
+   "id": "lesson_08_e11",
+   "type": "multiple_choice",
+   "prompt": "Which day of the month has the longer 'yo' sound?",
+   "choices": [
+    "yokka — the 4th",
+    "youka — the 8th",
+    "both are the same length",
+    "neither has a 'yo' sound"
+   ],
+   "answerIndex": 1,
+   "explanation": "The 'yo' in yokka is short; youka has an u that doubles the length. Remember: 8 is double 4.",
+   "source": "lesson_08 p.167",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_08_v_youka"
+  },
+  {
+   "id": "lesson_08_e12",
+   "type": "fill_blank",
+   "prompt": "The 14th of the month is juu___ (roomaji).",
+   "accepted": [
+    "yokka"
+   ],
+   "explanation": "The 14th does not follow the pattern: it is juuyokka, not juuyon-nichi.",
+   "source": "lesson_08 p.166",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_08_v_juuyokka"
+  },
+  {
+   "id": "lesson_08_e13",
+   "type": "match",
+   "prompt": "Match the months (watch the look-alikes!):",
+   "pairs": [
+    {
+     "left": "ichigatsu",
+     "right": "January"
+    },
+    {
+     "left": "shigatsu",
+     "right": "April"
+    },
+    {
+     "left": "shichigatsu",
+     "right": "July"
+    },
+    {
+     "left": "kugatsu",
+     "right": "September"
+    },
+    {
+     "left": "juugatsu",
+     "right": "October"
+    }
+   ],
+   "explanation": "April (shigatsu) and July (shichigatsu) are easy to mix up.",
+   "source": "lesson_08 p.167",
+   "verified": true,
+   "skill": "vocab"
+  },
+  {
+   "id": "lesson_08_e14",
+   "type": "multiple_choice",
+   "prompt": "Which is April?",
+   "choices": [
+    "shichigatsu",
+    "shigatsu",
+    "sangatsu",
+    "kugatsu"
+   ],
+   "answerIndex": 1,
+   "explanation": "April = shigatsu; shichigatsu is July.",
+   "source": "lesson_08 p.167",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_08_v_shigatsu"
+  },
+  {
+   "id": "lesson_08_e15",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "ごがつ ここのか です",
+   "choices": [
+    "It's May 9th.",
+    "It's May 5th.",
+    "It's September 5th.",
+    "It's April 9th."
+   ],
+   "answerIndex": 0,
+   "explanation": "Gogatsu kokonoka desu = It's May 9th (month first, then day).",
+   "source": "lesson_08 p.168",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_gogatsu"
+  },
+  {
+   "id": "lesson_08_e16",
+   "type": "fill_blank",
+   "prompt": "May 9th: gogatsu ___ desu.",
+   "accepted": [
+    "kokonoka"
+   ],
+   "explanation": "From the book's date examples: gogatsu kokonoka = May 9th.",
+   "source": "lesson_08 p.168",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_kokonoka"
+  },
+  {
+   "id": "lesson_08_e17",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "こどものひ は ごがつ いつか です",
+   "choices": [
+    "Children's Day is May 5th.",
+    "Children's Day is May 3rd.",
+    "Culture Day is November 3rd.",
+    "Children's Day is July 4th."
+   ],
+   "answerIndex": 0,
+   "explanation": "From the E→J Q&A: kodomo no hi wa gogatsu itsuka desu.",
+   "source": "lesson_08 p.169",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_kodomono_hi"
+  },
+  {
+   "id": "lesson_08_e18",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "ぶんかのひ は いつですか",
+   "choices": [
+    "When is Culture Day?",
+    "When is Children's Day?",
+    "What is Culture Day?",
+    "When is Sports Day?"
+   ],
+   "answerIndex": 0,
+   "explanation": "Bunka no hi wa itsu desu ka = When is Culture Day? (Answer in the book: juuichigatsu mikka — November 3rd.)",
+   "source": "lesson_08 p.170",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_bunkano_hi"
+  },
+  {
+   "id": "lesson_08_e19",
+   "type": "multiple_choice",
+   "prompt": "Someone asks 'Gouruden wiiku wa shichigatsu desu ka?' (Is Golden Week in July?). What does the book answer?",
+   "choices": [
+    "Iie, gogatsu desu. (No, it's in May.)",
+    "Hai, shichigatsu desu.",
+    "Iie, kugatsu desu. (No, it's in September.)",
+    "Iie, ichigatsu desu. (No, it's in January.)"
+   ],
+   "answerIndex": 0,
+   "explanation": "From the Q&A: iie, gogatsu desu — Golden Week is in the first week of May.",
+   "source": "lesson_08 p.171",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_gouruden_wiiku"
+  },
+  {
+   "id": "lesson_08_e20",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "きのうは なんにち でしたか",
+   "choices": [
+    "What day of the month was yesterday?",
+    "What day of the month is tomorrow?",
+    "What month was it?",
+    "When is your birthday?"
+   ],
+   "answerIndex": 0,
+   "explanation": "Kinou wa nannichi deshita ka = What day of the month was yesterday? (Kinou wa juuyokka deshita.)",
+   "source": "lesson_08 p.170",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_kinou"
+  },
+  {
+   "id": "lesson_08_e21",
+   "type": "multiple_choice",
+   "prompt": "Your father's birthday is NOT May 10th, it is March 11th. What do you say?",
+   "choices": [
+    "Hai, sou desu.",
+    "Iie, sangatsu juuichinichi desu.",
+    "Iie, gogatsu tooka desu.",
+    "Hai, chigaimasu."
+   ],
+   "answerIndex": 1,
+   "explanation": "From the Q&A: iie, sangatsu juuichinichi desu — month first, then day.",
+   "source": "lesson_08 p.170",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_sangatsu"
+  },
+  {
+   "id": "lesson_08_e22",
+   "type": "match",
+   "prompt": "Match the celebration phrases:",
+   "pairs": [
+    {
+     "left": "Tanjoubi omedetou.",
+     "right": "Happy Birthday."
+    },
+    {
+     "left": "Akemashite omedetou.",
+     "right": "Happy New Year."
+    },
+    {
+     "left": "Omedetou.",
+     "right": "Congratulations."
+    },
+    {
+     "left": "Hontou desu ka.",
+     "right": "Really?"
+    }
+   ],
+   "explanation": "New phrases. You can add gozaimasu after omedetou to sound more polite, but with friends and family it is not required.",
+   "source": "lesson_08 p.164, 180",
+   "verified": true,
+   "skill": "phrases"
+  },
+  {
+   "id": "lesson_08_e23",
+   "type": "multiple_choice",
+   "prompt": "You just realized you forgot your girlfriend's birthday (like Mr. Honda). You exclaim:",
+   "choices": [
+    "Hontou desu ka.",
+    "Omedetou.",
+    "Dou shiyou...",
+    "Itsu desu ka."
+   ],
+   "answerIndex": 2,
+   "explanation": "From the short dialogue: Dou shiyou... = What shall I do?",
+   "source": "lesson_08 p.179",
+   "verified": true,
+   "skill": "phrases",
+   "vocabId": "lesson_08_v_doushiyou"
+  },
+  {
+   "id": "lesson_08_e24",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "てがみを かきます",
+   "choices": [
+    "I will write a letter.",
+    "Give me a pencil please.",
+    "I will read a book.",
+    "I will drink water."
+   ],
+   "answerIndex": 0,
+   "explanation": "Tegami wo kakimasu — wo marks the object (the letter) of the verb.",
+   "source": "lesson_08 p.174",
+   "verified": true,
+   "skill": "sentences"
+  },
+  {
+   "id": "lesson_08_e25",
+   "type": "fill_blank",
+   "prompt": "I will write a letter: tegami ___ kakimasu. (write the particle in hiragana)",
+   "accepted": [
+    "を"
+   ],
+   "explanation": "Wo (を) is the object marker: tegami wo kakimasu.",
+   "source": "lesson_08 p.174",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_08_e26",
+   "type": "multiple_choice",
+   "prompt": "Which hiragana is ONLY used as a particle (object marker)?",
+   "choices": [
+    "お",
+    "わ",
+    "を",
+    "ん"
+   ],
+   "answerIndex": 2,
+   "explanation": "The hiragana wo is only used as a particle; even though it is pronounced 'o', お can never replace を as a particle.",
+   "source": "lesson_08 p.174",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_08_e27",
+   "type": "match",
+   "prompt": "Match the new hiragana with their romaji:",
+   "pairs": [
+    {
+     "left": "や",
+     "right": "ya"
+    },
+    {
+     "left": "ゆ",
+     "right": "yu"
+    },
+    {
+     "left": "よ",
+     "right": "yo"
+    },
+    {
+     "left": "わ",
+     "right": "wa"
+    },
+    {
+     "left": "ん",
+     "right": "n"
+    }
+   ],
+   "explanation": "The six new hiragana of Lesson 8 (を = wo (o) is practiced separately).",
+   "source": "lesson_08 p.172-173",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_08_e28",
+   "type": "multiple_choice",
+   "prompt": "Which hiragana makes the 'n' sound by itself?",
+   "choices": [
+    "わ",
+    "ん",
+    "を",
+    "ゆ"
+   ],
+   "answerIndex": 1,
+   "explanation": "ん is the kana for 'n' — from the hiragana chart: YA や, YU ゆ, YO よ, WA わ, WO を, N ん.",
+   "source": "lesson_08 p.172",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_08_e29",
+   "type": "multiple_choice",
+   "prompt": "Mr. Honda asks 'Kyou wa nannichi desu ka?' Mr. Hino answers that today is the 9th:",
+   "choices": [
+    "Kokonoka desu.",
+    "Nanoka desu.",
+    "Youka desu.",
+    "Tooka desu."
+   ],
+   "answerIndex": 0,
+   "explanation": "From the short dialogue: kokonoka desu — it's the 9th.",
+   "source": "lesson_08 p.179",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_kokonoka"
+  },
+  {
+   "id": "lesson_08_e30",
+   "type": "translation",
+   "direction": "en_to_ja",
+   "prompt": "It's July. (roomaji)",
+   "accepted": [
+    "shichigatsu desu",
+    "shichigatsu desu."
+   ],
+   "explanation": "Month + desu: shichigatsu desu = It's July.",
+   "source": "lesson_08 p.169",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_shichigatsu"
+  },
+  {
+   "id": "lesson_08_e31",
+   "type": "multiple_choice",
+   "prompt": "On Christmas day, people in Japan eat...",
+   "choices": [
+    "Christmas cake",
+    "chicken",
+    "sushi",
+    "soba"
+   ],
+   "answerIndex": 1,
+   "explanation": "Culture Clip: Christmas cake is eaten on Christmas EVE with the family; on Christmas day they eat chicken.",
+   "source": "lesson_08 p.165",
+   "verified": true,
+   "skill": "culture",
+   "vocabId": "lesson_08_v_kurisumasu"
+  },
+  {
+   "id": "lesson_08_e32",
+   "type": "multiple_choice",
+   "prompt": "Which holiday is on November 3rd?",
+   "choices": [
+    "Children's Day",
+    "Constitution Day",
+    "Culture Day",
+    "Sports Day"
+   ],
+   "answerIndex": 2,
+   "explanation": "Culture Day (bunka no hi) is November 3rd; Children's Day May 5th, Constitution Day May 3rd, Sports Day the 2nd Monday of October.",
+   "source": "lesson_08 p.165",
+   "verified": true,
+   "skill": "culture",
+   "vocabId": "lesson_08_v_bunkano_hi"
+  },
+  {
+   "id": "lesson_08_e33",
+   "type": "fill_blank",
+   "prompt": "Today is the 5th: kyou wa ___ desu.",
+   "accepted": [
+    "itsuka"
+   ],
+   "explanation": "Itsuka = the 5th of the month.",
+   "source": "lesson_08 p.166",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_itsuka"
+  },
+  {
+   "id": "lesson_08_e34",
+   "type": "match",
+   "prompt": "Match words you can now write with the new hiragana:",
+   "pairs": [
+    {
+     "left": "わに",
+     "right": "alligator"
+    },
+    {
+     "left": "やね",
+     "right": "roof"
+    },
+    {
+     "left": "ゆうべ",
+     "right": "last night"
+    },
+    {
+     "left": "わかめ",
+     "right": "seaweed"
+    },
+    {
+     "left": "ゆびわ",
+     "right": "ring"
+    }
+   ],
+   "explanation": "From the Words You Can Write list.",
+   "source": "lesson_08 p.174-175",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_08_e35",
+   "type": "multiple_choice",
+   "prompt": "From Yukiko's reading: her friend's present was...",
+   "choices": [
+    "a red hashi (chopsticks)",
+    "a Japanese book",
+    "a ring",
+    "a bicycle"
+   ],
+   "answerIndex": 0,
+   "explanation": "Tomodachi no purezento wa akai hashi deshita — the friend's present was red chopsticks.",
+   "source": "lesson_08 p.171",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_purezento"
+  },
+  {
+   "id": "lesson_08_e36",
+   "type": "multiple_choice",
+   "prompt": "In the dialogue, Ms. Imai says her birthday is tomorrow and she is 38. How does she say 38 years old?",
+   "choices": [
+    "sanjuu hassai",
+    "sanjuu hachi sai",
+    "sanjuu-nana sai",
+    "nijuu hassai"
+   ],
+   "answerIndex": 0,
+   "explanation": "From the translation activity: sanjuu hassai desu — 38 years old.",
+   "source": "lesson_08 p.178",
+   "verified": true,
+   "skill": "sentences"
+  }
+ ],
+ "quiz": [
+  {
+   "id": "lesson_08_q1",
+   "type": "multiple_choice",
+   "prompt": "'きのうは じゅうよっか でした' means...",
+   "choices": [
+    "Yesterday was the 14th.",
+    "Today is the 14th.",
+    "Tomorrow is the 24th.",
+    "Yesterday was the 4th."
+   ],
+   "answerIndex": 0,
+   "explanation": "Kinou wa juuyokka deshita — deshita makes it past, juuyokka is the 14th.",
+   "source": "lesson_08 p.170",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_juuyokka"
+  },
+  {
+   "id": "lesson_08_q2",
+   "type": "fill_blank",
+   "prompt": "What month is it? ___ gatsu desu ka.",
+   "accepted": [
+    "nan"
+   ],
+   "explanation": "Nangatsu desu ka = What month is it?",
+   "source": "lesson_08 p.169",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_nangatsu"
+  },
+  {
+   "id": "lesson_08_q3",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "あしたは はつかですか",
+   "choices": [
+    "Is tomorrow the 20th?",
+    "Is today the 20th?",
+    "Is tomorrow the 14th?",
+    "Was yesterday the 20th?"
+   ],
+   "answerIndex": 0,
+   "explanation": "From the drill: ashita wa hatsuka desu ka — hatsuka = the 20th.",
+   "source": "lesson_08 p.180",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_08_v_hatsuka"
+  },
+  {
+   "id": "lesson_08_q4",
+   "type": "multiple_choice",
+   "prompt": "Full dates are said...",
+   "choices": [
+    "day of the month first, then month",
+    "month first, then day of the month",
+    "year first, then month",
+    "either order is fine"
+   ],
+   "answerIndex": 1,
+   "explanation": "You must always say the month first and then the day of the month.",
+   "source": "lesson_08 p.168",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_08_q5",
+   "type": "match",
+   "prompt": "Match hiragana to romaji:",
+   "pairs": [
+    {
+     "left": "を",
+     "right": "wo (o)"
+    },
+    {
+     "left": "や",
+     "right": "ya"
+    },
+    {
+     "left": "ゆ",
+     "right": "yu"
+    }
+   ],
+   "explanation": "Three of the new hiragana — を is the particle-only kana.",
+   "source": "lesson_08 p.172",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_08_q6",
+   "type": "multiple_choice",
+   "prompt": "Which sentence asks about the PAST correctly?",
+   "choices": [
+    "Kinou wa tsuitachi desu ka.",
+    "Kinou wa tsuitachi deshita ka.",
+    "Ashita wa tsuitachi deshita ka.",
+    "Kinou wa nangatsu desu ka."
+   ],
+   "answerIndex": 1,
+   "explanation": "Deshita ka asks about the past: Was yesterday the 1st? (Ashita = tomorrow, so deshita would not fit there.)",
+   "source": "lesson_08 p.168",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_08_v_deshita"
+  }
+ ],
+ "summary": "Three new question words: itsu (when?), nannichi (what day of the month?) and nangatsu (what month?). Months are number + gatsu; the first ten days of the month just have to be memorized, with hatsuka (20th), juuyokka (14th) and nijuuyokka (24th) as irregular exceptions — and 8 is double 4, so youka (8th) has the longer 'yo' than yokka (4th). Full dates go month first, then day (juunigatsu nijuuninichi). Deshita is the past tense of desu: kinou wa tsuitachi deshita. The particle wo (を) marks the object and is never replaced by o. New hiragana: や ゆ よ わ を ん."
+}

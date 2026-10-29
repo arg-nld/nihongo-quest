@@ -1,0 +1,37 @@
+JapaneseFromZero.com 254
+
+17 minutes じゅうななふん 十七分
+18 minutes じゅうはっぷん / じゅうはちふん 十八分
+19 minutes じゅうきゅうふん 十九分
+20 minutes にじゅっぷん / にじっぷん 二十分
+25 minutes にじゅうごふん 二十五分
+30 minutes さんじゅっぷん / さんじっぷん 三十分
+35 minutes さんじゅうごふん 三十五分
+40 minutes よんじゅっぷん / よんじっぷん 四十分
+45 minutes よんじゅうごふん 四十五分
+50 minutes ごじゅっぷん / ごじっぷん 五十分
+55 minutes ごじゅうごふん 五十五分
+60 minutes ろくじゅっぷん / ろくじっぷん 六十分
+しちじ
+よんぷん
+じゅうじ
+はっぷん
+くじ
+じゅういっぷん
+よじ
+よんじゅっぷん
+しちじ
+にじゅうごふん
+
+13 Grammar ぶんぽう
+
+AM and PM
+ごぜん means both morning and AM ごご means both afternoon and PM. They are always
+placed in front of the time.
+
+Examples
+1. ごぜん ごじ 5:00 AM
+2. ごぜん じゅうにじ じゅっぷん 12:10 AM
+3. ごご ろくじ 6:00 PM
+4. ごご しちじ いっぷん 7:01 PM
+5. ごご いちじ よんじゅうごふん 1:45 PM

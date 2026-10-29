@@ -1,0 +1,24 @@
+{
+  "pdf_page": 65,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img404__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0064",
+    "page_0065",
+    "page_0066",
+    "page_0067"
+  ],
+  "batch_size": 4,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 662,
+  "lines": 25,
+  "usage": {
+    "input_tokens": 4751,
+    "output_tokens": 834,
+    "total_tokens": 5585
+  },
+  "raw_batch_response": "===PAGE page_0064===\nJapaneseFromZero.com 64\n\nq Question and answer 3\nFill in the question being asked by the girl (Q:) and the answer given by the woman (A:) in\nthe following pictures. (Write your answers in Japanese)\n\n1.\nQ: _____________________________________________\n\nA: _____________________________________________\n\n2.\nQ: _____________________________________________\n\nA: _____________________________________________\n\n3.\nQ: _____________________________________________\n\nA: _____________________________________________\n\n4.\nQ: _____________________________________________\n\nA: _____________________________________________\n\n===PAGE page_0065===\nJapanese From Zero! - Lesson 2 - Lesson Activities 65\n\nq Japanese translation\nTranslate the following conversation into English.\n\n1.\nSatoこ san: Sore wa hon desuか.\nShoうta san: は い, zasshi desu.\nSatoこ san: Moういchidoいtte<dasaい. Nan desuか.\nShoうta san: こre wa zasshi desu.\nSatoこ san: \n\nShoうta san: \n\nSatoこ san: \n\nShoうta san: \n\nq English translation\nTranslate the following conversation into Japanese.\n\n1.\nJapanese person: Can you speak Japanese?\nAmerican person: A little.\nJapanese person: What is that over there?\nAmerican person: That is a car.\nJapanese person: Thank you.\nJapanese person: \n\nAmerican person: \n\nJapanese person: \n\nAmerican person: \n\nJapanese person: \n\n===PAGE page_0066===\nJapaneseFromZero.com 66\n\n2 Drill ドリル\n\nTranslate the following sentences. If you're not sure what they mean, we recommend that\nyou review the lesson up to this point before continuing.\n\n1. Retasu wa nan desuか.\n2. Hon wa socchi desu.\n3. Tadaいma.\n4. Rinご wa furu-tsu desu.\n5. こre wa yasaい desuか.\n6. Nihonご o benkyoう shiteimasu.\n7. あre wa かがmi desu.\n8. くruma wa dore desuか.\n9. Yasaい desu.\n10. Nihonごが hanasemasuか.\n\n2 Sentence Building ぶんのつくり\n\nIn each lesson we build on a previous sentence. Watch it grow and transform each time\nnew concepts are introduced.\n\nThe sentence from the previous lesson was: Nan desuか. (What is it?). In this lesson we\nlearned how to attach a topic to the question. Let's look at the new sentence:\n\nこre wa nan desuか.\nWhat is this?\n\n===PAGE page_0067===\nJapaneseFromZero.com - Vocabulary Groups C, D 67\n\nVocabulary Groups\n\nC family\n\nProgressive\nおかあsan\nおtoうsan\nおjiいsan\nおbaあsan\nあかchan\n\nKana\nおかあさん\nおとうさん\nおじいさん\nおばあさん\n赤ちゃん\n\nKanji\nお母さん\nお父さん\nおじいさん\nおばあさん\n赤ちゃん\n\nEnglish\nmother\nfather\ngrandfather\ngrandmother\nbaby\n\nD greetings and farewells\n\nProgressive\nありがtoう\nおhayoうごzaいmasu\nおyasuminasaい\nこnnichiwa\nsayoうnara\n\nKana\nありがとう\nおはよう ござい ます\nおやすみなさい\nこんにちは\nさようなら\n\nKanji\nありがとう\nお早う ござい ます\nお休み なさい\n今日 は\nさようなら\n\nEnglish\nthank you, thanks\ngood morning\ngood night\ngood afternoon\ngood bye, farewell\n\nおとうさん\n\nおはよう ござい ます\n\nおかあさん",
+  "extracted_text": "Japanese From Zero! - Lesson 2 - Lesson Activities 65\n\nq Japanese translation\nTranslate the following conversation into English.\n\n1.\nSatoこ san: Sore wa hon desuか.\nShoうta san: は い, zasshi desu.\nSatoこ san: Moういchidoいtte<dasaい. Nan desuか.\nShoうta san: こre wa zasshi desu.\nSatoこ san: \n\nShoうta san: \n\nSatoこ san: \n\nShoうta san: \n\nq English translation\nTranslate the following conversation into Japanese.\n\n1.\nJapanese person: Can you speak Japanese?\nAmerican person: A little.\nJapanese person: What is that over there?\nAmerican person: That is a car.\nJapanese person: Thank you.\nJapanese person: \n\nAmerican person: \n\nJapanese person: \n\nAmerican person: \n\nJapanese person:"
+}

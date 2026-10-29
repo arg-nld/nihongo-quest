@@ -1,0 +1,25 @@
+{
+  "pdf_page": 122,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img753__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0118",
+    "page_0119",
+    "page_0120",
+    "page_0121",
+    "page_0122"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 286,
+  "lines": 8,
+  "usage": {
+    "input_tokens": 5838,
+    "output_tokens": 804,
+    "total_tokens": 6642
+  },
+  "raw_batch_response": "===PAGE page_0118===\nJapaneseFromZero.com 118\n\nな Hiragana Matching ひらがな マッチング\n\nConnect the dots between each hiragana and the correct ro-maji.\n\nな •\nの •\nか •\nす •\nぬ •\nね •\nに •\nた •\n\n• no\n• ni\n• ta\n• na\n• ka\n• nu\n• ne\n• su\n\n===PAGE page_0119===\nJapanese From Zero! – Lesson 5 – Lesson Activities 119\n\n5 Lesson Activities\n\n□ Question and answer 1\nAnswer the following questions by looking at the pictures. Use ~ja ない です when\nanswering the following questions:\n\n1a. これ wa さかな ですか？\n\n1b. Ja あ (“Well then”), な n ですか？\n\n\n2a. これ wa hon ですか？\n\n2b. Ja あ、な n ですか？\n\n\n3a. これ wa (お) chawan と\nsupu-n ですか？\n\n3b. Ja あ、な n ですか？\n\n\n4a. これ wa くつ ですか？\n\n4b. Ja あ、な n ですか？\n\n\n===PAGE page_0120===\nJapaneseFromZero.com 120\n\n□ Question and answer 2\nPick one of the pictures and say, [item] が すき です or [item] が き ra い です.\n\nど re が すき ですか / き ra い ですか？\n\nきい ro い とけい\n\nく ro い とけい\n\nmi ど ri の とけい\n\nど re が すき ですか / き ra い ですか？\n\nしごと\n\nshu くだい\n\nかい mo の\n\n□ Question and answer 3\nAnswer the following questions as though they were being asked to you directly. Use the\nhiragana that you know when writing your answer.\n\n1. Ryo こう が すき ですか。\n\n2. ねこ が き ra い ですか。\n\n===PAGE page_0121===\nJapanese From Zero! - Lesson 5 - Lesson Activities 121\n\n3. ya さい が すき ですか。\n\n4. に hon ご が すき ですか。\n\n5. (お) すし wa おいしい ですか。\n\n□ Japanese translation\nTranslate the following example into English.\n\n1. Yo しおさ n wa く ruma が だいすき です。\n2. Yo しおさ n の く ruma wa あか と し ro です。\n3. か re の し ro い く ruma wa hon だ です。\n4. あか の wa Toyota です。\n5. Yo しおさ n の おとうさ n wa く ruma が だいすき です。\n6. おとうさ n の く ruma wa き n い ro の く ruma と きい ro い く ruma です。\n7. おかあさ n wa きい ro い く ruma が すき ja ない です。\n\n1. \n\n2. \n\n3. \n\n4. \n\n5. \n\n6. \n\n7. \n\n===PAGE page_0122===\nJapaneseFromZero.com 122\n\n□ Reading comprehension questions\nAnswer the following questions about the reading comprehension in this lesson.\n\n1. さとこさ n の か re wa、だ re ですか。\n\n2. Yo しおさ n wa しごと が き ra い ですか。\n\n3. さとこさ n wa な n さい ですか。\n\n4. だ re が かい mo の が すき ですか。\n\n5. だ re が、ryo こう が すき ですか。",
+  "extracted_text": "JapaneseFromZero.com 122\n\n□ Reading comprehension questions\nAnswer the following questions about the reading comprehension in this lesson.\n\n1. さとこさ n の か re wa、だ re ですか。\n\n2. Yo しおさ n wa しごと が き ra い ですか。\n\n3. さとこさ n wa な n さい ですか。\n\n4. だ re が かい mo の が すき ですか。\n\n5. だ re が、ryo こう が すき ですか。"
+}

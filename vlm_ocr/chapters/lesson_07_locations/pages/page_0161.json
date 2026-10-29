@@ -1,0 +1,23 @@
+{
+  "pdf_page": 161,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img992__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0161",
+    "page_0162",
+    "page_0163"
+  ],
+  "batch_size": 3,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 642,
+  "lines": 36,
+  "usage": {
+    "input_tokens": 3664,
+    "output_tokens": 855,
+    "total_tokens": 4519
+  },
+  "raw_batch_response": "===PAGE page_0161===\nJapanese From Zero! – Lesson 7 – Lesson Activities 161\n\n❐ Short dialogue 2\nMr. Tanaka is taking Mike to a sushi bar.\n\nたなかさ n: Maikuさn は (お)すしが すきですか。\nMaiku: はい、だいすきです。\nたなかさ n: なにが すきですか。\nMaiku: まぐro と えびが すきです。\nたなかさ n: そうですか。Wa たしは、ひ ra めと いかが すきです。\nにほ n の お cha が、すきですか。\nMaiku: いいえ。にほ n の お cha が すき ja ないです。\nでも、ko-ra は すきです。\n\nNew words and expressions in the dialogue\n\nProgressive\nまぐro\nえび\nひ ra め\nいか\n\nKana\nまぐろ\nえび\nひらめ\nいか\n\nKanji\n鮪\n海老\n平目\nイカ\n\nEnglish\ntuna\nshrimp\nhalibut\nsquid\n\n❐ Short dialogue 2 activities\n1. Practice reading the dialogue in pairs.\n2. Talk about your most/least favorite sushi.\n3. Talk about your most/least favorite beverage.\n\n===PAGE page_0162===\nJapaneseFromZero.com 162\n\n❐ More words you can write\nYou should practice writing these words a minimum of five times each. Not only will you be\npracticing the new characters, but you will also learn new words.\n\nもしもし\nみみ\nめだつ\nひま\nもくじ\nまね\n\nhello (on the phone)\near\nto stand out\nfree time\ncontents\nimitation\n\nしも\nめ\nむね\nむずかしい\nななめ\n\nfrost\neye\nchest\ndifficult\ndiagonal\n\n7 Drill ドリル\n\nTranslate the following sentences. If you don't know what they mean, then we recommend that\nyou review the lesson up to this point before continuing.\n\n1. あなたの いえは どこですか。\n2. Wa たしは で nsha が すきです。でも、ひこうきは だいき ra いです。\n\n7 Sentence Building ぶんのつくり\n\nIn each lesson we build on a previous sentence. Watch it grow and transform each time new\nconcepts are introduced.\n\nあなたのおかあさ n のく ru まは どこですか。\nWhere is your mother's car?\n\nCompare how the sentence has changed from the prior lessons:\n\nLesson 4: あなたのおかあさ n のく ru まはし ro いですか。\nIs your mother's car white?\n\nLesson 5: あなたのおかあさ n は なにい ro のく ru まが すきですか。\nWhat color car does your mother like?\n\nLesson 6: あなたのおかあさ n は なにい ro のく ru まが ほしいですか。\nWhat color car does your mother want?\n\n===PAGE page_0163===\nJapanese From Zero! – Vocabulary Group J 163\n\nVocabulary Groups\n\nJ more animals\n\nProgressive\nき ngyo\nかめ\nかえ ru\nぶた\nはと\nあひ ru\nかに\nへび\nと ri\nrobusuta-\nとかげ\nさかな\nkyo う ryu う\n\nKana\nきんぎょ\nかめ\nかえる\nぶた\nはと\nあひる\nかに\nへび\nとり\nロブスター\nとかげ\nさかな\nきょうりゅう\n\nKanji\n金魚\n亀\nかえる\n豚\nはと\nあひる\n蟹\n蛇\n鳥\nロブスター\nとかげ\n魚\n恐竜\n\nEnglish\ngoldfish\ntortoise; turtle\nfrog\npig\npigeon; dove\nduck\ncrab\nsnake\nbird\nlobster\nlizard\nfish\ndinosaur",
+  "extracted_text": "Japanese From Zero! – Lesson 7 – Lesson Activities 161\n\n❐ Short dialogue 2\nMr. Tanaka is taking Mike to a sushi bar.\n\nたなかさ n: Maikuさn は (お)すしが すきですか。\nMaiku: はい、だいすきです。\nたなかさ n: なにが すきですか。\nMaiku: まぐro と えびが すきです。\nたなかさ n: そうですか。Wa たしは、ひ ra めと いかが すきです。\nにほ n の お cha が、すきですか。\nMaiku: いいえ。にほ n の お cha が すき ja ないです。\nでも、ko-ra は すきです。\n\nNew words and expressions in the dialogue\n\nProgressive\nまぐro\nえび\nひ ra め\nいか\n\nKana\nまぐろ\nえび\nひらめ\nいか\n\nKanji\n鮪\n海老\n平目\nイカ\n\nEnglish\ntuna\nshrimp\nhalibut\nsquid\n\n❐ Short dialogue 2 activities\n1. Practice reading the dialogue in pairs.\n2. Talk about your most/least favorite sushi.\n3. Talk about your most/least favorite beverage."
+}

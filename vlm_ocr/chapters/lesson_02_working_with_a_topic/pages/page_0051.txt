@@ -1,0 +1,36 @@
+Japanese From Zero! – Lesson 2 – Working with a Topic    51
+
+2  Cool Tools クール・ツール
+
+In Japanese, there is a pattern of words that comes up many times. It is the ko so a do
+pattern. In this lesson there are two ko so a do patterns: kore, sore, are, dore, and kocchi,
+socchi, acchi, docchi. Notice that each word starts with ko~, so~, a~ or do~. The following
+chart shows the distance relation of these words to the speaker.
+
+Since the four words in a ko-so-a-do group are    ど DO ?
+simillar in sound, they are easy to mix up. The
+diagram on the right will help you remember the    speaker
+relation of each word in the group to the speaker.
+Remember this diagram, because there are more    こ KO
+ko-so-a-do groups coming up.    そ SO
+あ A
+ko    –    Close enough to touch
+so    –    Sort of close, but not enough to touch
+a    –    In the distance. Definitely not close.
+do    –    Question word.
+
+2  Grammar ぶんぽう
+
+The topic marker wa
+The particle wa is used to mark the topic of the sentence. It can be thought to mean,
+“Speaking of (the) ~,” or “As for (the) ~,” but it does not have any meaning in English.
+Generally, everything that comes before wa is the topic or part of the topic. Everything after
+the wa describes or asks a question about the topic.
+
+[topic] + wa + [question or description]
+
+Sentence Structure ぶんけい
+Tomorrow    Monday    is
+あshita wa getsuyoうbi desu.    Tomorrow is Monday.
+
+topic marker

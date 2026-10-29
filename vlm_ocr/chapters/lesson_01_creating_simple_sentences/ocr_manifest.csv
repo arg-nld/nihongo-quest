@@ -1,0 +1,16 @@
+pdf_page,output_file,details_file,status,text_chars,lines,seconds,model,batch_size,processed_at_utc
+34,pages/page_0034.txt,pages/page_0034.json,ok,834,27,62.35,gemini-3.8-flash,5,2026-10-21T14:42:35+00:00
+35,pages/page_0035.txt,pages/page_0035.json,ok,1427,28,62.35,gemini-3.8-flash,5,2026-10-21T14:42:35+00:00
+36,pages/page_0036.txt,pages/page_0036.json,ok,1431,28,62.35,gemini-3.8-flash,5,2026-10-21T14:42:35+00:00
+37,pages/page_0037.txt,pages/page_0037.json,ok,1118,32,62.37,gemini-3.8-flash,5,2026-10-21T14:42:35+00:00
+38,pages/page_0038.txt,pages/page_0038.json,ok,1119,27,62.37,gemini-3.8-flash,5,2026-10-21T14:42:35+00:00
+39,pages/page_0039.txt,pages/page_0039.json,ok,1169,19,57.31,gemini-3.8-flash,5,2026-10-21T14:43:34+00:00
+40,pages/page_0040.txt,pages/page_0040.json,ok,1168,21,57.34,gemini-3.8-flash,5,2026-10-21T14:43:34+00:00
+41,pages/page_0041.txt,pages/page_0041.json,ok,967,22,57.34,gemini-3.8-flash,5,2026-10-21T14:43:34+00:00
+42,pages/page_0042.txt,pages/page_0042.json,ok,848,19,57.34,gemini-3.8-flash,5,2026-10-21T14:43:34+00:00
+43,pages/page_0043.txt,pages/page_0043.json,ok,941,24,57.34,gemini-3.8-flash,5,2026-10-21T14:43:34+00:00
+44,pages/page_0044.txt,pages/page_0044.json,ok,222,22,8.89,gemini-3.8-flash,3,2026-10-21T14:43:43+00:00
+45,pages/page_0045.txt,pages/page_0045.json,ok,271,10,8.89,gemini-3.8-flash,3,2026-10-21T14:43:44+00:00
+46,pages/page_0046.txt,pages/page_0046.json,ok,480,17,8.89,gemini-3.8-flash,3,2026-10-21T14:43:44+00:00
+47,pages/page_0047.txt,pages/page_0047.json,ok,744,25,2.03,gemini-3.5-flash-lite,1,2026-10-21T17:47:19+00:00
+48,pages/page_0048.txt,pages/page_0048.json,ok,721,14,127.39,gemini-3.6-flash,2,2026-10-21T14:48:17+00:00

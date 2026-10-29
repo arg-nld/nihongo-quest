@@ -1,0 +1,25 @@
+{
+  "pdf_page": 189,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img1163__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0188",
+    "page_0189",
+    "page_0190",
+    "page_0191",
+    "page_0192"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 488,
+  "lines": 14,
+  "usage": {
+    "input_tokens": 5838,
+    "output_tokens": 691,
+    "total_tokens": 6529
+  },
+  "raw_batch_response": "===PAGE page_0188===\nJapaneseFromZero.com 188\nHiragana らりるれろ\n\nNew Hiragana あたらし い ひらがな\n\nMake sure you learn the correct stroke order since correct stroke order will mean neater characters when writing fast.\n\nRA RI RU RE\nらりるれろ\n\nVarious Styles スタイル\n\nWrite each character as neatly as you can and compare to the different versions.\n\nら ら ら ら ら\nり り り り り\nる る る る る\nれ れ れ れ れ\nろ ろ ろ ろ ろ\n\n===PAGE page_0189===\nJapanese From Zero! — Lesson 9 — Hiragana らりるれろ 189\n\nWriting Practice れんしゅう\n\nTo practice correct stroke order, first trace the light gray characters, then write each character six times for practice.\n\nra ら ら\nri り り\nru る る\nre れ れ\nro ろ ろ\n\nWord Practice ことばの れんしゅう\n\nFill in the appropriate hiragana in the blanks for each word.\n\n1. あた ra しい (new) 2. し ru (to know)\n3. re んあい (true love) 4. ri んご (apple)\n5. みせ ru (to show) 6. re ん shu う (practice)\n7. べん ri (convenient) 8. う ru おい (moisture)\n\n===PAGE page_0190===\nJapaneseFromZero.com 190\n9. かく re んぼ (hide and seek) 10. どう ro (road)\n11. ro うか (hallway) 12. まわ ri みち (detour)\n\nEveryday Hiragana Words にちじょうの ことば\n\nねる\nto sleep, go to bed\n\nいくら\nsalted salmon eggs\n\nくすり\nmedicine\n\nろうそく\ncandle\n\nかれい\nflounder\n\nかみなり\nthunder, lightning\n\nWords You Can Write かける ことば\n\nWrite the following words using the hiragana that you just learned. This is a great way to increase your Japanese vocabulary.\n\nりか\n(science)\n\nよる\n(night)\n\n===PAGE page_0191===\nJapanese From Zero! — Lesson 9 — Hiragana らりるれろ 191\n\nれい\n(example)\n\nまる\n(circle)\n\nこおり\n(ice)\n\nあひる\n(duck)\n\nかえる\n(frog)\n\nりんご\n(apple)\n\nべんり\n(convenient)\n\nひだり\n(left)\n\nみずいろ\n(light blue)\n\nきいろ\n(yellow)\n\nろうそく\n(candle)\n\nさる\n(monkey)\n\n===PAGE page_0192===\nJapaneseFromZero.com 192\n\nHiragana Matching ひらがな マッチング\n\nConnect the dots between each hiragana and the correct ro-maji.\n\nる • • ru\nし • • shi\nり • • re\nろ • • i\nぬ • • ro\nれ • • ra\nい • • nu\nら • • ri",
+  "extracted_text": "Japanese From Zero! — Lesson 9 — Hiragana らりるれろ 189\n\nWriting Practice れんしゅう\n\nTo practice correct stroke order, first trace the light gray characters, then write each character six times for practice.\n\nra ら ら\nri り り\nru る る\nre れ れ\nro ろ ろ\n\nWord Practice ことばの れんしゅう\n\nFill in the appropriate hiragana in the blanks for each word.\n\n1. あた ra しい (new) 2. し ru (to know)\n3. re んあい (true love) 4. ri んご (apple)\n5. みせ ru (to show) 6. re ん shu う (practice)\n7. べん ri (convenient) 8. う ru おい (moisture)"
+}

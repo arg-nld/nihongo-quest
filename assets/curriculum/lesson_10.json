@@ -1,0 +1,1100 @@
+{
+ "sectionId": "lesson_10",
+ "title": "Lesson 10",
+ "subtitle": "Asking for Things — ordering politely",
+ "pages": "198-218",
+ "objectives": [
+  "Ask for an item with [item] をください or [item] をおねがいします",
+  "Use も to add ‘too / also’ and でも to introduce ‘but’",
+  "Ask what someone would like with なにがいいですか",
+  "Understand polite service phrases such as どうぞ and しょうしょうおまちください",
+  "Read compound hiragana formed with a full kana plus a small や・ゆ・よ"
+ ],
+ "kanaFocus": [
+  "きゃ",
+  "きゅ",
+  "きょ",
+  "しゃ",
+  "しゅ",
+  "しょ",
+  "ちゃ",
+  "ちゅ",
+  "ちょ",
+  "にゃ",
+  "にゅ",
+  "にょ",
+  "りゃ",
+  "りゅ",
+  "りょ"
+ ],
+ "vocab": [
+  {
+   "id": "lesson_10_v_irasshaimase",
+   "japanese": "いらっしゃいませ",
+   "romaji": "irasshaimase",
+   "english": "Welcome! (at a place of business)",
+   "source": "lesson_10 p.198, p.202, p.216",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_shoushou",
+   "japanese": "しょうしょうおまちください",
+   "romaji": "shoushou omachi kudasai",
+   "english": "Please wait a few moments (very polite)",
+   "source": "lesson_10 p.198, p.202",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_chottomatte",
+   "japanese": "ちょっとまってください",
+   "romaji": "chotto matte kudasai",
+   "english": "Please wait a minute",
+   "source": "lesson_10 p.198",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_nanigaii",
+   "japanese": "なにがいいですか",
+   "romaji": "nani ga ii desu ka",
+   "english": "What would you like?",
+   "source": "lesson_10 p.198",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_gaidesu",
+   "japanese": "___ がいいです",
+   "romaji": "___ ga ii desu",
+   "english": "I would like ___ / ___ is good",
+   "source": "lesson_10 p.198",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_arigatougozaimashita",
+   "japanese": "ありがとうございました",
+   "romaji": "arigatou gozaimashita",
+   "english": "Thank you very much (for something already done)",
+   "source": "lesson_10 p.198",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_douzo",
+   "japanese": "どうぞ",
+   "romaji": "douzo",
+   "english": "Here you go; go ahead",
+   "source": "lesson_10 p.198, p.204",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_kudasai",
+   "japanese": "ください",
+   "romaji": "kudasai",
+   "english": "please give me; please do (request pattern)",
+   "source": "lesson_10 p.199-200",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_onegaishimasu",
+   "japanese": "おねがいします",
+   "romaji": "onegai shimasu",
+   "english": "please; I request (polite request)",
+   "source": "lesson_10 p.200",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_ikura",
+   "japanese": "いくら",
+   "romaji": "ikura",
+   "english": "how much?",
+   "source": "lesson_10 p.199",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_menu",
+   "japanese": "メニュー",
+   "romaji": "menyuu",
+   "english": "menu",
+   "source": "lesson_10 p.199",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_poteto",
+   "japanese": "ポテト",
+   "romaji": "poteto",
+   "english": "French fries",
+   "source": "lesson_10 p.199",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_cheeseburger",
+   "japanese": "チーズバーガー",
+   "romaji": "chiizu baagaa",
+   "english": "cheeseburger",
+   "source": "lesson_10 p.199",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_pizza",
+   "japanese": "ピザ",
+   "romaji": "piza",
+   "english": "pizza",
+   "source": "lesson_10 p.199",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_spaghetti",
+   "japanese": "スパゲッティ",
+   "romaji": "supagettii",
+   "english": "spaghetti",
+   "source": "lesson_10 p.199",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_beef",
+   "japanese": "ビーフ",
+   "romaji": "biifu",
+   "english": "beef",
+   "source": "lesson_10 p.199",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_sandwich",
+   "japanese": "サンドイッチ",
+   "romaji": "sandoicchi",
+   "english": "sandwich",
+   "source": "lesson_10 p.199",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_dessert",
+   "japanese": "デザート",
+   "romaji": "dezaato",
+   "english": "dessert",
+   "source": "lesson_10 p.199",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_oh",
+   "japanese": "あっ！",
+   "romaji": "a!",
+   "english": "Oh!",
+   "source": "lesson_10 p.199",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_otsuri",
+   "japanese": "おつり",
+   "romaji": "otsuri",
+   "english": "change (money returned)",
+   "source": "lesson_10 p.199",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_nomimono",
+   "japanese": "のみもの",
+   "romaji": "nomimono",
+   "english": "drink; beverage",
+   "source": "lesson_10 p.199",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_tabemono",
+   "japanese": "たべもの",
+   "romaji": "tabemono",
+   "english": "food",
+   "source": "lesson_10 p.199",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_okashi",
+   "japanese": "おかし",
+   "romaji": "okashi",
+   "english": "snack; sweets",
+   "source": "lesson_10 p.199",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_misoshiru",
+   "japanese": "みそしる",
+   "romaji": "misoshiru",
+   "english": "miso soup",
+   "source": "lesson_10 p.199",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_ohiya",
+   "japanese": "おひや",
+   "romaji": "ohiya",
+   "english": "cold drinking water",
+   "source": "lesson_10 p.199",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_ocha",
+   "japanese": "おちゃ",
+   "romaji": "ocha",
+   "english": "green tea",
+   "source": "lesson_10 p.199",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_mizu",
+   "japanese": "みず",
+   "romaji": "mizu",
+   "english": "water",
+   "source": "lesson_10 p.200",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_enpitsu",
+   "japanese": "えんぴつ",
+   "romaji": "enpitsu",
+   "english": "pencil",
+   "source": "lesson_10 p.200",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_ringo",
+   "japanese": "りんご",
+   "romaji": "ringo",
+   "english": "apple",
+   "source": "lesson_10 p.200",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_oishii",
+   "japanese": "おいしい",
+   "romaji": "oishii",
+   "english": "delicious; tastes good",
+   "source": "lesson_10 p.202-203",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_yasui",
+   "japanese": "やすい",
+   "romaji": "yasui",
+   "english": "cheap; inexpensive",
+   "source": "lesson_10 p.203",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_sumimasen",
+   "japanese": "すみません",
+   "romaji": "sumimasen",
+   "english": "excuse me; sorry",
+   "source": "lesson_10 p.202-204",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_nandesuka",
+   "japanese": "なんですか",
+   "romaji": "nan desu ka",
+   "english": "What is it? / What did you say?",
+   "source": "lesson_10 p.203",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_tenpura",
+   "japanese": "てんぷら",
+   "romaji": "tenpura",
+   "english": "tempura; deep-fried vegetables or seafood",
+   "kanji": "天ぷら",
+   "source": "lesson_10 p.216",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_tonkatsu",
+   "japanese": "とんかつ",
+   "romaji": "tonkatsu",
+   "english": "pork cutlet",
+   "kanji": "豚カツ",
+   "source": "lesson_10 p.216",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_kashikomarimashita",
+   "japanese": "かしこまりました",
+   "romaji": "kashikomarimashita",
+   "english": "Certainly; very well (service language)",
+   "source": "lesson_10 p.216",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_aisutea",
+   "japanese": "アイスティー",
+   "romaji": "aisu tii",
+   "english": "iced tea",
+   "source": "lesson_10 p.216",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_cho",
+   "japanese": "ちょう",
+   "romaji": "chou",
+   "english": "butterfly",
+   "source": "lesson_10 p.210",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_kyuu",
+   "japanese": "きゅう",
+   "romaji": "kyuu",
+   "english": "nine",
+   "source": "lesson_10 p.210",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_byouki",
+   "japanese": "びょうき",
+   "romaji": "byouki",
+   "english": "illness; sick",
+   "source": "lesson_10 p.210",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_juu",
+   "japanese": "じゅう",
+   "romaji": "juu",
+   "english": "ten",
+   "source": "lesson_10 p.211",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_ryuu",
+   "japanese": "りゅう",
+   "romaji": "ryuu",
+   "english": "dragon",
+   "source": "lesson_10 p.211",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_gyaku",
+   "japanese": "ぎゃく",
+   "romaji": "gyaku",
+   "english": "reverse; opposite",
+   "source": "lesson_10 p.211",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_myouji",
+   "japanese": "みょうじ",
+   "romaji": "myouji",
+   "english": "last name; surname",
+   "source": "lesson_10 p.211",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_shuuri",
+   "japanese": "しゅうり",
+   "romaji": "shuuri",
+   "english": "repair",
+   "source": "lesson_10 p.211",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_kyoku",
+   "japanese": "きょく",
+   "romaji": "kyoku",
+   "english": "song; musical piece",
+   "source": "lesson_10 p.211",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_kyouto",
+   "japanese": "きょうと",
+   "romaji": "Kyouto",
+   "english": "Kyoto",
+   "source": "lesson_10 p.211",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_ryokou",
+   "japanese": "りょこう",
+   "romaji": "ryokou",
+   "english": "travel; trip",
+   "source": "lesson_10 p.211",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_kaisha",
+   "japanese": "かいしゃ",
+   "romaji": "kaisha",
+   "english": "company",
+   "source": "lesson_10 p.211",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_densha",
+   "japanese": "でんしゃ",
+   "romaji": "densha",
+   "english": "train",
+   "source": "lesson_10 p.211",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_kingyo",
+   "japanese": "きんぎょ",
+   "romaji": "kingyo",
+   "english": "goldfish",
+   "source": "lesson_10 p.212",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_chawan",
+   "japanese": "ちゃわん",
+   "romaji": "chawan",
+   "english": "bowl",
+   "source": "lesson_10 p.212",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_migi",
+   "japanese": "みぎ",
+   "romaji": "migi",
+   "english": "right",
+   "kanji": "右",
+   "source": "lesson_10 p.218",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_hidari",
+   "japanese": "ひだり",
+   "romaji": "hidari",
+   "english": "left",
+   "kanji": "左",
+   "source": "lesson_10 p.218",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_ue",
+   "japanese": "うえ",
+   "romaji": "ue",
+   "english": "up; above",
+   "kanji": "上",
+   "source": "lesson_10 p.218",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_shita",
+   "japanese": "した",
+   "romaji": "shita",
+   "english": "down; below",
+   "kanji": "下",
+   "source": "lesson_10 p.218",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_kita",
+   "japanese": "きた",
+   "romaji": "kita",
+   "english": "north",
+   "kanji": "北",
+   "source": "lesson_10 p.218",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_higashi",
+   "japanese": "ひがし",
+   "romaji": "higashi",
+   "english": "east",
+   "kanji": "東",
+   "source": "lesson_10 p.218",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_minami",
+   "japanese": "みなみ",
+   "romaji": "minami",
+   "english": "south",
+   "kanji": "南",
+   "source": "lesson_10 p.218",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_nishi",
+   "japanese": "にし",
+   "romaji": "nishi",
+   "english": "west",
+   "kanji": "西",
+   "source": "lesson_10 p.218",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_kasa",
+   "japanese": "かさ",
+   "romaji": "kasa",
+   "english": "umbrella",
+   "kanji": "傘",
+   "source": "lesson_10 p.218",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_ie",
+   "japanese": "いえ",
+   "romaji": "ie",
+   "english": "house",
+   "kanji": "家",
+   "source": "lesson_10 p.218",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_denwa",
+   "japanese": "でんわ",
+   "romaji": "denwa",
+   "english": "telephone",
+   "kanji": "電話",
+   "source": "lesson_10 p.218",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_kagi",
+   "japanese": "かぎ",
+   "romaji": "kagi",
+   "english": "key",
+   "kanji": "鍵",
+   "source": "lesson_10 p.218",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_isu",
+   "japanese": "いす",
+   "romaji": "isu",
+   "english": "chair",
+   "kanji": "椅子",
+   "source": "lesson_10 p.218",
+   "verified": true
+  },
+  {
+   "id": "lesson_10_v_gomibako",
+   "japanese": "ごみばこ",
+   "romaji": "gomibako",
+   "english": "trash can",
+   "kanji": "ごみ箱",
+   "source": "lesson_10 p.218",
+   "verified": true
+  }
+ ],
+ "grammar": [
+  {
+   "id": "lesson_10_g_kudasai",
+   "title": "Request an item: ください",
+   "pattern": "[item] を ください",
+   "explanation": "Use を to mark the thing being requested. ください is used within a request sentence rather than by itself.",
+   "examples": [
+    {
+     "japanese": "みずを ください。",
+     "romaji": "Mizu o kudasai.",
+     "english": "Water, please."
+    },
+    {
+     "japanese": "りんごを ください。",
+     "romaji": "Ringo o kudasai.",
+     "english": "An apple, please."
+    }
+   ],
+   "mistakes": [
+    "Do not omit を in the standard [item] をください pattern."
+   ],
+   "source": "lesson_10 p.199-200"
+  },
+  {
+   "id": "lesson_10_g_onegaishimasu",
+   "title": "A more formal request",
+   "pattern": "[item] を おねがいします",
+   "explanation": "おねがいします is another polite way to request an item. It is especially useful when you want to sound more formal; it can also be used alone to say ‘please’.",
+   "examples": [
+    {
+     "japanese": "みずを おねがいします。",
+     "romaji": "Mizu o onegai shimasu.",
+     "english": "Would you please give me water?"
+    },
+    {
+     "japanese": "メニューを おねがいします。",
+     "romaji": "Menyuu o onegai shimasu.",
+     "english": "A menu, please."
+    }
+   ],
+   "mistakes": [
+    "ください and おねがいします are both polite; choose おねがいします for a more formal request."
+   ],
+   "source": "lesson_10 p.200"
+  },
+  {
+   "id": "lesson_10_g_mo",
+   "title": "The particle も — too / also",
+   "pattern": "[word] も ...",
+   "explanation": "も follows the word it refers to and means ‘too’ or ‘also’. When it takes the topic's place, it replaces は or が rather than being added after them.",
+   "examples": [
+    {
+     "japanese": "りんごも すきです。",
+     "romaji": "Ringo mo suki desu.",
+     "english": "I like apples too."
+    },
+    {
+     "japanese": "おちゃも ください。",
+     "romaji": "Ocha mo kudasai.",
+     "english": "Tea too, please."
+    }
+   ],
+   "mistakes": [
+    "When も replaces the topic particle, do not write はも or がも."
+   ],
+   "source": "lesson_10 p.200-201"
+  },
+  {
+   "id": "lesson_10_g_size",
+   "title": "Sizes as の adjectives",
+   "pattern": "[size] の [item]",
+   "explanation": "The size words エス (S), エム (M), and エル (L) attach to a noun with の. This is the pattern used for items such as small cola or large pizza.",
+   "examples": [
+    {
+     "japanese": "エルの ピザが ほしいです。",
+     "romaji": "Eru no piza ga hoshii desu.",
+     "english": "I want a large pizza."
+    }
+   ],
+   "mistakes": [
+    "Do not directly join the size word and the food noun without の."
+   ],
+   "source": "lesson_10 p.201-202"
+  },
+  {
+   "id": "lesson_10_g_compound_kana",
+   "title": "Compound hiragana",
+   "pattern": "full kana + small や / ゆ / よ",
+   "explanation": "Compound hiragana combine a kana from the i-row with a smaller や, ゆ, or よ. The second kana is visibly smaller, changing the combined sound, as in きゃ (kya), しゅ (shu), and ちょ (cho).",
+   "examples": [
+    {
+     "japanese": "きゃ",
+     "romaji": "kya",
+     "english": "compound sound kya"
+    },
+    {
+     "japanese": "しゅ",
+     "romaji": "shu",
+     "english": "compound sound shu"
+    },
+    {
+     "japanese": "ちょ",
+     "romaji": "cho",
+     "english": "compound sound cho"
+    }
+   ],
+   "mistakes": [
+    "The second character must be small; きや is not the same as きゃ."
+   ],
+   "source": "lesson_10 p.205-209"
+  }
+ ],
+ "exercises": [
+  {
+   "id": "lesson_10_e01",
+   "type": "multiple_choice",
+   "prompt": "Which phrase means ‘What would you like?’",
+   "choices": [
+    "なにが いいですか。",
+    "いくらですか。",
+    "なんですか。",
+    "どうぞ。"
+   ],
+   "answerIndex": 0,
+   "explanation": "なにが いいですか asks what someone would like.",
+   "source": "lesson_10 p.198",
+   "verified": true,
+   "skill": "phrases",
+   "vocabId": "lesson_10_v_nanigaii"
+  },
+  {
+   "id": "lesson_10_e02",
+   "type": "fill_blank",
+   "prompt": "Water, please: みずを ___.",
+   "accepted": [
+    "ください",
+    "kudasai"
+   ],
+   "explanation": "ください is the standard request pattern.",
+   "source": "lesson_10 p.200",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_10_v_kudasai"
+  },
+  {
+   "id": "lesson_10_e03",
+   "type": "multiple_choice",
+   "prompt": "Which particle means ‘too / also’?",
+   "choices": [
+    "も",
+    "を",
+    "の",
+    "で"
+   ],
+   "answerIndex": 0,
+   "explanation": "も follows the word it adds to the sentence.",
+   "source": "lesson_10 p.200-201",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_10_e04",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "りんごを ください。",
+   "choices": [
+    "An apple, please.",
+    "Apples are expensive.",
+    "I like apples too.",
+    "What is an apple?"
+   ],
+   "answerIndex": 0,
+   "explanation": "[item] をください is a request for an item.",
+   "source": "lesson_10 p.200",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_10_v_ringo"
+  },
+  {
+   "id": "lesson_10_e05",
+   "type": "match",
+   "prompt": "Match the restaurant vocabulary:",
+   "pairs": [
+    {
+     "left": "メニュー",
+     "right": "menu"
+    },
+    {
+     "left": "おちゃ",
+     "right": "green tea"
+    },
+    {
+     "left": "みそしる",
+     "right": "miso soup"
+    },
+    {
+     "left": "おつり",
+     "right": "change"
+    }
+   ],
+   "explanation": "These words appear in the Lesson 10 vocabulary list.",
+   "source": "lesson_10 p.199",
+   "verified": true,
+   "skill": "vocab"
+  },
+  {
+   "id": "lesson_10_e06",
+   "type": "multiple_choice",
+   "prompt": "What does どうぞ mean in a service conversation?",
+   "choices": [
+    "Here you go.",
+    "How much?",
+    "That's expensive.",
+    "I don't understand."
+   ],
+   "answerIndex": 0,
+   "explanation": "どうぞ can mean ‘Here you go’ or ‘Go ahead’.",
+   "source": "lesson_10 p.198, p.204",
+   "verified": true,
+   "skill": "phrases",
+   "vocabId": "lesson_10_v_douzo"
+  },
+  {
+   "id": "lesson_10_e07",
+   "type": "multiple_choice",
+   "prompt": "Which request sounds more formal?",
+   "choices": [
+    "[item] を おねがいします",
+    "[item] が きらいです",
+    "[item] は どこですか",
+    "[item] の いろ"
+   ],
+   "answerIndex": 0,
+   "explanation": "おねがいします is a more formal request pattern than ください.",
+   "source": "lesson_10 p.200",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_10_v_onegaishimasu"
+  },
+  {
+   "id": "lesson_10_e08",
+   "type": "word_order",
+   "prompt": "Put the request in order: ‘Water, please.’",
+   "tokens": [
+    "みずを",
+    "ください"
+   ],
+   "explanation": "Place the requested item before ください.",
+   "source": "lesson_10 p.200",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_10_v_mizu"
+  },
+  {
+   "id": "lesson_10_e09",
+   "type": "multiple_choice",
+   "prompt": "What does いくらですか ask?",
+   "choices": [
+    "How much is it?",
+    "What would you like?",
+    "Where is it?",
+    "How many things?"
+   ],
+   "answerIndex": 0,
+   "explanation": "いくら is listed as ‘How much?’ in the new words table.",
+   "source": "lesson_10 p.199",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_10_v_ikura"
+  },
+  {
+   "id": "lesson_10_e10",
+   "type": "multiple_choice",
+   "prompt": "Choose the correct compound kana for ‘kya’. ",
+   "choices": [
+    "きゃ",
+    "きや",
+    "きゅ",
+    "きょ"
+   ],
+   "answerIndex": 0,
+   "explanation": "きゃ combines き with a small ゃ.",
+   "source": "lesson_10 p.205-206",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_10_e11",
+   "type": "match",
+   "prompt": "Match compound hiragana with its romaji:",
+   "pairs": [
+    {
+     "left": "しゅ",
+     "right": "shu"
+    },
+    {
+     "left": "ちょ",
+     "right": "cho"
+    },
+    {
+     "left": "りゅ",
+     "right": "ryu"
+    },
+    {
+     "left": "にゃ",
+     "right": "nya"
+    }
+   ],
+   "explanation": "These compound sounds are listed in the compound hiragana tables.",
+   "source": "lesson_10 p.206-209",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_10_e12",
+   "type": "multiple_choice",
+   "prompt": "Which phrase means ‘Please wait a few moments’ in very polite language?",
+   "choices": [
+    "しょうしょうおまちください",
+    "どうぞ",
+    "ありがとうございました",
+    "なにがいいですか"
+   ],
+   "answerIndex": 0,
+   "explanation": "しょうしょうおまちください is the very polite phrase shown in the lesson.",
+   "source": "lesson_10 p.198",
+   "verified": true,
+   "skill": "phrases",
+   "vocabId": "lesson_10_v_shoushou"
+  },
+  {
+   "id": "lesson_10_e13",
+   "type": "multiple_choice",
+   "prompt": "What does みぎ mean?",
+   "choices": [
+    "right",
+    "left",
+    "north",
+    "below"
+   ],
+   "answerIndex": 0,
+   "explanation": "The direction words on p.218 include みぎ (right).",
+   "source": "lesson_10 p.218",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_10_v_migi"
+  },
+  {
+   "id": "lesson_10_e14",
+   "type": "fill_blank",
+   "prompt": "‘Green tea’ is お___.",
+   "accepted": [
+    "ちゃ",
+    "cha"
+   ],
+   "explanation": "おちゃ means green tea.",
+   "source": "lesson_10 p.199",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_10_v_ocha"
+  },
+  {
+   "id": "lesson_10_e15",
+   "type": "multiple_choice",
+   "prompt": "What does かしこまりました mean in the short dialogue?",
+   "choices": [
+    "Certainly; very well.",
+    "How much?",
+    "Good morning.",
+    "Thank you for the food."
+   ],
+   "answerIndex": 0,
+   "explanation": "It is the service response used by the waitress in the dialogue.",
+   "source": "lesson_10 p.216",
+   "verified": true,
+   "skill": "phrases",
+   "vocabId": "lesson_10_v_kashikomarimashita"
+  }
+ ],
+ "quiz": [
+  {
+   "id": "lesson_10_q01",
+   "type": "multiple_choice",
+   "prompt": "Which sentence asks for an item politely?",
+   "choices": [
+    "みずを ください。",
+    "みずが どこですか。",
+    "みずは きらいです。",
+    "みずの いろ。"
+   ],
+   "answerIndex": 0,
+   "explanation": "[item] をください is the request pattern.",
+   "source": "lesson_10 p.199-200",
+   "verified": true,
+   "skill": "grammar",
+   "vocabId": "lesson_10_v_kudasai"
+  },
+  {
+   "id": "lesson_10_q02",
+   "type": "multiple_choice",
+   "prompt": "What does も mean in Lesson 10?",
+   "choices": [
+    "too / also",
+    "but",
+    "from",
+    "where"
+   ],
+   "answerIndex": 0,
+   "explanation": "も comes after the word it refers to and means ‘too’ or ‘also’.",
+   "source": "lesson_10 p.200-201",
+   "verified": true,
+   "skill": "grammar"
+  },
+  {
+   "id": "lesson_10_q03",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "メニューを おねがいします。",
+   "choices": [
+    "A menu, please.",
+    "How much is the menu?",
+    "The menu is delicious.",
+    "I want a large menu."
+   ],
+   "answerIndex": 0,
+   "explanation": "おねがいします is used here to request a menu politely.",
+   "source": "lesson_10 p.204",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_10_v_menu"
+  },
+  {
+   "id": "lesson_10_q04",
+   "type": "multiple_choice",
+   "prompt": "Which phrase means ‘Here you go’?",
+   "choices": [
+    "どうぞ",
+    "いくらですか",
+    "なにがいいですか",
+    "すみません"
+   ],
+   "answerIndex": 0,
+   "explanation": "どうぞ is used when handing something over or inviting someone to proceed.",
+   "source": "lesson_10 p.198, p.204",
+   "verified": true,
+   "skill": "phrases",
+   "vocabId": "lesson_10_v_douzo"
+  },
+  {
+   "id": "lesson_10_q05",
+   "type": "match",
+   "prompt": "Match the compound kana:",
+   "pairs": [
+    {
+     "left": "きゃ",
+     "right": "kya"
+    },
+    {
+     "left": "ぎゅ",
+     "right": "gyu"
+    },
+    {
+     "left": "しょ",
+     "right": "sho"
+    },
+    {
+     "left": "ぴょ",
+     "right": "pyo"
+    }
+   ],
+   "explanation": "The compound hiragana chart gives each combination's romaji.",
+   "source": "lesson_10 p.206-209",
+   "verified": true,
+   "skill": "hiragana"
+  },
+  {
+   "id": "lesson_10_q06",
+   "type": "multiple_choice",
+   "prompt": "How do you ask ‘How much is it?’",
+   "choices": [
+    "いくらですか",
+    "なにがいいですか",
+    "なんですか",
+    "どうぞ"
+   ],
+   "answerIndex": 0,
+   "explanation": "いくら is the question word for price.",
+   "source": "lesson_10 p.199, p.202-203",
+   "verified": true,
+   "skill": "vocab",
+   "vocabId": "lesson_10_v_ikura"
+  },
+  {
+   "id": "lesson_10_q07",
+   "type": "fill_blank",
+   "prompt": "‘An apple, please.’ りんごを ___.",
+   "accepted": [
+    "ください",
+    "kudasai"
+   ],
+   "explanation": "The lesson gives りんごをください as a request example.",
+   "source": "lesson_10 p.200",
+   "verified": true,
+   "skill": "sentences",
+   "vocabId": "lesson_10_v_ringo"
+  },
+  {
+   "id": "lesson_10_q08",
+   "type": "multiple_choice",
+   "prompt": "Which is the correct pattern for a large pizza?",
+   "choices": [
+    "エルの ピザ",
+    "エルを ピザ",
+    "ピザの エルを",
+    "エルが ピザの"
+   ],
+   "answerIndex": 0,
+   "explanation": "Size words are connected to the noun using の.",
+   "source": "lesson_10 p.201-202",
+   "verified": true,
+   "skill": "grammar"
+  }
+ ],
+ "summary": "Lesson 10 teaches polite requests: [item] をください and [item] をおねがいします. The particle も adds ‘too / also’; でも means ‘but’. Ask なにがいいですか to find out what someone would like, and recognize service phrases such as いらっしゃいませ, どうぞ, and しょうしょうおまちください. Sizes such as エス, エム, and エル modify food names through の. Compound hiragana use a small や, ゆ, or よ after a kana, as in きゃ (kya), しゅ (shu), and ちょ (cho)."
+}

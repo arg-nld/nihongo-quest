@@ -1,0 +1,39 @@
+JapaneseFromZero.com
+244
+3. Conversation between friends who haven't met in a while
+A: おひさしぶりです。
+B: いつ かえりましたか。
+A: おととい かえりました。
+A: It's been a long time.
+B: When did you return?
+A: I came back the day before yesterday.
+
+4. Conversation between friends
+A: だれが pa-ti-に きますか。
+B: よしこさんと けいこさんが きます。
+A: よしこさんと けいこさんは だれですか。
+B: わたしの ともだちです。
+A: Who is coming to the party?
+B: Yoshiko and Keiko are coming.
+A: Who are Yoshiko and Keiko?
+B: They're my friends.
+
+5. Conversation between two co-workers
+A: いつ amerika に いきましたか。
+B: Amerika に いきませんでした。
+A: じゃ、どこに いきましたか。
+B: かんこくに いきました。
+A: When did you go to America?
+B: I didn't go to America.
+A: Well then, where did you go?
+B: I went to Korea.
+
+6. Conversation at work
+A: なにごが はなせますか。
+B: ちゅうごくごど えいごど にほんごが はなせます。
+A: すごいですね。なにじんですか。
+B: にほじんです。
+A: What languages can you speak?
+B: I can speak Chinese, English, and Japanese.
+A: That's amazing. What nationality are you?
+B: I'm Japanese.

@@ -1,0 +1,41 @@
+JapaneseFromZero.com    18
+
+B  The Counting Units
+
+The teens
+To form numbers from 11 to 19, start with juu (10) and place the additional number you
+need directly after it. It is much like counting with roman numerals.
+
+the teens – 11-19
+juu ichi    じゅういち    11
+juu ni    じゅうに    12
+juu san    じゅうさん    13
+juu yon, juu shi ☆    じゅうよん、じゅうし    14
+juu go    じゅうご    15
+juu roku    じゅうろく    16
+juu nana, juu shichi ☆    じゅうなな、じゅうしち    17
+juu hachi    じゅうはち    18
+juu kyuu, juu ku ☆    じゅうきゅう、じゅうく    19
+
+The tens
+The tens are formed by combining the single numbers with juu. For example, 20 is two tens
+(ni juu), and 50 is five tens (go juu). The concept is simple. Look at this chart:
+
+the tens – 10-90
+juu        じゅう    10
+ni juu        にじゅう    20
+san juu        さんじゅう    30
+yon juu    never “shi juu”    よんじゅう    40
+go juu        ごじゅう    50
+roku juu        ろくじゅう    60
+nana juu    never “shichi juu”    ななじゅう    70
+hachi juu        はちじゅう    80
+kyuu juu    never “ku juu”    きゅうじゅう    90
+
+Combining tens and singles
+To make a number like 31, just string the numbers 30 and 1 together.
+
+Examples
+31 is san juu (three tens)    +    ichi (one)    =    san juu ichi
+52 is go juu (five tens)    +    ni (two)    =    go juu ni
+87 is hachi juu (eight tens)    +    nana (seven)    =    hachi juu nana

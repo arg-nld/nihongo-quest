@@ -1,0 +1,242 @@
+# Reference Library — browsable material from Japanese From Zero! 1 back matter.
+# Sources: vlm_ocr/chapters/back_matter/pages/270-281 and 299-333.
+# This section is deliberately browse-only: no exercises, quizzes, unlocks, or SRS.
+
+def _vocab(item_id, japanese, romaji, english, page, kanji=None):
+    item = {
+        "id": f"reference_v_{item_id}",
+        "japanese": japanese,
+        "romaji": romaji,
+        "english": english,
+        "source": f"reference p.{page}",
+        "verified": True,
+    }
+    if kanji:
+        item["kanji"] = kanji
+    return item
+
+
+def _note(item_id, title, pattern, explanation, examples, page, mistakes=None):
+    note = {
+        "id": f"reference_g_{item_id}",
+        "title": title,
+        "pattern": pattern,
+        "explanation": explanation,
+        "examples": [
+            {"japanese": ja, "romaji": romaji, "english": en}
+            for ja, romaji, en in examples
+        ],
+        "source": f"reference p.{page}",
+    }
+    if mistakes:
+        note["mistakes"] = mistakes
+    return note
+
+
+# The back-matter phrase lists are printed mainly in romaji. Kana here is a
+# normalized reading for browsing; English meanings and phrase categories are
+# taken from the cited source pages.
+PHRASES = [
+    ("ohayou_gozaimasu", "おはようございます", "ohayou gozaimasu", "Good morning (polite)", 270),
+    ("ohayou", "おはよう", "ohayou", "Good morning (casual)", 270),
+    ("konnichiwa", "こんにちは", "konnichiwa", "Good afternoon; hello", 270),
+    ("konbanwa", "こんばんは", "konbanwa", "Good evening", 270),
+    ("oyasuminasai", "おやすみなさい", "oyasuminasai", "Good night (polite)", 270),
+    ("sayounara", "さようなら", "sayounara", "Goodbye; farewell", 270),
+    ("arigatou", "ありがとう", "arigatou", "Thank you", 270),
+    ("doumo_arigatou", "どうもありがとう", "doumo arigatou", "Thank you very much", 270),
+    ("doumo_arigatou_gozaimasu", "どうもありがとうございます", "doumo arigatou gozaimasu", "Thank you very much (polite)", 270),
+    ("dou_itashimashite", "どういたしまして", "dou itashimashite", "You are welcome", 270),
+    ("ohisashiburi", "おひさしぶりです", "ohisashiburi desu", "Long time no see (standard)", 270),
+    ("shibaraku_deshita", "しばらくでした", "shibaraku deshita", "It has been a while", 270),
+    ("tanjoubi_omedetou", "たんじょうびおめでとう", "tanjoubi omedetou", "Happy birthday", 270),
+    ("akemashite_omedetou", "あけましておめでとう", "akemashite omedetou", "Happy New Year", 270),
+    ("jaa_ne", "じゃあね", "jaa ne", "See you; bye", 270),
+    ("jaa_mata", "じゃあまた", "jaa mata", "See you again", 270),
+    ("hajimemashite", "はじめまして", "hajimemashite", "Nice to meet you", 270),
+    ("onamae_wa_nan_desu_ka", "おなまえはなんですか", "onamae wa nan desu ka", "What is your name?", 270),
+    ("tanaka_to_moushimasu", "たなかともうします", "Tanaka to moushimasu", "I am Tanaka (polite introduction example)", 270),
+    ("tanaka_desu", "たなかです", "Tanaka desu", "I am Tanaka", 270),
+    ("yoroshiku_onegaishimasu", "よろしくおねがいします", "yoroshiku onegai shimasu", "A set phrase used when meeting or making a request", 270),
+    ("doko_kara_kimashita_ka", "どこからきましたか", "doko kara kimashita ka", "Where did you come from?", 271),
+    ("doko_ni_sundeimasu_ka", "どこにすんでいますか", "doko ni sundeimasu ka", "Where do you live?", 271),
+    ("nansai_desu_ka", "なんさいですか", "nan-sai desu ka", "How old are you?", 271),
+    ("nansai_ni_miemasu_ka", "なんさいにみえますか", "nan-sai ni miemasu ka", "How old do I look?", 271),
+    ("nihongo_o_benkyou_shiteimasu", "にほんごをべんきょうしています", "nihongo o benkyou shiteimasu", "I am studying Japanese", 271),
+    ("wakarimasu_ka", "わかりますか", "wakarimasu ka", "Do you understand?", 271),
+    ("hai_wakarimasu", "はい、わかります", "hai, wakarimasu", "Yes, I understand", 271),
+    ("iie_wakarimasen", "いいえ、わかりません", "iie, wakarimasen", "No, I do not understand", 271),
+    ("nihongo_ga_hanasemasu_ka", "にほんごがはなせますか", "nihongo ga hanasemasu ka", "Can you speak Japanese?", 271),
+    ("eigo_ga_hanasemasu_ka", "えいごがはなせますか", "eigo ga hanasemasu ka", "Can you speak English?", 271),
+    ("sukoshi", "すこし", "sukoshi", "A little", 271),
+    ("zenzen", "ぜんぜん", "zenzen", "Not at all", 271),
+    ("mou_ichido_itte_kudasai", "もういちどいってください", "mou ichido itte kudasai", "Please say it once again", 271),
+    ("motto_yukkuri_itte_kudasai", "もっとゆっくりいってください", "motto yukkuri itte kudasai", "Please speak more slowly", 271),
+    ("chotto_matte_kudasai", "ちょっとまってください", "chotto matte kudasai", "Please wait a moment", 271),
+    ("douzo", "どうぞ", "douzo", "Go ahead; here you are; please", 271),
+    ("sumimasen", "すみません", "sumimasen", "Excuse me; sorry", 271),
+    ("gomen_nasai", "ごめんなさい", "gomen nasai", "I am sorry; please forgive me", 271),
+    ("nihongo_de_nan_desu_ka", "にほんごでなんですか", "nihongo de nan desu ka", "What is it in Japanese?", 271),
+    ("eigo_de_nan_desu_ka", "えいごでなんですか", "eigo de nan desu ka", "What is it in English?", 271),
+    ("ikura_desu_ka", "いくらですか", "ikura desu ka", "How much is it?", 272),
+    ("takai_desu", "たかいです", "takai desu", "It is expensive", 272),
+    ("yasui_desu", "やすいです", "yasui desu", "It is cheap", 272),
+    ("menyuu_o_kudasai", "メニューをください", "menyuu o kudasai", "A menu, please", 272),
+    ("mizu_o_kudasai", "みずをください", "mizu o kudasai", "Water, please", 272),
+    ("motto_kudasai", "もっとください", "motto kudasai", "More, please", 272),
+    ("oishii_desu", "おいしいです", "oishii desu", "It is delicious", 272),
+    ("onaka_ga_sukimashita", "おなかがすきました", "onaka ga sukimashita", "I am hungry", 272),
+    ("nodo_ga_kawakimashita", "のどがかわきました", "nodo ga kawakimashita", "I am thirsty", 272),
+    ("onaka_ga_ippai_desu", "おなかがいっぱいです", "onaka ga ippai desu", "I am full", 272),
+    ("itadakimasu", "いただきます", "itadakimasu", "Said just before eating", 272),
+    ("gochisousama_deshita", "ごちそうさまでした", "gochisou sama deshita", "Said after a meal", 272),
+    ("ittekimasu", "いってきます", "ittekimasu", "I am going and will come back", 272),
+    ("itterasshai", "いってらっしゃい", "itterasshai", "Go and be careful; said to someone leaving", 272),
+    ("tadaima", "ただいま", "tadaima", "I am home", 272),
+    ("okaerinasai", "おかえりなさい", "okaerinasai", "Welcome home", 272),
+    ("ojama_shimasu", "おじゃまします", "ojama shimasu", "Said when entering someone's home", 272),
+    ("ojama_shimashita", "おじゃましました", "ojama shimashita", "Said when leaving someone's home", 273),
+    ("moshi_moshi", "もしもし", "moshi moshi", "Hello (on the phone)", 273),
+    ("misete_kudasai", "みせてください", "misete kudasai", "Please show me", 273),
+    ("annai_shite_kudasai", "あんないしてください", "annai shite kudasai", "Please guide me", 273),
+    ("tabete_kudasai", "たべてください", "tabete kudasai", "Please eat it", 273),
+    ("yonde_kudasai", "よんでください", "yonde kudasai", "Please read it", 273),
+    ("kaite_kudasai", "かいてください", "kaite kudasai", "Please write it", 273),
+    ("mite_kudasai", "みてください", "mite kudasai", "Please look at it", 273),
+    ("kite_kudasai", "きてください", "kite kudasai", "Please come", 273),
+    ("yamete_kudasai", "やめてください", "yamete kudasai", "Please stop it", 273),
+]
+
+GLOSSARY = [
+    ("ika", "いか", "ika", "squid", 319),
+    ("iku", "いく", "iku", "to go", 319),
+    ("ikutsu", "いくつ", "ikutsu", "How many things?", 319),
+    ("isu", "いす", "isu", "chair", 319),
+    ("ichi", "いち", "ichi", "one", 319),
+    ("ichigatsu", "いちがつ", "ichigatsu", "January", 319),
+    ("ichiji", "いちじ", "ichiji", "one o'clock", 319),
+    ("itsu", "いつ", "itsu", "when?", 319),
+    ("ippun", "いっぷん", "ippun", "one minute", 319),
+    ("inu", "いぬ", "inu", "dog", 319),
+    ("ima", "いま", "ima", "now", 319),
+    ("imakara", "いまから", "ima kara", "from now; from now on", 319),
+    ("iro", "いろ", "iro", "color", 319),
+    ("iwa", "いわ", "iwa", "rock", 319),
+    ("ue", "うえ", "ue", "up; above", 320),
+    ("usagi", "うさぎ", "usagi", "rabbit", 320),
+    ("ushi", "うし", "ushi", "cow", 320),
+    ("aoi", "あおい", "aoi", "blue (adjective)", 319),
+    ("akai", "あかい", "akai", "red (adjective)", 319),
+    ("asatte", "あさって", "asatte", "day after tomorrow", 319),
+    ("ashita", "あした", "ashita", "tomorrow", 319),
+    ("asoko", "あそこ", "asoko", "over there; that place over there", 319),
+    ("atama", "あたま", "atama", "head", 319),
+    ("atarashii", "あたらしい", "atarashii", "new", 319),
+    ("atsui", "あつい", "atsui", "hot", 319),
+    ("banana", "バナナ", "banana", "banana", 300),
+    ("basu", "バス", "basu", "bus", 300),
+    ("biifu", "ビーフ", "biifu", "beef", 301),
+    ("chawan", "ちゃわん", "chawan", "bowl", 320),
+]
+
+SURNAMES = [
+    ("aoki", "あおき", "Aoki", "青木 — blue/green tree", 274, "青木"),
+    ("fujita", "ふじた", "Fujita", "藤田 — wisteria field", 274, "藤田"),
+    ("hayashi", "はやし", "Hayashi", "林 — woods", 274, "林"),
+    ("honda", "ほんだ", "Honda", "本田 — main rice paddy", 274, "本田"),
+    ("ikeda", "いけだ", "Ikeda", "池田 — pond rice paddy", 274, "池田"),
+    ("ishikawa", "いしかわ", "Ishikawa", "石川 — stone river", 274, "石川"),
+    ("kimura", "きむら", "Kimura", "木村 — tree village", 274, "木村"),
+    ("suzuki", "すずき", "Suzuki", "鈴木 — bell tree", 274, "鈴木"),
+    ("takahashi", "たかはし", "Takahashi", "高橋 — tall bridge", 274, "高橋"),
+    ("tanaka", "たなか", "Tanaka", "田中 — inner rice paddy", 275, "田中"),
+    ("watanabe", "わたなべ", "Watanabe", "渡辺 — neighborhood crossing", 275, "渡辺"),
+    ("yamada", "やまだ", "Yamada", "山田 — mountain rice paddy", 275, "山田"),
+    ("yamamoto", "やまもと", "Yamamoto", "山本 — main mountain", 275, "山本"),
+    ("yoshida", "よしだ", "Yoshida", "吉田 — good rice paddy", 275, "吉田"),
+]
+
+PREFECTURES = [
+    ("hokkaidou", "北海道", "Hokkaidou", "Hokkaido", 331),
+    ("aomori", "青森県", "Aomori ken", "Aomori Prefecture", 331),
+    ("iwate", "岩手県", "Iwate ken", "Iwate Prefecture", 331),
+    ("miyagi", "宮城県", "Miyagi ken", "Miyagi Prefecture", 331),
+    ("akita", "秋田県", "Akita ken", "Akita Prefecture", 331),
+    ("yamagata", "山形県", "Yamagata ken", "Yamagata Prefecture", 331),
+    ("fukushima", "福島県", "Fukushima ken", "Fukushima Prefecture", 331),
+    ("ibaraki", "茨城県", "Ibaraki ken", "Ibaraki Prefecture", 331),
+    ("tochigi", "栃木県", "Tochigi ken", "Tochigi Prefecture", 331),
+    ("gunma", "群馬県", "Gunma ken", "Gunma Prefecture", 331),
+    ("saitama", "埼玉県", "Saitama ken", "Saitama Prefecture", 331),
+    ("chiba", "千葉県", "Chiba ken", "Chiba Prefecture", 331),
+    ("tokyo", "東京都", "Toukyou to", "Tokyo Metropolis", 331),
+    ("kanagawa", "神奈川県", "Kanagawa ken", "Kanagawa Prefecture", 331),
+    ("yamanashi", "山梨県", "Yamanashi ken", "Yamanashi Prefecture", 331),
+    ("niigata", "新潟県", "Niigata ken", "Niigata Prefecture", 331),
+    ("nagano", "長野県", "Nagano ken", "Nagano Prefecture", 331),
+    ("shizuoka", "静岡県", "Shizuoka ken", "Shizuoka Prefecture", 331),
+    ("toyama", "富山県", "Toyama ken", "Toyama Prefecture", 331),
+    ("ishikawa", "石川県", "Ishikawa ken", "Ishikawa Prefecture", 331),
+    ("fukui", "福井県", "Fukui ken", "Fukui Prefecture", 331),
+    ("gifu", "岐阜県", "Gifu ken", "Gifu Prefecture", 331),
+    ("aichi", "愛知県", "Aichi ken", "Aichi Prefecture", 331),
+    ("mie", "三重県", "Mie ken", "Mie Prefecture", 331),
+    ("shiga", "滋賀県", "Shiga ken", "Shiga Prefecture", 331),
+    ("kyouto", "京都府", "Kyouto fu", "Kyoto Prefecture", 331),
+    ("oosaka", "大阪府", "Oosaka fu", "Osaka Prefecture", 331),
+    ("hyougo", "兵庫県", "Hyougo ken", "Hyogo Prefecture", 331),
+    ("nara", "奈良県", "Nara ken", "Nara Prefecture", 331),
+    ("wakayama", "和歌山県", "Wakayama ken", "Wakayama Prefecture", 331),
+    ("tottori", "鳥取県", "Tottori ken", "Tottori Prefecture", 331),
+    ("shimane", "島根県", "Shimane ken", "Shimane Prefecture", 331),
+    ("okayama", "岡山県", "Okayama ken", "Okayama Prefecture", 331),
+    ("hiroshima", "広島県", "Hiroshima ken", "Hiroshima Prefecture", 331),
+    ("yamaguchi", "山口県", "Yamaguchi ken", "Yamaguchi Prefecture", 331),
+    ("kagawa", "香川県", "Kagawa ken", "Kagawa Prefecture", 331),
+    ("tokushima", "徳島県", "Tokushima ken", "Tokushima Prefecture", 331),
+    ("ehime", "愛媛県", "Ehime ken", "Ehime Prefecture", 331),
+    ("kouchi", "高知県", "Kouchi ken", "Kochi Prefecture", 331),
+    ("fukuoka", "福岡県", "Fukuoka ken", "Fukuoka Prefecture", 331),
+    ("saga", "佐賀県", "Saga ken", "Saga Prefecture", 331),
+    ("nagasaki", "長崎県", "Nagasaki ken", "Nagasaki Prefecture", 331),
+    ("kumamoto", "熊本県", "Kumamoto ken", "Kumamoto Prefecture", 331),
+    ("ooita", "大分県", "Ooita ken", "Oita Prefecture", 331),
+    ("miyazaki", "宮崎県", "Miyazaki ken", "Miyazaki Prefecture", 331),
+    ("kagoshima", "鹿児島県", "Kagoshima ken", "Kagoshima Prefecture", 331),
+    ("okinawa", "沖縄県", "Okinawa ken", "Okinawa Prefecture", 331),
+]
+
+VOCAB = [_vocab(*p) for p in PHRASES]
+VOCAB += [_vocab(f"glossary_{p[0]}", p[1], p[2], p[3], p[4]) for p in GLOSSARY]
+VOCAB += [_vocab(f"surname_{p[0]}", p[1], p[2], p[3], p[4], p[5]) for p in SURNAMES]
+VOCAB += [_vocab(f"prefecture_{p[0]}", p[1], p[2], p[3], p[4]) for p in PREFECTURES]
+
+LESSON = {
+    "sectionId": "reference",
+    "title": "Reference Library",
+    "subtitle": "Everyday phrases, glossaries, names, and Japan reference",
+    "pages": "270-333",
+    "objectives": [
+        "Browse useful phrases for greetings, introductions, communication, shopping, and meals",
+        "Look up selected vocabulary by kana, romaji, and English meaning",
+        "Browse sample Japanese surnames and their possible kanji meanings",
+        "Use the prefecture list as a quick place-name reference",
+        "This library is for browsing only: nothing is scored, unlocked, or scheduled for review",
+    ],
+    "kanaFocus": [],
+    "vocab": VOCAB,
+    "grammar": [
+        _note("phrasebook_guide", "Everyday phrasebook", "greetings · introductions · communication", "The back matter organizes useful fixed expressions into categories. Phrase translations are context-dependent; learn when a phrase is used as well as its literal meaning.", [("はじめまして", "hajimemashite", "Nice to meet you."), ("よろしくおねがいします", "yoroshiku onegai shimasu", "A set phrase used when meeting or making a request.")], "270-271"),
+        _note("communication", "When you need help understanding", "[language] で なんですか", "Use the language name with で to ask how something is said. The phrase list also includes asking a speaker to repeat or slow down.", [("にほんごでなんですか", "Nihongo de nan desu ka", "What is it in Japanese?"), ("もういちどいってください", "Mou ichido itte kudasai", "Please say it once again.")], "271"),
+        _note("food", "At a restaurant", "[item] をください", "These reference phrases are practical templates for ordering food and drinks. Replace the item with the thing you want.", [("メニューをください", "Menyuu o kudasai", "A menu, please."), ("みずをください", "Mizu o kudasai", "Water, please."), ("ごちそうさまでした", "Gochisou sama deshita", "Said after a meal.")], "272"),
+        _note("home", "Entering and leaving home", "ittekimasu / tadaima", "The phrase list marks these as conventional expressions used when leaving home, responding to someone leaving, returning, and entering or leaving another person's home.", [("いってきます", "Ittekimasu", "I am going and will come back."), ("いってらっしゃい", "Itterasshai", "Go and be careful."), ("ただいま", "Tadaima", "I am home."), ("おかえりなさい", "Okaerinasai", "Welcome home.")], "272-273"),
+        _note("requests", "Requests with ください", "[verb] てください", "The command/request page groups common requests such as asking someone to show, guide, eat, read, say, write, look, come, or stop. These short templates are listed for reference, not assessment.", [("みてください", "Mite kudasai", "Please look."), ("かいてください", "Kaite kudasai", "Please write it.")], "273"),
+        _note("surnames", "Japanese surnames", "surname + possible kanji meaning", "The surname list provides example readings and possible meanings based on kanji. A surname can have multiple kanji spellings, so these meanings should be treated as the examples listed in the book, not universal definitions.", [("たなか", "Tanaka", "The book lists 田中 and the possible meaning ‘inner rice paddy’."), ("すずき", "Suzuki", "The book lists 鈴木 and the possible meaning ‘bell tree’.")], "274-275"),
+        _note("given_names", "Given names", "reading + possible kanji spellings", "The book lists common girls' and boys' given names with examples of possible kanji. A single reading may have many possible kanji spellings; the reference list is illustrative rather than exhaustive.", [("あい", "Ai", "Example given name; one listed kanji is 愛."), ("はるか", "Haruka", "A listed girls' given name.")], "276-281"),
+        _note("glossaries", "Three glossary views", "English ↔ romaji ↔ kana", "The book's reference pages include an English glossary, a romaji glossary, and a kana glossary. This in-app list is a curated starter set with page provenance, not a transcription of every glossary entry.", [("いま", "ima", "now"), ("いくつ", "ikutsu", "How many things?"), ("あさって", "asatte", "day after tomorrow")], "299-330"),
+        _note("prefectures", "Japan: regions and prefectures", "place name + regional suffix", "The map/reference section lists Japanese prefectures and their region. Prefecture suffixes are printed with the place names: 県 (ken), 都 (to), and 府 (fu). The entries below preserve the name and reading shown in the book.", [("北海道", "Hokkaidou", "Hokkaido."), ("東京都", "Toukyou to", "Tokyo Metropolis."), ("京都府", "Kyouto fu", "Kyoto Prefecture.")], "331"),
+    ],
+    "exercises": [],
+    "quiz": [],
+    "summary": "Browse the back matter without entering the lesson path. This curated Reference Library includes useful phrases from pp. 270–273, selected surnames and name notes from pp. 274–281, a starter selection from the English/romaji/kana glossaries on pp. 299–330, and all 47 prefecture names listed on p. 331. It is intentionally read-only: the Reference Library has no exercises, quiz, lesson score, unlock requirement, or spaced-repetition scheduling.",
+}

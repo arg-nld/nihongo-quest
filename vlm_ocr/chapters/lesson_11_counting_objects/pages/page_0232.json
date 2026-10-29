@@ -1,0 +1,24 @@
+{
+  "pdf_page": 232,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img1426__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0229",
+    "page_0230",
+    "page_0231",
+    "page_0232"
+  ],
+  "batch_size": 4,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 978,
+  "lines": 26,
+  "usage": {
+    "input_tokens": 4751,
+    "output_tokens": 861,
+    "total_tokens": 5612
+  },
+  "raw_batch_response": "===PAGE page_0229===\nJapanese From Zero! – Lesson 11 – Lesson Activities\n229\n\n5. How many clocks are there?\n\nGrammar drill\nHow would you ask for the following items? Write the sentences with おねがいします and\nください. Make sure you use an appropriate counter and amount in each sentence.\n\nEx.\n\nKeeki を みっつ ください。\nKeeki を みっつ おねがいします。\n\n1.\n\n2.\n\n3.\n\ncheeseburgers\n\n4.\n\n5.\n\n===PAGE page_0230===\nJapaneseFromZero.com 230\n\nShort dialogue\nJon and Masami are at a sushi bar.\n\nSushi chef:    いらっしゃい。\n\nJon:           すみません、いくらとはまちをください。\n\nSushi chef:    はい！そちらのおきゃくさんは？\n\nまさみ:        わたしはおみおしるをひとつとおちゃを\nおねがいします。きょうのおすすめはなんですか。\n\nSushi chef:    そうですね。きょうはあまえびがおいしいです。\n\nまさみ:        じゃあ、それをひとつ、ください。\n\nJon:           あと、えだまめもください。\n\nまさみ:        わたしもえだまめがほしいです。\nおさらをにまい、おねがいします。\n\nSushi chef:    はい、わかりました！\n\nNew words and expressions in the dialogue\nProgressive        Kanji              English\nいらっしゃい       いらっしゃい       welcome (form of いらっしゃいませ)\nいくら             いくら             salmon eggs\nはまち             ハマチ             yellow tail fish\nおきゃくさん       お客さん           customer\nおすすめ           お薦め             recommendation\nあまえび           あまえび           sweet shrimp\nえだまめ           枝豆               green soybeans\nそちら             そちら             polite version of そっち (there)\n\nShort dialogue activities\n1. Practice reading the dialogue in pairs.\n2. Practice ordering things at a sushi bar.\n\n===PAGE page_0231===\nJapanese From Zero! – Lesson 11 – Lesson Activities\n231\n\n11 Drill ドリル\n\nTranslate the following sentences. If you're not sure what they mean, we recommended that\nyou review the lesson up to this point before continuing.\n\n1. Ko-ra を さんぼん ください。\n2. りんごを じゅっこ おねがいします。\n3. かみを ごまい ください。\n4. いくつ ほしいですか。\n5. あと ここつの ください。\n\n11 Sentence Building ぶんのつくり\n\nIn each lesson we will build on a previous sentence. Watch it grow and transform each time\nnew concepts are introduced.\n\nSando を よっつ ください。\nFour sandwiches, please.\n\nCompare how the sentence has changed from the prior lesson:\n\nLesson 10: Sando を ください。\nA sandwich, please.\n\n===PAGE page_0232===\nJapaneseFromZero.com 232\n\nVocabulary Groups\n\nO at school\n\nProgressive        Kanji              English\nせんせい           先生               teacher\nほん               本                 book\nじしょ             辞書               dictionary\nおてあらい         お手洗い           restroom\nえんぴつ           鉛筆               pencil\nおんがく           音楽               music\n\nP at the office, etc.\n\nProgressive        Kanji              English\nけいたいでんわ     携帯電話           cellular phone\nおかね             お金               money\nko-hi-             コーヒー           coffee\nたばこ             たばこ             cigarettes\nめがね             めがね             glasses\npasokon            パソコン           PC (computer)\nno-to pasokon      ノートパソコン     laptop computer\nめいし             名刺               business card\n\nQ insects\n\nProgressive        Kanji              English\nごきぶり           ごきぶり           cockroach\nあり               蟻                 ant\nはえ               蝿                 house fly\n\nおかね             コーヒー           パソコン",
+  "extracted_text": "JapaneseFromZero.com 232\n\nVocabulary Groups\n\nO at school\n\nProgressive        Kanji              English\nせんせい           先生               teacher\nほん               本                 book\nじしょ             辞書               dictionary\nおてあらい         お手洗い           restroom\nえんぴつ           鉛筆               pencil\nおんがく           音楽               music\n\nP at the office, etc.\n\nProgressive        Kanji              English\nけいたいでんわ     携帯電話           cellular phone\nおかね             お金               money\nko-hi-             コーヒー           coffee\nたばこ             たばこ             cigarettes\nめがね             めがね             glasses\npasokon            パソコン           PC (computer)\nno-to pasokon      ノートパソコン     laptop computer\nめいし             名刺               business card\n\nQ insects\n\nProgressive        Kanji              English\nごきぶり           ごきぶり           cockroach\nあり               蟻                 ant\nはえ               蝿                 house fly\n\nおかね             コーヒー           パソコン"
+}

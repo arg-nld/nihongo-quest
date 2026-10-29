@@ -1,0 +1,22 @@
+{
+  "pdf_page": 27,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img171__x2.jpg",
+  "model": "gemini-3.8-flash",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0027",
+    "page_0028"
+  ],
+  "batch_size": 2,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 773,
+  "lines": 15,
+  "usage": {
+    "input_tokens": 2577,
+    "output_tokens": 307,
+    "total_tokens": 8056
+  },
+  "raw_batch_response": "===PAGE page_0027===\nJapanese From Zero! – Pre-Lesson C – Lesson Activities    27\n\nC  Lesson Activities\n\n❑ Japanese numbers\nTranslate the following Japanese into English.\n\n1. nana juu go sai ________________        6. juu roku sai ________________\n\n2. yon juu hassai ________________        7. go juu issai ________________\n\n3. hachi juu ni sai ________________        8. hatachi ________________\n\n4. hyaku nana sai ________________        9. happyaku sai ________________\n\n5. san juu yon sai ________________        10. issai ________________\n\n❑ Question and answer 1\nAnswer the following question in Japanese.\n\n1. Nansai desu ka.\n\n_________________________________________________________________\n\n2. (O)namae wa nan desu ka.\n\n_________________________________________________________________\n\n===PAGE page_0028===\nJapaneseFromZero.com    28\n\n❑ Question and answer 2\nFor each of the pictures below answer the question:\n\nNansai ni miemasu ka.\n\n1.\n\nAnswer: ___________________________\n___________________________________\n\n2.\n\nAnswer: ___________________________\n___________________________________\n\n3.\n\nAnswer: ___________________________\n___________________________________\n\n4.\n4.\n\nAnswer: ___________________________\n___________________________________\n\n5.\n\nAnswer: ___________________________\n___________________________________\n\n6.\n\nAnswer: ___________________________\n___________________________________",
+  "extracted_text": "Japanese From Zero! – Pre-Lesson C – Lesson Activities    27\n\nC  Lesson Activities\n\n❑ Japanese numbers\nTranslate the following Japanese into English.\n\n1. nana juu go sai ________________        6. juu roku sai ________________\n\n2. yon juu hassai ________________        7. go juu issai ________________\n\n3. hachi juu ni sai ________________        8. hatachi ________________\n\n4. hyaku nana sai ________________        9. happyaku sai ________________\n\n5. san juu yon sai ________________        10. issai ________________\n\n❑ Question and answer 1\nAnswer the following question in Japanese.\n\n1. Nansai desu ka.\n\n_________________________________________________________________\n\n2. (O)namae wa nan desu ka.\n\n_________________________________________________________________"
+}

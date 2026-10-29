@@ -1,0 +1,599 @@
+{
+ "sectionId": "pre_c",
+ "title": "Pre-Lesson C",
+ "subtitle": "Hajimemashite — First Meeting",
+ "pages": "22-28",
+ "objectives": [
+  "Introduce yourself with Hajimemashite, (name) to moushimasu, Yoroshiku onegai shimasu",
+  "Ask and answer about age: Nansai desu ka / (years) sai desu",
+  "Know the irregular age forms: issai, hassai, jussai, hatachi",
+  "Ask how old someone looks: Nansai ni miemasu ka"
+ ],
+ "kanaFocus": [],
+ "vocab": [
+  {
+   "id": "pre_c_v_hajimemashite",
+   "japanese": "はじめまして",
+   "romaji": "hajimemashite",
+   "english": "Nice to meet you / How do you do?",
+   "source": "pre_c p.23",
+   "verified": true
+  },
+  {
+   "id": "pre_c_v_moushimasu",
+   "japanese": "と申します",
+   "romaji": "(name) to moushimasu",
+   "english": "I am called (name)",
+   "source": "pre_c p.23",
+   "verified": true
+  },
+  {
+   "id": "pre_c_v_yoroshiku",
+   "japanese": "よろしくおねがいします",
+   "romaji": "yoroshiku onegai shimasu",
+   "english": "Best regards / I look forward to working with you",
+   "source": "pre_c p.23",
+   "verified": true
+  },
+  {
+   "id": "pre_c_v_nansai",
+   "japanese": "なんさいですか",
+   "romaji": "nansai desu ka",
+   "english": "How old are you?",
+   "source": "pre_c p.24",
+   "verified": true
+  },
+  {
+   "id": "pre_c_v_sai",
+   "japanese": "さい",
+   "romaji": "sai",
+   "english": "years old (comes after the number)",
+   "source": "pre_c p.24",
+   "verified": true
+  },
+  {
+   "id": "pre_c_v_miemasu",
+   "japanese": "なんさいにみえますか",
+   "romaji": "nansai ni miemasu ka",
+   "english": "How old do I look?",
+   "source": "pre_c p.25",
+   "verified": true
+  },
+  {
+   "id": "pre_c_v_onamae",
+   "japanese": "おなまえはなんですか",
+   "romaji": "(o)namae wa nan desu ka",
+   "english": "What is your name?",
+   "source": "pre_c p.26",
+   "verified": true
+  },
+  {
+   "id": "pre_c_v_watashi",
+   "japanese": "わたし",
+   "romaji": "watashi",
+   "english": "I, me",
+   "source": "pre_c p.26",
+   "verified": true
+  },
+  {
+   "id": "pre_c_v_namae",
+   "japanese": "なまえ",
+   "romaji": "namae",
+   "english": "name",
+   "source": "pre_c p.26",
+   "verified": true
+  },
+  {
+   "id": "pre_c_v_issai",
+   "japanese": "いっさい",
+   "romaji": "issai",
+   "english": "1 year old (never 'ichi sai')",
+   "source": "pre_c p.24",
+   "verified": true
+  },
+  {
+   "id": "pre_c_v_hassai",
+   "japanese": "はっさい",
+   "romaji": "hassai",
+   "english": "8 years old (never 'hachi sai')",
+   "source": "pre_c p.24",
+   "verified": true
+  },
+  {
+   "id": "pre_c_v_jussai",
+   "japanese": "じゅっさい",
+   "romaji": "jussai",
+   "english": "10 years old (never 'juu sai')",
+   "source": "pre_c p.25",
+   "verified": true
+  },
+  {
+   "id": "pre_c_v_hatachi",
+   "japanese": "はたち",
+   "romaji": "hatachi",
+   "english": "20 years old (never 'ni juu sai')",
+   "source": "pre_c p.25",
+   "verified": true
+  }
+ ],
+ "grammar": [
+  {
+   "id": "pre_c_g_intro",
+   "title": "The first-meeting script",
+   "pattern": "Hajimemashite. (name) to moushimasu. Yoroshiku onegai shimasu.",
+   "explanation": "The standard self-introduction: 'Nice to meet you. I am called (name). Best regards.' Moushimasu is humble and polite. Say hajimemashite like 'hajimemashte' - the i in mashite is nearly silent.",
+   "examples": [
+    {
+     "japanese": "はじめまして。スミスともうします。",
+     "romaji": "Hajimemashite. Sumisu to moushimasu.",
+     "english": "Nice to meet you. I am Smith."
+    }
+   ],
+   "mistakes": [
+    "Using hajimemashite with someone you already know - it is only for first meetings"
+   ],
+   "source": "pre_c p.23"
+  },
+  {
+   "id": "pre_c_g_age",
+   "title": "Asking and telling age",
+   "pattern": "Nansai desu ka / (number) sai desu",
+   "explanation": "Sai literally means 'years old' and always comes after the number. Some ages have irregular forms: issai (1), hassai (8), jussai (10, 30, 40, 50...), hatachi (20), juu issai (11), ni juu issai (21).",
+   "examples": [
+    {
+     "japanese": "にじゅうごさいです。",
+     "romaji": "Ni juu go sai desu.",
+     "english": "I am 25 years old."
+    },
+    {
+     "japanese": "はたちです。",
+     "romaji": "Hatachi desu.",
+     "english": "I am 20 years old."
+    }
+   ],
+   "mistakes": [
+    "Saying 'kusai' for 9 years old - kusai means smelly! Use kyuu sai"
+   ],
+   "source": "pre_c p.24-25"
+  },
+  {
+   "id": "pre_c_g_look",
+   "title": "How old do I look?",
+   "pattern": "Nansai ni miemasu ka / (number) sai ni miemasu",
+   "explanation": "A friendly ice-breaker: 'How old do I look?' Answer with (number) sai ni miemasu - 'You look (number) years old.'",
+   "examples": [
+    {
+     "japanese": "はたちにみえます。",
+     "romaji": "Hatachi ni miemasu.",
+     "english": "You look 20 years old."
+    }
+   ],
+   "mistakes": [],
+   "source": "pre_c p.25-26"
+  },
+  {
+   "id": "pre_c_g_name",
+   "title": "My name is... the natural way",
+   "pattern": "(O)namae wa nan desu ka → (name) to moushimasu",
+   "explanation": "Watashi no namae wa (name) desu is grammatically correct but not common between Japanese people. The natural reply to 'What is your name?' is (name) to moushimasu.",
+   "examples": [
+    {
+     "japanese": "スミスともうします。",
+     "romaji": "Sumisu to moushimasu.",
+     "english": "I am Smith."
+    }
+   ],
+   "mistakes": [
+    "Overusing 'watashi no namae wa ... desu' in natural conversation"
+   ],
+   "source": "pre_c p.26"
+  }
+ ],
+ "exercises": [
+  {
+   "id": "pre_c_e1",
+   "type": "multiple_choice",
+   "prompt": "When is hajimemashite used?",
+   "choices": [
+    "Every morning",
+    "Only when meeting someone for the first time",
+    "When saying goodbye",
+    "When thanking someone"
+   ],
+   "answerIndex": 1,
+   "explanation": "Hajimemashite is only for first meetings.",
+   "source": "pre_c p.23",
+   "verified": true,
+   "skill": "greetings",
+   "vocabId": "pre_c_v_hajimemashite"
+  },
+  {
+   "id": "pre_c_e2",
+   "type": "fill_blank",
+   "prompt": "Hajimemashite. Sumisu ___ moushimasu.",
+   "accepted": [
+    "to"
+   ],
+   "explanation": "The pattern is (name) TO moushimasu - 'I am called (name)'.",
+   "source": "pre_c p.23",
+   "verified": true,
+   "skill": "greetings"
+  },
+  {
+   "id": "pre_c_e3",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "よろしくおねがいします",
+   "choices": [
+    "Best regards / I look forward to working with you",
+    "Good night",
+    "Thank you very much",
+    "How old are you?"
+   ],
+   "answerIndex": 0,
+   "explanation": "A multi-purpose phrase with no exact English equivalent - here it means 'let's be nice to each other'.",
+   "source": "pre_c p.23",
+   "verified": true,
+   "skill": "greetings",
+   "vocabId": "pre_c_v_yoroshiku"
+  },
+  {
+   "id": "pre_c_e4",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "なんさいですか",
+   "choices": [
+    "How old are you?",
+    "What is your name?",
+    "Where are you from?",
+    "How old do I look?"
+   ],
+   "answerIndex": 0,
+   "explanation": "Nansai desu ka = How old are you?",
+   "source": "pre_c p.24",
+   "verified": true,
+   "skill": "age",
+   "vocabId": "pre_c_v_nansai"
+  },
+  {
+   "id": "pre_c_e5",
+   "type": "fill_blank",
+   "prompt": "I am 25 years old: Ni juu go ___ desu.",
+   "accepted": [
+    "sai"
+   ],
+   "explanation": "sai = years old; it always follows the number.",
+   "source": "pre_c p.24",
+   "verified": true,
+   "skill": "age",
+   "vocabId": "pre_c_v_sai"
+  },
+  {
+   "id": "pre_c_e6",
+   "type": "multiple_choice",
+   "prompt": "1 year old in Japanese is...",
+   "choices": [
+    "ichi sai",
+    "issai",
+    "hitotsu sai",
+    "i sai"
+   ],
+   "answerIndex": 1,
+   "explanation": "1 year old is irregular: issai.",
+   "source": "pre_c p.24",
+   "verified": true,
+   "skill": "age",
+   "vocabId": "pre_c_v_issai"
+  },
+  {
+   "id": "pre_c_e7",
+   "type": "multiple_choice",
+   "prompt": "8 years old in Japanese is...",
+   "choices": [
+    "hachi sai",
+    "hassai",
+    "hassen",
+    "happyaku"
+   ],
+   "answerIndex": 1,
+   "explanation": "8 years old is irregular: hassai.",
+   "source": "pre_c p.24",
+   "verified": true,
+   "skill": "age",
+   "vocabId": "pre_c_v_hassai"
+  },
+  {
+   "id": "pre_c_e8",
+   "type": "multiple_choice",
+   "prompt": "20 years old in Japanese is...",
+   "choices": [
+    "ni juu sai",
+    "hatachi",
+    "nijussai",
+    "hatachisai"
+   ],
+   "answerIndex": 1,
+   "explanation": "20 is special: hatachi.",
+   "source": "pre_c p.25",
+   "verified": true,
+   "skill": "age",
+   "vocabId": "pre_c_v_hatachi"
+  },
+  {
+   "id": "pre_c_e9",
+   "type": "multiple_choice",
+   "prompt": "Why is 'kusai' wrong for 9 years old?",
+   "choices": [
+    "It means smelly",
+    "It means dead",
+    "It is rude for numbers over 5",
+    "It is a child's word"
+   ],
+   "answerIndex": 0,
+   "explanation": "Kusai means 'smelly'! Use kyuu sai.",
+   "source": "pre_c p.25",
+   "verified": true,
+   "skill": "age"
+  },
+  {
+   "id": "pre_c_e10",
+   "type": "fill_blank",
+   "prompt": "10 years old in Japanese is ___ (roomaji).",
+   "accepted": [
+    "jussai"
+   ],
+   "explanation": "10 is irregular: jussai (never 'juu sai'). 30, 40, 50 follow: san jussai, yon jussai, go jussai.",
+   "source": "pre_c p.25",
+   "verified": true,
+   "skill": "age",
+   "vocabId": "pre_c_v_jussai"
+  },
+  {
+   "id": "pre_c_e11",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "なんさいにみえますか",
+   "choices": [
+    "How old do I look?",
+    "How old are you?",
+    "What is your age limit?",
+    "Do I look Japanese?"
+   ],
+   "answerIndex": 0,
+   "explanation": "Nansai ni miemasu ka = How old do I look?",
+   "source": "pre_c p.25",
+   "verified": true,
+   "skill": "age",
+   "vocabId": "pre_c_v_miemasu"
+  },
+  {
+   "id": "pre_c_e12",
+   "type": "multiple_choice",
+   "prompt": "Ms. Hayashi says 'Hatachi ni miemasu.' What did she ask first?",
+   "choices": [
+    "Nansai desu ka.",
+    "Onamae wa nan desu ka.",
+    "Hajimemashite.",
+    "Yoroshiku onegai shimasu."
+   ],
+   "answerIndex": 0,
+   "explanation": "From Conversation 3: she first asked 'How old do I look?' after Mr. Smith asked her age.",
+   "source": "pre_c p.26",
+   "verified": true,
+   "skill": "age"
+  },
+  {
+   "id": "pre_c_e13",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "おなまえはなんですか",
+   "choices": [
+    "What is your name?",
+    "How old are you?",
+    "Where do you live?",
+    "Nice to meet you"
+   ],
+   "answerIndex": 0,
+   "explanation": "(O)namae wa nan desu ka = What is your name?",
+   "source": "pre_c p.26",
+   "verified": true,
+   "skill": "greetings",
+   "vocabId": "pre_c_v_onamae"
+  },
+  {
+   "id": "pre_c_e14",
+   "type": "multiple_choice",
+   "prompt": "The NATURAL way to answer 'What is your name?' is...",
+   "choices": [
+    "Watashi no namae wa Sumisu desu",
+    "Sumisu to moushimasu",
+    "Namae wa Sumisu",
+    "Sumisu desu ne"
+   ],
+   "answerIndex": 1,
+   "explanation": "The book says (name) to moushimasu is the natural way; 'watashi no namae wa...' is grammatically correct but uncommon.",
+   "source": "pre_c p.26",
+   "verified": true,
+   "skill": "greetings"
+  },
+  {
+   "id": "pre_c_e15",
+   "type": "word_order",
+   "prompt": "Build the introduction 'Nice to meet you. I am Mori.':",
+   "tokens": [
+    "Hajimemashite.",
+    "Mori",
+    "to",
+    "moushimasu."
+   ],
+   "explanation": "Hajimemashite + (name) + to + moushimasu.",
+   "source": "pre_c p.23",
+   "verified": true,
+   "skill": "greetings"
+  },
+  {
+   "id": "pre_c_e16",
+   "type": "fill_blank",
+   "prompt": "15 years old: ___ (roomaji, e.g. from Pre-Lesson B + sai)",
+   "accepted": [
+    "juu go sai"
+   ],
+   "explanation": "juu go (15) + sai = juu go sai.",
+   "source": "pre_c p.24",
+   "verified": true,
+   "skill": "age"
+  },
+  {
+   "id": "pre_c_e17",
+   "type": "multiple_choice",
+   "prompt": "How deep is a standard first-meeting bow?",
+   "choices": [
+    "About 15 degrees",
+    "About 30 degrees, held about two seconds",
+    "A full 90 degrees",
+    "Bowing is never used"
+   ],
+   "answerIndex": 1,
+   "explanation": "A 30-degree bow held about two seconds is standard for first meetings; 15 degrees is the everyday bow.",
+   "source": "pre_c p.22",
+   "verified": true,
+   "skill": "culture"
+  },
+  {
+   "id": "pre_c_e18",
+   "type": "multiple_choice",
+   "prompt": "Pronunciation note: hajimemashite sounds like...",
+   "choices": [
+    "hajimemashite (all letters)",
+    "hajimemashte (silent i in mashite)",
+    "hajimemashitè",
+    "hajimemashi"
+   ],
+   "answerIndex": 1,
+   "explanation": "The i in 'mashite' is silent - say 'hajimemashte'.",
+   "source": "pre_c p.23",
+   "verified": true,
+   "skill": "greetings"
+  },
+  {
+   "id": "pre_c_e19",
+   "type": "translation",
+   "direction": "en_to_ja",
+   "prompt": "Type 'I am 20 years old' in roomaji (use the special 20-year-old word):",
+   "accepted": [
+    "hatachi desu"
+   ],
+   "explanation": "Hatachi desu - 20 uses the special word hatachi.",
+   "source": "pre_c p.25",
+   "verified": true,
+   "skill": "age"
+  },
+  {
+   "id": "pre_c_e20",
+   "type": "match",
+   "prompt": "Match the age with its reading:",
+   "pairs": [
+    {
+     "left": "1 year old",
+     "right": "issai"
+    },
+    {
+     "left": "8 years old",
+     "right": "hassai"
+    },
+    {
+     "left": "10 years old",
+     "right": "jussai"
+    },
+    {
+     "left": "20 years old",
+     "right": "hatachi"
+    }
+   ],
+   "explanation": "The four irregular ages.",
+   "source": "pre_c p.24-25",
+   "verified": true,
+   "skill": "age"
+  }
+ ],
+ "quiz": [
+  {
+   "id": "pre_c_q1",
+   "type": "multiple_choice",
+   "prompt": "Complete: 'Hajimemashite. Mori ___ moushimasu.'",
+   "choices": [
+    "wa",
+    "to",
+    "ga",
+    "no"
+   ],
+   "answerIndex": 1,
+   "explanation": "(name) TO moushimasu = I am called (name).",
+   "source": "pre_c p.23",
+   "verified": true,
+   "skill": "greetings"
+  },
+  {
+   "id": "pre_c_q2",
+   "type": "translation",
+   "direction": "ja_to_en",
+   "prompt": "じゅっさい",
+   "choices": [
+    "10 years old",
+    "100 years old",
+    "1 year old",
+    "20 years old"
+   ],
+   "answerIndex": 0,
+   "explanation": "jussai = 10 years old.",
+   "source": "pre_c p.25",
+   "verified": true,
+   "skill": "age"
+  },
+  {
+   "id": "pre_c_q3",
+   "type": "multiple_choice",
+   "prompt": "Which reply answers 'Nansai ni miemasu ka'?",
+   "choices": [
+    "Hatachi ni miemasu.",
+    "Hatachi desu.",
+    "Nansai desu ka.",
+    "Sumisu to moushimasu."
+   ],
+   "answerIndex": 0,
+   "explanation": "'(number) sai ni miemasu' answers 'How old do I look?'",
+   "source": "pre_c p.25-26",
+   "verified": true,
+   "skill": "age"
+  },
+  {
+   "id": "pre_c_q4",
+   "type": "multiple_choice",
+   "prompt": "Watashi no namae wa Sumisu desu is...",
+   "choices": [
+    "wrong",
+    "grammatically correct but uncommon",
+    "the natural way",
+    "only used by children"
+   ],
+   "answerIndex": 1,
+   "explanation": "It is correct but (name) to moushimasu is what Japanese people actually say.",
+   "source": "pre_c p.26",
+   "verified": true,
+   "skill": "greetings"
+  },
+  {
+   "id": "pre_c_q5",
+   "type": "fill_blank",
+   "prompt": "The everyday informal bow is about ___ degrees.",
+   "accepted": [
+    "15"
+   ],
+   "explanation": "15 degrees for everyday bows; 30 for first meetings.",
+   "source": "pre_c p.22",
+   "verified": true,
+   "skill": "culture"
+  }
+ ],
+ "summary": "First-meeting script: Hajimemashite (say 'hajimemashte') → (name) to moushimasu → Yoroshiku onegai shimasu. Age: Nansai desu ka → (number) sai desu, with irregulars issai, hassai, jussai, hatachi. Fun icebreaker: Nansai ni miemasu ka."
+}

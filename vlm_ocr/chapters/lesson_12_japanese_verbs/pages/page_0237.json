@@ -1,0 +1,25 @@
+{
+  "pdf_page": 237,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img1457__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0233",
+    "page_0234",
+    "page_0235",
+    "page_0236",
+    "page_0237"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 806,
+  "lines": 52,
+  "usage": {
+    "input_tokens": 1495,
+    "output_tokens": 288,
+    "total_tokens": 1783
+  },
+  "raw_batch_response": "===PAGE page_0237===\nJapanese From Zero! – Lesson 12 – Japanese Verbs 237\n\nAfter changing the dictionary form into the い form, all you need to do is add one of the following endings to complete the verb:\n\nPolite verb endings\nPresent / Future\nPositive\nPresent / Future\nNegative\nPast\nPositive\nPast\nNegative\n~ます\nwill~, do~, am going to~\n~ません\nwon’t~, don’t~\n~ました\ndid~\n~ません でした\ndidn’t~\n\nStep 2: Add a stem.\nわ か り ＋\nか え り ＋\nい き ＋\nま す\nま せ ん\nま し た\nま せ ん で し た\n\nNow let's conjugate each of the regular verbs in this lesson.\n\nわかります\nわかりません\nわかりました\nわかりませんでした\ndo understand\ndo not understand, will not understand\nunderstood, did understand\ndidn’t understand\n\nいきます\nいきません\nいきました\nいきませんでした\nwill go, do go\nwon’t go, don’t go\nwent\ndidn’t go\n\nかえります\nかえりません\nかえりました\nかえりませんでした\nwill return, do return\nwill not return, do not return\nreturned\ndidn’t return",
+  "extracted_text": "Japanese From Zero! – Lesson 12 – Japanese Verbs 237\n\nAfter changing the dictionary form into the い form, all you need to do is add one of the following endings to complete the verb:\n\nPolite verb endings\nPresent / Future\nPositive\nPresent / Future\nNegative\nPast\nPositive\nPast\nNegative\n~ます\nwill~, do~, am going to~\n~ません\nwon’t~, don’t~\n~ました\ndid~\n~ません でした\ndidn’t~\n\nStep 2: Add a stem.\nわ か り ＋\nか え り ＋\nい き ＋\nま す\nま せ ん\nま し た\nま せ ん で し た\n\nNow let's conjugate each of the regular verbs in this lesson.\n\nわかります\nわかりません\nわかりました\nわかりませんでした\ndo understand\ndo not understand, will not understand\nunderstood, did understand\ndidn’t understand\n\nいきます\nいきません\nいきました\nいきませんでした\nwill go, do go\nwon’t go, don’t go\nwent\ndidn’t go\n\nかえります\nかえりません\nかえりました\nかえりませんでした\nwill return, do return\nwill not return, do not return\nreturned\ndidn’t return"
+}

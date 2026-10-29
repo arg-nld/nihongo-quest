@@ -1,0 +1,25 @@
+{
+  "pdf_page": 235,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img1445__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0233",
+    "page_0234",
+    "page_0235",
+    "page_0236",
+    "page_0237"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 1092,
+  "lines": 122,
+  "usage": {
+    "input_tokens": 1495,
+    "output_tokens": 437,
+    "total_tokens": 1932
+  },
+  "raw_batch_response": "===PAGE page_0235===\nJapanese From Zero! – Lesson 12 – Japanese Verbs\n235\n\nDictionary Form\nEnglish Verb\nVerb Type\nいく\nto go\nregular\nくる\nto come\nirregular\nかえる\nto return, go back, go home,\ncome back, come home etc.\nregular\nわかる\nto understand, know\nregular\n\nTo conjugate the dictionary forms into other forms, the hiragana chart will be useful. This is\na shortened chart – not all the hiragana are listed.\n\nら\nra\nま\nma\nば\nba\nな\nna\nた\nta\nさ\nsa\nが\nga\nか\nka\nあ\na\nあ form\nり\nri\nみ\nmi\nび\nbi\nに\nni\nち\nchi\nし\nshi\nぎ\ngi\nき\nki\nい\ni\nい form\nる\nru\nむ\nmu\nぶ\nbu\nぬ\nnu\nつ\ntsu\nす\nsu\nぐ\ngu\nく\nku\nう\nu\nう form\nれ\nre\nめ\nme\nべ\nbe\nね\nne\nて\nte\nせ\nse\nげ\nge\nけ\nke\nえ\ne\nえ form\nろ\nro\nも\nmo\nぼ\nbo\nの\nno\nと\nto\nそ\nso\nご\ngo\nこ\nko\nお\no\nお form\n\nThe forms\n\nNotice how the rows on the chart above have been labeled あ, い, う, え, お form.\nYou may have noticed that every new verb in this lesson ends with a hiragana in the\nう form. This isn't just a coincidence – because all verbs in the Japanese language in\nthe dictionary form end with う form hiragana.\n\nFor example, the verb いく (to go) ends with く. くる (to come), わかる (to understand),\nand かえる (to return) all end in る. Both く and る are う form hiragana.",
+  "extracted_text": "Japanese From Zero! – Lesson 12 – Japanese Verbs\n235\n\nDictionary Form\nEnglish Verb\nVerb Type\nいく\nto go\nregular\nくる\nto come\nirregular\nかえる\nto return, go back, go home,\ncome back, come home etc.\nregular\nわかる\nto understand, know\nregular\n\nTo conjugate the dictionary forms into other forms, the hiragana chart will be useful. This is\na shortened chart – not all the hiragana are listed.\n\nら\nra\nま\nma\nば\nba\nな\nna\nた\nta\nさ\nsa\nが\nga\nか\nka\nあ\na\nあ form\nり\nri\nみ\nmi\nび\nbi\nに\nni\nち\nchi\nし\nshi\nぎ\ngi\nき\nki\nい\ni\nい form\nる\nru\nむ\nmu\nぶ\nbu\nぬ\nnu\nつ\ntsu\nす\nsu\nぐ\ngu\nく\nku\nう\nu\nう form\nれ\nre\nめ\nme\nべ\nbe\nね\nne\nて\nte\nせ\nse\nげ\nge\nけ\nke\nえ\ne\nえ form\nろ\nro\nも\nmo\nぼ\nbo\nの\nno\nと\nto\nそ\nso\nご\ngo\nこ\nko\nお\no\nお form\n\nThe forms\n\nNotice how the rows on the chart above have been labeled あ, い, う, え, お form.\nYou may have noticed that every new verb in this lesson ends with a hiragana in the\nう form. This isn't just a coincidence – because all verbs in the Japanese language in\nthe dictionary form end with う form hiragana.\n\nFor example, the verb いく (to go) ends with く. くる (to come), わかる (to understand),\nand かえる (to return) all end in る. Both く and る are う form hiragana."
+}

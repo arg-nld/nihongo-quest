@@ -1,0 +1,5 @@
+pdf_page,output_file,details_file,status,text_chars,lines,seconds,model,batch_size,processed_at_utc
+13,pages/page_0013.txt,pages/page_0013.json,ok,1914,31,46.42,gemini-3.8-flash,4,2026-10-21T14:37:44+00:00
+14,pages/page_0014.txt,pages/page_0014.json,ok,1394,28,46.42,gemini-3.8-flash,4,2026-10-21T14:37:44+00:00
+15,pages/page_0015.txt,pages/page_0015.json,ok,1519,31,46.42,gemini-3.8-flash,4,2026-10-21T14:37:44+00:00
+16,pages/page_0016.txt,pages/page_0016.json,ok,381,12,46.42,gemini-3.8-flash,4,2026-10-21T14:37:44+00:00

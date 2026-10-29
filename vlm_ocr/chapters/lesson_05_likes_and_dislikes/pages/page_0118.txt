@@ -1,0 +1,23 @@
+JapaneseFromZero.com 118
+
+な Hiragana Matching ひらがな マッチング
+
+Connect the dots between each hiragana and the correct ro-maji.
+
+な •
+の •
+か •
+す •
+ぬ •
+ね •
+に •
+た •
+
+• no
+• ni
+• ta
+• na
+• ka
+• nu
+• ne
+• su

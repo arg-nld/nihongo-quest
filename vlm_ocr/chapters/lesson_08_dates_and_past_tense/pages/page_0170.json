@@ -1,0 +1,25 @@
+{
+  "pdf_page": 170,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img1047__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0169",
+    "page_0170",
+    "page_0171",
+    "page_0172",
+    "page_0173"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 628,
+  "lines": 27,
+  "usage": {
+    "input_tokens": 5838,
+    "output_tokens": 1371,
+    "total_tokens": 7209
+  },
+  "raw_batch_response": "===PAGE page_0169===\nJapanese From Zero! – Lesson 8 – Dates and Past Tense 169\n\n8 Q&A しつもん と こたえ J→E\n\n1. いつですか When is it?\nあした です。 It’s tomorrow.\nKyo う です。 It’s today.\nきのう でした。 It was yesterday.\n\n2. な n にち ですか。 What day of the month is it?\nYo っ か です。 It’s the 4th.\nに ju う く にち です。 It’s the 29th.\nついたち です。 It’s the 1st.\n\n3. な n がつ ですか。 What month is it?\nしちがつ です。 It’s July.\nJu う に がつ です。 It’s December.\nし がつ です。 It’s April.\n\n4. あした は な n にち ですか。 What day of the month is tomorrow?\nあした は ju う に にち です。 Tomorrow is the 12th.\nあした は さ n-ju う にち です。 Tomorrow is the 30th.\nたぶ n、な の か です。 Maybe it is the 7th.\n\n5. た njo うび は な n がつ ですか。 What month is (your) birthday?\nく がつ です。 It’s September.\nきのう でした。 It was yesterday.\nあした です。 It’s tomorrow.\n\n6. たなかさ n の た njo うび は いつですか。 When is Tanaka's birthday?\nJu うがつ に ju う ro く にち です。 It’s October 26th.\nはちがつ ふつか です。 It’s August 2nd.\nごがつ ju う yo っ か です。 It’s May 14th.\n\n8 Q&A しつもん と こたえ E→J\n\n1. What is the month and day of Children's Day?\nこどものひ は な n がつ な n にち ですか。\n\nChildren's Day is May 5th.\nこどものひ は ごがつ いつか です。\n\n===PAGE page_0170===\nJapaneseFromData.com 170\n\n2. When is Culture Day?\nぶ n かのひ は いつですか。\n\nIt’s November 3rd.\nJu ういちがつ みっか です。\n\nI don’t know. But my birthday is September 5th.\nWa か ri ませ n。でも、wa たしの た njo うび は くがつ いつか です。\n\n3. Is your father’s birthday on May 10th?\nあなたのおとうさ n の た njo うび は ごがつ とおかですか。\n\nYes, it is.\nはい、そう です。\n\nNo, it’s not.\nいいえ、ちがい ます。\n\nNo, it is on the 11th of March.\nいいえ、さ n がつ じゅういちにち です。\n\n4. When is (your) birthday?\nた njo うび は いつですか。\n\nIt’s October 1st.\nJu うがつ ついたち です。\n\nIt’s February 7th.\nにがつ なのは か です。\n\n5. What was the date yesterday?\nきのう は な n にち でしたか。\n\nYesterday was the 14th.\nきのう は ju う yo っ か でした。\n\nI don’t know.\nWa か ri ませ n。\n\n===PAGE page_0171===\nJapanese From Zero! – Lesson 8 – Dates and Past Tense 171\n\n6. Is Golden Week in July?\nGoruden wi-ku は しちがつ ですか。\n\nNo, it’s in May.\nいいえ、ごがつ です。\n\nNo, it’s not in July.\nいいえ、しちがつ ja ない です。\n\n7. Was yesterday the 5th?\nきのう は いつか でしたか。\n\nNo it was the 9th.\nいいえ、ここのか でした。\n\n8 Reading Comprehension どっかい\n\nRead the sentences below. Use the information to answer the reading comprehension questions later in this lesson.\n\n① Wa たしの なまえ は ゆきこ です。\n② きのう は wa たしの た njo うび でした。に ju う ななさい です。\n③ Wa たしの た njo うび は kurisumasu です。\n④ ともだちの purezento は あかい はし でした。\n⑤ おとうさ n の purezento は にほ n ごの ほ n でした。\n⑥ わたし は にほ n が だいすき です。\n\n===PAGE page_0172===\nJapaneseFromZero.com 172\n\nHiragana やゆよわをん\n\nや New Hiragana あたらし い ひらがな\n\nMake sure you learn the correct stroke order.\n\nYA\nや\n\nYU\nゆ\n\nYO\nよ\n\nWA\nわ\n\nWO\nを\n\nN\nん\n\nや Various Styles スタイル\n\nLook at the various possible styles for the hiragana in this lesson. Write each symbol as neatly as you can, then compare it to the different versions below.\n\nや ゆ よ\nわ を ん\n\n===PAGE page_0173===\nJapanese From Zero! – Lesson 8 – Hiragana やゆよわをん 173\n\nや Writing Practice れ n しゅう\n\nTo practice correct stroke order, first trace the light gray characters, then write each character six times for practice.\n\nya や や\n\nyu ゆ ゆ\n\nyo よ よ\n\nwa わ わ\n\nwo を を\n\nn ん ん\n\nや Word Practice ことば の れ n しゅう\n\nFill in the appropriate hiragana in the blanks for each word.\n\n1. ____ ra う (to laugh)\n   wa\n\n2. だいこ ____ (radish)\n          n\n\n3. みず ____ のむ (to drink water)\n       wo\n\n4. ____ ru い (bad)\n   wa\n\n5. ____ たし (me, I)\n   wa\n\n6. ほ ____ ____ かう (to buy a book)\n       n    wo",
+  "extracted_text": "JapaneseFromData.com 170\n\n2. When is Culture Day?\nぶ n かのひ は いつですか。\n\nIt’s November 3rd.\nJu ういちがつ みっか です。\n\nI don’t know. But my birthday is September 5th.\nWa か ri ませ n。でも、wa たしの た njo うび は くがつ いつか です。\n\n3. Is your father’s birthday on May 10th?\nあなたのおとうさ n の た njo うび は ごがつ とおかですか。\n\nYes, it is.\nはい、そう です。\n\nNo, it’s not.\nいいえ、ちがい ます。\n\nNo, it is on the 11th of March.\nいいえ、さ n がつ じゅういちにち です。\n\n4. When is (your) birthday?\nた njo うび は いつですか。\n\nIt’s October 1st.\nJu うがつ ついたち です。\n\nIt’s February 7th.\nにがつ なのは か です。\n\n5. What was the date yesterday?\nきのう は な n にち でしたか。\n\nYesterday was the 14th.\nきのう は ju う yo っ か でした。\n\nI don’t know.\nWa か ri ませ n。"
+}

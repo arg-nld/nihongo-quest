@@ -1,0 +1,134 @@
+Japanese From Zero! 331
+
+Japan
+日本
+
+北海道地方
+Hokkaidou Region
+
+1. 北海道
+Hokkaidou
+
+近畿地方
+Kinki Region
+
+24. 三重県
+Mie ken
+25. 滋賀県
+Shiga ken
+26. 京都府
+Kyouto fu
+27. 大阪府
+Oosaka fu
+28. 兵庫県
+Hyougo ken
+29. 奈良県
+Nara ken
+30. 和歌山県
+Wakayama ken
+
+東北地方
+Touhoku Region
+
+2. 青森県
+Aomori ken
+3. 岩手県
+Iwate ken
+4. 宮城県
+Miyagi ken
+5. 秋田県
+Akita ken
+6. 山形県
+Yamagata ken
+7. 福島県
+Fukushima ken
+
+関東地方
+Kantou Region
+
+8. 茨城県
+Ibaraki ken
+9. 栃木県
+Tochigi ken
+10. 群馬県
+Gunma ken
+11. 埼玉県
+Saitama ken
+12. 千葉県
+Chiba ken
+13. 東京都
+Toukyou to
+14. 神奈川県
+Kanagawa ken
+
+中部地方
+Chuubu Region
+
+15. 山梨県
+Yamanashi ken
+16. 新潟県
+Niigata ken
+17. 長野県
+Nagano ken
+18. 静岡県
+Shizuoka ken
+19. 富山県
+Toyama ken
+20. 石川県
+Ishikawa ken
+21. 福井県
+Fukui ken
+22. 岐阜県
+Gifu ken
+23. 愛知県
+Aichi ken
+
+中国地方
+Chuugoku Region
+
+31. 鳥取県
+Tottori ken
+32. 島根県
+Shimane ken
+33. 岡山県
+Okayama ken
+34. 広島県
+Hiroshima ken
+35. 山口県
+Yamaguchi ken
+
+四国地方
+Shikoku Region
+
+36. 香川県
+Kagawa ken
+37. 徳島県
+Tokushima ken
+38. 愛媛県
+Ehime ken
+39. 高知県
+Kouchi ken
+
+九州地方
+Kyuushuu Region
+
+40. 福岡県
+Fukuoka ken
+41. 佐賀県
+Saga ken
+42. 長崎県
+Nagasaki ken
+43. 熊本県
+Kumamoto ken
+44. 大分県
+Ooita ken
+45. 宮崎県
+Miyazaki ken
+46. 鹿児島県
+Kagoshima ken
+47. 沖縄県
+Okinawa ken
+
+県 (ken) = prefecture
+都 (to) = capital / metropolis
+府 (fu) = prefecture

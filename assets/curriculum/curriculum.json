@@ -1,0 +1,20 @@
+[
+  {"id": "pre_a", "order": 1, "title": "Pre-Lesson A", "subtitle": "Pronunciation Guide & The Basics", "type": "pre_lesson", "area": "Starting Village", "pages": "13-16", "contentFile": "pre_a.json"},
+  {"id": "pre_b", "order": 2, "title": "Pre-Lesson B", "subtitle": "Basic Counting", "type": "pre_lesson", "area": "Starting Village", "pages": "17-21", "contentFile": "pre_b.json"},
+  {"id": "pre_c", "order": 3, "title": "Pre-Lesson C", "subtitle": "Hajimemashite — First Meeting", "type": "pre_lesson", "area": "Starting Village", "pages": "22-28", "contentFile": "pre_c.json"},
+  {"id": "pre_d", "order": 4, "title": "Pre-Lesson D", "subtitle": "Coming and Going", "type": "pre_lesson", "area": "Starting Village", "pages": "29-33", "contentFile": "pre_d.json"},
+  {"id": "lesson_01", "order": 5, "title": "Lesson 1", "subtitle": "Creating Simple Sentences", "type": "lesson", "area": "Hiragana Plains", "pages": "34-48", "contentFile": "lesson_01.json"},
+  {"id": "lesson_02", "order": 6, "title": "Lesson 2", "subtitle": "Working with a Topic", "type": "lesson", "area": "Hiragana Plains", "pages": "49-67", "contentFile": "lesson_02.json"},
+  {"id": "lesson_03", "order": 7, "title": "Lesson 3", "subtitle": "Possession", "type": "lesson", "area": "Hiragana Plains", "pages": "68-88", "contentFile": "lesson_03.json"},
+  {"id": "lesson_04", "order": 8, "title": "Lesson 4", "subtitle": "Colors & Adjectives", "type": "lesson", "area": "Kana Hills", "pages": "89-107", "contentFile": "lesson_04.json"},
+  {"id": "lesson_05", "order": 9, "title": "Lesson 5", "subtitle": "Likes & Dislikes", "type": "lesson", "area": "Kana Hills", "pages": "108-125", "contentFile": "lesson_05.json"},
+  {"id": "lesson_06", "order": 10, "title": "Lesson 6", "subtitle": "Wanting & Not Wanting", "type": "lesson", "area": "Kana Hills", "pages": "126-145", "contentFile": "lesson_06.json"},
+  {"id": "lesson_07", "order": 11, "title": "Lesson 7", "subtitle": "Locations", "type": "lesson", "area": "Particle Woods", "pages": "146-163", "contentFile": "lesson_07.json"},
+  {"id": "lesson_08", "order": 12, "title": "Lesson 8", "subtitle": "Dates & Past Tense", "type": "lesson", "area": "Particle Woods", "pages": "164-182", "contentFile": "lesson_08.json"},
+  {"id": "lesson_09", "order": 13, "title": "Lesson 9", "subtitle": "Days, Weeks & Years", "type": "lesson", "area": "Particle Woods", "pages": "183-197", "contentFile": "lesson_09.json"},
+  {"id": "lesson_10", "order": 14, "title": "Lesson 10", "subtitle": "Asking for Things", "type": "lesson", "area": "Verb Valley", "pages": "198-218", "contentFile": "lesson_10.json"},
+  {"id": "lesson_11", "order": 15, "title": "Lesson 11", "subtitle": "Counting Objects", "type": "lesson", "area": "Verb Valley", "pages": "219-232", "contentFile": "lesson_11.json"},
+  {"id": "lesson_12", "order": 16, "title": "Lesson 12", "subtitle": "Japanese Verbs", "type": "lesson", "area": "Verb Valley", "pages": "233-251", "contentFile": "lesson_12.json"},
+  {"id": "lesson_13", "order": 17, "title": "Lesson 13", "subtitle": "Telling Time", "type": "lesson", "area": "Time Temple", "pages": "252-269", "contentFile": "lesson_13.json"},
+  {"id": "reference", "order": 18, "title": "Reference Library", "subtitle": "Glossaries, phrases & answer-key material (book pp. 270-333)", "type": "reference", "area": "Library", "pages": "270-333", "contentFile": "reference.json"}
+]

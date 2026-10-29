@@ -1,0 +1,41 @@
+JapaneseFromZero.com 242
+
+2. Are you going?                                   い ます か。
+Yes, I am going.                                    はい、い ます。
+No, I am not going.                                 いいえ、い ませ ん。
+
+3. Where are you going?                             どこ に い ます か。
+I am going to Miyazaki City.                        みやざきし に い ます。
+I am going to a friend's house.                     ともだちのいえ に い ます。
+I am going to the Hyougo Prefecture.                ひょうごけん に い ます。
+
+4. Are you going to Tokyo?                          とうきょう に い ます か。
+Yes, I am going to Tokyo.                           はい、とうきょう に い ます。
+No, I am not going to Tokyo.                        いいえ、とうきょう に い ませ ん。
+
+5. Are you coming to the party?                     Pa-ti- に き ます か。
+Yes, I am going.                                    はい、い ます。
+No, I am not going.                                 いいえ、い ませ ん。
+
+6. Did you go to Japan?                             にほん に い まし た か。
+Yes, I went to Japan.                               はい、にほん に い まし た。
+No, I didn't go to Japan.                           いいえ、にほん に い ませ ん でし た。
+
+7. When are you coming back?                        いつ かえり ます か。
+I will return tomorrow.                             あした かえり ます。
+I will return on Sunday.                            にちようび に かえり ます。
+
+8. Will you come (over) tomorrow?                   あした、き ます か。
+Yes, I will go.                                     はい、い ます。
+No, I won't go.                                     いいえ、い ませ ん。
+No, I will go the day after tomorrow.               いいえ、あさって い ます。
+
+9. When did you return to Canada?                   いつ kanada に かえり まし た か。
+I didn't return.                                    かえり ませ ん でし た。
+I came back on Wednesday.                           すいようび に かえり まし た。
+
+10. What nationality are you?                       なに じん です か。
+I am Mexican.                                       Mekishiko じん です。
+I am Korean.                                        かんこくじん です。
+I am Chinese.                                       ちゅうごくじん です。
+I am American.                                      Amerika じん です。

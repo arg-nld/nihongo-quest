@@ -1,0 +1,25 @@
+{
+  "pdf_page": 78,
+  "source_image": "D:\\Andrei Personal Files\\Projects\\nhquest v1\\img_vlm_cache\\img483__x2.jpg",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_version": "v1-mixed-kana-strict",
+  "batch_labels": [
+    "page_0078",
+    "page_0079",
+    "page_0080",
+    "page_0081",
+    "page_0082"
+  ],
+  "batch_size": 5,
+  "temperature": 0.0,
+  "status": "ok",
+  "text_chars": 854,
+  "lines": 26,
+  "usage": {
+    "input_tokens": 5838,
+    "output_tokens": 780,
+    "total_tokens": 6618
+  },
+  "raw_batch_response": "===PAGE page_0078===\nJapaneseFromZero.com 78\n\nさ Writing Points かくポイント\n\nThe different versions of さ (sa) and そ (so)\nYou may have noticed in the Various Styles section of this lesson that there are two\nversions of sa and so. You can write whichever version you choose, so long as it is legible.\n\nDifferent versions of さ (sa)\nThis version has three strokes\nand is very common when\nwriting. Most Japanese people\nuse this version when writing.\nThis version has combined the\nsecond and third strokes into\none stroke. It is very common in\nprinted text.\n\nDifferent versions of そ (so)\nThis version has two strokes\nand is common when writing.\nMany Japanese people write\nusing this version.\nThis version similar to version\nabove except that the first and\nsecond stroke are touching.\nThis version has only one stroke\nand is very common in printed\ntext. It is also acceptable for\nwriting.\n\n===PAGE page_0079===\nJapanese From Zero! - Lesson 3 - Hiragana さしすせそ 79\n\nさ Writing Practice れんしゅう\n\nTo practice correct stroke order, first trace the light gray characters, then write each character\nsix times for practice.\n\nsa\nshi\nsu\nse\nso\n\nza\nji\nzu\nze\nzo\n\n===PAGE page_0080===\nJapaneseFromZero.com 80\n\nさ Word Practice ことばの れんしゅう\n\nFill in the appropriate hiragana in the blanks for each word.\n\n1. mura___き (purple)\nsa\n\n2. ______ (to point)\nsa su\n\n3. ___ro (white)\nshi\n\n4. ___tsugyoう (graduation)\nso\n\n5. ______ (寿司)\nsu shi\n\n6. ___かn (time)\nji\n\n7. ___ru (monkey)\nsa\n\n8. お___い___n (grandfather)\nji sa\n\n9. あ___ (sweat)\nse\n\n10. あn___n (safety)\nze\n\n11. ___う (elephant)\nzo\n\n12. げn___い (currently, at present)\nza\n\nさ Words You Can Write かける ことば\n\nWrite the following words using the hiragana that you have just learned. This is a great way to\nincrease your Japanese vocabulary.\n\nしか\n(deer)\n\nすし\n(sushi)\n\nすずしい\n(cool)\n\n===PAGE page_0081===\nJapanese From Zero! - Lesson 3 - Hiragana さしすせそ 81\n\nおそい\n(slow/late)\n\nあし\n(legs/feet)\n\nいす\n(chair)\n\nすき\n(like)\n\nすうじ\n(number)\n\nすいか\n(watermelon)\n\nせかい\n(world)\n\nかず\n(numbers)\n\nうし\n(cow)\n\nさ Everyday Hiragana Words にちじょうの ことば\n\nずbon\npants\n\nしnbun\nnewspaper\n\ntsuくえ\ndesk\n\n===PAGE page_0082===\nJapaneseFromZero.com 82\n\nさ muい\ncold\n\nwaくせい\nplanet\n\nすし\nsushi\n\nさ Hiragana Matching ひらがな マッチング\n\nConnect the dots between each hiragana and the correct ro-maji.\n\nす •\nし •\nえ •\nこ •\nざ •\nあ •\nく •\nい •\n\n• za\n• su\n• ku\n• shi\n• i\n• e\n• ko\n• a",
+  "extracted_text": "JapaneseFromZero.com 78\n\nさ Writing Points かくポイント\n\nThe different versions of さ (sa) and そ (so)\nYou may have noticed in the Various Styles section of this lesson that there are two\nversions of sa and so. You can write whichever version you choose, so long as it is legible.\n\nDifferent versions of さ (sa)\nThis version has three strokes\nand is very common when\nwriting. Most Japanese people\nuse this version when writing.\nThis version has combined the\nsecond and third strokes into\none stroke. It is very common in\nprinted text.\n\nDifferent versions of そ (so)\nThis version has two strokes\nand is common when writing.\nMany Japanese people write\nusing this version.\nThis version similar to version\nabove except that the first and\nsecond stroke are touching.\nThis version has only one stroke\nand is very common in printed\ntext. It is also acceptable for\nwriting."
+}
